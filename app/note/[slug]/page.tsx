@@ -122,7 +122,7 @@ export default function NotePage({ params }: { params: { slug: string } }) {
             <MDXRemote
               source={note.content}
               components={mdxComponents}
-              options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }}
+              options={{ mdxOptions: { remarkPlugins: [remarkGfm as any] } }}
             />
           </div>
 
