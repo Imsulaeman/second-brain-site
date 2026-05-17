@@ -74,7 +74,7 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
                   transition={{ duration: 0.14 }}
                   className="absolute left-0 top-full z-50 mt-1.5 min-w-[180px] max-w-[260px] rounded-lg border border-palace-border bg-palace-surface shadow-[0_8px_32px_rgba(4,8,20,0.5)]"
                 >
-                  <div className="max-h-[320px] overflow-y-auto p-1.5 [scrollbar-width:thin] [scrollbar-color:theme(colors.palace-border)_transparent]">
+                  <div className="max-h-[320px] overflow-y-auto p-1.5 [scrollbar-width:thin] [scrollbar-color:#2a3550_transparent]">
                     <button
                       type="button"
                       onClick={() => { setTag('all'); setOpen(false) }}
