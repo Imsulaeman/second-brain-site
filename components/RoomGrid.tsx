@@ -1,21 +1,34 @@
 'use client'
 
 import Link from 'next/link'
-import { motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import type { Note } from '@/lib/notes'
 import { roomByPlural } from '@/lib/rooms'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 export default function RoomGrid({ notes, type }: { notes: Note[]; type: string }) {
   const room = roomByPlural(type)
   const [tag, setTag] = useState('all')
+  const [open, setOpen] = useState(false)
+  const dropdownRef = useRef<HTMLDivElement>(null)
 
   const tags = useMemo(() => {
     return Array.from(new Set(notes.flatMap((note) => note.tags))).sort((a, b) => a.localeCompare(b))
   }, [notes])
 
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
+        setOpen(false)
+      }
+    }
+    if (open) document.addEventListener('mousedown', handleClickOutside)
+    return () => document.removeEventListener('mousedown', handleClickOutside)
+  }, [open])
+
   const filtered = tag === 'all' ? notes : notes.filter((note) => note.tags.includes(tag))
   const gridClass = filtered.length < 6 ? 'lg:grid-cols-2' : 'lg:grid-cols-3'
+  const label = tag === 'all' ? `All (${notes.length})` : tag
 
   if (!room) return null
 
@@ -35,28 +48,69 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
       </section>
 
       <section className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap gap-2">
-          <button
-            type="button"
-            onClick={() => setTag('all')}
-            className={`btn-press rounded-md border px-3 py-1.5 text-xs transition-colors duration-200 ${
-              tag === 'all' ? 'border-palace-gold text-palace-gold' : 'border-palace-border text-palace-muted hover:text-palace-text'
-            }`}
-          >
-            All ({notes.length})
-          </button>
-          {tags.map((item) => (
+        <div className="flex items-center gap-3">
+          <div ref={dropdownRef} className="relative">
             <button
               type="button"
-              key={item}
-              onClick={() => setTag(item)}
-              className={`btn-press rounded-md border px-3 py-1.5 text-xs transition-colors duration-200 ${
-                tag === item ? 'border-palace-gold text-palace-gold' : 'border-palace-border text-palace-muted hover:text-palace-text'
-              }`}
+              onClick={() => setOpen((v) => !v)}
+              className="btn-press flex items-center gap-2 rounded-md border border-palace-border bg-palace-surface/60 px-3 py-1.5 text-xs text-palace-text transition-colors duration-200 hover:border-palace-gold/60"
             >
-              {item}
+              <span className="font-mono uppercase tracking-[0.14em] text-palace-muted">Filter</span>
+              <span className={tag !== 'all' ? 'text-palace-gold' : 'text-palace-text'}>{label}</span>
+              <svg
+                className={`h-3 w-3 text-palace-muted transition-transform duration-200 ${open ? 'rotate-180' : ''}`}
+                viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5"
+              >
+                <path d="M2 4l4 4 4-4" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </button>
-          ))}
+
+            <AnimatePresence>
+              {open && (
+                <motion.div
+                  initial={{ opacity: 0, y: -4 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -4 }}
+                  transition={{ duration: 0.14 }}
+                  className="absolute left-0 top-full z-50 mt-1.5 min-w-[180px] max-w-[260px] rounded-lg border border-palace-border bg-palace-surface shadow-[0_8px_32px_rgba(4,8,20,0.5)]"
+                >
+                  <div className="max-h-[320px] overflow-y-auto p-1.5 [scrollbar-width:thin] [scrollbar-color:theme(colors.palace-border)_transparent]">
+                    <button
+                      type="button"
+                      onClick={() => { setTag('all'); setOpen(false) }}
+                      className={`w-full rounded px-3 py-2 text-left text-xs transition-colors duration-150 ${
+                        tag === 'all' ? 'bg-palace-gold/10 text-palace-gold' : 'text-palace-muted hover:bg-palace-border/30 hover:text-palace-text'
+                      }`}
+                    >
+                      All <span className="ml-1 text-palace-muted/60">{notes.length}</span>
+                    </button>
+                    {tags.map((item) => (
+                      <button
+                        type="button"
+                        key={item}
+                        onClick={() => { setTag(item); setOpen(false) }}
+                        className={`w-full rounded px-3 py-2 text-left text-xs transition-colors duration-150 ${
+                          tag === item ? 'bg-palace-gold/10 text-palace-gold' : 'text-palace-muted hover:bg-palace-border/30 hover:text-palace-text'
+                        }`}
+                      >
+                        {item}
+                      </button>
+                    ))}
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {tag !== 'all' && (
+            <button
+              type="button"
+              onClick={() => setTag('all')}
+              className="text-xs text-palace-muted transition-colors hover:text-palace-text"
+            >
+              Clear
+            </button>
+          )}
         </div>
 
         <motion.div

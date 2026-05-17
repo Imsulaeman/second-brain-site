@@ -76,7 +76,7 @@ export default function Home() {
               >
                 <div className={`absolute inset-0 ${room.fallbackClass}`} />
                 <div className="absolute inset-0 bg-cover bg-center opacity-45 transition-opacity duration-300 group-hover:opacity-60" style={{ backgroundImage: `url(${room.image})` }} />
-                <div className="absolute inset-0 bg-palace-bg/64" />
+                <div className="absolute inset-0 bg-palace-bg/72" />
                 <div className="relative z-10 flex h-full flex-col">
                   <div className="flex items-center justify-between">
                     <Icon size={28} weight="light" className={room.colorClass} />
@@ -86,8 +86,8 @@ export default function Home() {
                   </div>
                   <div className="mt-auto">
                     <h3 className="font-display text-4xl text-palace-text">{room.title}</h3>
-                    <p className="mt-3 max-w-xl text-sm leading-6 text-palace-muted">{room.description}</p>
-                    <div className="mt-5 font-mono text-xs text-palace-muted">{count} {room.plural}</div>
+                    <p className="mt-3 max-w-xl text-sm leading-6 text-palace-text/60">{room.description}</p>
+                    <div className="mt-5 font-mono text-xs text-palace-text/45">{count} {room.plural}</div>
                   </div>
                 </div>
               </Link>
