@@ -3,8 +3,8 @@ title: "Deliberate Practice"
 type: concept
 tags: [learning, skill-development, training, expertise]
 created: 2026-05-02
-updated: 2026-05-03
-sources: 2
+updated: 2026-05-19
+sources: 4
 ---
 
 # Deliberate Practice
@@ -41,3 +41,5 @@ In schooling, students are grouped by age and paced to the group median. In tale
 
 - [[sources/advice-on-upskilling]] — Ch 4 (The Grind), Ch 9 (Learning), Ch 10 (Expertise); extensively throughout
 - [[sources/a-mind-for-numbers]] — Ch 7 (Chunking vs Choking): Oakley distinguishes deliberate practice from overlearning, emphasizing focus on the hardest material rather than comfortable repetition
+- [[sources/atomic-habits]] — Clear's [[concepts/goldilocks-rule|Goldilocks Rule]] (~4% beyond current ability) is the motivational framing of the same "just beyond" criterion. His formula: **Habits + Deliberate Practice = Mastery** — habits automate the basics and free [[concepts/working-memory-vs-long-term-memory|working memory]], then deliberate practice pushes the frontier. Without reflection and review, habits stagnate into complacency.
+- [[sources/poor-charlies-almanack]] — Munger frames continuous learning as a moral duty and notes Buffett spends half his waking hours reading. His [[concepts/mental-models-latticework]] requires practicing all useful skills continuously, not just domain-specific ones. His Use-It-or-Lose-It tendency (#19) warns that all skills atrophy with disuse — the antidote is the "aircraft simulator" equivalent: routine practice of rarely-used skills.

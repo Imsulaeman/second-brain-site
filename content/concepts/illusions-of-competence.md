@@ -3,8 +3,8 @@ title: "Illusions of Competence"
 type: concept
 tags: [learning, cognitive-science, study-techniques, metacognition]
 created: 2026-05-03
-updated: 2026-05-03
-sources: 2
+updated: 2026-05-19
+sources: 3
 ---
 
 # Illusions of Competence
@@ -45,7 +45,12 @@ Students who fall prey to illusions of competence:
 
 The fix is cheap and simple: **close the book, try to recall, check yourself.** But it feels harder and less pleasant than rereading — which is exactly why most students avoid it.
 
+## Munger's Expert-Level Version: Chauffeur Knowledge
+
+[[entities/charles-munger|Munger]] extends illusions of competence beyond students to experts and professionals with his [[concepts/planck-vs-chauffeur-knowledge]] distinction. Chauffeur knowledge — the ability to prattle convincingly without real understanding — is the expert-level illusion of competence. Munger says this describes "practically every politician." His [[concepts/psychology-of-human-misjudgment|25 tendencies]] identify the psychological mechanisms: Excessive Self-Regard (Tendency #12) overvalues your own conclusions, and Overoptimism (Tendency #13) makes you believe you know more than you do. The antidote is the same at every level: test yourself honestly ([[concepts/iron-prescription]]).
+
 ## Sources
 
 - [[sources/a-mind-for-numbers]] — Ch 4 (central concept), Ch 7, Ch 16
 - [[sources/advice-on-upskilling]] — Ch 9 ("Following Along" Versus Learning, "One of the WORST Mistakes You Can Make While Studying")
+- [[sources/poor-charlies-almanack]] — Planck vs Chauffeur Knowledge; Excessive Self-Regard and Overoptimism tendencies.

@@ -3,8 +3,8 @@ title: "Permissionless Leverage"
 type: concept
 tags: [leverage, internet, code, media, ai, wealth, naval-ravikant]
 created: 2026-05-11
-updated: 2026-05-11
-sources: 1
+updated: 2026-05-19
+sources: 2
 ---
 
 # Permissionless Leverage
@@ -37,6 +37,11 @@ This connects to [[concepts/agentic-coding-workflows]]: AI coding agents can ext
 
 Leverage magnifies judgment. If judgment is poor, leverage scales mistakes. This is why Naval pairs leverage with [[concepts/specific-knowledge]] and accountability rather than treating scale as automatically good.
 
+## Habits as the Compounding Engine
+
+Leverage only compounds if you show up consistently. [[sources/atomic-habits|Atomic Habits]] makes the connection explicit: habits are the 1%-per-day compounding mechanism that turns leverage into results. Without automated daily systems, leverage sits unused. The [[concepts/plateau-of-latent-potential|Plateau of Latent Potential]] explains why most people abandon their leverage projects before compounding kicks in.
+
 ## Sources
 
 - [[sources/the-almanack-of-naval-ravikant]]
+- [[sources/atomic-habits]]

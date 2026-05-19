@@ -3,8 +3,8 @@ title: "Second-Order Thinking"
 type: concept
 tags: [mental-models, thinking, decision-making, consequences, systems]
 created: 2026-05-05
-updated: 2026-05-10
-sources: 3
+updated: 2026-05-19
+sources: 4
 ---
 
 # Second-Order Thinking
@@ -47,8 +47,19 @@ In investing, this means a good company can be a bad investment if the price alr
 - [[concepts/deliberate-practice]] - Hard practice has first-order discomfort and second-order growth.
 - [[concepts/active-management-as-error-detection]] - Active investing requires identifying where the market's first-order view is wrong.
 
+## Munger's Extended Treatment
+
+[[entities/charles-munger|Munger]] gives second-order thinking its most extensive treatment in his academic economics critique (Talk 9 in [[sources/poor-charlies-almanack]]). His examples:
+
+- **Medicare cost projections** — experts extrapolated past costs without considering how new incentives would change behavior. Actual costs exceeded forecasts by over 1000%.
+- **Textile looms** — factory owners invested in efficiency-boosting looms for 20 years, never getting ahead, because the savings passed to buyers (second-order effect of competition).
+- **Free trade with China** — Ricardo's first-order benefit (both sides gain) masks the second-order consequence: the backward nation absorbs technology and eventually becomes the stronger power.
+
+Munger's point: ignoring second-order effects is not just a thinking error — it's the most common source of catastrophic system design failures.
+
 ## Sources
 
 - [[sources/the-most-important-thing-illuminated]] - Chapter 1, "Second-Level Thinking."
 - [[sources/the-complete-collection-howard-marks]] - Repeated application across Oaktree memos.
 - [[sources/second-order-thinking]] - Farnam Street mental model explainer.
+- [[sources/poor-charlies-almanack]] - Talk 9 (Academic Economics), defect #7: "Too Little Attention to Second- and Higher-Order Effects."

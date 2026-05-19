@@ -3,8 +3,8 @@ title: "Specific Knowledge"
 type: concept
 tags: [career, leverage, skill, authenticity, naval-ravikant]
 created: 2026-05-11
-updated: 2026-05-11
-sources: 1
+updated: 2026-05-19
+sources: 3
 ---
 
 # Specific Knowledge
@@ -48,6 +48,18 @@ This connects to [[concepts/ikigai]], but it is more economically precise. Ikiga
 
 [[sources/advice-on-upskilling]] emphasizes high-volume deliberate work. Naval adds a selection rule: do not grind indefinitely in a field where you have no natural pull. High effort compounds best when aimed at a domain where curiosity, aptitude, and market demand overlap.
 
+## Connection To Identity
+
+[[concepts/identity-based-habits|Identity-based habits]] (from [[sources/atomic-habits|Atomic Habits]]) operationalize specific knowledge. Naval says "be yourself" because no one can compete with you at being you. Clear says "every action is a vote for identity." Together: discover what feels like play (specific knowledge), then build [[concepts/habit-stacking|habit systems]] that compound daily votes for that identity. The person who naturally loves the domain and has automated the basics will outcompete someone forcing discipline in a mismatched field.
+
+## Munger's Version: The Latticework as Specific Knowledge
+
+[[entities/charles-munger|Munger]] doesn't use the term "specific knowledge," but his [[concepts/mental-models-latticework]] is a concrete example. His unique combination of law, psychology, economics, and investing creates a cross-domain pattern-recognition ability that is extremely hard to replicate. His [[concepts/planck-vs-chauffeur-knowledge|Planck vs Chauffeur]] distinction maps directly: Planck knowledge is specific knowledge that has been earned through real engagement; chauffeur knowledge is the trainable surface that Naval says society will replace you for.
+
+Munger also adds that trustworthiness — a [[concepts/seamless-web-of-trust|seamless web of deserved trust]] — is itself a form of specific knowledge. It compounds over a lifetime and cannot be faked or trained into someone quickly.
+
 ## Sources
 
 - [[sources/the-almanack-of-naval-ravikant]]
+- [[sources/atomic-habits]]
+- [[sources/poor-charlies-almanack]]

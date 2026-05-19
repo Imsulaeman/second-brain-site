@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 4
+updated: 2026-05-19
+sources: 6
 ---
 
 # Trading Edge
@@ -84,9 +84,26 @@ The practical stack:
 
 ---
 
+## Munger's Pari-Mutuel Framing
+
+[[entities/charles-munger|Munger]] compares the stock market to a pari-mutuel betting system: odds (prices) adjust to reflect what the crowd knows, so obviously good companies are usually obviously expensive. Edge requires thinking differently from the crowd — and when you find it, betting big ([[concepts/sit-on-your-ass-investing]]). Most of the time, the correct action is *inaction*. Munger's [[concepts/psychology-of-human-misjudgment|25 psychological tendencies]] identify the behavioral errors that create the mispricings edge-seekers exploit: Social Proof, Deprival-Superreaction, Overoptimism, Envy/Jealousy, and [[concepts/lollapalooza-effect|lollapalooza]] combinations.
+
+## Taleb's Randomness Filter
+
+[[entities/nassim-nicholas-taleb|Taleb]] adds a stricter test from [[sources/fooled-by-randomness]]: edge must be distinguished from lucky survival. A trader may show excellent returns because they were implicitly selling rare-event insurance, were selected from a large group of failed peers, or happened to live through a favorable [[concepts/alternative-histories|alternative history]].
+
+Before calling something edge, inspect:
+
+- [[concepts/survivorship-bias]] - Who tried the same thing and disappeared?
+- [[concepts/skewness-and-asymmetry]] - Are frequent small wins hiding one large loss?
+- [[concepts/probability-blindness]] - Am I overreading a vivid streak?
+- [[concepts/problem-of-induction]] - Is the evidence only "it has worked so far"?
+
 ## Sources
 
+- [[sources/fooled-by-randomness]]
 - [[sources/how-to-find-trading-edge]]
 - [[sources/life-lessons-from-trading]]
 - [[sources/the-most-important-thing-illuminated]]
 - [[synthesis/beginner-trader-investor-learning-path]]
+- [[sources/poor-charlies-almanack]]

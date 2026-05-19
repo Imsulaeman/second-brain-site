@@ -3,8 +3,8 @@ title: "Ergodicity"
 type: concept
 tags: [math, risk, trading, expected-value, compounding, survival]
 created: 2026-05-05
-updated: 2026-05-05
-sources: 1
+updated: 2026-05-19
+sources: 2
 ---
 
 # Ergodicity
@@ -59,7 +59,14 @@ SBF (FTX) held linear preferences. Su Zhu / 3AC held exponential preferences. Bo
 
 - [[concepts/deliberate-practice|Deliberate Practice]] is ergodicity-aware: consistent, calibrated effort produces far better long-run outcomes than high-variance swings
 - [[concepts/prereq-mastery|Prerequisite Mastery]] applies the same logic: skipping steps is a high-variance bet that often leads to total failure
+- [[concepts/alternative-histories]] makes the path-dependence explicit: the realized path is only one possible draw
+- [[concepts/skewness-and-asymmetry]] explains why average outcomes can hide ruinous individual paths
+
+## Taleb Connection
+
+[[sources/fooled-by-randomness]] is not an ergodicity textbook, but it gives the trader's lived version of the same problem. A strategy can look successful across a short observed path while carrying hidden exposure to a rare event that would erase the player. The lesson is the same as the Jackpot Paradox: do not optimize for the attractive average if the individual path cannot survive variance.
 
 ## Sources
 
+- [[sources/fooled-by-randomness]] - Alternative histories, hidden tail risk, and survival under randomness.
 - [[sources/the-jackpot-age]] — detailed quantitative exposition, cultural analysis

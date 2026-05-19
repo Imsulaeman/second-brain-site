@@ -3,8 +3,8 @@ title: "Epistemic Humility"
 type: concept
 tags: [uncertainty, forecasting, decision-making, expertise]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 1
+updated: 2026-05-19
+sources: 3
 ---
 
 # Epistemic Humility
@@ -37,6 +37,16 @@ Good judgment requires asking:
 - [[concepts/second-order-thinking]] - Requires seeing what the consensus assumes and where confidence may be misplaced.
 - [[concepts/illusions-of-competence]] - Overconfidence often disguises shallow understanding.
 
+## Munger's Iron Prescription
+
+[[entities/charles-munger|Munger]] operationalizes epistemic humility through his [[concepts/iron-prescription]]: "I'm not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition." He also distinguishes [[concepts/planck-vs-chauffeur-knowledge|Planck knowledge from chauffeur knowledge]] — real calibration requires knowing which type you have in each domain. His [[concepts/circle-of-competence]] concept is epistemic humility applied to investing: know the boundary of what you understand, and don't act outside it.
+
+## Taleb's Randomness Discipline
+
+[[entities/nassim-nicholas-taleb|Taleb]] adds a probabilistic version in [[sources/fooled-by-randomness]]: humility means remembering that the realized path is not the whole truth. People over-explain outcomes, undercount [[concepts/alternative-histories]], and mistake lucky survival for skill. Epistemic humility therefore requires inspecting sample selection, tail risk, and hidden skew before trusting any story.
+
 ## Sources
 
+- [[sources/fooled-by-randomness]] - Luck disguised as skill, probability blindness, induction limits, and alternative histories.
 - [[sources/the-complete-collection-howard-marks]] - "Knowledge of the Future," "Uncertainty," "Uncertainty II," and "The Illusion of Knowledge."
+- [[sources/poor-charlies-almanack]] - Iron Prescription, Circle of Competence, Planck vs Chauffeur Knowledge.

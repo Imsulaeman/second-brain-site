@@ -3,8 +3,8 @@ title: "Decision Quality vs Outcome"
 type: concept
 tags: [decision-making, probability, investing, uncertainty, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 1
+updated: 2026-05-19
+sources: 2
 ---
 
 # Decision Quality vs Outcome
@@ -34,6 +34,18 @@ In **"You Bet!"** (2020), Marks connects this to games: blackjack, backgammon, g
 
 In **"Nobody Knows II"** (2020), he applies the same logic to COVID. The correct response was not to pretend to know the path of the virus or the market, but to separate facts from inferences and guesses, then act in stages as price improved relative to value.
 
+## Taleb's Alternative Histories
+
+[[entities/nassim-nicholas-taleb|Taleb]] makes the same idea more severe in [[sources/fooled-by-randomness]]. A decision must be evaluated against [[concepts/alternative-histories]]: the plausible paths that could have happened but did not. A trader who made money may have been exposed to a ruinous path that simply did not arrive during the observed sample.
+
+This means outcome review should include the invisible distribution:
+
+- What could have gone wrong?
+- How bad was the tail?
+- Was the successful result robust or lucky?
+- Would the same process survive many repetitions?
+
 ## Sources
 
+- [[sources/fooled-by-randomness]] - Primary source for alternative histories and luck disguised as skill.
 - [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.

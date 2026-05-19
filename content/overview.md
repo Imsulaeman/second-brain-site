@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Overview"
 type: overview
-tags: [skill-development, learning, cognitive-science, deliberate-practice, expertise, career, python, programming, investing, ai, agi, national-security]
+tags: [skill-development, learning, cognitive-science, deliberate-practice, expertise, career, python, programming, investing, ai, agi, national-security, habits, behavior-change, mental-models, psychology]
 created: 2026-05-02
-updated: 2026-05-16
-sources: 20
+updated: 2026-05-19
+sources: 23
 ---
 
 # Overview
@@ -15,7 +15,7 @@ sources: 20
 
 ## What This Wiki Covers
 
-The wiki currently draws on 20 sources across five topic clusters:
+The wiki currently draws on 23 sources across seven topic clusters:
 
 **Learning science:**
 - [[sources/advice-on-upskilling]] by [[entities/justin-skycak]] - the motivational and strategic perspective: why you should train hard, how to sustain volume, career implications, and the mindset of a skill maximalist.
@@ -30,19 +30,24 @@ Together they form a useful pair: Oakley explains how the brain learns; Skycak a
 - [[sources/ramping-your-coding-output-with-openai-codex]] - agentic coding workflow: Codex as long-running operator, research-first planning, modular handoffs, cleanup, and context systems.
 
 **Writing, thinking & AI:**
-- [[sources/how-to-articulate-yourself-intelligently]] · [[sources/im-begging-you-to-write-more-essays]] · [[sources/something-is-different-about-2026]] - Dan Koe on articulation, the epistemic crisis, and navigating the AI shift.
+- [[sources/how-to-articulate-yourself-intelligently]] Â· [[sources/im-begging-you-to-write-more-essays]] Â· [[sources/something-is-different-about-2026]] - Dan Koe on articulation, the epistemic crisis, and navigating the AI shift.
 
 **Trading & markets:**
 - [[sources/the-complete-collection-howard-marks]] by [[entities/howard-marks]] - 35 years of Oaktree client memos: cycles, second-level thinking, price vs. value, risk management, credit, low-rate valuation, value/growth, globalization, rate-regime sea changes, private credit, tariffs, and bubble detection.
 - [[sources/the-most-important-thing-illuminated]] by [[entities/howard-marks]] - book-length synthesis of Marks' philosophy: 21 principles spanning value, risk, cycles, psychology, contrarianism, defense, alpha, and reasonable expectations.
-- [[sources/life-lessons-from-trading]] · [[sources/dealing-with-loss]] · [[sources/the-jackpot-age]] · [[sources/time-is-event-based]] · [[sources/how-to-find-trading-edge]] - edge, risk psychology, ergodicity, and meaning in markets.
+- [[sources/fooled-by-randomness]] by [[entities/nassim-nicholas-taleb]] - probabilistic risk discipline: luck disguised as skill, alternative histories, survivorship bias, skewness/asymmetry, probability blindness, and induction limits.
+- [[sources/life-lessons-from-trading]] Â· [[sources/dealing-with-loss]] Â· [[sources/the-jackpot-age]] Â· [[sources/time-is-event-based]] Â· [[sources/how-to-find-trading-edge]] - edge, risk psychology, ergodicity, and meaning in markets.
 - [[synthesis/beginner-trader-investor-learning-path]] - practical beginner roadmap that converts the trading/investing cluster into a staged learning path.
 - [[sources/the-cost-of-staying]] - career divergence in the AI era.
 
 **AI, AGI & national security:**
 - [[sources/situational-awareness]] by [[entities/leopold-aschenbrenner]] - the most detailed public argument for AGI by ~2027 and superintelligence by ~2030. Frames AI development as a national security challenge on par with nuclear weapons. Introduces the [[concepts/ooms-framework]], [[concepts/intelligence-explosion]], [[concepts/superalignment-problem]], and [[concepts/agi-as-national-security]] concepts. Connects to Dan Koe's "something is different about 2026" thesis and to the agentic coding workflows already in the wiki.
 
-**Mental models:**
+**Habits & behavior change:**
+- [[sources/atomic-habits]] by [[entities/james-clear]] - the mechanics of habit formation: the [[concepts/four-laws-of-behavior-change|Four Laws]], [[concepts/identity-based-habits|identity-based change]], [[concepts/environment-design-for-habits|environment design]], and the formula Habits + [[concepts/deliberate-practice|Deliberate Practice]] = Mastery. Bridges learning science (automaticity frees [[concepts/working-memory-vs-long-term-memory|working memory]]) and leverage (habits are the compounding engine behind [[concepts/permissionless-leverage|permissionless leverage]]).
+
+**Multidisciplinary thinking & psychology:**
+- [[sources/poor-charlies-almanack]] by [[entities/charles-munger]] - the complete Munger framework: [[concepts/mental-models-latticework|latticework of mental models]], [[concepts/psychology-of-human-misjudgment|25 standard causes of human misjudgment]], [[concepts/lollapalooza-effect|lollapalooza effect]], [[concepts/inversion]], [[concepts/circle-of-competence]], [[concepts/incentive-superpower]], [[concepts/seamless-web-of-trust|seamless web of trust]], and concentrated investing. The most important single source for decision-making quality in the wiki.
 - [[sources/second-order-thinking]] - Farnam Street / Howard Marks: first vs second-order consequences.
 - [[sources/first-principles-thinking]] - Essay on reasoning from foundational truths instead of copying templates, with a creator/platform strategy example.
 
@@ -97,15 +102,20 @@ Oakley's unique contribution is [[concepts/focused-vs-diffuse-thinking|focused v
 10. In investing and markets, distinguish durable process from temporary outcome.
 11. AI is accelerating faster than prior technology shifts; build judgment and specific knowledge that compounds even as execution gets automated.
 12. The AGI timeline (~2027) means career and skill decisions made today play out against a backdrop of radical change -- prioritize adaptability and leverage.
+13. Build habits as systems, not goals. Start with identity ("who do I want to become?"), use environment design and the Two-Minute Rule to reduce friction, and track consistency not outcomes.
+14. Habits automate the basics; deliberate practice pushes the frontier. Both are necessary for mastery.
+15. Build a latticework of mental models from all major disciplines. Single-discipline thinking (man-with-a-hammer) produces reliable errors; multidisciplinary fluency produces disproportionately good outcomes.
+16. Use a checklist of psychological tendencies when making high-stakes decisions. When multiple tendencies converge (lollapalooza), expect extreme outcomes and design systems with anti-gaming features.
+17. Treat every visible success as one path through randomness. Ask what alternative histories, missing failures, hidden skew, and induction limits would say before calling an outcome skill.
 
 ---
 
 ## Pages In This Wiki
 
-**Sources (20):** [[sources/advice-on-upskilling]] · [[sources/a-mind-for-numbers]] · [[sources/python-basics-review]] · [[sources/how-to-articulate-yourself-intelligently]] · [[sources/im-begging-you-to-write-more-essays]] · [[sources/something-is-different-about-2026]] · [[sources/life-lessons-from-trading]] · [[sources/dealing-with-loss]] · [[sources/the-jackpot-age]] · [[sources/time-is-event-based]] · [[sources/the-cost-of-staying]] · [[sources/how-to-find-trading-edge]] · [[sources/second-order-thinking]] · [[sources/first-principles-thinking]] · [[sources/python-loops-and-sequences]] · [[sources/the-complete-collection-howard-marks]] · [[sources/the-most-important-thing-illuminated]] Â· [[sources/ramping-your-coding-output-with-openai-codex]] Â· [[sources/the-almanack-of-naval-ravikant]] · [[sources/situational-awareness]]
+**Sources (23):** [[sources/advice-on-upskilling]] Â· [[sources/a-mind-for-numbers]] Â· [[sources/python-basics-review]] Â· [[sources/how-to-articulate-yourself-intelligently]] Â· [[sources/im-begging-you-to-write-more-essays]] Â· [[sources/something-is-different-about-2026]] Â· [[sources/life-lessons-from-trading]] Â· [[sources/dealing-with-loss]] Â· [[sources/the-jackpot-age]] Â· [[sources/time-is-event-based]] Â· [[sources/the-cost-of-staying]] Â· [[sources/how-to-find-trading-edge]] Â· [[sources/second-order-thinking]] Â· [[sources/first-principles-thinking]] Â· [[sources/python-loops-and-sequences]] Â· [[sources/the-complete-collection-howard-marks]] Â· [[sources/the-most-important-thing-illuminated]] · [[sources/ramping-your-coding-output-with-openai-codex]] · [[sources/the-almanack-of-naval-ravikant]] � [[sources/situational-awareness]] � [[sources/atomic-habits]] � [[sources/poor-charlies-almanack]] � [[sources/fooled-by-randomness]]
 
-**Entities (9):** [[entities/justin-skycak]] · [[entities/barbara-oakley]] · [[entities/benjamin-bloom]] · [[entities/dan-koe]] · [[entities/daniel-schmachtenberger]] · [[entities/howard-marks]] Â· [[entities/openai-codex]] Â· [[entities/naval-ravikant]] · [[entities/leopold-aschenbrenner]]
+**Entities (12):** [[entities/justin-skycak]] Â· [[entities/barbara-oakley]] Â· [[entities/benjamin-bloom]] Â· [[entities/dan-koe]] Â· [[entities/daniel-schmachtenberger]] Â· [[entities/howard-marks]] · [[entities/openai-codex]] · [[entities/naval-ravikant]] � [[entities/leopold-aschenbrenner]] � [[entities/james-clear]] � [[entities/charles-munger]] � [[entities/nassim-nicholas-taleb]]
 
-**Concepts (43):** [[concepts/deliberate-practice]] · [[concepts/working-memory-vs-long-term-memory]] · [[concepts/spaced-repetition]] · [[concepts/prereq-mastery]] · [[concepts/focused-vs-diffuse-thinking]] · [[concepts/chunking]] · [[concepts/einstellung-effect]] · [[concepts/illusions-of-competence]] · [[concepts/blooms-three-stages]] · [[concepts/ikigai]] · [[concepts/perceptual-learning]] · [[concepts/learning-is-memory]] · [[concepts/pomodoro-technique]] · [[concepts/second-order-thinking]] · [[concepts/first-principles-thinking]] · [[concepts/ergodicity]] · [[concepts/epistemic-commons]] · [[concepts/investment-fashion-cycles]] · [[concepts/credit-cycle]] · [[concepts/active-management-as-error-detection]] · [[concepts/confidence-cycle]] · [[concepts/liquidity-risk]] · [[concepts/decision-quality-vs-outcome]] · [[concepts/economic-reality-vs-political-reality]] · [[concepts/epistemic-humility]] · [[concepts/low-rate-world]] · [[concepts/value-vs-growth-investing]] · [[concepts/supply-chain-resilience]] · [[concepts/long-term-compounding-vs-market-timing]] · [[concepts/sea-change-in-rates]] · [[concepts/credit-investing-as-negative-art]] · [[concepts/bubble-detection]] · [[concepts/reasonable-expectations]] · [[concepts/position-sizing]] · [[concepts/trading-edge]] Â· [[concepts/agentic-coding-workflows]] Â· [[concepts/specific-knowledge]] Â· [[concepts/permissionless-leverage]] Â· [[concepts/happiness-as-skill]] · [[concepts/intelligence-explosion]] · [[concepts/ooms-framework]] · [[concepts/superalignment-problem]] · [[concepts/agi-as-national-security]]
+**Concepts (78):** [[concepts/deliberate-practice]] Â· [[concepts/working-memory-vs-long-term-memory]] Â· [[concepts/spaced-repetition]] Â· [[concepts/prereq-mastery]] Â· [[concepts/focused-vs-diffuse-thinking]] Â· [[concepts/chunking]] Â· [[concepts/einstellung-effect]] Â· [[concepts/illusions-of-competence]] Â· [[concepts/blooms-three-stages]] Â· [[concepts/ikigai]] Â· [[concepts/perceptual-learning]] Â· [[concepts/learning-is-memory]] Â· [[concepts/pomodoro-technique]] Â· [[concepts/second-order-thinking]] Â· [[concepts/first-principles-thinking]] Â· [[concepts/ergodicity]] Â· [[concepts/epistemic-commons]] Â· [[concepts/investment-fashion-cycles]] Â· [[concepts/credit-cycle]] Â· [[concepts/active-management-as-error-detection]] Â· [[concepts/confidence-cycle]] Â· [[concepts/liquidity-risk]] Â· [[concepts/decision-quality-vs-outcome]] Â· [[concepts/economic-reality-vs-political-reality]] Â· [[concepts/epistemic-humility]] Â· [[concepts/low-rate-world]] Â· [[concepts/value-vs-growth-investing]] Â· [[concepts/supply-chain-resilience]] Â· [[concepts/long-term-compounding-vs-market-timing]] Â· [[concepts/sea-change-in-rates]] Â· [[concepts/credit-investing-as-negative-art]] Â· [[concepts/bubble-detection]] Â· [[concepts/reasonable-expectations]] Â· [[concepts/position-sizing]] Â· [[concepts/trading-edge]] · [[concepts/agentic-coding-workflows]] · [[concepts/specific-knowledge]] · [[concepts/permissionless-leverage]] · [[concepts/happiness-as-skill]] � [[concepts/intelligence-explosion]] � [[concepts/ooms-framework]] � [[concepts/superalignment-problem]] � [[concepts/agi-as-national-security]] � [[concepts/identity-based-habits]] � [[concepts/four-laws-of-behavior-change]] � [[concepts/habit-stacking]] � [[concepts/two-minute-rule]] � [[concepts/environment-design-for-habits]] � [[concepts/goldilocks-rule]] � [[concepts/plateau-of-latent-potential]] � [[concepts/temptation-bundling]] � [[concepts/implementation-intentions]] � [[concepts/habit-tracking]] � [[concepts/decisive-moments]] � [[concepts/diderot-effect]] � [[concepts/mental-models-latticework]] � [[concepts/lollapalooza-effect]] � [[concepts/inversion]] � [[concepts/man-with-a-hammer-syndrome]] � [[concepts/planck-vs-chauffeur-knowledge]] � [[concepts/incentive-superpower]] � [[concepts/psychology-of-human-misjudgment]] � [[concepts/circle-of-competence]] � [[concepts/seamless-web-of-trust]] � [[concepts/febezzlement]] � [[concepts/grannys-rule]] � [[concepts/iron-prescription]] � [[concepts/persian-messenger-syndrome]] � [[concepts/gaming-of-systems]] � [[concepts/scale-effects]] � [[concepts/sit-on-your-ass-investing]] � [[concepts/stoic-resilience]] � [[concepts/alternative-histories]] � [[concepts/survivorship-bias]] � [[concepts/skewness-and-asymmetry]] � [[concepts/probability-blindness]] � [[concepts/problem-of-induction]] � [[concepts/use-it-or-lose-it]]
 
-**Synthesis (3):** [[synthesis/beginner-trader-investor-learning-path]] · [[synthesis/my-specific-knowledge-map]] · [[synthesis/second-brain-as-leverage-system]]
+**Synthesis (4):** [[synthesis/beginner-trader-investor-learning-path]] � [[synthesis/my-specific-knowledge-map]] � [[synthesis/second-brain-as-leverage-system]] � [[synthesis/uncertainty-market-judgment-operating-model]]

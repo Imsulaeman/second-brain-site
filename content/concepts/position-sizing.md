@@ -3,8 +3,8 @@ title: "Position Sizing"
 type: concept
 tags: [trading, investing, risk-management, ergodicity, survival, sizing]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 5
+updated: 2026-05-19
+sources: 6
 ---
 
 # Position Sizing
@@ -78,6 +78,12 @@ Better sizing considers:
 | Correlation | Similar positions should be treated as one larger bet. |
 | Emotional pressure | If it distorts behavior, size is too high. |
 
+## Taleb's Tail-Risk Warning
+
+[[sources/fooled-by-randomness]] sharpens the sizing rule: size must be designed around bad [[concepts/alternative-histories]], not the path that happened recently. High confidence after a winning streak is especially dangerous if the strategy has negative [[concepts/skewness-and-asymmetry|skew]]: many small wins can train a trader to increase size right before the rare loss arrives.
+
+Practical addition: before increasing size, ask whether recent performance proves edge or merely proves survival in a favorable sample.
+
 ---
 
 ## Connection To Edge
@@ -96,6 +102,7 @@ The order should be:
 
 ## Sources
 
+- [[sources/fooled-by-randomness]]
 - [[concepts/ergodicity]]
 - [[sources/the-jackpot-age]]
 - [[sources/dealing-with-loss]]
