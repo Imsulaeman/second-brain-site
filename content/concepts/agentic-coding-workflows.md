@@ -3,8 +3,8 @@ title: "Agentic Coding Workflows"
 type: concept
 tags: [ai, coding, agents, productivity, software-engineering, workflow]
 created: 2026-05-11
-updated: 2026-05-11
-sources: 1
+updated: 2026-05-21
+sources: 3
 ---
 
 # Agentic Coding Workflows
@@ -89,6 +89,22 @@ This Second Brain is itself an agentic workflow. The human curates sources and a
 - lint periodically
 - avoid unreviewed sprawl
 
+## Instruction Files As Workflow Infrastructure
+
+[[sources/karpathy-claude-md-hit-number-one]] and [[sources/andrej-karpathy-skills-repo]] sharpen the workflow layer: agents need durable operating instructions, not only task prompts.
+
+The reusable pattern is:
+
+- write down project defaults once
+- make scope boundaries explicit
+- preserve decisions and repeated errors in files
+- turn vague requests into success criteria
+- verify the result before calling the task done
+
+See [[concepts/agent-operating-instructions]] and [[synthesis/agent-instruction-operating-system]].
+
 ## Sources
 
 - [[sources/ramping-your-coding-output-with-openai-codex]]
+- [[sources/karpathy-claude-md-hit-number-one]]
+- [[sources/andrej-karpathy-skills-repo]]

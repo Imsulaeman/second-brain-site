@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-05-19
-sources: 6
+updated: 2026-06-01
+sources: 7
 ---
 
 # Trading Edge
@@ -42,6 +42,15 @@ From [[sources/how-to-find-trading-edge]], the most practical retail edge bucket
 | Replication/arbitrage | Same or similar assets priced inconsistently | Usually very competitive. |
 
 This connects to [[concepts/active-management-as-error-detection]]: active trading/investing is not "try harder everywhere"; it is searching for places where market participants are more likely to make mistakes.
+
+[[sources/how-to-make-money-as-a-random-dickhead]] extends this with a more implementation-level split:
+
+- replication/arbitrage ideas exist but are usually too competitive for small traders
+- risk premia can function as the baseline "carry" bucket
+- the richest hunting ground is often **technical supply/demand imbalance**:
+  price-insensitive flow, forced flow, mechanical rebalancing, fragmented venues, and dealer/customer positioning asymmetry
+
+That framing makes edge less abstract. It tells you where a small operator can realistically look.
 
 ---
 
@@ -103,6 +112,7 @@ Before calling something edge, inspect:
 
 - [[sources/fooled-by-randomness]]
 - [[sources/how-to-find-trading-edge]]
+- [[sources/how-to-make-money-as-a-random-dickhead]]
 - [[sources/life-lessons-from-trading]]
 - [[sources/the-most-important-thing-illuminated]]
 - [[synthesis/beginner-trader-investor-learning-path]]
