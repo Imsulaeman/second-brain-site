@@ -31,6 +31,8 @@ function walkDir(dir: string): string[] {
 
 export function slugFromLink(link: string): string {
   return path.basename(link.trim().replace(/\\/g, '/').split('#')[0])
+    .toLowerCase()
+    .replace(/\s+/g, '-')
 }
 
 function extractWikiLinks(content: string): string[] {
