@@ -42,14 +42,18 @@ function extractWikiLinks(content: string): string[] {
   return [...links]
 }
 
-export function resolveWikiLinks(content: string): string {
+export function resolveWikiLinks(content: string, validSlugs?: Set<string>): string {
   return content
     .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, link: string, label: string) => {
-      return `[${label.trim()}](/note/${slugFromLink(link)})`
+      const slug = slugFromLink(link)
+      if (validSlugs && !validSlugs.has(slug)) return label.trim()
+      return `[${label.trim()}](/note/${slug})`
     })
     .replace(/\[\[([^\]]+)\]\]/g, (_, link: string) => {
       const slug = slugFromLink(link)
-      return `[${slug}](/note/${slug})`
+      const label = path.basename(link.trim().split('#')[0])
+      if (validSlugs && !validSlugs.has(slug)) return label
+      return `[${label}](/note/${slug})`
     })
 }
 
@@ -83,6 +87,7 @@ export function getAllNotes(): Note[] {
   if (cache) return cache
 
   const files = walkDir(CONTENT_DIR).filter((file) => file.endsWith('.md'))
+  const validSlugs = new Set(files.map((f) => path.basename(f, '.md')))
   cache = files
     .map((filePath) => {
       const raw = fs.readFileSync(filePath, 'utf-8')
@@ -97,7 +102,7 @@ export function getAllNotes(): Note[] {
         created: data.created ? String(data.created).slice(0, 10) : '',
         updated: data.updated ? String(data.updated).slice(0, 10) : '',
         sources: typeof data.sources === 'number' ? data.sources : Number(data.sources ?? 0),
-        content: resolveWikiLinks(content),
+        content: resolveWikiLinks(content, validSlugs),
         rawContent: content,
         rawSize: Buffer.byteLength(content, 'utf8'),
         excerpt: cleanExcerpt(content),
