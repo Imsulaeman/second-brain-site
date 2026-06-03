@@ -18,7 +18,7 @@ import { fileURLToPath } from 'url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-const WIKI_DIR = path.resolve(__dirname, '..', 'Second Brain', 'wiki')
+const WIKI_DIR = path.resolve(__dirname, '..', 'second-brain', 'Second Brain', 'wiki')
 const CONTENT_DIR = path.resolve(__dirname, 'content')
 
 const SYNC_DIRS = ['concepts', 'entities', 'sources', 'synthesis']
