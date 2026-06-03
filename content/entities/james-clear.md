@@ -28,6 +28,8 @@ Writer and speaker on habits, decision-making, and continuous improvement. Autho
 
 Draws heavily on behavioral psychology (B.F. Skinner, Edward Thorndike's Law of Effect), evolutionary biology, and modern habit research (Wendy Wood, BJ Fogg). Cites [[entities/naval-ravikant|Naval Ravikant]] in the introduction and appendix. The Four Laws framework adapts Charles Duhigg's habit loop (cue-routine-reward) into a more actionable four-step model.
 
+The 1%-better-daily core idea is essentially [[concepts/kaizen|kaizen]] (Toyota's continuous-improvement philosophy) ported to personal habits with American framing. Same compounding mechanism, different cultural source.
+
 ## Sources
 
 - [[sources/atomic-habits]]
