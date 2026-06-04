@@ -45,3 +45,4 @@ Each stage requires a **different type of support**. A Stage 1 teacher who makes
 ## Sources
 
 - [[sources/advice-on-upskilling|Advice on Upskilling]] — Ch 5 (The Journey), section on Bloom's 3 Stages
+Bloom's stages of learning combine inductive pattern recognition with deductive application of increasingly abstract principles.
