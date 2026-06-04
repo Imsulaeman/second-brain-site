@@ -39,3 +39,4 @@ Aschenbrenner places the intelligence explosion in a historical sequence of grow
 ## Sources
 
 - [[sources/situational-awareness]] - Part II: From AGI to Superintelligence
+Reasoning about intelligence explosion requires both inductive extrapolation from current AI progress and deductive application of scaling laws and capability thresholds.
