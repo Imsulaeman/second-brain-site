@@ -44,3 +44,4 @@ When trust breaks down, you get [[concepts/gaming-of-systems]] — the workers' 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Building a seamless web of trust requires inductive pattern recognition from repeated interactions and deductive application of consistency and reputation principles.
