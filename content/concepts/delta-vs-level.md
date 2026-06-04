@@ -46,3 +46,4 @@ That tension often produces either resentment or collapse. The concept offers a 
 
 - [[sources/proxima-centauri]]
 
+Delta vs level thinking in markets requires both inductive pattern recognition and deductive application of risk frameworks.
