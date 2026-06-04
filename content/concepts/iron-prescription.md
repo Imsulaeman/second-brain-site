@@ -47,3 +47,4 @@ Multiple psychological tendencies work against it: Inconsistency-Avoidance (resi
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+The iron prescription for clear thinking requires both inductive honesty about what one has observed and deductive consistency in applying principles.
