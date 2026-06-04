@@ -117,3 +117,4 @@ Before calling something edge, inspect:
 - [[sources/the-most-important-thing-illuminated]]
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/poor-charlies-almanack]]
+Finding and maintaining an edge requires both inductive pattern recognition from market data and deductive application of risk and process rules. The two reasoning modes must work together.
