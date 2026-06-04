@@ -14,3 +14,7 @@ A company policy states that work submitted after the deadline loses ten points.
 This form of reasoning produces certainty only when two conditions are met: the starting premises must be true, and the logical steps must be valid. If either condition fails, the conclusion collapses even if the reasoning looks clean. A perfectly logical chain built on a false premise will still produce a false conclusion.
 
 Deductive reasoning is the backbone of mathematics, law, formal policy, and any system that requires consistent application of rules. Its strength is necessity. Its weakness is dependence on the truth of its starting points. It cannot discover new patterns; it can only apply patterns that have already been established.
+
+## Sources
+
+- [[2026-06-04-inductive-and-deductive-reasoning]]
