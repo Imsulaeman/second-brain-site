@@ -21,3 +21,4 @@ For the [[concepts/mental-models-latticework]], the implication is practical: a 
 
 - [[sources/poor-charlies-almanack]] - Psychology of human misjudgment and Munger's mental-models practice discipline.
 
+These concepts rely on both inductive observation of real-world outcomes and deductive application of fundamental and process principles.

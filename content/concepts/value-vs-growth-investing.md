@@ -32,3 +32,4 @@ Ask:
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Something of Value."
+These concepts rely on both inductive observation of real-world outcomes and deductive application of fundamental and process principles.
