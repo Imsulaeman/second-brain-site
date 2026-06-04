@@ -46,3 +46,4 @@ Chauffeur-knowledge holders break down when:
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Distinguishing real knowledge from surface knowledge often requires inductive testing through application and deductive verification against first principles.
