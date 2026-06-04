@@ -44,3 +44,4 @@ Febezzlement creates false confidence and postpones reckoning. When the gap is f
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Febezzlement involves both inductive pattern recognition from repeated small extractions and deductive application of incentive misalignment analysis.
