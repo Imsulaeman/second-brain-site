@@ -217,3 +217,4 @@ The best problem-solvers are not the ones who arrive at solutions fastest. They 
 - [[sources/critical-thinking-a-practical-guide-to-better-decision-making]] — define-the-question loop
 - [[sources/this-tool-will-help-improve-your-critical-thinking]] — Socratic interrogation
 - [[sources/second-order-thinking]] — Farnam Street on consequences and depth of reasoning
+Good diagnosis often relies on inductive reasoning from observed symptoms and patterns, while solution design may rely more on deductive application of proven principles. Mixing the two without awareness creates weak problem-solving.
