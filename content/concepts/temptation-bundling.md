@@ -44,3 +44,4 @@ Examples:
 ## Sources
 
 - [[sources/atomic-habits]]
+These behavior design techniques combine inductive recognition of personal friction points with deductive application of sequencing and activation energy principles.

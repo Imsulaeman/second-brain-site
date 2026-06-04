@@ -54,3 +54,4 @@ The progression is: show up → do it well → do more of it. Never skip a stage
 ## Sources
 
 - [[sources/atomic-habits]]
+These behavior design techniques combine inductive recognition of personal friction points with deductive application of sequencing and activation energy principles.
