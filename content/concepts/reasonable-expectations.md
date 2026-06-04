@@ -44,3 +44,4 @@ Marks' practical questions:
 ## Sources
 
 - [[sources/the-most-important-thing-illuminated]] - Chapter 20, "Reasonable Expectations."
+Forming reasonable expectations requires careful inductive reasoning from available evidence while avoiding over-extrapolation.
