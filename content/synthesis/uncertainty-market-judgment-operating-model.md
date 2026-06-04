@@ -251,3 +251,4 @@ The next useful artifact would be a reusable decision-journal template based on 
 - [[concepts/decision-quality-vs-outcome]]
 - [[concepts/position-sizing]]
 
+Market judgment under uncertainty requires clear separation between inductive pattern recognition from price and volume data and deductive application of established principles and rules. Confusing the two is a common source of overconfidence.
