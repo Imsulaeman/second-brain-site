@@ -52,3 +52,4 @@ The danger: identity can also lock in bad habits. "I'm bad at math" or "I'm not 
 ## Sources
 
 - [[sources/atomic-habits]]
+Identity-based habits require both inductive recognition of self-image patterns and deductive application of behavior design principles.
