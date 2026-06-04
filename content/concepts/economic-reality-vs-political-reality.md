@@ -48,3 +48,4 @@ This concept connects to Marks' broader investing philosophy. Markets and politi
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Economic Reality" and "Political Reality" (2016), "Political Reality Meets Economic Reality" (2019), plus related election and policy commentary.
+Distinguishing economic from political reality requires both inductive observation of actual outcomes and deductive application of incentive and power analysis.
