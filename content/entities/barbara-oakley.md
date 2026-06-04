@@ -28,3 +28,4 @@ She holds a PhD in systems engineering with background in thermodynamics, electr
 ## Sources in This Wiki
 
 - [[sources/a-mind-for-numbers]] — *A Mind for Numbers* (2014)
+Oakley's work on learning science combines inductive observation of cognitive patterns with deductive application of memory and attention principles.
