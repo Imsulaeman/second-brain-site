@@ -127,3 +127,13 @@ In that sense, logical fallacies are not side topics. They are the visible finge
 - [[sources/can-you-outsmart-the-slippery-slope-fallacy]]
 - [[sources/can-you-outsmart-the-middle-ground-fallacy]]
 - [[sources/can-you-outsmart-the-circular-reasoning-fallacy]]
+
+## Inductive vs Deductive Reasoning
+
+Critical thinking also requires understanding the direction of the reasoning itself.
+
+[[concepts/inductive-reasoning|Inductive reasoning]] moves from specific observations to a general conjecture. It is the engine behind pattern recognition, scientific hypotheses, and most real-world predictions. Its strength is usefulness under uncertainty. Its weakness is that it can never deliver certainty — one counterexample can collapse the conclusion.
+
+[[concepts/deductive-reasoning|Deductive reasoning]] moves from established rules or premises to a specific conclusion that must follow if the premises are true. It is the backbone of mathematics, law, policy, and formal systems. Its strength is necessity. Its weakness is complete dependence on the truth of the starting premises.
+
+Many failures in thinking come from confusing the two directions or applying the wrong standard to the wrong type of claim.
