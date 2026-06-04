@@ -40,3 +40,4 @@ The circle is not fixed. Munger's [[concepts/mental-models-latticework]] is a me
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+These concepts involve both inductive learning from direct experience and deductive awareness of the limits of one's knowledge.
