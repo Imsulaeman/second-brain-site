@@ -64,3 +64,4 @@ Munger's magnum opus: a taxonomy of 25 standard causes of human misjudgment, dev
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Many of Munger's misjudgment tendencies involve failures in inductive or deductive reasoning — over-extrapolating from small samples (inductive failure) or applying rules without checking their validity in context (deductive failure).
