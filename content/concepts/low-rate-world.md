@@ -30,3 +30,4 @@ The whole structure depends heavily on rates staying low. If inflation forces hi
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Coming into Focus," "2020 in Review," and "Thinking About Macro."
+Reasoning in these domains requires inductive observation of regime shifts and deductive application of structural principles.

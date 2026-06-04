@@ -41,3 +41,4 @@ Decisive moments are high-leverage intervention points. Rather than trying to co
 ## Sources
 
 - [[sources/atomic-habits]]
+Reasoning in these domains requires inductive observation of regime shifts and deductive application of structural principles.
