@@ -42,3 +42,4 @@ For investors, the key is to observe whether capital is easy or scarce:
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] — "Open and Shut," "The Happy Medium," "The Long View," GFC memos
+Detecting bubbles and credit cycles relies heavily on inductive pattern recognition from historical data combined with deductive application of financial principles.

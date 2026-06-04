@@ -60,3 +60,4 @@ Marks distinguishes mean-reversion bubbles from inflection bubbles. Mean-reversi
 
 - [[sources/the-most-important-thing-illuminated]] - Chapters on recognizing risk, the pendulum, combating negative influences, avoiding pitfalls, and reasonable expectations.
 - [[sources/the-complete-collection-howard-marks]] - "bubble.com," "Everyone Knows," "On Bubble Watch," and "Is It a Bubble?"
+Detecting bubbles and credit cycles relies heavily on inductive pattern recognition from historical data combined with deductive application of financial principles.
