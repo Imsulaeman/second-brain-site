@@ -42,4 +42,4 @@ This connects his design-thinking framework to [[entities/toyota|Toyota's]] oper
 
 ## Sources
 
-- [[sources/2026-06-03 5-whys]] — Interaction Design Foundation cites Norman's advocacy for root-cause thinking in 21st-century design
+- [[sources/what-are-5-whys]] — Interaction Design Foundation cites Norman's advocacy for root-cause thinking in 21st-century design

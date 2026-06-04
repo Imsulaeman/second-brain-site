@@ -49,4 +49,4 @@ Deduction feels safer than induction because it can produce certainty, but that 
 
 ## Sources
 
-- [[sources/2026-06-04-inductive-and-deductive-reasoning]]
+- [[sources/inductive-and-deductive-reasoning]]

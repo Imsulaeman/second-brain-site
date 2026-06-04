@@ -19,7 +19,7 @@ The form of the mistake is simple: "these two things are associated, therefore o
 
 ## Common Failure Modes
 
-The childbed-fever case in [[sources/can-you-outsmart-the-false-cause-fallacy]] shows one version of the error: visible inflammation looked causally central because it was present at death, even though it was not the real driver of the disease. [[sources/2026-06-04-the-danger-of-mixing-up-causality-and-correlation]] makes the pattern easier to remember by splitting it into cleaner types: ice cream and drownings share a third factor, marriage and male longevity can be read backward, and the self-esteem example shows how a mistaken causal story can spread into policy and parenting advice.
+The childbed-fever case in [[sources/can-you-outsmart-the-false-cause-fallacy]] shows one version of the error: visible inflammation looked causally central because it was present at death, even though it was not the real driver of the disease. [[sources/the-danger-of-mixing-up-causality-and-correlation]] makes the pattern easier to remember by splitting it into cleaner types: ice cream and drownings share a third factor, marriage and male longevity can be read backward, and the self-esteem example shows how a mistaken causal story can spread into policy and parenting advice.
 
 The deeper problem is impatience with causal uncertainty. People often prefer a wrong explanation to an unfinished one because an explanation feels actionable.
 
@@ -37,4 +37,4 @@ Without those checks, patterns become stories too quickly.
 ## Sources
 
 - [[sources/can-you-outsmart-the-false-cause-fallacy]]
-- [[sources/2026-06-04-the-danger-of-mixing-up-causality-and-correlation]]
+- [[sources/the-danger-of-mixing-up-causality-and-correlation]]

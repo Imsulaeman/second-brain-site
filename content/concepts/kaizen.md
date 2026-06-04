@@ -81,4 +81,4 @@ The shared insight: **improvement is a system, not an event**.
 
 ## Sources
 
-- [[sources/2026-06-03 5-whys]] — kaizen as the cultural context for the 5 Whys at Toyota
+- [[sources/what-are-5-whys]] — kaizen as the cultural context for the 5 Whys at Toyota

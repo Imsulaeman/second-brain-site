@@ -15,4 +15,4 @@ In *The Danger of Mixing Up Causality and Correlation*, she uses jokes, media ex
 
 ## Sources
 
-- [[sources/2026-06-04-the-danger-of-mixing-up-causality-and-correlation]]
+- [[sources/the-danger-of-mixing-up-causality-and-correlation]]

@@ -49,4 +49,4 @@ Its strength and weakness are the same: it depends on patterns continuing. If th
 
 ## Sources
 
-- [[sources/2026-06-04-inductive-and-deductive-reasoning]]
+- [[sources/inductive-and-deductive-reasoning]]

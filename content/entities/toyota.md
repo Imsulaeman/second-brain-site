@@ -34,4 +34,4 @@ These are organizational design choices, not just techniques. They presume the p
 
 ## Sources
 
-- [[sources/2026-06-03 5-whys]]
+- [[sources/what-are-5-whys]]

@@ -28,4 +28,4 @@ What gives the source its shape is repetition through diagnosis. It does not mer
 
 ## Sources
 
-- [[sources/2026-06-04-inductive-and-deductive-reasoning]]
+- [[sources/inductive-and-deductive-reasoning]]

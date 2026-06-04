@@ -29,4 +29,4 @@ The [[5-whys]] technique spread far beyond manufacturing into product design, UX
 
 ## Sources
 
-- [[2026-06-03 5-whys]] — Interaction Design Foundation
+- [[what-are-5-whys]] — Interaction Design Foundation

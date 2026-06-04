@@ -51,6 +51,6 @@ Problem framing sits upstream of all three.
 ## Sources
 
 - [[sources/to-solve-a-tough-problem-reframe-it]]
-- [[sources/2026-06-03 5-whys]]
+- [[sources/what-are-5-whys]]
 
 These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.

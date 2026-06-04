@@ -43,7 +43,7 @@ Useful operations include:
 
 - [[sources/critical-thinking-a-practical-guide-to-better-decision-making]]
 - [[sources/this-tool-will-help-improve-your-critical-thinking]]
-- [[sources/2026-06-03 5-whys]]
+- [[sources/what-are-5-whys]]
 
 
 A deeper layer is understanding the *direction* of the reasoning itself. [[concepts/inductive-reasoning|Inductive reasoning]] builds general claims from specific observations and produces conclusions that are probable but never certain. [[concepts/deductive-reasoning|Deductive reasoning]] applies established rules or premises to specific cases and produces conclusions that must follow if the premises are true. Critical thinking requires recognizing which direction is being used, because each carries different standards for what counts as strong reasoning.

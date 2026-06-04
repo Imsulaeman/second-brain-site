@@ -31,7 +31,7 @@ In practice, the key distinctions are:
 
 ## Example
 
-[[sources/2026-06-04-the-danger-of-mixing-up-causality-and-correlation]] is a compact teaching source because it runs through all three. Ice cream and drownings illustrate the hidden-third-variable problem. Marriage and male longevity illustrate reverse causality. The self-esteem example shows why the distinction matters outside classrooms: if you mistake confidence for the driver rather than the result, you design the wrong intervention.
+[[sources/the-danger-of-mixing-up-causality-and-correlation]] is a compact teaching source because it runs through all three. Ice cream and drownings illustrate the hidden-third-variable problem. Marriage and male longevity illustrate reverse causality. The self-esteem example shows why the distinction matters outside classrooms: if you mistake confidence for the driver rather than the result, you design the wrong intervention.
 
 ## What To Ask
 
@@ -46,4 +46,4 @@ Correlation is not useless just because it is not proof. Many discoveries begin 
 
 ## Sources
 
-- [[sources/2026-06-04-the-danger-of-mixing-up-causality-and-correlation]]
+- [[sources/the-danger-of-mixing-up-causality-and-correlation]]

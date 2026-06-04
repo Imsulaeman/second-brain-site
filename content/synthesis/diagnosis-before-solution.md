@@ -211,7 +211,7 @@ The best problem-solvers are not the ones who arrive at solutions fastest. They 
 
 ## Sources
 
-- [[sources/2026-06-03 5-whys]] — Interaction Design Foundation on 5 Whys
+- [[sources/what-are-5-whys]] — Interaction Design Foundation on 5 Whys
 - [[sources/to-solve-a-tough-problem-reframe-it]] — HBR on problem framing
 - [[sources/first-principles-thinking]] — essay on reasoning from foundational truths
 - [[sources/critical-thinking-a-practical-guide-to-better-decision-making]] — define-the-question loop
