@@ -300,3 +300,4 @@ A beginner trader-investor should learn to **survive first, separate investing f
 - [[concepts/ergodicity]]
 - [[sources/life-lessons-from-trading]]
 - [[sources/dealing-with-loss]]
+A strong learning path for traders must develop both inductive skill (reading market patterns and participant behavior) and deductive skill (applying risk rules, position sizing, and process discipline). The two reasoning modes serve different but complementary roles.
