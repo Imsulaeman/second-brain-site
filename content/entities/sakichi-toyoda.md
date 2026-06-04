@@ -9,7 +9,7 @@ sources: 1
 
 # Sakichi Toyoda
 
-Japanese industrialist, inventor, and founder of what became the [[Toyota]] empire. Known as the "King of Japanese Inventors." Created the [[5 Whys]] root-cause technique in the 1930s as part of the Toyota Production System — now a core tool in [[Design Thinking]], [[Kaizen]], and engineering post-mortems.
+Japanese industrialist, inventor, and founder of what became the [[toyota]] empire. Known as the "King of Japanese Inventors." Created the [[5-whys]] root-cause technique in the 1930s as part of the Toyota Production System — now a core tool in [[design-thinking]], [[kaizen]], and engineering post-mortems.
 
 ## Philosophy
 
@@ -21,11 +21,11 @@ His approach prioritized understanding *why* failures occurred rather than patch
 
 - **5 Whys technique** — iterative causal-chain drill to uncover root causes
 - Early foundations of what became the Toyota Production System (TPS) and lean manufacturing
-- Emphasis on continuous improvement ([[Kaizen]]) over reactive fixes
+- Emphasis on continuous improvement ([[kaizen]]) over reactive fixes
 
 ## Legacy
 
-The [[5 Whys]] technique spread far beyond manufacturing into product design, UX research, software post-mortems, and personal problem-solving. Don Norman cites root-cause thinking (traceable to Toyoda's work) as essential to 21st-century human-centered design.
+The [[5-whys]] technique spread far beyond manufacturing into product design, UX research, software post-mortems, and personal problem-solving. Don Norman cites root-cause thinking (traceable to Toyoda's work) as essential to 21st-century human-centered design.
 
 ## Sources
 

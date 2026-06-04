@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Find Trading Edge (as a Retail Trader)"
 type: source
 tags: [trading, markets, edge, risk-premium, supply-demand, arbitrage, retail]
@@ -10,7 +10,7 @@ sources: 1
 # How to Find Trading Edge (as a Retail Trader)
 
 **Author:** robotjames (New Zealand-based discretionary trader, Substack)
-**Type:** Long-form essay — practical trading framework
+**Type:** Long-form essay â€” practical trading framework
 
 ---
 
@@ -23,11 +23,11 @@ sources: 1
 5. **Forced or constrained people distort prices** (technical imbalances from forced flows)
 6. **Positional imbalances can create distortions** (crowding, short squeezes, dealer constraints)
 
-Ideas 1 and 2 → most things are fairly priced most of the time. As a retail trader, you probably can't tell when they're not.
+Ideas 1 and 2 â†’ most things are fairly priced most of the time. As a retail trader, you probably can't tell when they're not.
 
-Idea 3 → **risk premium**: assets trade below their expected-value fair price because they're risky. Harvesting risk premia = the easiest, least-competitive way to make money in markets (buy diversified risk assets and be patient).
+Idea 3 â†’ **risk premium**: assets trade below their expected-value fair price because they're risky. Harvesting risk premia = the easiest, least-competitive way to make money in markets (buy diversified risk assets and be patient).
 
-Ideas 4–6 → **technical supply/demand imbalances**: the most accessible source of alpha for a retail trader.
+Ideas 4â€“6 â†’ **technical supply/demand imbalances**: the most accessible source of alpha for a retail trader.
 
 ---
 
@@ -44,7 +44,7 @@ Ideas 4–6 → **technical supply/demand imbalances**: the most accessible sour
 - Use as the default when no higher risk-reward ideas are available
 - PnL style: short bursts of high risk-reward profit broken up by noisy periods of carry harvesting
 
-### Ideas 4–6: Technical Supply/Demand Imbalances (the Main Event)
+### Ideas 4â€“6: Technical Supply/Demand Imbalances (the Main Event)
 
 **Three ways to exploit imbalances:**
 
@@ -55,7 +55,7 @@ Ideas 4–6 → **technical supply/demand imbalances**: the most accessible sour
 
 **2. Get paid to front-run predictable flow**
 - If you know price-insensitive trading is about to happen at a predictable time: get in front of it, then provide to it
-- Example: FTX leveraged token rebalances — mechanically sold (or bought) futures at midnight UTC regardless of price. Predictable flow → front-run it, then cover
+- Example: FTX leveraged token rebalances â€” mechanically sold (or bought) futures at midnight UTC regardless of price. Predictable flow â†’ front-run it, then cover
 - Other sources: end-of-month fund rebalancing, dividend reinvestment programs, employee share vesting, predictable de-leveraging
 
 **3. Take advantage of positioning imbalances and constraints**
@@ -69,12 +69,12 @@ Ideas 4–6 → **technical supply/demand imbalances**: the most accessible sour
 
 > "If you are a random dickhead... sometimes really juicy opportunities come along (Idea 1) but you can't rely on that. The best places to look for edge are: (1) harvesting risk premia, (2) technical supply/demand imbalances."
 
-The approach is blunt and imprecise — being in roughly the right place at the right time, on average. Wrong a lot. But in position, on average, to take advantage of structural flows.
+The approach is blunt and imprecise â€” being in roughly the right place at the right time, on average. Wrong a lot. But in position, on average, to take advantage of structural flows.
 
 ---
 
 ## Related Sources
 
-- [[sources/life-lessons-from-trading]] — broader trading psychology and edge philosophy
-- [[sources/the-jackpot-age]] — ergodicity and why risk sizing matters
-- [[sources/dealing-with-loss]] — what to do when edge fails temporarily
+- [[sources/life-lessons-from-trading]] â€” broader trading psychology and edge philosophy
+- [[sources/the-jackpot-age]] â€” ergodicity and why risk sizing matters
+- [[sources/dealing-with-loss]] â€” what to do when edge fails temporarily

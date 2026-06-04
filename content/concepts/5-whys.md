@@ -9,7 +9,7 @@ sources: 1
 
 # 5 Whys
 
-A root-cause technique: ask "why?" iteratively — typically five times — to drill from a visible symptom down to the systemic cause that actually triggered it. Originated at [[Toyota]] in the 1930s by [[Sakichi Toyoda]] as part of what became the Toyota Production System; now standard in [[Design Thinking]], engineering post-mortems, and [[Kaizen]].
+A root-cause technique: ask "why?" iteratively — typically five times — to drill from a visible symptom down to the systemic cause that actually triggered it. Originated at [[toyota]] in the 1930s by [[sakichi-toyoda]] as part of what became the Toyota Production System; now standard in [[design-thinking]], engineering post-mortems, and [[kaizen]].
 
 ## Core Idea
 
@@ -39,7 +39,7 @@ Fixing layer 1 (replace the fuse) returns the failure tomorrow. Fixing layer 5 (
 
 ## Where It Fits in Design
 
-In the [[Design Thinking]] cycle, 5 Whys belongs to **empathize → define**. Use it on user complaints, drop-off behaviors, and survey signals before you draft a problem statement. The output is a tighter, more actionable problem statement that points ideation in the right direction.
+In the [[design-thinking]] cycle, 5 Whys belongs to **empathize → define**. Use it on user complaints, drop-off behaviors, and survey signals before you draft a problem statement. The output is a tighter, more actionable problem statement that points ideation in the right direction.
 
 > Symptom: "Users abandon checkout."
 > After 5 Whys: "Users don't trust the payment-security signaling on the final step."
@@ -57,17 +57,17 @@ The second statement is solvable. The first is a wall.
 
 ## Adjacent Techniques
 
-- [[First Principles Thinking]] — strips inherited assumptions; 5 Whys strips inherited symptoms. Pair them: 5 Whys finds the real problem, first-principles designs the real solution.
-- [[Inversion]] — instead of "why did this fail?", ask "how would I cause this to fail?" Catches causes the forward chain misses.
-- [[Second-Order Thinking]] — looks forward at consequences; 5 Whys looks backward at causes. Both fight surface reasoning.
-- [[Problem Framing]] — 5 Whys is one of the sharpest tools for getting the frame right.
+- [[first-principles-thinking]] — strips inherited assumptions; 5 Whys strips inherited symptoms. Pair them: 5 Whys finds the real problem, first-principles designs the real solution.
+- [[inversion]] — instead of "why did this fail?", ask "how would I cause this to fail?" Catches causes the forward chain misses.
+- [[second-order-thinking]] — looks forward at consequences; 5 Whys looks backward at causes. Both fight surface reasoning.
+- [[problem-framing]] — 5 Whys is one of the sharpest tools for getting the frame right.
 - Fishbone (Ishikawa) diagram — branching version of the same instinct; use when causes are multi-factor rather than chained.
 
 ## When to Reach for 5 Whys
 
 - A bug, defect, or incident — before the temptation to patch.
 - A user behavior that keeps recurring after fixes.
-- A personal habit or project that keeps failing — [[Kaizen]] applied to yourself.
+- A personal habit or project that keeps failing — [[kaizen]] applied to yourself.
 - Any moment you catch yourself solving the *visible* problem.
 
 ## When to Reach for Something Else
