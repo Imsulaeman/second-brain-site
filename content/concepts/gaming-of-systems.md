@@ -50,3 +50,4 @@ All human systems get gamed. People display great ingenuity in serving themselve
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Understanding system gaming often requires inductive pattern recognition from observed behaviors combined with deductive application of incentive analysis.
