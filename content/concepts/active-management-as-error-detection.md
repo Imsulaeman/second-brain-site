@@ -44,3 +44,4 @@ Before entering an active position, ask:
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] — "What Are the Chances?" (2012), "Investing Without People" (2018), "Conversation at Panmure House" (2022), plus recurring treatment of mispricing, distressed debt, passive investing, and market inefficiency.
+Active management as error detection relies on inductive pattern recognition from performance data and deductive application of risk and process discipline.
