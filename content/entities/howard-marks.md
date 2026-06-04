@@ -234,3 +234,4 @@ See [[concepts/credit-cycle]].
 
 - [[sources/the-complete-collection-howard-marks]] — Complete Oaktree memo collection (1990–2025); primary source for all frameworks above
 - [[sources/second-order-thinking]] — Farnam Street explainer drawing on Marks' second-level thinking
+Marks' memos combine inductive pattern recognition from market cycles with deductive application of risk, value, and psychology principles.
