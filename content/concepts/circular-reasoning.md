@@ -27,3 +27,5 @@ The cure is to demand an independent reason for the claim.
 
 - [[sources/can-you-outsmart-the-circular-reasoning-fallacy]]
 
+
+Circular reasoning is a failure mode that can appear in both inductive and deductive arguments. In induction, it appears when observations are selected to confirm an already-held conclusion. In deduction, it appears when the conclusion is smuggled into the premises.
