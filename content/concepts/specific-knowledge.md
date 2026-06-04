@@ -63,3 +63,4 @@ Munger also adds that trustworthiness — a [[concepts/seamless-web-of-trust|sea
 - [[sources/the-almanack-of-naval-ravikant]]
 - [[sources/atomic-habits]]
 - [[sources/poor-charlies-almanack]]
+Developing specific knowledge often involves inductive pattern recognition from personal experience combined with deductive application of leverage principles.
