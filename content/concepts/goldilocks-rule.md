@@ -52,3 +52,4 @@ Variable rewards partially solve this: the brain stays engaged when outcomes var
 ## Sources
 
 - [[sources/atomic-habits]]
+These techniques combine inductive learning from personal experience with deductive application of goal-setting and identity principles.

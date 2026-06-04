@@ -47,3 +47,4 @@ People overestimate the power of motivation and underestimate the power of clari
 ## Sources
 
 - [[sources/atomic-habits]]
+These techniques combine inductive learning from personal experience with deductive application of goal-setting and identity principles.
