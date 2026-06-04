@@ -39,3 +39,4 @@ Key anti-patterns to avoid after adversity:
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+These concepts combine inductive learning from repeated exposure with deductive application of consistency and emotional discipline principles.
