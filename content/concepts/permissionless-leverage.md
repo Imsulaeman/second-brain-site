@@ -45,3 +45,4 @@ Leverage only compounds if you show up consistently. [[sources/atomic-habits|Ato
 
 - [[sources/the-almanack-of-naval-ravikant]]
 - [[sources/atomic-habits]]
+Permissionless leverage often emerges from inductive recognition of opportunities others miss, followed by deductive execution using available tools and platforms.
