@@ -48,3 +48,4 @@ Ask:
 
 - [[sources/fooled-by-randomness]] - Monkeys, millionaires, performance records, and expert-selection examples.
 
+This bias frequently distorts inductive reasoning by causing people to draw strong general conclusions from unrepresentative or incomplete observations.

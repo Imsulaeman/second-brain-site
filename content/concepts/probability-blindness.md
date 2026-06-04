@@ -43,3 +43,4 @@ Probability blindness turns markets into emotional traps. Traders may over-size 
 
 - [[sources/fooled-by-randomness]] - Probability blindness, random sequences, media narratives, and emotional errors under uncertainty.
 
+This bias frequently distorts inductive reasoning by causing people to draw strong general conclusions from unrepresentative or incomplete observations.
