@@ -269,3 +269,4 @@ This page should be revisited after another 10-20 ingested sources and after you
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/something-is-different-about-2026]]
 - [[sources/how-to-articulate-yourself-intelligently]]
+These operating systems and knowledge maps require both inductive pattern recognition from experience and deductive application of structure and principle.
