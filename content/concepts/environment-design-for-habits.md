@@ -54,3 +54,4 @@ The best commitment devices make the bad behavior literally impossible, not just
 ## Sources
 
 - [[sources/atomic-habits]]
+Behavior change and environment design rely on both inductive observation of what actually influences action and deductive application of psychological principles.

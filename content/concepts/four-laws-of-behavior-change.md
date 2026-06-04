@@ -81,3 +81,4 @@ When trying to break a habit, invert each question.
 ## Sources
 
 - [[sources/atomic-habits]]
+Behavior change and environment design rely on both inductive observation of what actually influences action and deductive application of psychological principles.
