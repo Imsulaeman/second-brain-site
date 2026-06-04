@@ -49,3 +49,4 @@ This means outcome review should include the invisible distribution:
 
 - [[sources/fooled-by-randomness]] - Primary source for alternative histories and luck disguised as skill.
 - [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
+Inductive and deductive reasoning both play roles in decision quality. Inductive reasoning helps build better models from experience, while deductive reasoning helps apply rules and principles consistently. Poor calibration between the two is a common source of misjudgment.

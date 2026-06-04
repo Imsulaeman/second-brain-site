@@ -27,3 +27,6 @@ It is especially dangerous when:
 
 - [[sources/can-you-outsmart-the-argument-from-ignorance-fallacy]]
 
+
+This fallacy is particularly dangerous in inductive reasoning, where absence of evidence is often mistaken for evidence of absence when forming general claims from limited observations.
+EOF && git add -A && git commit -m "integrate: connect argument-from-ignorance to inductive reasoning" && git push
