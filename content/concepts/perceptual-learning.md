@@ -37,3 +37,4 @@ This is why experts seem to have "intuition" — they're not guessing; they're p
 ## Sources
 
 - [[sources/advice-on-upskilling|Advice on Upskilling]] — Ch 10 (Expertise), section "The Driving Force Behind Expertise is Long-Term Memory"
+These learning concepts involve both inductive pattern recognition and deductive application of memory and perception principles.
