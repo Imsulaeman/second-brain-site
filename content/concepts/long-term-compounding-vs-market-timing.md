@@ -32,3 +32,4 @@ Marks' core point is relative selection: every sale produces cash that must be h
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Selling Out."
+Long-term compounding vs market timing requires both inductive pattern recognition from historical data and deductive application of probability and process principles.
