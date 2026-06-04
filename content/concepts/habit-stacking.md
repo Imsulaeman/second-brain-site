@@ -48,3 +48,4 @@ Habit stacking is a special case of [[concepts/implementation-intentions|impleme
 ## Sources
 
 - [[sources/atomic-habits]]
+Habit stacking combines inductive recognition of existing behavior patterns with deductive application of sequence and environment design.
