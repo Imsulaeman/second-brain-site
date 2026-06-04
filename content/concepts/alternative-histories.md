@@ -42,3 +42,4 @@ Before acting, ask:
 
 - [[sources/fooled-by-randomness]] - Core concept in Taleb's probabilistic worldview.
 
+These concepts rely on inductive reasoning from historical and probabilistic patterns combined with deductive application of structural constraints.

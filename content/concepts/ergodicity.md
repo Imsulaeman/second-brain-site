@@ -70,3 +70,4 @@ SBF (FTX) held linear preferences. Su Zhu / 3AC held exponential preferences. Bo
 
 - [[sources/fooled-by-randomness]] - Alternative histories, hidden tail risk, and survival under randomness.
 - [[sources/the-jackpot-age]] — detailed quantitative exposition, cultural analysis
+These concepts rely on inductive reasoning from historical and probabilistic patterns combined with deductive application of structural constraints.
