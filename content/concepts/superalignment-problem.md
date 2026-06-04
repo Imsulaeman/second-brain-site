@@ -46,3 +46,4 @@ Beyond alignment itself, multiple defensive layers: airgapped clusters, monitori
 ## Sources
 
 - [[sources/situational-awareness]] - Part IIIc: Superalignment
+These complex systems problems require both inductive pattern recognition from observed failures and deductive application of constraint and incentive analysis.

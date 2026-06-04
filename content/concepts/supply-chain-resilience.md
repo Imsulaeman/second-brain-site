@@ -30,3 +30,4 @@ The swing away from pure globalization may create opportunities in domestic prod
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "The Pendulum in International Affairs."
+These complex systems problems require both inductive pattern recognition from observed failures and deductive application of constraint and incentive analysis.
