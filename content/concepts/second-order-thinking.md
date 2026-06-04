@@ -63,3 +63,5 @@ Munger's point: ignoring second-order effects is not just a thinking error — i
 - [[sources/the-complete-collection-howard-marks]] - Repeated application across Oaktree memos.
 - [[sources/second-order-thinking]] - Farnam Street mental model explainer.
 - [[sources/poor-charlies-almanack]] - Talk 9 (Academic Economics), defect #7: "Too Little Attention to Second- and Higher-Order Effects."
+
+Second-order thinking often requires moving between inductive and deductive modes — using observations to build better models of consequences (inductive), then applying those models to specific decisions (deductive).

@@ -50,3 +50,5 @@ Good judgment requires asking:
 - [[sources/fooled-by-randomness]] - Luck disguised as skill, probability blindness, induction limits, and alternative histories.
 - [[sources/the-complete-collection-howard-marks]] - "Knowledge of the Future," "Uncertainty," "Uncertainty II," and "The Illusion of Knowledge."
 - [[sources/poor-charlies-almanack]] - Iron Prescription, Circle of Competence, Planck vs Chauffeur Knowledge.
+
+This connects directly to the difference between inductive and deductive reasoning. Inductive conclusions are inherently probabilistic and require epistemic humility by nature. Deductive conclusions can create overconfidence when the premises are treated as more certain than they are.
