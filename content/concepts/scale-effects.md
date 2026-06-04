@@ -48,3 +48,4 @@ Munger highlights that the biggest scale advantages often go to those who catch 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+These concepts require both inductive observation of regime shifts and deductive application of structural and rate principles.

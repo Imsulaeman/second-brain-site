@@ -37,3 +37,4 @@ The point is not "rates will keep rising forever." The point is that the near-ze
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Sea Change," "Further Thoughts on Sea Change," "Easy Money," and related 2022-2024 memos.
+These concepts require both inductive observation of regime shifts and deductive application of structural and rate principles.
