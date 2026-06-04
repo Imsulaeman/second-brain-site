@@ -51,3 +51,4 @@ Marks' contrarian rule follows: when others are overconfident, prudence should r
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] — "The Role of Confidence" (2013), "Ditto" (2013), "It's All Good" (2007), and recurring pendulum/cycle memos.
+The confidence cycle is driven by inductive over-extrapolation from recent results and requires deductive recalibration against long-term evidence.
