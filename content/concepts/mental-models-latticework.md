@@ -55,3 +55,4 @@ Having the models is not enough. Like a concert pianist, you must practice using
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+A strong latticework requires both inductive model-building from observation and deductive application of those models to new situations. The two reasoning directions are complementary in building robust mental models.
