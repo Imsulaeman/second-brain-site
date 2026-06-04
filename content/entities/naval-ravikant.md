@@ -38,3 +38,4 @@ Naval Ravikant is an entrepreneur, investor, and public thinker associated with 
 ## Sources
 
 - [[sources/the-almanack-of-naval-ravikant]]
+Naval's frameworks combine inductive observation of leverage and specific knowledge with deductive application of judgment and happiness principles.
