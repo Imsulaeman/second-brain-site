@@ -36,3 +36,4 @@ This connects directly to [[concepts/habit-stacking]]: "After [unpleasant task],
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Granny's rule combines inductive recognition of personal resistance patterns with deductive application of sequencing and identity principles.
