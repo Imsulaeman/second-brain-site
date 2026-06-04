@@ -49,3 +49,4 @@ Tendency #1 in Munger's [[concepts/psychology-of-human-misjudgment|25 tendencies
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+Understanding incentives often requires inductive observation of behavior patterns combined with deductive application of economic and psychological principles.
