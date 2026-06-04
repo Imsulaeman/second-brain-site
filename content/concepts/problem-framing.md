@@ -3,8 +3,8 @@ title: "Problem Framing"
 type: concept
 tags: [problem-solving, strategy, diagnosis, decision-making]
 created: 2026-06-01
-updated: 2026-06-01
-sources: 1
+updated: 2026-06-03
+sources: 2
 ---
 
 # Problem Framing
@@ -44,10 +44,13 @@ This makes problem framing more than a mindset. It becomes a repeatable team pro
 - [[concepts/first-principles-thinking]] asks which assumptions should be stripped away
 - [[concepts/second-order-thinking]] asks what downstream effects a frame or solution will create
 - [[concepts/epistemic-humility]] asks you to treat first impressions as hypotheses, not truth
+- [[concepts/5-whys]] is a sharp tool for the "examine root causes" step — drill from symptom to systemic cause before drafting the problem statement
 
 Problem framing sits upstream of all three.
 
 ## Sources
 
 - [[sources/to-solve-a-tough-problem-reframe-it]]
+- [[sources/2026-06-03 5-whys]]
 
+These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.

@@ -79,3 +79,4 @@ The second statement is solvable. The first is a wall.
 ## Sources
 
 - [[2026-06-03 5-whys]] — Interaction Design Foundation definition
+These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.
