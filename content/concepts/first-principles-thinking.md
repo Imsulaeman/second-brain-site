@@ -3,8 +3,8 @@ title: "First Principles Thinking"
 type: concept
 tags: [mental-models, problem-solving, creativity, decision-making]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 1
+updated: 2026-06-03
+sources: 2
 ---
 
 # First Principles Thinking
@@ -61,7 +61,10 @@ This is especially dangerous when the copied strategy comes from someone more es
 - [[concepts/epistemic-humility]] - Requires admitting which beliefs are assumptions.
 - [[concepts/decision-quality-vs-outcome]] - Good reasoning can still have noisy outcomes.
 - [[concepts/illusions-of-competence]] - Knowing the phrase or template is not the same as understanding the system.
+- [[concepts/5-whys]] - Complementary drill: 5 Whys peels symptoms off a problem; first-principles peels conventions off a solution. Pair them — diagnose with 5 Whys, design with first-principles.
 
 ## Sources
 
 - [[sources/first-principles-thinking]] - Personal essay on copying, analogy, and rebuilding from fundamentals.
+
+First principles thinking often requires distinguishing between inductive and deductive moves. Breaking down to fundamentals frequently involves inductive pattern recognition from observations, while rebuilding solutions may rely on deductive application of fundamental truths.

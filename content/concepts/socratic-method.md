@@ -40,3 +40,5 @@ The method helps convert confidence into inquiry. A person may feel sure they un
 
 - [[sources/this-tool-will-help-improve-your-critical-thinking]]
 
+
+The method is especially useful for distinguishing between inductive and deductive claims. When someone makes a general claim from examples, Socratic questioning can test the strength of the induction. When someone applies a rule, it can test whether the rule actually covers the specific case.
