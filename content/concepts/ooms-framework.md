@@ -34,3 +34,4 @@ A key constraint within the framework: internet training data is nearly exhauste
 ## Sources
 
 - [[sources/situational-awareness]] - Part I: Counting the OOMs
+The OOMS framework combines inductive observation of market structure with deductive application of positioning and risk principles.
