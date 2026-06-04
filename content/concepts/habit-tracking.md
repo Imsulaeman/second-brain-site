@@ -48,3 +48,4 @@ This is a form of damage control. Perfection is not the goal; consistency is.
 ## Sources
 
 - [[sources/atomic-habits]]
+Effective habit tracking requires inductive pattern recognition from personal data and deductive application of identity and environment principles.
