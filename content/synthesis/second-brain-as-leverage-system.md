@@ -273,3 +273,4 @@ The Second Brain is leverage when it stops being a place where knowledge goes an
 - [[sources/advice-on-upskilling]]
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/how-to-articulate-yourself-intelligently]]
+Leverage systems and knowledge maps combine inductive recognition of high-leverage activities with deductive application of structure and compounding principles.
