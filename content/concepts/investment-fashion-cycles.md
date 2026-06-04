@@ -33,3 +33,4 @@ The proper question is not "has this asset class historically worked?" but "what
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] — stocks/bonds fashion-cycle memo, "The Long View," "So Much That's False and Nutty"
+Investment fashion cycles are best understood through inductive observation of crowd behavior and deductive analysis of underlying value.
