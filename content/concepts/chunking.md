@@ -51,3 +51,4 @@ The biggest threat to effective chunking is [[concepts/illusions-of-competence|I
 
 - [[sources/a-mind-for-numbers]] — Ch 4, 7, 12 (the core mechanism of the book)
 - [[sources/advice-on-upskilling]] — Ch 10 (Expertise), "How To Do Cognitive Weightlifting"
+These cognitive techniques involve both inductive pattern recognition during diffuse mode and deductive application during focused problem-solving.

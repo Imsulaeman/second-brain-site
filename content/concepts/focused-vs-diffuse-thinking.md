@@ -55,3 +55,4 @@ You can't be in both modes simultaneously. To shift from focused to diffuse:
 ## Sources
 
 - [[sources/a-mind-for-numbers]] — Ch 2–3, the central framework of the entire book
+These cognitive techniques involve both inductive pattern recognition during diffuse mode and deductive application during focused problem-solving.
