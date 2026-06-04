@@ -3,29 +3,18 @@ title: "Circular Reasoning"
 type: concept
 tags: [logic, tradition, law, fallacies, critical-thinking]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-04
 sources: 1
 ---
 
 # Circular Reasoning
 
-**Circular reasoning** or **begging the question** happens when an argument assumes the truth of the conclusion it is supposed to prove.
+Circular reasoning happens when an argument assumes the truth of the conclusion it is supposed to establish. Instead of moving from evidence to claim, it loops back and quietly uses the claim as one of its own supports.
 
----
+The obvious form sounds silly. The dangerous form sounds respectable. It often appears inside tradition, institutional design, legal categories, and repeated assumptions that no longer feel like assumptions. "This must remain the way it is because this is what it is" is the underlying structure, even when the wording is more polished.
 
-## Core Idea
-
-Instead of moving from evidence to conclusion, the argument loops back on itself. This often hides inside:
-
-- institutional traditions
-- repeated assumptions
-- descriptions of the status quo treated as justification
-
-The cure is to demand an independent reason for the claim.
+The practical test is simple: if you remove the conclusion from the premises, is there still an independent reason left? If not, the argument has only restated itself. Circular reasoning is repetition dressed as justification.
 
 ## Sources
 
 - [[sources/can-you-outsmart-the-circular-reasoning-fallacy]]
-
-
-Circular reasoning is a failure mode that can appear in both inductive and deductive arguments. In induction, it appears when observations are selected to confirm an already-held conclusion. In deduction, it appears when the conclusion is smuggled into the premises.

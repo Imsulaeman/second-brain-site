@@ -3,42 +3,14 @@ title: "Can You Outsmart the Middle Ground Fallacy?"
 type: source
 tags: [critical-thinking, logic, fallacies, politics, slavery, ethics, elizabeth-cox]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-04
 sources: 1
 ---
 
 # Can You Outsmart the Middle Ground Fallacy?
 
-**Author:** [[entities/elizabeth-cox|Elizabeth Cox]]
-**Type:** Educational reasoning essay
+Elizabeth Cox uses the Missouri Compromise to challenge the comforting idea that the wisest position is usually somewhere in the middle. Her point is sharper than a generic warning about moderation: compromise can be politically convenient while still being morally rotten when one side of the dispute is defending an injustice.
 
----
+The essay turns on the slavery debate around Missouri's admission to the Union. One side treated slavery as a moral evil that should not expand. The other defended the right to preserve it. The compromise admitted Missouri as a slave state, Maine as a free state, and drew a line across future territories that divided where slavery could spread. Politically, this looked balanced. Morally, Cox argues, it simply rationed injustice. A line on a map cannot make human bondage half-just. The midpoint between freedom and slavery is not neutrality; it is partial complicity.
 
-## Core Premise
-
-The essay uses the Missouri Compromise to show why the midpoint between two positions is not automatically true or just. Some disputes are not resolved morally by splitting the difference.
-
----
-
-## Historical Example: Missouri Compromise
-
-The compromise admitted Missouri as a slave state and Maine as a free state, while drawing a geographic line across future territories. Politically it looked balanced. Morally, the essay argues, it preserved injustice.
-
-Its key point is that:
-
-- compromise can be useful in ordinary policy disputes
-- compromise becomes moral failure when one side is defending oppression
-- a midpoint between justice and injustice is still partly unjust
-
----
-
-## Main Lesson
-
-Balance is not the same as truth. Moderation is not a substitute for ethical judgment. This makes the piece especially valuable for distinguishing political pragmatism from moral clarity.
-
-## Related Concepts
-
-- [[concepts/middle-ground-fallacy]]
-- [[concepts/epistemic-humility]]
-- [[concepts/problem-framing]]
-
+The strength of the piece is that it separates political expediency from moral truth. Cox allows that compromise often matters in ordinary governance, but insists that not every conflict is an ordinary policy dispute. Some arguments are asymmetric because one side is defending harm. Worth keeping from this essay: before praising a middle position, ask whether both ends of the dispute are legitimate candidates for compromise in the first place.

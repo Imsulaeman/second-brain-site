@@ -18,7 +18,11 @@ import { fileURLToPath } from 'url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-const WIKI_DIR = path.resolve(__dirname, '..', 'second-brain', 'Second Brain', 'wiki')
+const WIKI_DIR_CANDIDATES = [
+  path.resolve(__dirname, '..', 'Second Brain', 'wiki'),
+  path.resolve(__dirname, '..', 'second-brain', 'Second Brain', 'wiki'),
+]
+const WIKI_DIR = WIKI_DIR_CANDIDATES.find((candidate) => fs.existsSync(candidate)) ?? WIKI_DIR_CANDIDATES[0]
 const CONTENT_DIR = path.resolve(__dirname, 'content')
 
 const SYNC_DIRS = ['concepts', 'entities', 'sources', 'synthesis']
@@ -30,6 +34,11 @@ function walkDir(dir) {
     const full = path.join(dir, entry.name)
     return entry.isDirectory() ? walkDir(full) : [full]
   })
+}
+
+function filesDiffer(srcFile, dstFile) {
+  if (!fs.existsSync(dstFile)) return true
+  return fs.readFileSync(srcFile, 'utf8') !== fs.readFileSync(dstFile, 'utf8')
 }
 
 let copied = 0
@@ -52,11 +61,7 @@ for (const subdir of SYNC_DIRS) {
     const dstFile = path.join(dstDir, rel)
     fs.mkdirSync(path.dirname(dstFile), { recursive: true })
 
-    const srcMtime = fs.statSync(srcFile).mtimeMs
-    const dstExists = fs.existsSync(dstFile)
-    const dstMtime = dstExists ? fs.statSync(dstFile).mtimeMs : 0
-
-    if (!dstExists || srcMtime > dstMtime) {
+    if (filesDiffer(srcFile, dstFile)) {
       fs.copyFileSync(srcFile, dstFile)
       copied++
     }
@@ -77,10 +82,7 @@ for (const subdir of SYNC_DIRS) {
 const srcOverview = path.join(WIKI_DIR, 'overview.md')
 const dstOverview = path.join(CONTENT_DIR, 'overview.md')
 if (fs.existsSync(srcOverview)) {
-  const srcMtime = fs.statSync(srcOverview).mtimeMs
-  const dstExists = fs.existsSync(dstOverview)
-  const dstMtime = dstExists ? fs.statSync(dstOverview).mtimeMs : 0
-  if (!dstExists || srcMtime > dstMtime) {
+  if (filesDiffer(srcOverview, dstOverview)) {
     fs.copyFileSync(srcOverview, dstOverview)
     copied++
   }
