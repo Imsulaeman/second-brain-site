@@ -54,3 +54,4 @@ For consumption spirals:
 ## Sources
 
 - [[sources/atomic-habits]]
+The Diderot effect often involves inductive generalization from a single purchase or change, leading to a cascade of new consumption decisions.
