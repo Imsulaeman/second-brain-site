@@ -39,3 +39,4 @@ The 2025 First Brands and Tricolor episodes show the same lesson in event form: 
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] - "Fewer Losers, or More Winners?", "Gimme Credit", and "Cockroaches in the Coal Mine."
+Credit investing as a negative art relies on both inductive pattern recognition from default and recovery data and deductive application of downside protection principles.
