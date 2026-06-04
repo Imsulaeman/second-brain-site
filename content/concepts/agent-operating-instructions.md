@@ -86,3 +86,4 @@ This concept mirrors [[concepts/use-it-or-lose-it]] and [[concepts/spaced-repeti
 
 - [[sources/karpathy-claude-md-hit-number-one]]
 - [[sources/andrej-karpathy-skills-repo]]
+Designing agent operating instructions requires both inductive pattern recognition from observed agent behavior and deductive application of constraint and goal principles.
