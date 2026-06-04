@@ -108,3 +108,4 @@ See [[concepts/agent-operating-instructions]] and [[synthesis/agent-instruction-
 - [[sources/ramping-your-coding-output-with-openai-codex]]
 - [[sources/karpathy-claude-md-hit-number-one]]
 - [[sources/andrej-karpathy-skills-repo]]
+Agentic coding often alternates between inductive pattern recognition from code and errors, and deductive application of architectural principles and constraints.
