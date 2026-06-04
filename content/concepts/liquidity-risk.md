@@ -32,3 +32,4 @@ Liquidity can turn from comfort into danger when it encourages trading, short-te
 ## Sources
 
 - [[sources/the-complete-collection-howard-marks]] — Liquidity memo (2015), plus recurring GFC/fire-sale discussions.
+Liquidity risk analysis requires both inductive pattern recognition from market stress events and deductive application of balance sheet and funding rules.
