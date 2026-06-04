@@ -37,3 +37,4 @@ Average return and win rate are not enough. The shape of the distribution matter
 
 - [[sources/fooled-by-randomness]] - Skewness, asymmetry, rare events, and trading payoffs.
 
+These investing concepts rely on both inductive pattern recognition from market behavior and deductive application of risk and probability principles.

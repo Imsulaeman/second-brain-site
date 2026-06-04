@@ -36,3 +36,4 @@ Diversification protects against ignorance. If you actually know what you're doi
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+These investing concepts rely on both inductive pattern recognition from market behavior and deductive application of risk and probability principles.
