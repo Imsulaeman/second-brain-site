@@ -30,3 +30,4 @@ Skycak's core expertise is in mathematical education and learning science. His p
 ## Sources in This Wiki
 
 - [[sources/advice-on-upskilling|Advice on Upskilling]] — 257-page working draft compiling his philosophy on skill acquisition, learning, career, and motivation
+Skycak's work on upskilling combines inductive observation of high performers with deductive application of training volume and deliberate practice principles.
