@@ -40,3 +40,4 @@ The cure is the [[concepts/mental-models-latticework]]: acquire the big ideas fr
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+These cognitive traps often stem from over-reliance on a single mode of reasoning without awareness of when inductive or deductive approaches are more appropriate.

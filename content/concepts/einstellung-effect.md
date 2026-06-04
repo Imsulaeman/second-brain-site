@@ -36,3 +36,4 @@ The Einstellung effect is especially treacherous because **more expertise can ma
 ## Sources
 
 - [[sources/a-mind-for-numbers]] — Ch 2, 4, 12; recurring theme throughout
+These cognitive traps often stem from over-reliance on a single mode of reasoning without awareness of when inductive or deductive approaches are more appropriate.
