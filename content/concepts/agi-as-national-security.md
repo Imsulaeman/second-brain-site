@@ -51,3 +51,4 @@ Aschenbrenner predicts a government-led AGI project ("The Project") by 2027-28, 
 ## Sources
 
 - [[sources/situational-awareness]] - Parts IIIb, IIId, IV
+Strategic reasoning about AGI as national security involves inductive pattern recognition from current AI development and deductive application of game-theoretic and geopolitical principles.
