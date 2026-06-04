@@ -23,3 +23,5 @@ This matters most in moral disputes, where moderation can look reasonable while 
 
 - [[sources/can-you-outsmart-the-middle-ground-fallacy]]
 
+
+This fallacy often interacts with inductive reasoning when correlation is mistaken for causation in pattern recognition.

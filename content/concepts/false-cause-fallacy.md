@@ -27,3 +27,5 @@ Good reasoning asks what mechanism links the events and what competing explanati
 
 - [[sources/can-you-outsmart-the-false-cause-fallacy]]
 
+
+This fallacy often interacts with inductive reasoning when correlation is mistaken for causation in pattern recognition.

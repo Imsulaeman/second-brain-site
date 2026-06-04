@@ -27,3 +27,5 @@ To evaluate a slope claim, ask:
 
 - [[sources/can-you-outsmart-the-slippery-slope-fallacy]]
 
+
+This fallacy often interacts with inductive reasoning when correlation is mistaken for causation in pattern recognition.
