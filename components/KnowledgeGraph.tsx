@@ -36,13 +36,14 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
 
     const simNodes = nodes.map((node) => ({ ...node }))
     const simEdges = edges.map((edge) => ({ ...edge }))
+    const nodeIds = new Set(simNodes.map((node) => node.id))
 
     const simulation = d3.forceSimulation(simNodes as d3.SimulationNodeDatum[])
-      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(72).strength(0.55))
-      .force('charge', d3.forceManyBody().strength(-110))
+      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(84).strength(0.48))
+      .force('charge', d3.forceManyBody().strength(-135))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('x', d3.forceX(width / 2).strength(0.04))
-      .force('y', d3.forceY(height / 2).strength(0.04))
+      .force('x', d3.forceX(width / 2).strength(0.02))
+      .force('y', d3.forceY(height / 2).strength(0.02))
       .force('collision', d3.forceCollide().radius((datum: any) => Math.max(10, Math.min(24, 6 + datum.size * 1.6))))
 
     const link = g.append('g')
@@ -98,11 +99,51 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       node.attr('cx', (datum: any) => datum.x).attr('cy', (datum: any) => datum.y)
     }
 
+    const getPrimaryComponentIds = () => {
+      const adjacency = new Map<string, Set<string>>()
+      for (const id of nodeIds) adjacency.set(id, new Set())
+
+      for (const edge of simEdges) {
+        if (!nodeIds.has(edge.source) || !nodeIds.has(edge.target)) continue
+        adjacency.get(edge.source)?.add(edge.target)
+        adjacency.get(edge.target)?.add(edge.source)
+      }
+
+      const seen = new Set<string>()
+      let largestComponent = new Set<string>()
+
+      for (const id of nodeIds) {
+        if (seen.has(id)) continue
+
+        const stack = [id]
+        const component = new Set<string>()
+        seen.add(id)
+
+        while (stack.length) {
+          const current = stack.pop()
+          if (!current) continue
+          component.add(current)
+
+          for (const next of adjacency.get(current) ?? []) {
+            if (seen.has(next)) continue
+            seen.add(next)
+            stack.push(next)
+          }
+        }
+
+        if (component.size > largestComponent.size) largestComponent = component
+      }
+
+      return largestComponent.size ? largestComponent : nodeIds
+    }
+
     const fitGraph = () => {
       if (!simNodes.length) return
 
-      const xs = simNodes.map((datum: any) => datum.x).filter((value): value is number => Number.isFinite(value))
-      const ys = simNodes.map((datum: any) => datum.y).filter((value): value is number => Number.isFinite(value))
+      const primaryComponentIds = getPrimaryComponentIds()
+      const fittingNodes = simNodes.filter((datum) => primaryComponentIds.has(datum.id))
+      const xs = fittingNodes.map((datum: any) => datum.x).filter((value): value is number => Number.isFinite(value))
+      const ys = fittingNodes.map((datum: any) => datum.y).filter((value): value is number => Number.isFinite(value))
       if (!xs.length || !ys.length) return
 
       const minX = Math.min(...xs)
@@ -111,7 +152,7 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       const maxY = Math.max(...ys)
       const graphWidth = Math.max(maxX - minX, 1)
       const graphHeight = Math.max(maxY - minY, 1)
-      const scale = Math.max(0.42, Math.min(1.35, 0.92 / Math.max(graphWidth / width, graphHeight / height)))
+      const scale = Math.max(0.7, Math.min(1.75, 1.15 / Math.max(graphWidth / width, graphHeight / height)))
       const translateX = width / 2 - ((minX + maxX) / 2) * scale
       const translateY = height / 2 - ((minY + maxY) / 2) * scale
 
@@ -124,7 +165,7 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     })
 
     simulation.stop()
-    for (let index = 0; index < 240; index += 1) simulation.tick()
+    for (let index = 0; index < 150; index += 1) simulation.tick()
     simNodes.forEach(clampNode)
     render()
     fitGraph()
