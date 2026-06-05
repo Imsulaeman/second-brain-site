@@ -24,23 +24,25 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     const rect = svgRef.current.getBoundingClientRect()
     const width = rect.width || 960
     const height = rect.height || 640
+    const padding = 28
 
     svg.selectAll('*').remove()
     const g = svg.append('g')
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.3, 3])
+      .on('zoom', (event) => g.attr('transform', event.transform))
 
-    svg.call(
-      d3.zoom<SVGSVGElement, unknown>()
-        .scaleExtent([0.3, 3])
-        .on('zoom', (event) => g.attr('transform', event.transform)),
-    )
+    svg.call(zoom)
 
     const simNodes = nodes.map((node) => ({ ...node }))
     const simEdges = edges.map((edge) => ({ ...edge }))
 
     const simulation = d3.forceSimulation(simNodes as d3.SimulationNodeDatum[])
-      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(84))
-      .force('charge', d3.forceManyBody().strength(-145))
+      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(72).strength(0.55))
+      .force('charge', d3.forceManyBody().strength(-110))
       .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('x', d3.forceX(width / 2).strength(0.04))
+      .force('y', d3.forceY(height / 2).strength(0.04))
       .force('collision', d3.forceCollide().radius((datum: any) => Math.max(10, Math.min(24, 6 + datum.size * 1.6))))
 
     const link = g.append('g')
@@ -82,14 +84,50 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
 
     node.append('title').text((datum) => datum.label)
 
-    simulation.on('tick', () => {
+    const clampNode = (datum: any) => {
+      datum.x = Math.max(padding, Math.min(width - padding, datum.x ?? width / 2))
+      datum.y = Math.max(padding, Math.min(height - padding, datum.y ?? height / 2))
+    }
+
+    const render = () => {
       link
         .attr('x1', (datum: any) => datum.source.x)
         .attr('y1', (datum: any) => datum.source.y)
         .attr('x2', (datum: any) => datum.target.x)
         .attr('y2', (datum: any) => datum.target.y)
       node.attr('cx', (datum: any) => datum.x).attr('cy', (datum: any) => datum.y)
+    }
+
+    const fitGraph = () => {
+      if (!simNodes.length) return
+
+      const xs = simNodes.map((datum: any) => datum.x).filter((value): value is number => Number.isFinite(value))
+      const ys = simNodes.map((datum: any) => datum.y).filter((value): value is number => Number.isFinite(value))
+      if (!xs.length || !ys.length) return
+
+      const minX = Math.min(...xs)
+      const maxX = Math.max(...xs)
+      const minY = Math.min(...ys)
+      const maxY = Math.max(...ys)
+      const graphWidth = Math.max(maxX - minX, 1)
+      const graphHeight = Math.max(maxY - minY, 1)
+      const scale = Math.max(0.42, Math.min(1.35, 0.92 / Math.max(graphWidth / width, graphHeight / height)))
+      const translateX = width / 2 - ((minX + maxX) / 2) * scale
+      const translateY = height / 2 - ((minY + maxY) / 2) * scale
+
+      svg.call(zoom.transform, d3.zoomIdentity.translate(translateX, translateY).scale(scale))
+    }
+
+    simulation.on('tick', () => {
+      simNodes.forEach(clampNode)
+      render()
     })
+
+    simulation.stop()
+    for (let index = 0; index < 240; index += 1) simulation.tick()
+    simNodes.forEach(clampNode)
+    render()
+    fitGraph()
 
     return () => {
       simulation.stop()
