@@ -119,7 +119,7 @@ Useful outputs:
 - bug-fix postmortems
 - project context files
 - codebase research notes
-- [[concepts/automation|automation]] ideas from recurring wiki tasks
+- automation ideas from recurring wiki tasks
 
 The wiki becomes an agent memory system: not just what you know, but what future agents can use.
 

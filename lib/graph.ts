@@ -1,5 +1,4 @@
 import type { Note } from './notes'
-import { slugFromLink } from './notes'
 
 export interface GraphNode {
   id: string
@@ -14,26 +13,24 @@ export interface GraphEdge {
 }
 
 export function buildGraph(notes: Note[]) {
-  const noteSlugs = new Set(notes.map((note) => note.slug))
+  const noteIds = new Set(notes.map((note) => note.id))
   const inbound = new Map<string, number>()
   const edges: GraphEdge[] = []
 
   for (const note of notes) {
-    const matches = note.rawContent.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)
-    for (const match of matches) {
-      const target = slugFromLink(match[1])
-      if (noteSlugs.has(target) && target !== note.slug) {
-        edges.push({ source: note.slug, target })
+    for (const target of note.links) {
+      if (noteIds.has(target) && target !== note.id) {
+        edges.push({ source: note.id, target })
         inbound.set(target, (inbound.get(target) ?? 0) + 1)
       }
     }
   }
 
   const nodes: GraphNode[] = notes.map((note) => ({
-    id: note.slug,
+    id: note.id,
     label: note.title,
     type: note.type,
-    size: 1 + (inbound.get(note.slug) ?? 0),
+    size: 1 + (inbound.get(note.id) ?? 0),
   }))
 
   return { nodes, edges }

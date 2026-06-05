@@ -7,7 +7,7 @@ export default function NoteCard({ note }: { note: Note }) {
 
   return (
     <Link
-      href={`/note/${note.slug}`}
+      href={note.href}
       className="card-hover group flex min-h-[210px] flex-col justify-between rounded-lg border border-palace-border bg-palace-surface/74 p-5 shadow-[0_14px_42px_rgba(4,8,20,0.18)]"
       style={room ? { boxShadow: `inset 0 0 0 1px ${room.accent}16` } : undefined}
     >

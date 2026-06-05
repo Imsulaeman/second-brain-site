@@ -121,7 +121,7 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
         >
           {filtered.map((note) => (
             <motion.article
-              key={note.slug}
+              key={note.id}
               variants={{
                 hidden: { opacity: 0, y: 16, scale: 0.98 },
                 show: { opacity: 1, y: 0, scale: 1 },
@@ -129,7 +129,7 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
               transition={{ duration: 0.22, ease: [0.23, 1, 0.32, 1] }}
             >
               <Link
-                href={`/note/${note.slug}`}
+                href={note.href}
                 className="card-hover flex h-full flex-col rounded-lg border border-palace-border bg-palace-surface/80 p-5 hover:border-palace-gold/60 hover:shadow-insetGlow"
               >
                 <div className="flex items-start justify-between gap-4">

@@ -5,7 +5,9 @@ import matter from 'gray-matter'
 export type NoteType = 'concept' | 'source' | 'entity' | 'synthesis' | 'overview'
 
 export interface Note {
+  id: string
   slug: string
+  href: string
   title: string
   type: NoteType
   tags: string[]
@@ -35,25 +37,48 @@ export function slugFromLink(link: string): string {
     .replace(/\s+/g, '-')
 }
 
-function extractWikiLinks(content: string): string[] {
+function normalizeLinkPath(link: string): string {
+  return link
+    .trim()
+    .replace(/\\/g, '/')
+    .split('#')[0]
+    .split('/')
+    .map((segment) => segment.toLowerCase().replace(/\s+/g, '-'))
+    .join('/')
+}
+
+function resolveLinkTarget(link: string, validIds: Set<string>, idsBySlug: Map<string, string[]>): string | null {
+  const normalized = normalizeLinkPath(link)
+  if (validIds.has(normalized)) return normalized
+
+  const slug = slugFromLink(link)
+  const matches = idsBySlug.get(slug) ?? []
+  if (matches.length === 1) return matches[0]
+  return null
+}
+
+function extractWikiLinks(content: string, validIds: Set<string>, idsBySlug: Map<string, string[]>): string[] {
   const links = new Set<string>()
   const matches = content.matchAll(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g)
-  for (const match of matches) links.add(slugFromLink(match[1]))
+  for (const match of matches) {
+    const target = resolveLinkTarget(match[1], validIds, idsBySlug)
+    if (target) links.add(target)
+  }
   return [...links]
 }
 
-export function resolveWikiLinks(content: string, validSlugs?: Set<string>): string {
+export function resolveWikiLinks(content: string, validIds?: Set<string>, idsBySlug?: Map<string, string[]>): string {
   return content
     .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, link: string, label: string) => {
-      const slug = slugFromLink(link)
-      if (validSlugs && !validSlugs.has(slug)) return label.trim()
-      return `[${label.trim()}](/note/${slug})`
+      const target = validIds && idsBySlug ? resolveLinkTarget(link, validIds, idsBySlug) : slugFromLink(link)
+      if (!target) return label.trim()
+      return `[${label.trim()}](/note/${target})`
     })
     .replace(/\[\[([^\]]+)\]\]/g, (_, link: string) => {
-      const slug = slugFromLink(link)
+      const target = validIds && idsBySlug ? resolveLinkTarget(link, validIds, idsBySlug) : slugFromLink(link)
       const label = path.basename(link.trim().split('#')[0])
-      if (validSlugs && !validSlugs.has(slug)) return label
-      return `[${label}](/note/${slug})`
+      if (!target) return label
+      return `[${label}](/note/${target})`
     })
 }
 
@@ -87,26 +112,35 @@ export function getAllNotes(): Note[] {
   if (cache) return cache
 
   const files = walkDir(CONTENT_DIR).filter((file) => file.endsWith('.md'))
-  const validSlugs = new Set(files.map((f) => path.basename(f, '.md')))
+  const fileIds = files.map((f) => path.relative(CONTENT_DIR, f).replace(/\\/g, '/').replace(/\.md$/, ''))
+  const validIds = new Set(fileIds)
+  const idsBySlug = new Map<string, string[]>()
+  for (const id of fileIds) {
+    const slug = path.basename(id)
+    idsBySlug.set(slug, [...(idsBySlug.get(slug) ?? []), id])
+  }
   cache = files
     .map((filePath) => {
       const raw = fs.readFileSync(filePath, 'utf-8')
       const { data, content } = matter(raw)
+      const id = path.relative(CONTENT_DIR, filePath).replace(/\\/g, '/').replace(/\.md$/, '')
       const slug = path.basename(filePath, '.md')
 
       return {
+        id,
         slug,
+        href: `/note/${id}`,
         title: typeof data.title === 'string' ? data.title : slug.replace(/-/g, ' '),
         type: normalizeType(data.type, filePath),
         tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
         created: data.created ? String(data.created).slice(0, 10) : '',
         updated: data.updated ? String(data.updated).slice(0, 10) : '',
         sources: typeof data.sources === 'number' ? data.sources : Number(data.sources ?? 0),
-        content: resolveWikiLinks(content, validSlugs),
+        content: resolveWikiLinks(content, validIds, idsBySlug),
         rawContent: content,
         rawSize: Buffer.byteLength(content, 'utf8'),
         excerpt: cleanExcerpt(content),
-        links: extractWikiLinks(content),
+        links: extractWikiLinks(content, validIds, idsBySlug),
       }
     })
     .sort((a, b) => a.title.localeCompare(b.title))
@@ -114,16 +148,16 @@ export function getAllNotes(): Note[] {
   return cache
 }
 
-export function getNoteBySlug(slug: string): Note | undefined {
-  return getAllNotes().find((note) => note.slug === slug)
+export function getNoteById(id: string): Note | undefined {
+  return getAllNotes().find((note) => note.id === id)
 }
 
-export function getBacklinks(slug: string): Note[] {
-  return getAllNotes().filter((note) => note.slug !== slug && note.links.includes(slug))
+export function getBacklinks(id: string): Note[] {
+  return getAllNotes().filter((note) => note.id !== id && note.links.includes(id))
 }
 
 export function getUniqueNoteSlugs() {
-  return [...new Set(getAllNotes().map((note) => note.slug))]
+  return [...new Set(getAllNotes().map((note) => note.id))]
 }
 
 export function getNotesByType(type: NoteType): Note[] {

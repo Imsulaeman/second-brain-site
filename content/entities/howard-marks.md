@@ -37,7 +37,7 @@ Two epistemic camps drive everything else: the **"I Know" school** (macro foreca
 
 **Forecasting as assumption stacks** - "The Illusion of Knowledge" and "What Really Matters?" argue that macro forecasts are chains of conditional assumptions. If an investor predicts A, then B, then C, then D, then security E, every link must be right. The more links, the less useful the forecast.
 
-**[[concepts/active-management-as-error-detection|Active management as error detection]]** — Marks argues that active investing is justified only when market mistakes exist and the investor can identify them. Distressed [[concepts/debt-and-profit|debt]] is his prime example: prior underwriting errors, excessive leverage, and panic selling create mispricings for disciplined buyers.
+**[[concepts/active-management-as-error-detection|Active management as error detection]]** — Marks argues that active investing is justified only when market mistakes exist and the investor can identify them. Distressed debt is his prime example: prior underwriting errors, excessive leverage, and panic selling create mispricings for disciplined buyers.
 
 **Passive investing reflexivity** — Marks does not reject indexing, but argues passive investing depends on active investors doing price discovery. If passive flows become large enough, they can distort the very prices they rely on, especially in cap-weighted indices, smart-beta products, and ETF structures.
 
@@ -128,7 +128,7 @@ See [[concepts/credit-cycle]].
 4. Leverage magnifies both gains and losses, non-linearly
 5. Illiquidity is indistinguishable from insolvency in a panic
 6. Correlations approach 1.0 when it matters most
-7. "Contained" [[concepts/crises|crises]] rarely are
+7. "Contained" crises rarely are
 8. Moral hazard grows with every bailout
 9. Markets can remain irrational longer than you can remain solvent
 10. The last crisis is always the template — but the next one is always different in form
@@ -182,7 +182,7 @@ See [[concepts/credit-cycle]].
 - **"Risk Revisited Again" (2015)** — Risk as permanent loss and future probability distribution
 - **"It's Not Easy" (2015)** — Second-level thinking, outcome bias, and why obvious opportunities disappear
 - **"Economic Reality" / "Political Reality" (2016)** — Scarcity, trade-offs, Brexit, populism, and political incentives that deny economic constraints
-- **"Implications of the Election" (2016)** — Trump-era voter anger as a symptom of globalization, [[concepts/automation|automation]], cultural change, and institutional failure
+- **"Implications of the Election" (2016)** — Trump-era voter anger as a symptom of globalization, automation, cultural change, and institutional failure
 - **"Go Figure!" (2016)** — Event prediction and market-reaction prediction both failed around the Trump election
 - **"Expert Opinion" (2017)** — Brexit/Trump/Italy polling failures; experts need scored records, not just confident narratives
 - **"Lines in the Sand" (2017)** — Subscription lines; IRR optics versus true LP wealth creation

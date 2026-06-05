@@ -7,7 +7,7 @@ import { useRouter } from 'next/navigation'
 import { useEffect, useMemo, useRef, useState } from 'react'
 
 interface SearchNote {
-  slug: string
+  id: string
   title: string
   tags: string[]
   excerpt: string
@@ -42,8 +42,8 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
 
   useEffect(() => setActiveIdx(0), [query])
 
-  const goTo = (slug: string) => {
-    router.push(`/note/${slug}`)
+  const goTo = (id: string) => {
+    router.push(`/note/${id}`)
     onClose()
   }
 
@@ -58,7 +58,7 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
     }
     if (event.key === 'Enter' && results[activeIdx]) {
       event.preventDefault()
-      goTo(results[activeIdx].slug)
+      goTo(results[activeIdx].id)
     }
   }
 
@@ -95,10 +95,10 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
           </div>
           <ul className="max-h-96 overflow-y-auto py-2">
             {results.map((note, idx) => (
-              <li key={note.slug}>
+              <li key={note.id}>
                 <button
                   type="button"
-                  onClick={() => goTo(note.slug)}
+                  onClick={() => goTo(note.id)}
                   className={`w-full px-4 py-3 text-left transition-colors duration-150 ${
                     idx === activeIdx ? 'bg-palace-border/75 text-palace-text' : 'text-palace-muted hover:bg-palace-border/35 hover:text-palace-text'
                   }`}

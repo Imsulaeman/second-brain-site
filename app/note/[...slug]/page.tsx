@@ -4,19 +4,23 @@ import { MDXRemote } from 'next-mdx-remote/rsc'
 import remarkGfm from 'remark-gfm'
 import ReadingProgress from '@/components/ReadingProgress'
 import MermaidDiagram from '@/components/MermaidDiagram'
-import { getAllNotes, getBacklinks, getNoteBySlug } from '@/lib/notes'
+import { getAllNotes, getBacklinks, getNoteById } from '@/lib/notes'
 import { roomByType } from '@/lib/rooms'
 
 export const dynamicParams = true
 
+function paramsToId(slug?: string[]) {
+  return (slug ?? []).join('/')
+}
+
 export function generateStaticParams() {
   return getAllNotes()
     .filter((note) => note.rawSize < 80_000)
-    .map((note) => ({ slug: note.slug }))
+    .map((note) => ({ slug: note.id.split('/') }))
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }) {
-  const note = getNoteBySlug(params.slug)
+export function generateMetadata({ params }: { params: { slug: string[] } }) {
+  const note = getNoteById(paramsToId(params.slug))
   return {
     title: note ? `${note.title} | Ilham's Second Brain` : "Ilham's Second Brain",
     description: note?.excerpt,
@@ -70,12 +74,12 @@ const mdxComponents = {
   ),
 }
 
-export default function NotePage({ params }: { params: { slug: string } }) {
-  const note = getNoteBySlug(params.slug)
+export default function NotePage({ params }: { params: { slug: string[] } }) {
+  const note = getNoteById(paramsToId(params.slug))
   if (!note) notFound()
 
   const room = roomByType(note.type)
-  const backlinks = getBacklinks(note.slug)
+  const backlinks = getBacklinks(note.id)
   const accent = room?.accent ?? '#5b8dd9'
 
   return (
@@ -151,8 +155,8 @@ export default function NotePage({ params }: { params: { slug: string } }) {
                 <div className="mt-4 space-y-2">
                   {backlinks.map((link) => (
                     <Link
-                      key={link.slug}
-                      href={`/note/${link.slug}`}
+                      key={link.id}
+                      href={link.href}
                       className="block rounded-md border border-palace-border/70 px-3 py-2 text-sm text-palace-text transition-colors duration-200 hover:border-palace-blue/60 hover:bg-palace-border/30"
                     >
                       {link.title}
