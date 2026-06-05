@@ -59,9 +59,9 @@ The second statement is solvable. The first is a wall.
 
 ## Adjacent Techniques
 
-- [[first-principles-thinking]] — strips inherited assumptions; 5 Whys strips inherited symptoms. Pair them: 5 Whys finds the real problem, first-principles designs the real solution.
+- [[concepts/first-principles-thinking|First Principles Thinking]] — strips inherited assumptions; 5 Whys strips inherited symptoms. Pair them: 5 Whys finds the real problem, first-principles designs the real solution.
 - [[inversion]] — instead of "why did this fail?", ask "how would I cause this to fail?" Catches causes the forward chain misses.
-- [[second-order-thinking]] — looks forward at consequences; 5 Whys looks backward at causes. Both fight surface reasoning.
+- [[concepts/second-order-thinking|Second-Order Thinking]] — looks forward at consequences; 5 Whys looks backward at causes. Both fight surface reasoning.
 - [[problem-framing]] — 5 Whys is one of the sharpest tools for getting the frame right.
 - Fishbone (Ishikawa) diagram — branching version of the same instinct; use when causes are multi-factor rather than chained.
 

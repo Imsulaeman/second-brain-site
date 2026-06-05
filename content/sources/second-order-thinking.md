@@ -9,7 +9,7 @@ sources: 1
 
 # Second-Order Thinking: What Smart People Use to Outperform
 
-**Author:** Farnam Street (fs.blog)
+**Author:** [[entities/farnam-street|Farnam Street]] (fs.blog)
 **Type:** Mental model explainer
 
 ---

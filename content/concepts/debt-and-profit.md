@@ -7,13 +7,11 @@ updated: 2026-06-05
 sources: 1
 ---
 
-Debt and profit are two faces of the same forward-looking mechanism. Profit is the claim on future value; debt is the contract that makes that claim tradable, enforceable, and capable of creating new money in the present.
+Debt and profit are two sides of the same mechanism in market societies. Profit requires the expectation of future payment; debt is the formalization of that expectation into a contract that can be traded, leveraged, and used to create new money.
 
-In the book, Varoufakis uses the Faust story to show how this works. The promise of future repayment—whether a soul or a revenue stream—allows production and consumption to happen before the money actually exists. Credit turns expected future profit into spendable money today. Banks do not merely move existing savings around; they create the bulk of the money supply by issuing loans against those future promises.
+In *Talking to My Daughter About the Economy*, Varoufakis uses the Faust legend to show how the promise of future repayment (the soul as collateral) powers the system. Credit allows production to happen before revenue arrives, but it also creates the recurring need for expansion and the danger of default when expectations are not met. Banking amplifies this relationship by creating most of the money in circulation through lending.
 
-The same device that enables growth also produces recurring crises. When the expected profits fail to materialize, the chain of debt contracts tightens. Goods that have already been produced sit unused while people who need them cannot buy them, because the money that was supposed to circulate through wages and spending has been destroyed by default and contraction. The Great Depression and the Greek crisis both showed this pattern: usable wealth was deliberately destroyed not because it was unwanted, but because the debt contracts attached to it could no longer be honored.
-
-This is not a technical glitch. It is the central tension of a system built on promises about the future. The more the economy runs on debt-financed profit expectations, the more violent the corrections become when those expectations are revised downward.
+The concept explains why capitalism is inherently unstable: the same debt that fuels growth also generates the crises that periodically destroy wealth and employment. When profit expectations collapse, the entire chain of debt contracts comes under pressure.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

@@ -65,9 +65,9 @@ Surface diagnosis: "design changed, fix the design." Root: the automatic opt-in 
 ## Connections
 
 - [[5-whys]] — full concept page
-- [[first-principles-thinking]] — both strip away inherited surface explanations; 5 Whys is causal-chain drill, first-principles is constraint decomposition
+- [[concepts/first-principles-thinking|First Principles Thinking]] — both strip away inherited surface explanations; 5 Whys is causal-chain drill, first-principles is constraint decomposition
 - [[inversion]] — complement: instead of "why did X happen," ask "how would I cause X to fail?"
-- [[second-order-thinking]] — adjacent: 5 Whys looks backward at causes; second-order looks forward at consequences
+- [[concepts/second-order-thinking|Second-Order Thinking]] — adjacent: 5 Whys looks backward at causes; second-order looks forward at consequences
 - [[critical-thinking]] — 5 Whys is one of its core operational tools
 - [[problem-framing]] — output of a good 5 Whys is a sharpened problem statement
 - [[design-thinking]] — empathize/define phase tool
