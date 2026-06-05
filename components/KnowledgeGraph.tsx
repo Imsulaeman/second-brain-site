@@ -24,7 +24,6 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     const rect = svgRef.current.getBoundingClientRect()
     const width = rect.width || 960
     const height = rect.height || 640
-    const padding = 28
 
     svg.selectAll('*').remove()
     const g = svg.append('g')
@@ -39,11 +38,9 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     const nodeIds = new Set(simNodes.map((node) => node.id))
 
     const simulation = d3.forceSimulation(simNodes as d3.SimulationNodeDatum[])
-      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(84).strength(0.48))
-      .force('charge', d3.forceManyBody().strength(-135))
+      .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(84))
+      .force('charge', d3.forceManyBody().strength(-145))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('x', d3.forceX(width / 2).strength(0.02))
-      .force('y', d3.forceY(height / 2).strength(0.02))
       .force('collision', d3.forceCollide().radius((datum: any) => Math.max(10, Math.min(24, 6 + datum.size * 1.6))))
 
     const link = g.append('g')
@@ -84,11 +81,6 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     node.call(drag as any)
 
     node.append('title').text((datum) => datum.label)
-
-    const clampNode = (datum: any) => {
-      datum.x = Math.max(padding, Math.min(width - padding, datum.x ?? width / 2))
-      datum.y = Math.max(padding, Math.min(height - padding, datum.y ?? height / 2))
-    }
 
     const render = () => {
       link
@@ -137,7 +129,7 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       return largestComponent.size ? largestComponent : nodeIds
     }
 
-    const fitGraph = () => {
+    const recenterGraph = () => {
       if (!simNodes.length) return
 
       const primaryComponentIds = getPrimaryComponentIds()
@@ -150,25 +142,23 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       const maxX = Math.max(...xs)
       const minY = Math.min(...ys)
       const maxY = Math.max(...ys)
-      const graphWidth = Math.max(maxX - minX, 1)
-      const graphHeight = Math.max(maxY - minY, 1)
-      const scale = Math.max(0.7, Math.min(1.75, 1.15 / Math.max(graphWidth / width, graphHeight / height)))
-      const translateX = width / 2 - ((minX + maxX) / 2) * scale
-      const translateY = height / 2 - ((minY + maxY) / 2) * scale
+      const centerX = (minX + maxX) / 2
+      const centerY = (minY + maxY) / 2
+      const translateX = width / 2 - centerX
+      const translateY = height / 2 - centerY
 
-      svg.call(zoom.transform, d3.zoomIdentity.translate(translateX, translateY).scale(scale))
+      svg.call(zoom.transform, d3.zoomIdentity.translate(translateX, translateY).scale(1))
     }
 
     simulation.on('tick', () => {
-      simNodes.forEach(clampNode)
       render()
     })
 
     simulation.stop()
-    for (let index = 0; index < 150; index += 1) simulation.tick()
-    simNodes.forEach(clampNode)
+    for (let index = 0; index < 90; index += 1) simulation.tick()
     render()
-    fitGraph()
+    recenterGraph()
+    simulation.alpha(0.22).restart()
 
     return () => {
       simulation.stop()
