@@ -15,6 +15,8 @@ It overlaps heavily with [[concepts/correlation-vs-causality]], but the emphasis
 
 ## Core Idea
 
+False cause is a first-order error (mistaking correlation or sequence for causation). It is the enemy of both first-principles analysis and second-order consequence mapping.
+
 The form of the mistake is simple: "these two things are associated, therefore one caused the other." But that surface form hides several different errors. Sometimes a symptom is mistaken for the cause. Sometimes mere sequence gets treated as mechanism. Sometimes a third variable produced both events. Sometimes the direction of causality is backward.
 
 ## Common Failure Modes

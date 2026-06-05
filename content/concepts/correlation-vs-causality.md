@@ -13,6 +13,8 @@ Two things moving together is not the same as one making the other happen. Corre
 
 ## Core Idea
 
+Correlation vs causality is a first-order error that blocks both first-principles analysis and second-order consequence mapping.
+
 The trap is that correlation often looks like explanation. If ice-cream sales rise when drownings rise, the pattern feels meaningful. But the real causal story may sit somewhere else entirely. Warm weather can drive both. In other cases the arrow points backward: instead of A causing B, B may help produce A. And sometimes a correlation is real and useful but still too weak to justify advice until the mechanism is better understood.
 
 That is why "correlation does not imply causation" is not a slogan about being cynical toward data. It is a rule about what the data alone cannot prove.
