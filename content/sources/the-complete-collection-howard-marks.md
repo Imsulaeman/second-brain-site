@@ -96,7 +96,7 @@ Keynes: *"Worldly wisdom teaches that it is better for reputation to fail conven
 
 No security is so good it can't be overpriced. No security is so bad it can't be underpriced. "Any bond can be triple-A at a price." The investor must form an independent estimate of value, then buy only at a discount.
 
-**"Microeconomics 101" (1992):** Price is not a signal of quality. The distressed debt market inverts the usual rule: the lowest-quality bonds often offer the highest risk-adjusted returns precisely because quality-oriented buyers flee them.
+**"Microeconomics 101" (1992):** Price is not a signal of quality. The distressed [[concepts/debt-and-profit|debt]] market inverts the usual rule: the lowest-quality bonds often offer the highest risk-adjusted returns precisely because quality-oriented buyers flee them.
 
 **Perversity of Risk** ("Everyone Knows," Apr 2007): *"Investment risk resides most where it is least perceived, and vice versa."* The universally beloved asset is invariably overpriced. The despised asset (Milken's high-yield bonds in 1978) is often the best risk-adjusted return. *"There is no such thing as a good idea. Only a good idea at a price."*
 
@@ -417,7 +417,7 @@ The Fed's policy of intervening to prevent every financial crisis created moral 
 
 *"Good business decisions can be made only if the hope for gain is balanced by the fear of loss. The latter must not be eliminated. The system must be allowed to work."*
 
-*"Cycles will cease to occur only when human emotion and the pursuit of profit no longer go to extremes. Neither government intervention nor the free market will ever produce that result."* ("The Aviary," May 2008)
+*"Cycles will cease to occur only when human emotion and the pursuit of [[concepts/profit|profit]] no longer go to extremes. Neither government intervention nor the free market will ever produce that result."* ("The Aviary," May 2008)
 
 ---
 
@@ -557,7 +557,7 @@ Investors rarely balance them correctly. In bull markets, they over-focus on mis
 
 **Credit-card analogy:** If disciplined borrowers and an undisciplined borrower share one credit card, the undisciplined member can borrow at rates made possible by the stronger members' credit. When the debt becomes unsustainable, the disciplined members are pressured to help pay. This is Greece inside the eurozone.
 
-**Sovereign-credit lesson:** The deficit/debt numbers are symptoms. The deeper issue is structural: slow growth, generous benefits, aging populations, early retirement, weak competitiveness, artificially low borrowing costs, and rules that were not enforced. Sovereign crises are credit crises with politics layered on top.
+**Sovereign-credit lesson:** The deficit/debt numbers are symptoms. The deeper issue is structural: slow growth, generous benefits, aging populations, early retirement, weak competitiveness, artificially low borrowing costs, and rules that were not enforced. Sovereign [[concepts/crises|crises]] are credit crises with politics layered on top.
 
 ### Pages 691-710 â€” Greece Completed and Investment Fashion Cycles
 
@@ -1040,7 +1040,7 @@ See [[concepts/active-management-as-error-detection]].
 
 **Voting booth vs. weighing machine:** Borrowing Ben Graham's market metaphor, Marks argues elections increasingly resemble short-term popularity contests. In investing and business, decision-makers at least try to compare costs and benefits; in politics, incentives often reward saying what people want to hear and deferring consequences until after officeholders are gone.
 
-**Globalization and dislocation:** Marks does not deny the economic pain behind populism. Trade and automation make the system more efficient overall, but benefits are unevenly distributed: educated and capital-owning groups gain, while less-educated workers face stagnant incomes, job insecurity, and loss of status. This dislocation creates anger that can be either productively processed or exploited.
+**Globalization and dislocation:** Marks does not deny the economic pain behind populism. Trade and [[concepts/automation|automation]] make the system more efficient overall, but benefits are unevenly distributed: educated and capital-owning groups gain, while less-educated workers face stagnant incomes, job insecurity, and loss of status. This dislocation creates anger that can be either productively processed or exploited.
 
 **Future shock:** Marks connects 2016 politics to Alvin Toffler's "too much change in too short a period of time." Technology, globalization, immigration, and cultural change have moved faster than institutions can adapt. The result is not merely irrational voter anger; it is real strain filtered through political narratives.
 
@@ -1264,7 +1264,7 @@ See [[concepts/active-management-as-error-detection]].
 
 **"Growing the Pie" completed (Apr 1, 2019).**
 
-**Event context:** Left-populist critiques of capitalism were rising, Amazon had cancelled its HQ2 expansion in Queens, and wealth/income inequality had become a central political issue. Marks frames the debate using Ray Dalio's distinction: right populists may fail at dividing the pie, while left populists may fail at growing it.
+**Event context:** Left-populist critiques of capitalism were rising, Amazon had cancelled its HQ2 expansion in Queens, and wealth/income [[concepts/inequality|inequality]] had become a central political issue. Marks frames the debate using Ray Dalio's distinction: right populists may fail at dividing the pie, while left populists may fail at growing it.
 
 **Capitalism's unequal blessing:** Marks argues capitalism creates a larger pie because it rewards ability, effort, risk-taking, and ownership. It also distributes gains unequally. Socialism aims at fairer distribution, but historically risks equalizing misery rather than expanding prosperity.
 

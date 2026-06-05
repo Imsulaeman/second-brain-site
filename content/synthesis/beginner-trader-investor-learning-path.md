@@ -236,7 +236,7 @@ The goal is not emotional toughness as a vibe. The goal is structure. A loss sho
 | 3-4 | Risk and ergodicity | Personal risk rules and position-sizing template |
 | 5-6 | Price/value and Marks framework | One-page checklist for evaluating investments |
 | 7-8 | Edge framework | List of possible edges in one chosen market |
-| 9-10 | Paper trading or tiny-size trading | 20 journaled trades/investments, no focus on profit |
+| 9-10 | Paper trading or tiny-size trading | 20 journaled trades/investments, no focus on [[concepts/profit|profit]] |
 | 11 | Review | Categorize outcomes: process vs luck |
 | 12 | System revision | Keep, remove, or refine rules based on evidence |
 

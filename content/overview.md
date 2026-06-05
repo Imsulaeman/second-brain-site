@@ -3,7 +3,7 @@ title: "Overview"
 type: overview
 tags: [skill-development, learning, cognitive-science, deliberate-practice, expertise, career, python, programming, investing, ai, agi, national-security, habits, behavior-change, mental-models, psychology]
 created: 2026-05-02
-updated: 2026-06-01
+updated: 2026-06-06
 sources: 36
 ---
 
@@ -85,6 +85,10 @@ Both sources emphasize [[concepts/deliberate-practice|deliberate practice]]: wor
 Oakley's unique contribution is [[concepts/focused-vs-diffuse-thinking|focused vs diffuse thinking]]. Hard focused work is necessary, but diffuse-mode breaks help unexpected connections emerge.
 
 ---
+
+
+**Economics & market society (Varoufakis):**
+- [[sources/talking-to-my-daughter-about-the-economy]] by [[entities/yanis-varoufakis]] - story-driven explanation of how market society separates people from subsistence, creates debt/profit dynamics, banking as money creation, inequality as structural, automation undermining demand, and why the economy is always political. Introduces [[concepts/market-society]], [[concepts/debt-and-profit]], [[concepts/banking]], [[concepts/inequality]], [[concepts/automation]], [[concepts/apolitical-money]], [[concepts/labor-markets]], [[concepts/value]], [[concepts/economic-power]], [[concepts/profit]], [[concepts/money-creation]], [[concepts/recycling]], [[concepts/exchange-vs-reciprocity]], [[concepts/stories-and-myths]], [[concepts/unemployment]], [[concepts/crises]], [[concepts/politics-of-markets]].
 
 ## Key Tensions and Complementarities
 
