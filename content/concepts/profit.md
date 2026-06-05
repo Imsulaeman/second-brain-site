@@ -1,15 +1,17 @@
 ---
 title: "Profit"
 type: concept
-tags: [economics, capitalism]
+tags: [economics, capitalism, finance]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Profit is the surplus that remains after all costs (including wages) have been paid. In market society it is not optional — it is the condition for continued production and investment.
+Profit is not treated here as a simple reward for effort or cleverness. It is the driving surplus around which capitalist production is organized.
 
-*Talking to My Daughter About the Economy* shows that profit and debt are inseparable: the expectation of profit is what makes lenders willing to extend credit. When that expectation collapses, the system seizes up. The book treats profit not as a reward for risk or innovation alone, but as the structural outcome of a system in which owners of capital hold power over those who must sell their labor.
+Varoufakis links profit tightly to [[concepts/debt-and-profit|debt]], because production often begins only when someone expects a profitable future and is willing to finance it. Profit therefore acts both as lure and as discipline: it motivates investment, but it also pressures firms to cut labor costs, expand markets, and pursue technologies that may destabilize the very system they depend on.
+
+The concept matters in this source because profit is less a moral category than a structural command.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

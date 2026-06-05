@@ -3,15 +3,15 @@ title: "Market Society"
 type: concept
 tags: [economics, capitalism, history]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Market society is the social and economic arrangement in which the majority of people must sell their labor power in order to survive because they have been separated from direct access to the means of subsistence (land, tools, common resources).
+Market society is not just a society that contains markets. It is a society in which access to food, shelter, and security depends mainly on one's position inside markets, especially the need to sell labor for wages.
 
-In *Talking to My Daughter About the Economy*, Varoufakis argues that this is not the natural state of humanity but a relatively recent historical development. It required the deliberate enclosure of common lands, the destruction of traditional rights to use resources, and the creation of a landless class that had no choice but to work for wages. Once this separation occurred, markets ceased to be optional places of exchange and became the primary mechanism through which people accessed food, shelter, and security.
+In *Talking to My Daughter About the Economy*, [[entities/yanis-varoufakis|Yanis Varoufakis]] insists that this arrangement is historical, not natural. People first had to be separated from commons, land, tools, and older forms of [[concepts/exchange-vs-reciprocity|reciprocity]] before labor could become something they were compelled to sell. Markets existed long before capitalism, but market society begins when markets stop being occasional sites of exchange and become the conditions of survival.
 
-The concept is central to understanding why capitalism produces both unprecedented wealth and persistent inequality. In a market society, profit depends on keeping the cost of labor low while expanding markets, which systematically generates the very inequality the system then claims to solve through growth. The book contrasts this with earlier forms of social organization where reciprocity and direct access to resources played a larger role.
+That shift changes everything downstream: [[concepts/inequality|inequality]], [[concepts/labor-markets|labor markets]], [[concepts/unemployment|unemployment]], and [[concepts/profit|profit]] all make different sense once wage dependence becomes normal. The book treats market society not as background but as the main historical fact economics is usually designed to hide.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

@@ -1,15 +1,17 @@
 ---
 title: "Inequality"
 type: concept
-tags: [economics, capitalism, social-structure]
+tags: [economics, capitalism, power]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Inequality in market societies is not primarily the result of differences in talent, effort, or intelligence, but of the historical process that separated most people from direct access to the means of subsistence.
+Inequality in this book is not just the fact that some people have more than others. It is the visible outcome of a deeper historical order that decides who owns assets, who must work for wages, and who gets to command the future through debt and property.
 
-*Talking to My Daughter About the Economy* opens with this question and answers it by contrasting the situation of Aboriginal Australians with the emergence of market society in Europe. Once people must sell their labor to survive, the owners of capital gain a structural advantage that compounds over time through the profit mechanism. The book treats inequality as a designed feature of the rules rather than an unfortunate side effect that growth will eventually solve.
+Varoufakis opens the whole book with inequality because he thinks mainstream economics usually answers the wrong question. Instead of asking whether inequality reflects talent or effort, he asks how some societies came to command others and how [[concepts/market-society|market society]] reorganized life around property, wages, and [[concepts/profit|profit]]. The contrast with Aboriginal Australia is meant to break the illusion that today's distribution of wealth is a neutral reflection of merit.
+
+On this view, inequality is not an accidental residue left behind by growth. It is continuously reproduced by the rules of ownership, labor dependence, credit, and bargaining power.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

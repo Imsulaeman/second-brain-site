@@ -3,13 +3,15 @@ title: "Money Creation"
 type: concept
 tags: [economics, banking, money]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Most money in modern economies is created by commercial banks when they make loans, not by central banks printing currency.
+Money creation is the process by which new purchasing power enters circulation, and in modern capitalism most of it is created through bank lending rather than by minting coins or printing notes.
 
-The book explains this through the "black magic of banking" chapter, showing that banks do not merely lend out existing deposits — they create new deposits (money) in the act of lending. This function is essential for growth but also the source of instability and the reason why banking crises are so destructive. The political nature of this power is a central theme.
+Varoufakis uses this point to shatter the fairy tale that banks merely gather existing savings and redistribute them. In practice, loans create deposits. That makes credit central to growth, but it also means the monetary system rests on promises, confidence, regulation, and the politics of rescue when things go wrong.
+
+The concept matters because once money creation is understood this way, [[concepts/banking|banking]], [[concepts/crises|crisis]], and [[concepts/apolitical-money|apolitical money]] all look different.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

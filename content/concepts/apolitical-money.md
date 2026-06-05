@@ -3,13 +3,15 @@ title: "Apolitical Money"
 type: concept
 tags: [economics, money, politics]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-The idea that money can be made "apolitical" — a neutral technical instrument separate from power relations — is treated in the book as a dangerous fantasy.
+The idea of apolitical money is the belief that money can be treated as a neutral technical tool rather than as a social institution loaded with power, rules, and conflict.
 
-Using the example of a Second World War POW camp, *Talking to My Daughter About the Economy* shows that even in the most controlled environment, money, markets, and power relations emerge immediately. The book argues that all monetary systems are political by nature because they embody rules about who can create money, who bears risk, and how debts are enforced. Pretending otherwise prevents honest discussion of monetary policy and financial crises.
+Varoufakis attacks this idea through the POW-camp example. Even in a tightly controlled setting where everyone receives the same Red Cross packages, informal markets and money-like behavior emerge immediately. But the lesson is not "markets are natural, therefore good." The lesson is that money and exchange always arrive wrapped in institutions, bargaining, scarcity, and hierarchy.
+
+That is why the fantasy is dangerous. Once money is described as apolitical, questions about [[concepts/banking|banks]], crisis, debt, and risk allocation can be disguised as mere technical management instead of open political choice.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

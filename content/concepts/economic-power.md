@@ -1,15 +1,17 @@
 ---
 title: "Economic Power"
 type: concept
-tags: [economics, power, politics]
+tags: [economics, power, institutions]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Economic power is the ability of one party to shape the rules and outcomes of economic activity in its favor, often without using direct force.
+Economic power is the capacity to shape the terms on which others live: who must work, who can wait, who can lend, who can set prices, and who can survive a bad turn.
 
-The book repeatedly shows that markets are not power-free zones. From the enclosure of common lands to the structure of debt contracts to the creation of money by banks, power relations are built into the rules. *Talking to My Daughter About the Economy* treats the denial of these power relations as one of the main ideological moves that sustains the current system.
+Varoufakis keeps returning to this even when he is talking about apparently technical matters. The enclosure of land, the structure of debt contracts, the privileged role of banks, and the weakness of workers in [[concepts/labor-markets|labor markets]] are all forms of power before they are equations. The denial of this fact is one of the book's main targets.
+
+What the source contributes here is a habit of asking where power has been hidden inside ordinary economic language.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

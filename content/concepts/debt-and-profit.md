@@ -3,15 +3,15 @@ title: "Debt and Profit"
 type: concept
 tags: [economics, capitalism, finance]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Debt and profit are two sides of the same mechanism in market societies. Profit requires the expectation of future payment; debt is the formalization of that expectation into a contract that can be traded, leveraged, and used to create new money.
+Debt and profit are joined at the root. In capitalism, production regularly begins before payment arrives, which means someone must advance money now in the hope of getting back more later.
 
-In *Talking to My Daughter About the Economy*, Varoufakis uses the Faust legend to show how the promise of future repayment (the soul as collateral) powers the system. Credit allows production to happen before revenue arrives, but it also creates the recurring need for expansion and the danger of default when expectations are not met. Banking amplifies this relationship by creating most of the money in circulation through lending.
+Varoufakis explains this with the Faust story: a promise about the future makes present action possible, but it also binds the future to repayment. That is why debt is not a side issue in capitalism. It is what lets firms hire, build, speculate, and expand before profits are realized. Profit is the hoped-for justification; debt is the binding claim that makes the whole gamble possible.
 
-The concept explains why capitalism is inherently unstable: the same debt that fuels growth also generates the crises that periodically destroy wealth and employment. When profit expectations collapse, the entire chain of debt contracts comes under pressure.
+The same marriage that drives expansion also creates fragility. If expected profits do not arrive, debts remain. Then pressure spreads through [[concepts/banking|banks]], [[concepts/money-creation|money creation]], and the wider system of repayment. The book's point is not merely that debt can become excessive; it is that capitalist growth itself is inseparable from this risky arrangement.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

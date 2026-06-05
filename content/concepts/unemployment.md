@@ -3,13 +3,15 @@ title: "Unemployment"
 type: concept
 tags: [economics, labor, crises]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Unemployment is the condition in which people willing and able to work cannot find buyers for their labor at any wage the market is currently offering.
+Unemployment is not just joblessness. In this book it is the proof that the labor market does not behave like the simple textbook market its defenders describe.
 
-The book uses personal stories to show that unemployment is not primarily a failure of individual effort or skill but a systemic outcome when aggregate demand is insufficient or when employers have no incentive to hire even at very low wages. It is treated as a normal, recurring feature of market society rather than an aberration.
+Varoufakis uses stories like Wasily's to show that people can be fully willing to work and still remain unemployed because firms hire only when they expect profitable sales. If demand is weak, if [[concepts/recycling|recycling]] is broken, or if replacing workers with machines looks more attractive, lower wages by themselves will not solve the problem.
+
+This makes unemployment a structural feature of [[concepts/market-society|market society]], not merely evidence that individuals are underqualified or unwilling.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

@@ -1,15 +1,17 @@
 ---
 title: "Exchange vs Reciprocity"
 type: concept
-tags: [economics, anthropology, social-relations]
+tags: [economics, anthropology, social-order]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-Exchange is the market form of interaction (I give you something only if you give me something of equivalent value now or later). Reciprocity is the older, non-market form (I help you because we are in a relationship; the return is not calculated or immediate).
+Exchange vs reciprocity is the contrast between relationships organized by price and relationships organized by obligation, trust, gift, or shared life.
 
-The book opens with examples from the author's life (a friend asking for a favor, a child diving to free an anchor) to show that much of what makes life valuable operates on reciprocity, not exchange. Market society systematically expands the domain of exchange at the expense of reciprocity, turning relationships into transactions.
+Varoufakis uses this contrast to show that markets did not invent cooperation. People helped each other, shared, traded, and owed one another long before [[concepts/market-society|market society]] made priced exchange dominant. The point is not to romanticize the past but to break the illusion that all rational social life must be marketized.
+
+Once reciprocity stops being central and survival depends on exchange, a society begins to think differently about work, value, obligation, and freedom.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

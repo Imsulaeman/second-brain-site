@@ -3,13 +3,15 @@ title: "Politics of Markets"
 type: concept
 tags: [economics, politics, power]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-06
 sources: 1
 ---
 
-The politics of markets is the recognition that markets are not natural or neutral but are constituted by political decisions about property rights, contract enforcement, money creation, and the distribution of risk.
+The politics of markets is the view that markets are made, maintained, and contested through power rather than discovered as neutral facts of nature.
 
-The entire book is an argument against the idea that economics can be separated from politics. Every chapter returns to the point that the rules of the market are chosen (or imposed) and can therefore be questioned and changed.
+Every major move in the book points back here. [[concepts/market-society|Market society]] had to be historically imposed. [[concepts/banking|Banks]] create money because law and institutions let them. [[concepts/labor-markets|Labor markets]] work as they do because some people own productive assets while others must sell labor. Even money itself cannot be [[concepts/apolitical-money|apolitical]].
+
+So the book's larger claim is simple: economics becomes ideological the moment it forgets that markets have authors.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]
