@@ -13,6 +13,8 @@ Credit investing is mostly the art of avoiding losers rather than finding uncapp
 
 ## Core Idea
 
+Credit analysis is heavily second-order (what happens after the first default or downgrade) and benefits from first-principles decomposition of cash flow and incentive structures. See [[concepts/first-principles-thinking]] and [[concepts/second-order-thinking]].
+
 In equities, a few huge winners can dominate returns. In credit, upside is usually capped by the contract: interest payments plus principal repayment. The downside, however, can be large if the borrower defaults or the debt is impaired.
 
 That makes credit a "negative art":

@@ -25,7 +25,7 @@ Not strictly linear — loop back as insights emerge. The point is **you can't i
 
 ## Why It Matters
 
-Design thinking formalizes something designers always did intuitively, making it accessible to engineers, product managers, and organizations that default to solution-first thinking. Three core contributions:
+Design thinking formalizes something designers always did intuitively, making it accessible to engineers, product managers, and organizations that default to solution-first thinking. It draws heavily from [[concepts/first-principles-thinking|First Principles Thinking]] (questioning inherited assumptions) and [[concepts/second-order-thinking|Second-Order Thinking]] (mapping downstream user and system effects). Three core contributions:
 
 1. **Forces diagnosis before solution** — the empathize → define sequence prevents jumping to answers.
 2. **Makes prototyping cheap** — low-fidelity tests let you fail fast without burning budget or credibility.

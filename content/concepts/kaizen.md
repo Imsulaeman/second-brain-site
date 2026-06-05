@@ -13,6 +13,8 @@ Japanese for "change for the better." A philosophy of **continuous, incremental 
 
 ## Core Idea
 
+Strongly connected to [[concepts/first-principles-thinking|First Principles Thinking]] (questioning current standards) and [[concepts/second-order-thinking|Second-Order Thinking]] (long-term compounding of small improvements).
+
 Don't wait for the big reorganization. Don't wait for the heroic insight. Improve something — even slightly — every day, at every level, by every person who touches the work.
 
 Three claims kaizen makes that distinguish it from Western "best practices" thinking:

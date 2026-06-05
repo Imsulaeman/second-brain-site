@@ -13,6 +13,8 @@ Bubble detection is the practice of judging market behavior around a theme, not 
 
 ## Core Idea
 
+Bubble detection is almost entirely [[concepts/second-order-thinking|Second-Order Thinking]] (what happens after the crowd piles in) and requires [[concepts/first-principles-thinking|First Principles Thinking]] to ignore narrative and focus on cash flow and incentives.
+
 Howard Marks' bubble framework separates two questions:
 
 1. Is the underlying development real and important?

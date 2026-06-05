@@ -25,6 +25,8 @@ Many teams are fast at solution generation and weak at diagnosis. Problem framin
 
 The point is not delay for its own sake. The point is to avoid solving the wrong problem with great efficiency.
 
+This is closely related to [[concepts/first-principles-thinking|First Principles Thinking]] (stripping false assumptions) and [[concepts/second-order-thinking|Second-Order Thinking]] (seeing downstream consequences of the chosen frame).
+
 ---
 
 ## Operational Components
@@ -54,3 +56,6 @@ Problem framing sits upstream of all three.
 - [[sources/what-are-5-whys]]
 
 These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.
+
+
+Also connects to [[concepts/kaizen]] (continuous reframing) and [[concepts/inversion]].

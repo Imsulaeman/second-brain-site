@@ -15,6 +15,8 @@ The **Socratic method** is a structured form of questioning that tests claims by
 
 ## Core Idea
 
+The Socratic method is a direct tool for both first-principles thinking (questioning assumptions) and second-order thinking (exploring consequences of beliefs).
+
 Instead of immediately supplying answers, the method makes reasoning visible enough to inspect.
 
 Its purpose is to:

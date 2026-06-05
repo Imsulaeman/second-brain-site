@@ -13,6 +13,8 @@ Howard Marks' "sea change" thesis: the investment world from roughly 1980 to 202
 
 ## Core Idea
 
+The end of the 40-year declining-rate tailwind is a massive second-order event. It requires both [[concepts/first-principles-thinking|First Principles Thinking]] (rebuilding assumptions about leverage and valuation) and [[concepts/second-order-thinking|Second-Order Thinking]] (understanding multi-decade consequences).
+
 Declining rates acted like a moving walkway for investors. Asset owners, private equity buyers, real estate investors, and other leveraged strategies benefited from lower discount rates, cheaper refinancing, higher valuation multiples, and abundant liquidity. Many investors mistook that tailwind for normal conditions or personal skill.
 
 When inflation returned and the Fed raised rates rapidly in 2022, the environment changed:

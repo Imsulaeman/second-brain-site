@@ -100,7 +100,7 @@ Accountability means taking risk under your own name. It creates downside: publi
 
 Judgment matters more in an age of leverage because a small improvement in decision quality can be multiplied by capital, code, people, or distribution. Naval defines wisdom as knowing the long-term consequences of actions; judgment is wisdom applied to external problems.
 
-This links naturally to [[concepts/decision-quality-vs-outcome]] and [[concepts/second-order-thinking]]. The point is not to work harder in the wrong direction; it is to pick better directions.
+This links naturally to [[concepts/decision-quality-vs-outcome]], [[concepts/second-order-thinking]], and [[concepts/first-principles-thinking]]. The point is not to work harder in the wrong direction; it is to pick better directions.
 
 ---
 

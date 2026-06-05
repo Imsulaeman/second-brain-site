@@ -11,7 +11,9 @@ sources: 1
 
 "Invert, always invert." — Carl Jacobi (mathematician), adopted by [[entities/charles-munger]].
 
-Inversion means solving problems backward: instead of asking "How do I succeed?", ask "How would I fail?" Then avoid those failure modes. Munger found that problems which resist direct solution often yield easily to inversion.
+Inversion means solving problems backward: instead of asking "How do I succeed?", ask "How would I fail?" Then avoid those failure modes. Munger found that problems which resist direct solution often yield easily to inversion. This pairs especially well with [[concepts/first-principles-thinking|First Principles Thinking]] when the current frame is the actual problem.
+
+This connects strongly to [[concepts/first-principles-thinking|First Principles Thinking]] (questioning surface assumptions) and [[concepts/second-order-thinking|Second-Order Thinking]] (anticipating the consequences of inverted scenarios).
 
 ---
 

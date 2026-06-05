@@ -11,6 +11,8 @@ sources: 1
 
 A root-cause technique: ask "why?" iteratively — typically five times — to drill from a visible symptom down to the systemic cause that actually triggered it. Originated at [[toyota]] in the 1930s by [[sakichi-toyoda]] as part of what became the Toyota Production System; now standard in [[design-thinking]], engineering post-mortems, and [[kaizen]].
 
+Complements [[concepts/first-principles-thinking|First Principles Thinking]] (both fight surface assumptions) and [[concepts/second-order-thinking|Second-Order Thinking]] (both look past immediate effects).
+
 ## Core Idea
 
 Most problems present as the **last link** of a long causal chain. Patching the visible link returns the same symptom in a new shape. 5 Whys forces you to walk the chain backward, one step per "why," until the explanation no longer decomposes — that's the root cause, and that's where the fix actually lives.

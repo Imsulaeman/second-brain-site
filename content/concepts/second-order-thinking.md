@@ -13,7 +13,7 @@ The practice of thinking past the immediate result of a decision to consider dow
 
 ## First-Order vs Second-Order
 
-| | First-Order | Second-Order |
+| | [[concepts/first-order-thinking|First-Order]] | Second-Order |
 |--|-------------|--------------|
 | Speed | Fast | Deliberate |
 | Depth | Superficial | Systemic |
