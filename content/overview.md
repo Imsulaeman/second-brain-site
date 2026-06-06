@@ -15,7 +15,7 @@ This wiki has become a system for thinking, not just a shelf of summaries. Its r
 
 The vault currently draws on 40 source pages and clusters around ten recurring areas:
 
-- Learning science and skill acquisition: [[sources/advice-on-upskilling]], [[sources/a-mind-for-numbers]], and the surrounding pages on memory, chunking, retrieval, and deliberate practice.
+- Learning science and skill acquisition: [[sources/advice-on-upskilling]], [[sources/a-mind-for-numbers]], [[sources/the-power-of-believing-that-you-can-improve]], and the surrounding pages on memory, chunking, retrieval, mindset, and deliberate practice.
 - Writing, articulation, and AI-era leverage: Dan Koe, Codex workflow essays, and instruction-system pages on how durable context improves both human and agent work.
 - Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
 - Critical thinking and fallacies: Elizabeth Cox's historical fallacy series, practical critical-thinking guides, the Socratic method, and newer pages on reasoning types and causal mistakes.
@@ -44,7 +44,7 @@ The newer political-economy material widens the wiki in a useful direction. It a
 
 ## Current Totals
 
-- Sources: 40
-- Entities: 26
-- Concepts: 113
+- Sources: 41
+- Entities: 27
+- Concepts: 114
 - Synthesis pages: 7

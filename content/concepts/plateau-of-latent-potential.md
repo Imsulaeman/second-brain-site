@@ -19,6 +19,8 @@ The practical move is to judge the process before you judge the outcome. During 
 
 The plateau is not a guarantee that every method eventually works. A bad system can stay bad forever. The concept is narrower: when the system is sound, lack of early evidence is not strong evidence of failure. In investing, [[concepts/long-term-compounding-vs-market-timing|long-term compounding]] works the same way. The gains that matter often arrive after long stretches that feel flat, boring, or disappointing.
 
+This also connects to [[concepts/growth-mindset|growth mindset]]. The practical question is whether you interpret "not visible yet" as proof of incapacity or as part of the normal lag between process and result.
+
 ## Sources
 
 - [[sources/atomic-habits]]

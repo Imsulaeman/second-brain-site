@@ -1,0 +1,38 @@
+---
+title: "Growth Mindset"
+type: concept
+tags: [learning, education, mindset, resilience, improvement]
+created: 2026-06-06
+updated: 2026-06-06
+sources: 1
+---
+
+# Growth Mindset
+
+## Core Idea
+
+Growth mindset is the belief that ability is not a fixed verdict but a developable capacity. In [[entities/carol-dweck|Carol Dweck]]'s framing, talent matters less than what a person thinks difficulty, error, and effort mean. If struggle means "I am bad at this," people protect themselves. If struggle means "I am still learning," they stay in the game long enough to improve.
+
+## How It Works
+
+The concept matters because beliefs about ability change behavior at the moment of friction. A fixed mindset treats challenge as judgment. Difficulty becomes exposure, error becomes shame, and effort becomes evidence that one lacks talent. A growth mindset changes the interpretation. Difficulty becomes the frontier of learning, error becomes feedback, and effort becomes part of how ability expands.
+
+That shift affects what people do next. They are more willing to persist, revise strategy, and process feedback instead of defending identity. Dweck's "not yet" phrasing is a compact version of this whole model. It keeps failure inside a time horizon instead of treating it as a final description of the self.
+
+## Example
+
+In Dweck's classroom research, students given problems slightly beyond their current level split into two patterns. Some treated the difficulty as informative and energizing. Others experienced it as catastrophic because they thought their intelligence was being judged. The task was the same; the interpretation changed the learning behavior.
+
+## Why It Matters
+
+Growth mindset is not the same as empty encouragement. Its force comes from changing the meaning of effort and difficulty. That is why it belongs close to [[concepts/deliberate-practice|deliberate practice]], where learning happens at the edge of ability, and to [[concepts/plateau-of-latent-potential|plateau of latent potential]], where effort often arrives before visible payoff. It also overlaps with [[concepts/kaizen|kaizen]] because both reject the idea that improvement is a one-time event or a gift some people simply possess.
+
+## Failure Modes
+
+- **Turning it into slogan therapy.** Saying "just believe you can improve" without changing feedback, incentives, or learning conditions.
+- **Confusing it with limitless optimism.** Growth mindset does not mean anyone can master anything instantly; it means ability is more trainable than a fixed-self story admits.
+- **Praising effort without strategy.** Dweck's point is process praise, not blind applause. Effort matters most when paired with better methods, focus, and correction.
+
+## Sources
+
+- [[sources/the-power-of-believing-that-you-can-improve]]
