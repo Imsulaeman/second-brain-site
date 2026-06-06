@@ -7,11 +7,23 @@ updated: 2026-06-06
 sources: 1
 ---
 
-Labor markets are the institutions through which people sell their capacity to work. In a market society, that sale is not optional in any deep sense, because access to life has already been routed through wages.
+## Core Idea
 
-Varoufakis uses the story of Wasily, an unemployed economist, to attack the idea that labor markets naturally clear if wages fall enough. People can be desperate to work and still remain unemployed, because hiring depends on expected profit, available demand, and the bargaining position of employers. In that sense, labor is unlike the textbook market for ordinary goods: lower price alone does not guarantee absorption.
+Labor markets are not ordinary markets for an ordinary commodity. They are the institutions through which people sell their capacity to work because they need wages to live.
 
-The concept matters because it reveals how much ideology is hidden inside phrases like "the labor market." What looks like neutral exchange is really a structured relation between those who must sell labor and those who can choose whether to buy it.
+## How It Works
+
+In textbooks, markets often clear if price falls far enough. Varoufakis attacks that image with the story of Wasily, an educated man who cannot find work even as he lowers his expectations. The point is that hiring depends on expected sales and profitability, not just on how cheap labor becomes.
+
+This makes labor markets structurally unequal. Workers usually need a sale more urgently than employers need a purchase. That urgency shapes bargaining power. The market is therefore not a neutral meeting point between equals. It is a structured relation built on the prior fact of [[concepts/market-society|market society]].
+
+## Example
+
+If no one expects profitable demand, even workers willing to accept very low wages can still remain unemployed. The issue is not simply price. It is the wider system of spending, confidence, and power.
+
+## Why It Matters
+
+This concept is one of the book's strongest corrections to simple economic common sense. It shows why [[concepts/unemployment|unemployment]] can be systemic rather than personal and why labor cannot be understood like apples or shoes.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

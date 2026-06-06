@@ -7,11 +7,23 @@ updated: 2026-06-06
 sources: 1
 ---
 
-The politics of markets is the view that markets are made, maintained, and contested through power rather than discovered as neutral facts of nature.
+## Core Idea
 
-Every major move in the book points back here. [[concepts/market-society|Market society]] had to be historically imposed. [[concepts/banking|Banks]] create money because law and institutions let them. [[concepts/labor-markets|Labor markets]] work as they do because some people own productive assets while others must sell labor. Even money itself cannot be [[concepts/apolitical-money|apolitical]].
+Markets are not neutral natural spaces. They are politically constituted systems whose rules determine ownership, bargaining power, money creation, and risk allocation.
 
-So the book's larger claim is simple: economics becomes ideological the moment it forgets that markets have authors.
+## How It Works
+
+The phrase "the market" often hides authorship. It suggests a spontaneous order whose outcomes simply have to be accepted. Varoufakis keeps putting the authors back in. Property rights had to be enforced. Commons had to be enclosed. Banking privileges had to be granted. Debts have to be collectible. Wages depend on legal and institutional structure.
+
+Once those choices are visible, economics can no longer pretend to sit outside politics. The market is not a weather pattern. It is a human arrangement with winners, losers, and contestable rules.
+
+## Example
+
+The whole arc of the book supports this concept, but the strongest examples are the historical birth of [[concepts/market-society|market society]] and the critique of [[concepts/apolitical-money|apolitical money]]. Both show that what looks neutral is already political.
+
+## Why It Matters
+
+This concept is the book's unifying lens. It turns many separate topics into one family: [[concepts/banking|banking]], [[concepts/inequality|inequality]], [[concepts/labor-markets|labor markets]], and [[concepts/economic-power|economic power]] all become arguments about rules, not just outcomes.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]
