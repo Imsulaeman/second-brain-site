@@ -3,8 +3,8 @@ title: "Decision Quality vs Outcome"
 type: concept
 tags: [decision-making, probability, investing, uncertainty, howard-marks]
 created: 2026-05-10
-updated: 2026-05-19
-sources: 2
+updated: 2026-06-06
+sources: 3
 ---
 
 # Decision Quality vs Outcome
@@ -45,8 +45,12 @@ This means outcome review should include the invisible distribution:
 - Was the successful result robust or lucky?
 - Would the same process survive many repetitions?
 
+[[sources/art-of-trading-with-light-su-zhu-and-hasu]] restates the same lesson in the language of poker and trading. Pocket aces losing to kings does not make the all-in bad, and one profitable trade does not prove the reasoning was good. The point is to optimize the process and the odds, not to worship one realized path.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]] - Primary source for alternative histories and luck disguised as skill.
-- [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
+- [[sources/the-complete-collection-howard-marks]] - "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
+- [[sources/art-of-trading-with-light-su-zhu-and-hasu]] - Poker-trading analogy for judging process rather than single outcomes.
+
 Inductive and deductive reasoning both play roles in decision quality. Inductive reasoning helps build better models from experience, while deductive reasoning helps apply rules and principles consistently. Poor calibration between the two is a common source of misjudgment.

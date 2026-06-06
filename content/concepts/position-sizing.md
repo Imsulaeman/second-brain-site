@@ -3,8 +3,8 @@ title: "Position Sizing"
 type: concept
 tags: [trading, investing, risk-management, ergodicity, survival, sizing]
 created: 2026-05-10
-updated: 2026-05-19
-sources: 6
+updated: 2026-06-06
+sources: 7
 ---
 
 # Position Sizing
@@ -46,6 +46,8 @@ Example:
 - Position size: 100 / 5 = 20 shares
 
 The important part is not the exact percentage. The important part is that loss is chosen before ego gets involved.
+
+[[sources/art-of-trading-with-light-su-zhu-and-hasu]] adds a useful refinement: invalidation should usually exist at two levels. There is the price-level invalidation that tells you where the market has moved far enough against you to force review or exit. And there is thesis invalidation, where the facts, structure, or market behavior that justified the trade have broken down even if price has not cleanly hit a stop.
 
 ---
 
@@ -107,4 +109,5 @@ The order should be:
 - [[sources/the-jackpot-age]]
 - [[sources/dealing-with-loss]]
 - [[sources/life-lessons-from-trading]]
+- [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
 - [[synthesis/beginner-trader-investor-learning-path]]

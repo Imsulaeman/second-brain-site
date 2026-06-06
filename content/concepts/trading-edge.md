@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-06-01
-sources: 7
+updated: 2026-06-06
+sources: 8
 ---
 
 # Trading Edge
@@ -69,6 +69,8 @@ For Marks, edge often appears where price diverges from value because investors 
 
 [[sources/life-lessons-from-trading]] emphasizes that trading is adaptive. When an edge becomes obvious, capital copies it. As more participants exploit the same pattern, future returns usually fall.
 
+[[sources/art-of-trading-with-light-su-zhu-and-hasu]] adds an important nuance: in very young or fragmented markets, a trader may still be better off as a capable generalist than as a narrow specialist. If the market is still soft, multiple edge buckets can coexist at once, and the trader's job is to choose the right tool for the current game rather than force one habitual style onto every setup.
+
 Practical implications:
 
 - Keep records.
@@ -82,6 +84,8 @@ Practical implications:
 ## Edge Is Not Enough
 
 Edge needs [[concepts/position-sizing]]. A trader can have a real edge and still go broke through excessive size, leverage, hidden correlation, or inability to survive variance.
+
+The same source also sharpens a microstructural version of edge: [[concepts/tape-reading-and-order-flow|tape reading and order flow]]. Sometimes the advantage is not a grand thesis but earlier recognition of forced or uninformed behavior as it moves through the market.
 
 The practical stack:
 
@@ -114,6 +118,7 @@ Before calling something edge, inspect:
 - [[sources/how-to-find-trading-edge]]
 - [[sources/how-to-make-money-as-a-random-dickhead]]
 - [[sources/life-lessons-from-trading]]
+- [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
 - [[sources/the-most-important-thing-illuminated]]
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/poor-charlies-almanack]]
