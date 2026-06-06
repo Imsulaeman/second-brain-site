@@ -31,7 +31,7 @@ The praise studies add a second example. Children praised for being smart became
 
 Growth mindset is not the same as empty encouragement. Its force comes from changing the meaning of effort and difficulty. That is why it belongs close to [[concepts/deliberate-practice|deliberate practice]], where learning happens at the edge of ability, and to [[concepts/plateau-of-latent-potential|plateau of latent potential]], where effort often arrives before visible payoff. It also overlaps with [[concepts/kaizen|kaizen]] because both reject the idea that improvement is a one-time event or a gift some people simply possess.
 
-Briceno broadens the point beyond school. The same belief structure affects work, negotiation, relationships, and other performance domains because it changes whether feedback feels useful or threatening. In that sense, growth mindset acts less like a study trick and more like a general orientation toward self-development.
+Briceno broadens the point beyond school. The same belief structure affects work, negotiation, relationships, and other performance domains because it changes whether feedback feels useful or threatening. In that sense, growth mindset acts less like a study trick and more like a general orientation toward self-development. [[entities/angela-duckworth|Angela Duckworth]] adds that this same orientation may be one of the strongest candidates for building [[concepts/grit|grit]], because people persevere longer when they do not treat failure as permanent.
 
 ## Failure Modes
 

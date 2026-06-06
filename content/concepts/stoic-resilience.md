@@ -35,6 +35,8 @@ Key anti-patterns to avoid after adversity:
 - [[sources/dealing-with-loss]] — the trading-specific framework for recovering from major losses; Munger's stoic resilience is the general-purpose version
 - [[concepts/identity-based-habits]] — "I am someone who uses adversity constructively" as an identity vote
 - [[concepts/inversion]] — anticipating trouble is inversion applied to life planning
+- [[concepts/learning-from-failure]] — resilience is one of the preconditions for turning mistakes into usable information rather than ego injury
+- [[concepts/grit]] — resilience absorbs shocks; grit carries the long-term pursuit forward through them
 
 ## Sources
 

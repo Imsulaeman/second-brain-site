@@ -25,7 +25,7 @@ Deliberate practice depends on a tight feedback loop:
 
 Anything that slows this loop degrades practice quality. For example, "think-pair-share" in a classroom of 30 students stretches a single rep across the entire class period — the volume of practice drops to near zero.
 
-This is one place where [[concepts/growth-mindset|growth mindset]] matters. Deliberate practice only works if the learner can tolerate being bad, corrected, and stretched in public or in their own internal scoreboard. If difficulty is interpreted as judgment, the practice loop breaks psychologically before it breaks technically.
+This is one place where [[concepts/growth-mindset|growth mindset]] matters. Deliberate practice only works if the learner can tolerate being bad, corrected, and stretched in public or in their own internal scoreboard. If difficulty is interpreted as judgment, the practice loop breaks psychologically before it breaks technically. That is also why [[concepts/learning-from-failure|learning from failure]] is not automatic: feedback helps only when the learner can stay open enough to use it.
 
 ## Volume is Non-Negotiable
 
