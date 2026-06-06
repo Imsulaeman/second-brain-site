@@ -25,5 +25,11 @@ Faust turns debt into something the reader can feel. Frankenstein turns automati
 
 This concept matters because it explains the book's method as well as its content. Narrative is not a teaching crutch here. It is part of the theory, and it belongs close to [[concepts/critical-thinking|critical thinking]] because bad stories can hide bad models.
 
+It also belongs near [[concepts/politics-of-markets|politics of markets]] and [[concepts/market-society|market society]]. A system does not stabilize itself through rules alone. It also stabilizes itself through stories that make those rules feel natural, deserved, or inevitable.
+
+## Limits
+
+Not every story is ideological cover. Stories can reveal as well as conceal. The point is not that narrative is inherently manipulative, but that economic life is always narrated somehow. If you do not examine the story, you may mistake the story for reality.
+
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

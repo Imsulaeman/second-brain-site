@@ -23,7 +23,11 @@ The contrast between exchange value and lived value runs through the whole book,
 
 ## Why It Matters
 
-This concept gives the whole book a moral horizon. It reminds the reader that the point of understanding capitalism is not merely to track money flows but to ask whether market value has colonized too much of what counts as a good life. It also helps separate this page from investing uses of the same word, such as [[concepts/value-vs-growth-investing|value vs growth investing]].
+This concept gives the whole book a moral horizon. It reminds the reader that the point of understanding capitalism is not merely to track money flows but to ask whether market value has colonized too much of what counts as a good life.
+
+It connects naturally to [[concepts/exchange-vs-reciprocity|exchange vs reciprocity]], because the contrast between priced exchange and non-priced obligation is one of the clearest ways to see that value exceeds price. It also belongs near [[concepts/market-society|market society]], where the expansion of wage dependence and market logic makes price feel like the default language of worth.
+
+This page should also stay distinct from investing uses of the same word, such as [[concepts/value-vs-growth-investing|value vs growth investing]]. There, "value" is a pricing and expectation category inside financial markets. Here, the concept is philosophical and political: what counts as worth in a human life.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

@@ -15,7 +15,7 @@ Exchange vs reciprocity is the distinction between relationships organized by pr
 
 Varoufakis uses this contrast to show that markets did not invent cooperation. People have long shared, helped, traded, and owed one another things without reducing every interaction to a priced exchange. Reciprocity belongs to a different moral and social logic than market trade.
 
-This matters because market society tends to rewrite human life in its own image. Once price-mediated exchange becomes dominant, it becomes harder even to notice forms of value and obligation that lie outside the market. Reciprocity then looks primitive, inefficient, or invisible, even though it remains central to real life.
+This matters because market society tends to rewrite human life in its own image. Once price-mediated exchange becomes dominant, it becomes harder even to notice forms of [[concepts/value|value]] and obligation that lie outside the market. Reciprocity then looks primitive, inefficient, or invisible, even though it remains central to real life.
 
 ## Example
 

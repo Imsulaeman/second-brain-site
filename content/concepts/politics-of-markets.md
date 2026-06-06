@@ -13,7 +13,7 @@ Markets are not neutral natural spaces. They are politically constituted systems
 
 ## How It Works
 
-The phrase "the market" often hides authorship. It suggests a spontaneous order whose outcomes simply have to be accepted. Varoufakis keeps putting the authors back in. Property rights had to be enforced. Commons had to be enclosed. Banking privileges had to be granted. Debts have to be collectible. Wages depend on legal and institutional structure.
+The phrase "the market" often hides authorship. It suggests a spontaneous order whose outcomes simply have to be accepted. Varoufakis keeps putting the authors back in. Property rights had to be enforced. Commons had to be enclosed. Banking privileges had to be granted. Debts have to be collectible. Wages depend on legal and institutional structure. The naturalizing story around markets matters too, which is why this page touches [[concepts/stories-and-myths|stories and myths]] as well as institutions.
 
 Once those choices are visible, economics can no longer pretend to sit outside politics. The market is not a weather pattern. It is a human arrangement with winners, losers, and contestable rules.
 

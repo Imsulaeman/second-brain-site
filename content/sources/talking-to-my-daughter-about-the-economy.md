@@ -21,7 +21,9 @@ The middle of the book is built around linked mechanisms. [[concepts/debt-and-pr
 
 Later chapters move through [[concepts/labor-markets|labor markets]], [[concepts/unemployment|unemployment]], and [[concepts/automation|automation]]. Varoufakis's point is not just that machines destroy jobs. It is that capitalism depends on wages to generate demand while also rewarding firms for reducing the need for labor, creating a built-in tension between technological advance and social stability.
 
-The last turn of the book is openly political. Using the POW-camp story, Varoufakis argues that [[concepts/apolitical-money|apolitical money]] is a fantasy. Money, markets, and value are never just technical arrangements; they encode power, rules, winners, losers, and obligations. The book therefore ends not in economics proper but in a question about freedom, pleasure, and what sort of society people would choose if they were no longer forced to mistake market outcomes for human value.
+The last turn of the book is openly political. Using the POW-camp story, Varoufakis argues that [[concepts/apolitical-money|apolitical money]] is a fantasy. Money, markets, and [[concepts/value|value]] are never just technical arrangements; they encode power, rules, winners, losers, and obligations. The book therefore ends not in economics proper but in a question about freedom, pleasure, and what sort of society people would choose if they were no longer forced to mistake market outcomes for human value.
+
+The book also relies heavily on [[concepts/stories-and-myths|stories and myths]] as method. Faust, Frankenstein, dispossession stories, and the POW camp are not decorative analogies. They are part of the argument about how economies are narrated, justified, and challenged.
 
 ## Worth Returning To
 

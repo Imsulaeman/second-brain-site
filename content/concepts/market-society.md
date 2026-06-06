@@ -15,7 +15,7 @@ Market society is not simply a society with markets in it. It is a society in wh
 
 Markets existed before capitalism. People traded goods, negotiated prices, and exchanged across long distances. Varoufakis's point is that capitalism begins when markets stop being one part of life and become the main mechanism through which people gain access to food, shelter, and security.
 
-That transformation required history, not nature. Commons had to be enclosed, people had to lose direct access to subsistence, and wage dependence had to become normal. Only then could labor itself become a commodity sold inside a market.
+That transformation required history, not nature. Commons had to be enclosed, people had to lose direct access to subsistence, and wage dependence had to become normal. Only then could labor itself become a commodity sold inside a market. That shift also changes what counts as [[concepts/value|value]], because market price becomes the dominant visible measure of worth even when human life contains goods that are not well priced at all.
 
 ## Example
 
