@@ -19,6 +19,8 @@ In this wiki, the Second Brain becomes leverage when raw sources are converted i
 
 > **A Second Brain becomes leverage when it turns reading into reusable decisions, workflows, and assets.**
 
+At its strongest, this starts to look like [[concepts/syntopical-reading|syntopical reading]] operationalized in software: many sources, one evolving question set, and a growing cross-book conversation instead of isolated notes.
+
 That means every important source should eventually answer one of these questions:
 
 - What concept should be added or updated?

@@ -13,9 +13,10 @@ This wiki has become a system for thinking, not just a shelf of summaries. Its r
 
 ## What This Wiki Covers
 
-The vault currently draws on 53 source pages and clusters around eleven recurring areas:
+The vault currently draws on 54 source pages and clusters around twelve recurring areas:
 
 - Learning science and skill acquisition: [[sources/advice-on-upskilling]], [[sources/a-mind-for-numbers]], the growth-mindset sources, and the surrounding pages on memory, chunking, retrieval, mindset, deliberate practice, grit, and failure tolerance.
+- Reading method and bookcraft: Adler and Van Doren's *How to Read a Book* cluster on active reading, the four levels of reading, analytical reading, syntopical reading, and the adaptation of reading strategy to different genres.
 - Writing, articulation, and AI-era leverage: Dan Koe, Codex workflow essays, and instruction-system pages on how durable context improves both human and agent work.
 - Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
 - Critical thinking and fallacies: Elizabeth Cox's historical fallacy series, practical critical-thinking guides, the Socratic method, inferencing, and newer pages on reasoning types and causal mistakes.
@@ -45,7 +46,7 @@ The newer political-economy material widens the wiki in a useful direction. It a
 
 ## Current Totals
 
-- Sources: 53
-- Entities: 30
-- Concepts: 125
+- Sources: 54
+- Entities: 32
+- Concepts: 144
 - Synthesis pages: 8

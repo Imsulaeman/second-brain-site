@@ -39,6 +39,7 @@ Useful operations include:
 - [[concepts/socratic-method]]
 - [[concepts/5-whys]] — operational drill for moving past surface symptoms to root causes
 - [[concepts/inferencing]] — drawing the strongest supported conclusion when the text or evidence leaves something unstated
+- [[concepts/criticizing-a-book-fairly]] — do not disagree before understanding; interpret first, then judge with reasons
 
 ## Sources
 
