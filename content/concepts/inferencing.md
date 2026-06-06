@@ -43,6 +43,8 @@ The cloud example shows the main-idea version. When several sentences each descr
 
 Inferencing belongs close to [[concepts/critical-thinking|critical thinking]] because it trains the habit of drawing conclusions with restraint. It also complements [[concepts/epistemic-humility|epistemic humility]]: not everything unstated is unknowable, but not every possible reading is equally justified. Good readers infer, then check whether the inference is actually supported.
 
+Inferencing also supports ordinary vocabulary growth. [[concepts/context-clues|Context clues]] are one of its most common reading-level forms: the reader uses local textual evidence to build a working meaning for an unfamiliar word without stopping the whole passage.
+
 ## Sources
 
 - [[sources/learn-about-how-to-make-inferences-as-you-read]]

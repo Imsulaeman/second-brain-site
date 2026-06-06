@@ -32,6 +32,8 @@ If you accept that learning is memory, then:
 2. **Resisting these techniques is self-defeating.** Many students reject flashcards, recall practice, etc. as "rote memorization" and prefer passive methods that feel more intellectual (rereading, watching lectures). This creates [[concepts/illusions-of-competence|illusions of competence]].
 3. **Creativity requires memory.** You can't think with knowledge you don't have. You can't cook with ingredients you don't have. Creativity is recombining elements from memory in novel ways — a larger, better-organized memory base means more creative potential.
 
+Vocabulary-building tools fit the same logic. [[concepts/vocabulary-flashcards|Vocabulary flashcards]], a [[concepts/kim-chart|KIM chart]], and a [[concepts/word-web|word web]] are all small attempts to convert fleeting encounters with words into durable, retrievable memory.
+
 ## The Creativity Connection
 
 Skycak's strongest claim: "You can't be creative at a high level unless you're robotic at a low level." When low-level skills are automated (deeply memorized, [[concepts/chunking|chunked]]), [[concepts/working-memory-vs-long-term-memory|working memory]] is freed for higher-order recombination — the actual mechanism of creativity.
