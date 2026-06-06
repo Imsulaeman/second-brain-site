@@ -33,6 +33,8 @@ Growth mindset is not the same as empty encouragement. Its force comes from chan
 
 Briceno broadens the point beyond school. The same belief structure affects work, negotiation, relationships, and other performance domains because it changes whether feedback feels useful or threatening. In that sense, growth mindset acts less like a study trick and more like a general orientation toward self-development. [[entities/angela-duckworth|Angela Duckworth]] adds that this same orientation may be one of the strongest candidates for building [[concepts/grit|grit]], because people persevere longer when they do not treat failure as permanent.
 
+That broader role is exactly why it sits near the center of [[synthesis/apple-developer-academy-prep-learning-and-thinking]], where mindset is treated not as motivational wallpaper but as the response layer for challenge, feedback, and identity threat.
+
 ## Failure Modes
 
 - **Turning it into slogan therapy.** Saying "just believe you can improve" without changing feedback, incentives, or learning conditions.

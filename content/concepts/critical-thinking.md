@@ -39,15 +39,15 @@ For the recurring failure patterns that corrupt this process in practice, see [[
 - [[concepts/problem-framing]]
 - [[concepts/epistemic-humility]]
 - [[concepts/socratic-method]]
-- [[concepts/5-whys]] — operational drill for moving past surface symptoms to root causes
-- [[concepts/inferencing]] — drawing the strongest supported conclusion when the text or evidence leaves something unstated
-- [[concepts/criticizing-a-book-fairly]] — do not disagree before understanding; interpret first, then judge with reasons
+- [[concepts/5-whys]] - operational drill for moving past surface symptoms to root causes
+- [[concepts/inferencing]] - drawing the strongest supported conclusion when the text or evidence leaves something unstated
+- [[concepts/criticizing-a-book-fairly]] - do not disagree before understanding; interpret first, then judge with reasons
+- [[synthesis/apple-developer-academy-prep-learning-and-thinking]] - prep-oriented roadmap for why reasoning, diagnosis, mindset, and reading form one learning stack
 
 ## Sources
 
 - [[sources/critical-thinking-a-practical-guide-to-better-decision-making]]
 - [[sources/this-tool-will-help-improve-your-critical-thinking]]
 - [[sources/what-are-5-whys]]
-
 
 A deeper layer is understanding the *direction* of the reasoning itself. [[concepts/inductive-reasoning|Inductive reasoning]] builds general claims from specific observations and produces conclusions that are probable but never certain. [[concepts/deductive-reasoning|Deductive reasoning]] applies established rules or premises to specific cases and produces conclusions that must follow if the premises are true. Critical thinking requires recognizing which direction is being used, because each carries different standards for what counts as strong reasoning.

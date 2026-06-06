@@ -45,6 +45,8 @@ Inferencing belongs close to [[concepts/critical-thinking|critical thinking]] be
 
 Inferencing also supports ordinary vocabulary growth. [[concepts/context-clues|Context clues]] are one of its most common reading-level forms: the reader uses local textual evidence to build a working meaning for an unfamiliar word without stopping the whole passage.
 
+That makes inferencing one of the hidden force multipliers in [[synthesis/apple-developer-academy-prep-learning-and-thinking]], where independent reading and moderately dense English material are treated as part of the real learning environment rather than as side skills.
+
 ## Sources
 
 - [[sources/learn-about-how-to-make-inferences-as-you-read]]
