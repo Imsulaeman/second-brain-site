@@ -38,6 +38,7 @@ Useful operations include:
 - [[concepts/epistemic-humility]]
 - [[concepts/socratic-method]]
 - [[concepts/5-whys]] — operational drill for moving past surface symptoms to root causes
+- [[concepts/inferencing]] — drawing the strongest supported conclusion when the text or evidence leaves something unstated
 
 ## Sources
 

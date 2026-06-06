@@ -24,6 +24,8 @@ The basic sequence is simple:
 
 The sun rose yesterday, today, and every day before that, so it will probably rise tomorrow. A shop owner sees sales rise after repeated weekend discounts, so the next discount will probably help again. A doctor notices the same symptom cluster across many patients and begins to suspect the same diagnosis. In each case the conclusion is useful, but never guaranteed.
 
+Reading comprehension uses the same structure in miniature. [[concepts/inferencing|Inferencing]] often asks the reader to move from a handful of textual clues toward the most probable unstated conclusion or main idea.
+
 ## What It Is Good For
 
 Inductive reasoning is the default tool for life under uncertainty. It powers forecasting, diagnosis, scientific hypothesis formation, historical explanation, and most practical decision-making. Whenever the world does not hand you a complete rule in advance, you are usually working inductively whether you notice it or not.
