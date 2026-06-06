@@ -23,7 +23,7 @@ The contrast between exchange value and lived value runs through the whole book,
 
 ## Why It Matters
 
-This concept gives the whole book a moral horizon. It reminds the reader that the point of understanding capitalism is not merely to track money flows but to ask whether market value has colonized too much of what counts as a good life.
+This concept gives the whole book a moral horizon. It reminds the reader that the point of understanding capitalism is not merely to track money flows but to ask whether market value has colonized too much of what counts as a good life. It also helps separate this page from investing uses of the same word, such as [[concepts/value-vs-growth-investing|value vs growth investing]].
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

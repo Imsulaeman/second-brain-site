@@ -15,7 +15,7 @@ Banking in a capitalist economy is not mainly a storage service. It is a system 
 
 The naive picture says that savers deposit money, banks gather it, and then banks lend it out to borrowers. Varoufakis attacks that picture directly. In practice, banks create new purchasing power when they lend. That is why he calls banking "black magic": it looks like intermediation, but it operates more like authorized money creation.
 
-This makes banks central to both growth and instability. Credit lets firms hire, build, and speculate before profits are realized. But when lending slows, confidence breaks, or repayments fail, the whole chain of spending can seize up. What looked like smooth circulation reveals itself as a fragile arrangement of promises.
+This makes banks central to both growth and instability. Credit lets firms hire, build, and speculate before profits are realized. But when lending slows, confidence breaks, or repayments fail, the whole chain of spending can seize up. What looked like smooth circulation reveals itself as a fragile arrangement of promises, much closer to a [[concepts/credit-cycle|credit cycle]] than to a neutral utility.
 
 ## Example
 

@@ -23,7 +23,7 @@ Faust turns debt into something the reader can feel. Frankenstein turns automati
 
 ## Why It Matters
 
-This concept matters because it explains the book's method as well as its content. Narrative is not a teaching crutch here. It is part of the theory.
+This concept matters because it explains the book's method as well as its content. Narrative is not a teaching crutch here. It is part of the theory, and it belongs close to [[concepts/critical-thinking|critical thinking]] because bad stories can hide bad models.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

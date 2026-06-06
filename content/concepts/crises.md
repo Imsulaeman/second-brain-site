@@ -15,7 +15,7 @@ Economic crisis is not an outside shock interrupting an otherwise balanced machi
 
 Modern production relies on debt, expected profit, wages, spending, and financial confidence all reinforcing one another. Firms borrow because they expect future revenue. Banks lend because they expect repayment. Workers spend because wages arrive. Once those expectations begin to fail, the problem spreads quickly.
 
-That is why Varoufakis links crisis to the marriage of [[concepts/debt-and-profit|debt and profit]] and the breakdown of [[concepts/recycling|recycling]]. When purchasing power stops moving, the economy does not simply slow down. It produces a more absurd condition: goods exist, needs exist, and yet money, confidence, and coordination fail to connect them.
+That is why Varoufakis links crisis to the marriage of [[concepts/debt-and-profit|debt and profit]] and the breakdown of [[concepts/recycling|recycling]]. When purchasing power stops moving, the economy does not simply slow down. It produces a more absurd condition: goods exist, needs exist, and yet money, confidence, and coordination fail to connect them. In that sense, crisis sits near the border of [[concepts/credit-cycle|credit cycle]] dynamics and [[concepts/liquidity-risk|liquidity risk]], even though Varoufakis frames the problem politically rather than as an investor memo.
 
 ## Example
 

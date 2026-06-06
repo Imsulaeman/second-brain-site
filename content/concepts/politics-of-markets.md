@@ -23,7 +23,7 @@ The whole arc of the book supports this concept, but the strongest examples are 
 
 ## Why It Matters
 
-This concept is the book's unifying lens. It turns many separate topics into one family: [[concepts/banking|banking]], [[concepts/inequality|inequality]], [[concepts/labor-markets|labor markets]], and [[concepts/economic-power|economic power]] all become arguments about rules, not just outcomes.
+This concept is the book's unifying lens. It turns many separate topics into one family: [[concepts/banking|banking]], [[concepts/inequality|inequality]], [[concepts/labor-markets|labor markets]], and [[concepts/economic-power|economic power]] all become arguments about rules, not just outcomes. It also overlaps with [[concepts/economic-reality-vs-political-reality|economic reality vs political reality]], where the real constraint structure and the public narrative about it often split apart.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]

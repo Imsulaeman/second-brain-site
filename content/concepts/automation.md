@@ -23,7 +23,7 @@ The chapter's "haunted machines" framing, borrowing from Frankenstein and *The M
 
 ## Why It Matters
 
-This concept keeps the reader from falling into a shallow technology debate. The real question is political: can productivity gains become shared freedom, or do they mainly intensify existing concentrations of [[concepts/economic-power|power]] and instability?
+This concept keeps the reader from falling into a shallow technology debate. The real question is political: can productivity gains become shared freedom, or do they mainly intensify existing concentrations of [[concepts/economic-power|power]] and instability? That makes automation a close cousin of [[concepts/economic-reality-vs-political-reality|economic reality vs political reality]]: the productive facts and the politically sellable story often diverge.
 
 ## Sources
 - [[sources/talking-to-my-daughter-about-the-economy]]
