@@ -3,7 +3,7 @@ title: "Python Basics Review"
 type: source
 tags: [python, programming, reference, basics, freecodecamp]
 created: 2026-05-04
-updated: 2026-05-10
+updated: 2026-06-06
 sources: 1
 ---
 
@@ -230,3 +230,5 @@ is_citizen and age >= 18  # both must be true
 age < 18 or is_student    # either must be true
 not is_admin              # inverts
 ```
+
+This page is the static foundation. For the next layer of flow control, iteration, and sequence handling, see [[sources/python-loops-and-sequences]].

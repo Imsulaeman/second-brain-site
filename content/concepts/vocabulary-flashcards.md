@@ -36,7 +36,8 @@ Flashcards are best when the goal is fast review, repeated exposure, and long-te
 
 Flashcards can become shallow if the learner only memorizes front-back pairs without reading the word in real passages. They work best as a companion to actual reading, where the original encounter gives the word texture and the card preserves it for later recall.
 
+That makes them one storage option inside [[synthesis/building-vocabulary-while-reading]], not a standalone substitute for reading well.
+
 ## Sources
 
 - [[sources/how-to-make-vocabulary-flashcards]]
-

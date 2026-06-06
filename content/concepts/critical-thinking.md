@@ -3,7 +3,7 @@ title: "Critical Thinking"
 type: concept
 tags: [reasoning, decision-making, skepticism, learning]
 created: 2026-06-01
-updated: 2026-06-03
+updated: 2026-06-06
 sources: 3
 ---
 
@@ -31,6 +31,8 @@ Useful operations include:
 [[sources/critical-thinking-a-practical-guide-to-better-decision-making]] gives a practical five-step decision loop.
 
 [[sources/this-tool-will-help-improve-your-critical-thinking]] adds a deeper interrogation tool: the [[concepts/socratic-method]], which exposes confusion through questioning rather than through passive acceptance.
+
+For the recurring failure patterns that corrupt this process in practice, see [[synthesis/critical-thinking-and-logical-fallacies]].
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: "Life Lessons From Trading"
 type: source
 tags: [trading, markets, psychology, risk-management, career, identity]
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-06-06
 sources: 1
 ---
 
@@ -29,6 +29,7 @@ sources: 1
 - Most participants are **flipping coins**. Every so often someone flips twenty heads in a row and spawns cargo cults.
 - The guessing game always **gets harder** â€” it's an adaptive, Darwinian system. Knowledge spreads, edges decay, winners grow.
 - **Best trades work out quickly and ferociously.**
+- In some markets that means clock-time becomes less informative than event density, which is exactly the lens developed in [[sources/time-is-event-based]].
 
 ---
 
@@ -71,3 +72,4 @@ sources: 1
 - [[sources/dealing-with-loss]] â€” loss psychology and recovery in trading
 - [[sources/the-jackpot-age]] â€” ergodicity, risk preferences, the cultural shift toward jackpot-hunting
 - [[sources/how-to-find-trading-edge]] â€” practical framework for edge as a retail trader
+- [[sources/time-is-event-based]] â€” why some environments are better measured by information density than by clock duration

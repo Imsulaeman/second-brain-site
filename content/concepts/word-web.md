@@ -38,7 +38,8 @@ This tool is especially helpful for high-value words worth understanding well ra
 
 A word web takes more time than simpler tools, so it is not ideal for every unfamiliar word. It is best reserved for words that recur, matter to a course or project, or have multiple meanings worth distinguishing.
 
+It is the richest of the memory tools collected in [[synthesis/building-vocabulary-while-reading]].
+
 ## Sources
 
 - [[sources/how-to-make-a-word-web]]
-

@@ -44,7 +44,8 @@ Context clues do not guarantee precision. A sentence may only narrow the range o
 
 Context clues sit at the intersection of vocabulary growth and comprehension. They help the reader keep momentum, and they turn ordinary reading into a steady source of word acquisition instead of a stop-start decoding struggle.
 
+Inside the broader reading workflow, they are one part of [[synthesis/building-vocabulary-while-reading]].
+
 ## Sources
 
 - [[sources/how-to-use-context-clues-to-define-words]]
-

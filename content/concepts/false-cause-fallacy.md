@@ -3,7 +3,7 @@ title: "False Cause Fallacy"
 type: concept
 tags: [logic, causation, fallacies, critical-thinking]
 created: 2026-06-01
-updated: 2026-06-04
+updated: 2026-06-06
 sources: 2
 ---
 
@@ -23,7 +23,7 @@ The form of the mistake is simple: "these two things are associated, therefore o
 
 The childbed-fever case in [[sources/can-you-outsmart-the-false-cause-fallacy]] shows one version of the error: visible inflammation looked causally central because it was present at death, even though it was not the real driver of the disease. [[sources/the-danger-of-mixing-up-causality-and-correlation]] makes the pattern easier to remember by splitting it into cleaner types: ice cream and drownings share a third factor, marriage and male longevity can be read backward, and the self-esteem example shows how a mistaken causal story can spread into policy and parenting advice.
 
-The deeper problem is impatience with causal uncertainty. People often prefer a wrong explanation to an unfinished one because an explanation feels actionable.
+The deeper problem is impatience with causal uncertainty. People often prefer a wrong explanation to an unfinished one because an explanation feels actionable. [[entities/elizabeth-cox|Elizabeth Cox]]'s fallacy series is useful here because it keeps translating abstract logical errors into memorable historical cases instead of leaving them as textbook definitions.
 
 ## What To Ask
 
@@ -35,6 +35,8 @@ When a causal claim arrives too quickly, a few questions usually expose the weak
 - If this cause were real, what intervention should reliably change the outcome?
 
 Without those checks, patterns become stories too quickly.
+
+For the larger map this concept sits inside, see [[synthesis/critical-thinking-and-logical-fallacies]].
 
 ## Sources
 

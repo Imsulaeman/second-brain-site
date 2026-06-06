@@ -37,7 +37,8 @@ For a word like "prevaricate," the key-word column holds the term, the informati
 
 Compared with [[concepts/vocabulary-flashcards|vocabulary flashcards]], a KIM chart is less portable but more cumulative inside a notebook. Compared with a [[concepts/word-web|word web]], it is narrower and quicker to fill out, but also less semantically rich.
 
+It fits best as one retrieval structure inside [[synthesis/building-vocabulary-while-reading]].
+
 ## Sources
 
 - [[sources/how-to-make-a-kim-chart]]
-

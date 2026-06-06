@@ -37,7 +37,8 @@ This is why the method pairs naturally with [[concepts/specialized-terminology|s
 
 Some words have deceptive histories, fossilized forms, or evolved meanings that drift from their literal parts. A mechanically assembled definition can therefore miss nuance or even land in the wrong place. Word-part clues are best treated as a first-pass decoding method, not as final authority.
 
+They make the most sense as one stage inside [[synthesis/building-vocabulary-while-reading]], where decoding, terminology-building, and memory all reinforce each other.
+
 ## Sources
 
 - [[sources/how-to-use-word-part-clues-to-define-words]]
-

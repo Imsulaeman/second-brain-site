@@ -3,13 +3,13 @@ title: "Socratic Method"
 type: concept
 tags: [philosophy, education, questioning, reasoning]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-06
 sources: 1
 ---
 
 # Socratic Method
 
-The **Socratic method** is a structured form of questioning that tests claims by pushing on definitions, assumptions, examples, exceptions, and consequences.
+The **Socratic method** is a structured form of questioning associated with [[entities/socrates|Socrates]] that tests claims by pushing on definitions, assumptions, examples, exceptions, and consequences.
 
 ---
 

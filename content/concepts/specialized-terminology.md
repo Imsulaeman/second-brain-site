@@ -45,7 +45,8 @@ Someone reading political science may repeatedly encounter terms such as executi
 
 This concept matters beyond classroom reading. Many intellectual failures are really vocabulary failures in disguise: a person appears to disagree with a field when in fact they have not yet learned how that field partitions reality. The right response is often not immediate judgment but patient lexicon-building.
 
+That is why it belongs inside the larger system described in [[synthesis/building-vocabulary-while-reading]] rather than as a one-off note-taking trick.
+
 ## Sources
 
 - [[sources/specialized-terminology]]
-

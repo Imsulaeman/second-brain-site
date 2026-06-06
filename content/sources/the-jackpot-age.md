@@ -3,7 +3,7 @@ title: "The Jackpot Age"
 type: source
 tags: [ergodicity, trading, risk, wealth, expected-value]
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-06-06
 sources: 1
 ---
 
@@ -55,7 +55,7 @@ The blowups of SBF and 3AC aren't just math parables â€” they reflect a dee
 
 In its extreme form, capitalism behaves like a collectivist hive: the Jackpot Paradox math makes it "rational" to treat humanity as interchangeable labor and maximize aggregate linear expected value â€” but this **distributes purpose and meaning miserably.**
 
-The cure the author proposes isn't a trading fix but a cultural one: something that offers dignity, purpose, and an alternative path forward for all people â€” so they don't destroy themselves chasing jackpots.
+The cure the author proposes isn't a trading fix but a cultural one: something that offers dignity, purpose, and an alternative path forward for all people â€” so they don't destroy themselves chasing jackpots. That argument also belongs next to [[sources/time-is-event-based]], which widens the frame from bankroll dynamics to lived time itself: modern life can feel compressed not only because outcomes compound, but because event density and novelty keep rising.
 
 ---
 
@@ -74,3 +74,4 @@ The cure the author proposes isn't a trading fix but a cultural one: something t
 - [[sources/life-lessons-from-trading]] â€” broader trading psychology
 - [[sources/dealing-with-loss]] â€” loss psychology
 - [[sources/how-to-find-trading-edge]] â€” practical edge-finding
+- [[sources/time-is-event-based]] â€” event density, subjective time, and historical acceleration
