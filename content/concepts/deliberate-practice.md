@@ -27,6 +27,8 @@ Anything that slows this loop degrades practice quality. For example, "think-pai
 
 This is one place where [[concepts/growth-mindset|growth mindset]] matters. Deliberate practice only works if the learner can tolerate being bad, corrected, and stretched in public or in their own internal scoreboard. If difficulty is interpreted as judgment, the practice loop breaks psychologically before it breaks technically. That is also why [[concepts/learning-from-failure|learning from failure]] is not automatic: feedback helps only when the learner can stay open enough to use it.
 
+Justin Skycak's [[sources/introduction-to-algorithms-and-machine-learning|Introduction to Algorithms and Machine Learning]] shows what this looks like in technical study. His method is not "watch a tutorial and feel familiar." It is implementing core algorithms and models from scratch, debugging the mistakes yourself, and using each failure as information about what you still do not understand.
+
 ## Volume is Non-Negotiable
 
 Mindful repetition is what you want — mindful *because* you're working at the edge of your ability and responding to feedback. But the repetition itself is not optional. The analogy to weightlifting: if you do 1 perfect pushup in an hour, it doesn't matter how perfect it was. You're not getting stronger.
@@ -44,5 +46,6 @@ In schooling, students are grouped by age and paced to the group median. In tale
 - [[sources/advice-on-upskilling]] — Ch 4 (The Grind), Ch 9 (Learning), Ch 10 (Expertise); extensively throughout
 - [[sources/a-mind-for-numbers]] — Ch 7 (Chunking vs Choking): Oakley distinguishes deliberate practice from overlearning, emphasizing focus on the hardest material rather than comfortable repetition
 - [[sources/atomic-habits]] — Clear's [[concepts/goldilocks-rule|Goldilocks Rule]] (~4% beyond current ability) is the motivational framing of the same "just beyond" criterion. His formula: **Habits + Deliberate Practice = Mastery** — habits automate the basics and free [[concepts/working-memory-vs-long-term-memory|working memory]], then deliberate practice pushes the frontier. Without reflection and review, habits stagnate into complacency.
+- [[sources/introduction-to-algorithms-and-machine-learning]] — Skycak turns deliberate practice into a technical curriculum: implement from scratch, debug actively, and use friction as proof you are working at the real frontier rather than consuming polished abstractions.
 - [[sources/poor-charlies-almanack]] — Munger frames continuous learning as a moral duty and notes Buffett spends half his waking hours reading. His [[concepts/mental-models-latticework]] requires practicing all useful skills continuously, not just domain-specific ones. His Use-It-or-Lose-It tendency (#19) warns that all skills atrophy with disuse — the antidote is the "aircraft simulator" equivalent: routine practice of rarely-used skills.
 Deliberate practice involves both inductive feedback from performance data and deductive application of structured improvement principles.

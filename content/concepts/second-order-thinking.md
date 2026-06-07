@@ -46,6 +46,7 @@ In investing, this means a good company can be a bad investment if the price alr
 - [[concepts/einstellung-effect]] - Locked-in mental patterns block better second-order answers.
 - [[concepts/deliberate-practice]] - Hard practice has first-order discomfort and second-order growth.
 - [[concepts/active-management-as-error-detection]] - Active investing requires identifying where the market's first-order view is wrong.
+- [[concepts/minimax-strategy]] - Formal game-tree reasoning turns "and then what?" into a disciplined method for adversarial decisions.
 
 ## Munger's Extended Treatment
 
@@ -62,6 +63,7 @@ Munger's point: ignoring second-order effects is not just a thinking error — i
 - [[sources/the-most-important-thing-illuminated]] - Chapter 1, "Second-Level Thinking."
 - [[sources/the-complete-collection-howard-marks]] - Repeated application across Oaktree memos.
 - [[sources/second-order-thinking]] - Farnam Street mental model explainer.
+- [[sources/introduction-to-algorithms-and-machine-learning]] - Skycak's minimax material shows a computational version of second-order thinking: every candidate move has to be evaluated together with the opponent's best response.
 - [[sources/poor-charlies-almanack]] - Talk 9 (Academic Economics), defect #7: "Too Little Attention to Second- and Higher-Order Effects."
 
 Second-order thinking often requires moving between inductive and deductive modes — using observations to build better models of consequences (inductive), then applying those models to specific decisions (deductive).

@@ -11,6 +11,8 @@ sources: 1
 
 The principle that advanced skills should only be attempted after foundational prerequisites are genuinely mastered — not just "covered." Skycak's summary: **"Prereq yo' self before you wreck yo' self."**
 
+The principle matters outside math education too, but technical subjects make it especially visible. A machine learning course can look like it is "about models," yet progress often really depends on older layers already being automatic: algebra, functions, matrices, probability, debugging habits, and basic algorithmic thinking. When those are missing, advanced material feels mysterious for reasons that are structural, not personal.
+
 ## Why It Matters More Than It Seems
 
 When you skip or incompletely master prerequisites, you don't just slow down on the advanced material. You create a **vicious cycle**:
@@ -47,3 +49,4 @@ Filling in foundations transforms potholes → smooth road and makes you robust 
 ## Sources
 
 - [[sources/advice-on-upskilling|Advice on Upskilling]] — Ch 9 (Learning), sections "Prereq Yo' Self Before You Wreck Yo' Self," "Filling In Your Foundations," "Plan Your Broad-Strokes Journey Top-Down," "Prerequisite Knowledge is Intellectual Capital"
+- [[sources/introduction-to-algorithms-and-machine-learning]] — The book operationalizes prerequisite mastery by sequencing from simple search and sorting toward regression, neural networks, and strategic agents instead of treating advanced ML as a bag of disconnected tricks.
