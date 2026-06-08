@@ -65,6 +65,10 @@ The same principle â€” time is better counted in events than clock-time â�
 
 ---
 
+## Key Concepts
+
+- [[concepts/event-based-time]] — the core principle this source develops at all three scales
+
 ## Related Sources
 
 - [[sources/life-lessons-from-trading]] â€” likely same author; shared trading background

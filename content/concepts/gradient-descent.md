@@ -43,7 +43,7 @@ Gradient descent is also a broad pattern for improvement under feedback. You hav
 4. an update rule,
 5. repetition.
 
-That is why it connects so naturally to [[concepts/deliberate-practice]]. In both cases, improvement comes from repeated error-sensitive adjustment rather than one decisive act of understanding.
+That is why it connects so naturally to [[concepts/deliberate-practice]]. In both cases, improvement comes from repeated error-sensitive adjustment rather than one decisive act of understanding. The same metaphor appears in [[sources/dealing-with-loss]]: a trader who overcorrects after a loss oscillates around the optimal outcome indefinitely — the same failure mode as too large a step size in optimization.
 
 ## Limits
 

@@ -45,7 +45,7 @@ Both responses are blunt instruments. **The real problem is always a hole in the
 
 ## The Broader Principle
 
-The insight generalizes beyond trading: if you cannot recover from loss in a nuanced and precise way, you end up oscillating around the optimal solution indefinitely â€” like a gradient descent algorithm with too large a step size, forever overshooting convergence.
+The insight generalizes beyond trading: if you cannot recover from loss in a nuanced and precise way, you end up oscillating around the optimal solution indefinitely â€” like a [[concepts/gradient-descent]] algorithm with too large a step size, forever overshooting convergence.
 
 **Napoleon principle:** After a loss, immediately begin rebuilding. A loss is only fatal if it compromises your ability to fight the next battle. The priority: ensure the vulnerability won't be exploited again. Don't seek redemption. Don't seek revenge. Repair and rebuild.
 
