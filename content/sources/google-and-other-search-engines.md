@@ -24,6 +24,8 @@ The guide's practical core is twofold. First, use operators such as `site:`, `fi
 
 This is a small but important step beyond ordinary search literacy. The source treats the results page itself as something that must be read, not merely passed through.
 
+The screenshots do real teaching work here. One results-page image shows an AI Overview followed by four sponsored links before the first organic result, making the source's anti-naivete point visible at a glance. A second screenshot shows a combined query like `"climate change" site:epa.gov filetype:pdf`, which turns abstract operator advice into an actual search pattern. A third Google Scholar screenshot shows what academic metadata looks like in practice: title, authors, journal, year, snippet, and citation count.
+
 ## AI Overviews And Academic Limits
 
 The chapter also updates the search-literacy conversation by including AI-generated search summaries. These can be convenient, but the source warns that they may be wrong, outdated, or tied to sources that do not actually support the synthesis. It recommends treating them with caution and moving quickly to inspect underlying links.

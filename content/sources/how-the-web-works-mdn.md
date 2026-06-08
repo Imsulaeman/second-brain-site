@@ -18,6 +18,8 @@ The most useful part of the article is its event order. You enter a URL. The bro
 
 That sequence matters because it clarifies where different failures live. Wrong URL, DNS problem, missing file, permission issue, server outage, or redirect loop are not all the same kind of problem just because the user experiences them as "the page didn't load."
 
+The article's visuals support that sequence directly. The simple client-server diagram makes request and response into two visible arrows instead of a blur of invisible networking. The road-crossing photo anchors the transport analogy: client and server are at opposite ends, while the "road" stands for the internet connection and the machinery that moves data back and forth.
+
 ## Naming The Hidden Layers
 
 The source is especially good at giving names to the hidden infrastructure beginners interact with constantly but rarely distinguish: protocols, packets, headers, status codes, domain names, subdomains, and paths. It treats these as the basic vocabulary of web reality.

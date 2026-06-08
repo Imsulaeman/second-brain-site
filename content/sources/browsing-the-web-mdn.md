@@ -18,6 +18,8 @@ The page's first job is to separate four commonly confused things. A [[concepts/
 
 That distinction matters because beginner confusion usually starts at the interface layer. Someone opens Chrome, sees Google, and concludes that the browser and the search engine are the same thing. The source insists that they are not. One is software; the other is a service being accessed through that software.
 
+The embedded screenshots make this distinction more memorable than the prose alone. One image isolates a full page URL in the browser bar, another isolates the shared domain/homepage view of a website, and a third shows Firefox opening directly to a Google search page. Together they visually separate page, site, and search engine instead of leaving those as abstract definitions.
+
 ## How A Page Appears
 
 The source then gives the simplest useful account of what happens when someone enters a URL. The browser sends a request to the server using [[concepts/http|HTTP]], the server replies with the requested resource, and the browser may then discover more resources it also needs such as images, style sheets, or scripts. Only after those pieces arrive does the browser parse and render the result.

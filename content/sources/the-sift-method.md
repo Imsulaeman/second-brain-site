@@ -16,6 +16,8 @@ This guide presents Mike Caulfield's [[concepts/sift-method|SIFT method]] as a c
 
 The method is: Stop, Investigate the Source, Find Better Coverage, and Trace claims, quotes, and media to the original context. Taken together, these moves turn vague caution into a repeatable workflow.
 
+The guide opens with a dedicated SIFT infographic, and that matters because the image is part of the method's design. It compresses the four moves into a visual mnemonic rather than asking the reader to remember a paragraph. The rest of the page then expands each move with examples, videos, and verification habits. In other words, the image is not extra material around SIFT. It is one reason the method is easy to recall under time pressure.
+
 ## Why It Works
 
 SIFT is built for the speed and deception of networked information. It assumes that emotional triggers, branded credibility, and reposted fragments are part of the normal web environment. Instead of asking readers to become omniscient, it gives them a disciplined order of operations.
