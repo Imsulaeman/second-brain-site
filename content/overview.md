@@ -3,7 +3,7 @@ title: "Overview"
 type: overview
 tags: [learning, reasoning, investing, ai, habits, economics, mental-models, synthesis]
 created: 2026-05-02
-updated: 2026-06-06
+updated: 2026-06-08
 sources: 40
 ---
 
@@ -21,6 +21,7 @@ The vault currently draws on 54 source pages and clusters around twelve recurrin
 - Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
 - Critical thinking and fallacies: Elizabeth Cox's historical fallacy series, practical critical-thinking guides, the Socratic method, inferencing, and newer pages on reasoning types and causal mistakes.
 - Reading comprehension and vocabulary building: inferencing, context clues, word-part clues, specialized terminology, figurative language, and study tools for turning encountered words into memory.
+- Digital literacy and online judgment: the newer web, search, misinformation, privacy, AI, and app-platform cluster on how digital systems work, how they shape attention, and how to keep agency inside them.
 - Diagnosis and continuous improvement: [[sources/what-are-5-whys]], [[concepts/problem-framing]], [[concepts/kaizen]], [[concepts/design-thinking]], and the synthesis on diagnosis before solution.
 - Habits and behavior change: [[sources/atomic-habits]] and the cluster on identity, environment, friction, tracking, and compounding.
 - AI, AGI, and national-security framing: [[sources/situational-awareness]] and its connected pages on intelligence explosion, superalignment, and agentic workflows.
@@ -36,17 +37,20 @@ Learning science, habits, and deliberate practice form one stack: how skills are
 
 The newer political-economy material widens the wiki in a useful direction. It adds a systems layer beneath older topics like leverage, incentives, labor, value, and power. Questions that once appeared mainly as personal strategy now sit inside a clearer picture of the structures shaping them.
 
+The digital-literacy cluster adds a different kind of systems layer. It turns the internet from background infrastructure into an object of thought: how pages are served, how search ranking and personalization shape discovery, how verification must leave the page, how surveillance changes behavior, how AI changes the cost of fluent error, and how app platforms govern software distribution.
+
 ## Best Entry Points
 
 - For learning: [[concepts/deliberate-practice]], [[concepts/working-memory-vs-long-term-memory]], and [[concepts/spaced-repetition]].
 - For reasoning: [[concepts/critical-thinking]], [[concepts/inductive-reasoning]], [[concepts/deductive-reasoning]], and [[concepts/correlation-vs-causality]].
 - For diagnosis: [[concepts/5-whys]], [[concepts/problem-framing]], and [[synthesis/diagnosis-before-solution]].
+- For digital literacy: [[synthesis/apple-developer-academy-prep-digital-literacy]], [[concepts/search-engine]], [[concepts/lateral-reading]], and [[concepts/privacy]].
 - For markets and uncertainty: [[concepts/position-sizing]], [[concepts/trading-edge]], [[concepts/ergodicity]], and [[synthesis/uncertainty-market-judgment-operating-model]].
 - For systems and political economy: [[concepts/market-society]], [[concepts/banking]], [[concepts/inequality]], and [[concepts/politics-of-markets]].
 
 ## Current Totals
 
-- Sources: 54
-- Entities: 32
-- Concepts: 144
-- Synthesis pages: 8
+- Sources: 72
+- Entities: 40
+- Concepts: 183
+- Synthesis pages: 10

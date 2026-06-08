@@ -3,8 +3,8 @@ title: "Specialized Terminology"
 type: concept
 tags: [reading, vocabulary, domains, learning]
 created: 2026-06-06
-updated: 2026-06-06
-sources: 1
+updated: 2026-06-08
+sources: 2
 ---
 
 # Specialized Terminology
@@ -41,6 +41,8 @@ That structure makes the subject easier to enter because it captures the system 
 
 Someone reading political science may repeatedly encounter terms such as executive branch, legislative branch, and judicial branch, alongside recurring fragments like `bi-` or `-cracy`, and acronyms such as FDA or EPA. A terminology chart lets these stop being scattered surprises and become one organized vocabulary field.
 
+The same thing happens in beginner web learning. Terms such as [[concepts/web-browser|browser]], [[concepts/website|website]], [[concepts/web-server|web server]], and [[concepts/search-engine|search engine]] sound interchangeable until the learner sees that each names a different layer of the system.
+
 ## Connection
 
 This concept matters beyond classroom reading. Many intellectual failures are really vocabulary failures in disguise: a person appears to disagree with a field when in fact they have not yet learned how that field partitions reality. The right response is often not immediate judgment but patient lexicon-building.
@@ -50,3 +52,4 @@ That is why it belongs inside the larger system described in [[synthesis/buildin
 ## Sources
 
 - [[sources/specialized-terminology]]
+- [[sources/browsing-the-web-mdn]]

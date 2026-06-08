@@ -9,7 +9,7 @@ sources: 1
 
 # Karpathy's CLAUDE.md Hit #1
 
-Source: `raw/Karpathy's CLAUDE.md hit 1.md`
+Source: `raw/Karpathy's CLAUDE.md hit 1 (ingested).md`
 
 This clipped thread argues that a project-root instruction file can turn AI coding from repeated re-explanation into a durable workflow. Its strongest idea is not the claimed productivity math, which should be treated as marketing, but the operational pattern: write down defaults, scope rules, memory rules, and project context once, then make every session inherit them.
 

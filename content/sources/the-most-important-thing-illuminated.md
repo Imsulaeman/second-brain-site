@@ -6,7 +6,7 @@ created: 2026-05-10
 updated: 2026-05-10
 sources: 1
 author: "Howard Marks"
-file: "raw/Howard Marks - The Most Important Thing Illuminated_ Uncommon Sense for the Thoughtful Investor (2013, Columbia University Press) - libgen.li.pdf"
+file: "raw/Howard Marks - The Most Important Thing Illuminated_ Uncommon Sense for the Thoughtful Investor (2013, Columbia University Press) - libgen.li (ingested).pdf"
 pages: 244
 ---
 
@@ -123,4 +123,4 @@ The practical tone is defensive but not timid. Marks wants investors to take ris
 
 ## Sources
 
-- This page summarizes `raw/Howard Marks - The Most Important Thing Illuminated_ Uncommon Sense for the Thoughtful Investor (2013, Columbia University Press) - libgen.li.pdf`.
+- This page summarizes `raw/Howard Marks - The Most Important Thing Illuminated_ Uncommon Sense for the Thoughtful Investor (2013, Columbia University Press) - libgen.li (ingested).pdf`.

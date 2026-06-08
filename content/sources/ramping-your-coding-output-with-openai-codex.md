@@ -5,12 +5,12 @@ tags: [ai, coding, codex, agentic-workflows, productivity, software-engineering]
 created: 2026-05-11
 updated: 2026-05-11
 sources: 1
-file: "raw/Ramping Your Coding Output with OpenAI's Codex.md"
+file: "raw/Ramping Your Coding Output with OpenAI's Codex (ingested).md"
 ---
 
 # Ramping Your Coding Output with OpenAI's Codex
 
-**Source:** `raw/Ramping Your Coding Output with OpenAI's Codex.md`
+**Source:** `raw/Ramping Your Coding Output with OpenAI's Codex (ingested).md`
 **Author:** Unknown, associated with PostFiat community
 **Entity:** [[entities/openai-codex]]
 
@@ -153,4 +153,4 @@ It also connects to the wiki's own method. The LLM wiki is a form of [[concepts/
 
 ## Sources
 
-- `raw/Ramping Your Coding Output with OpenAI's Codex.md`
+- `raw/Ramping Your Coding Output with OpenAI's Codex (ingested).md`

@@ -6,12 +6,12 @@ created: 2026-05-10
 updated: 2026-05-10
 sources: 1
 author: "Unknown"
-file: "raw/first principles thinking how to see what everyone else misses.md"
+file: "raw/first principles thinking how to see what everyone else misses (ingested).md"
 ---
 
 # First Principles Thinking
 
-**Source:** `raw/first principles thinking how to see what everyone else misses.md`
+**Source:** `raw/first principles thinking how to see what everyone else misses (ingested).md`
 **Core concept:** [[concepts/first-principles-thinking]]
 
 ---
@@ -103,4 +103,4 @@ The emotional difficulty is responsibility. When you copy the template, failure 
 
 ## Sources
 
-- This page summarizes `raw/first principles thinking how to see what everyone else misses.md`.
+- This page summarizes `raw/first principles thinking how to see what everyone else misses (ingested).md`.

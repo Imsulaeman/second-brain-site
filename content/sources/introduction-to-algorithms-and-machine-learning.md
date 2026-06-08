@@ -29,4 +29,4 @@ Worth coming back to: the book's deepest contribution is not any single algorith
 
 ## Sources
 
-- PDF in `raw/introduction-to-algorithms-and-machine-learning.pdf`
+- PDF in `raw/introduction-to-algorithms-and-machine-learning (ingested).pdf`

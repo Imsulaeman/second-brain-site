@@ -6,7 +6,7 @@ created: 2026-05-16
 updated: 2026-05-16
 sources: 1
 author: "Leopold Aschenbrenner"
-file: "raw/Situational Awareness.pdf"
+file: "raw/Situational Awareness (ingested).pdf"
 pages: 165
 ---
 
@@ -165,4 +165,4 @@ Aschenbrenner defines "AGI Realism" as a third position between doomers (pause A
 
 ## Sources
 
-- This page summarizes `raw/Situational Awareness.pdf`.
+- This page summarizes `raw/Situational Awareness (ingested).pdf`.
