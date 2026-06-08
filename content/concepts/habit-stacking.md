@@ -1,7 +1,7 @@
 ---
 title: "Habit Stacking"
 type: concept
-tags: [habits, technique, behavior-change, implementation, james-clear]
+tags: [habits, technique, behavior-change, implementation, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

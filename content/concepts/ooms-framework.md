@@ -1,7 +1,7 @@
 ---
 title: "OOMs Framework"
 type: concept
-tags: [ai, compute, scaling, measurement, progress]
+tags: [ai, compute, scaling, measurement, progress, weak]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1

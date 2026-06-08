@@ -1,7 +1,7 @@
 ---
 title: "The App Store turns 10"
 type: source
-tags: [apps, apple, platform, software, economy]
+tags: [apps, apple, platform, software, economy, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

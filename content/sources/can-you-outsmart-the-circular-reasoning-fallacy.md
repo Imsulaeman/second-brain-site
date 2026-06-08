@@ -1,7 +1,7 @@
 ---
 title: "Can You Outsmart the Circular Reasoning Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, law, equality, tradition, elizabeth-cox]
+tags: [critical-thinking, logic, fallacies, law, equality, tradition, elizabeth-cox, weak]
 created: 2026-06-01
 updated: 2026-06-04
 sources: 1

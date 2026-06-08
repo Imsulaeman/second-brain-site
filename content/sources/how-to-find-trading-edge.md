@@ -1,7 +1,7 @@
 ---
 title: "How to Find Trading Edge (as a Retail Trader)"
 type: source
-tags: [trading, markets, edge, risk-premium, supply-demand, arbitrage, retail]
+tags: [trading, markets, edge, risk-premium, supply-demand, arbitrage, retail, weak]
 created: 2026-05-05
 updated: 2026-05-10
 sources: 1

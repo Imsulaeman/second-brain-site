@@ -1,7 +1,7 @@
 ---
 title: "Planck vs Chauffeur Knowledge"
 type: concept
-tags: [knowledge, expertise, thinking, charles-munger]
+tags: [knowledge, expertise, thinking, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

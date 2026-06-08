@@ -1,7 +1,7 @@
 ---
 title: "Illusions of Competence"
 type: concept
-tags: [learning, cognitive-science, study-techniques, metacognition]
+tags: [learning, cognitive-science, study-techniques, metacognition, weak]
 created: 2026-05-03
 updated: 2026-05-19
 sources: 3

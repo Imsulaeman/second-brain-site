@@ -1,7 +1,7 @@
 ---
 title: "Use-It-or-Lose-It"
 type: concept
-tags: [psychology, learning, practice, mental-models, charles-munger]
+tags: [psychology, learning, practice, mental-models, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

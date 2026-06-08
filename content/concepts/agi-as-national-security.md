@@ -1,7 +1,7 @@
 ---
 title: "AGI as National Security"
 type: concept
-tags: [ai, agi, national-security, geopolitics, military, china, superintelligence]
+tags: [ai, agi, national-security, geopolitics, military, china, superintelligence, weak]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1

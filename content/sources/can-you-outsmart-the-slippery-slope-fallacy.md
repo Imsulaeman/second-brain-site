@@ -1,7 +1,7 @@
 ---
 title: "Can You Outsmart the Slippery Slope Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, politics, cold-war, probability, elizabeth-cox]
+tags: [critical-thinking, logic, fallacies, politics, cold-war, probability, elizabeth-cox, weak]
 created: 2026-06-01
 updated: 2026-06-04
 sources: 1

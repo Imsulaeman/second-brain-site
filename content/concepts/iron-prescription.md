@@ -1,7 +1,7 @@
 ---
 title: "Iron Prescription"
 type: concept
-tags: [thinking, disconfirming-evidence, intellectual-honesty, charles-munger, darwin]
+tags: [thinking, disconfirming-evidence, intellectual-honesty, charles-munger, darwin, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

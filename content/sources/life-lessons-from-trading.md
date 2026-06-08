@@ -1,7 +1,7 @@
 ---
 title: "Life Lessons From Trading"
 type: source
-tags: [trading, markets, psychology, risk-management, career, identity]
+tags: [trading, markets, psychology, risk-management, career, identity, weak]
 created: 2026-05-05
 updated: 2026-06-06
 sources: 1

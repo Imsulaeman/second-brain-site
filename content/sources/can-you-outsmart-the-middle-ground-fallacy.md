@@ -1,7 +1,7 @@
 ---
 title: "Can You Outsmart the Middle Ground Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, politics, slavery, ethics, elizabeth-cox]
+tags: [critical-thinking, logic, fallacies, politics, slavery, ethics, elizabeth-cox, weak]
 created: 2026-06-01
 updated: 2026-06-04
 sources: 1

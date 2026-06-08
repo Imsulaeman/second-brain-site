@@ -1,7 +1,7 @@
 ---
 title: "How to Use Word-Part Clues to Define Words"
 type: source
-tags: [reading, vocabulary, reading-comprehension, morphology]
+tags: [reading, vocabulary, reading-comprehension, morphology, weak]
 created: 2026-06-06
 updated: 2026-06-06
 sources: 1

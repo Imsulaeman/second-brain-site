@@ -1,7 +1,7 @@
 ---
 title: "Intelligence Explosion"
 type: concept
-tags: [ai, agi, superintelligence, recursive-improvement, automation]
+tags: [ai, agi, superintelligence, recursive-improvement, automation, weak]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1

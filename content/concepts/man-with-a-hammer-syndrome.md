@@ -1,7 +1,7 @@
 ---
 title: "Man-with-a-Hammer Syndrome"
 type: concept
-tags: [mental-models, thinking, cognitive-bias, charles-munger]
+tags: [mental-models, thinking, cognitive-bias, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

@@ -1,7 +1,7 @@
 ---
 title: "Environment Design for Habits"
 type: concept
-tags: [habits, environment, cues, self-control, willpower, james-clear]
+tags: [habits, environment, cues, self-control, willpower, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

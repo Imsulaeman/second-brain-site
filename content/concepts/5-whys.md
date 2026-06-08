@@ -1,7 +1,7 @@
 ---
 title: "5 Whys"
 type: concept
-tags: [problem-solving, root-cause-analysis, design-thinking, kaizen, critical-thinking]
+tags: [problem-solving, root-cause-analysis, design-thinking, kaizen, critical-thinking, weak]
 created: 2026-06-03
 updated: 2026-06-06
 sources: 1

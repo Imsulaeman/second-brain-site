@@ -1,7 +1,7 @@
 ---
 title: "Ergodicity"
 type: concept
-tags: [math, risk, trading, expected-value, compounding, survival]
+tags: [math, risk, trading, expected-value, compounding, survival, weak]
 created: 2026-05-05
 updated: 2026-05-19
 sources: 2

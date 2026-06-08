@@ -1,7 +1,7 @@
 ---
 title: "Focused vs Diffuse Thinking"
 type: concept
-tags: [cognitive-science, learning, creativity, problem-solving]
+tags: [cognitive-science, learning, creativity, problem-solving, weak]
 created: 2026-05-03
 updated: 2026-05-03
 sources: 1

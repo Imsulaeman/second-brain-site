@@ -1,7 +1,7 @@
 ---
 title: "Permissionless Leverage"
 type: concept
-tags: [leverage, internet, code, media, ai, wealth, naval-ravikant]
+tags: [leverage, internet, code, media, ai, wealth, naval-ravikant, weak]
 created: 2026-05-11
 updated: 2026-05-19
 sources: 2

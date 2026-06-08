@@ -1,7 +1,7 @@
 ---
 title: "Alternative Histories"
 type: concept
-tags: [probability, decision-making, uncertainty, investing, risk]
+tags: [probability, decision-making, uncertainty, investing, risk, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

@@ -1,7 +1,7 @@
 ---
 title: "Active Management as Error Detection"
 type: concept
-tags: [investing, markets, active-management, mispricing, risk, howard-marks]
+tags: [investing, markets, active-management, mispricing, risk, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 2

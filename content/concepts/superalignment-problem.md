@@ -1,7 +1,7 @@
 ---
 title: "Superalignment Problem"
 type: concept
-tags: [ai, alignment, safety, superintelligence, rlhf]
+tags: [ai, alignment, safety, superintelligence, rlhf, weak]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1

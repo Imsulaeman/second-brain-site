@@ -1,7 +1,7 @@
 ---
 title: "Deliberate Practice"
 type: concept
-tags: [learning, skill-development, training, expertise]
+tags: [learning, skill-development, training, expertise, weak]
 created: 2026-05-02
 updated: 2026-05-19
 sources: 4

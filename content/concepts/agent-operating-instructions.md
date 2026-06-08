@@ -1,7 +1,7 @@
 ---
 title: "Agent Operating Instructions"
 type: concept
-tags: [ai, coding-agents, context, workflow, software-engineering]
+tags: [ai, coding-agents, context, workflow, software-engineering, weak]
 created: 2026-05-21
 updated: 2026-05-21
 sources: 2

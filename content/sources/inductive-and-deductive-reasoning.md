@@ -1,7 +1,7 @@
 ---
 title: "Inductive and Deductive Reasoning"
 type: source
-tags: [reasoning, logic, critical-thinking]
+tags: [reasoning, logic, critical-thinking, weak]
 created: 2026-06-04
 updated: 2026-06-04
 sources: 1

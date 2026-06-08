@@ -1,7 +1,7 @@
 ---
 title: "Habit Tracking"
 type: concept
-tags: [habits, technique, measurement, feedback, james-clear]
+tags: [habits, technique, measurement, feedback, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

@@ -1,7 +1,7 @@
 ---
 title: "Decisive Moments"
 type: concept
-tags: [habits, decision-making, leverage-points, james-clear]
+tags: [habits, decision-making, leverage-points, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

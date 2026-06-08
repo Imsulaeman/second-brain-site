@@ -1,7 +1,7 @@
 ---
 title: "Credit Investing as Negative Art"
 type: concept
-tags: [investing, credit, risk, underwriting, howard-marks]
+tags: [investing, credit, risk, underwriting, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

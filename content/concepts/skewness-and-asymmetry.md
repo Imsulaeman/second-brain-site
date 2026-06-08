@@ -1,7 +1,7 @@
 ---
 title: "Skewness and Asymmetry"
 type: concept
-tags: [risk, probability, trading, investing, tail-risk, asymmetry]
+tags: [risk, probability, trading, investing, tail-risk, asymmetry, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

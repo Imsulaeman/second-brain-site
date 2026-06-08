@@ -1,7 +1,7 @@
 ---
 title: "Working Memory vs Long-Term Memory"
 type: concept
-tags: [cognitive-science, learning, expertise, memory]
+tags: [cognitive-science, learning, expertise, memory, weak]
 created: 2026-05-02
 updated: 2026-05-03
 sources: 2

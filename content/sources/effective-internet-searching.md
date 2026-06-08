@@ -1,7 +1,7 @@
 ---
 title: "Effective internet searching"
 type: source
-tags: [search, web, research, information-literacy]
+tags: [search, web, research, information-literacy, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

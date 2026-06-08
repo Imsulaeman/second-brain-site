@@ -1,7 +1,7 @@
 ---
 title: "Einstellung Effect"
 type: concept
-tags: [cognitive-science, problem-solving, learning, bias]
+tags: [cognitive-science, problem-solving, learning, bias, weak]
 created: 2026-05-03
 updated: 2026-05-03
 sources: 1

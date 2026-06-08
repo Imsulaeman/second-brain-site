@@ -1,7 +1,7 @@
 ---
 title: "Bloom's Three Stages"
 type: concept
-tags: [talent-development, education, expertise, learning]
+tags: [talent-development, education, expertise, learning, weak]
 created: 2026-05-03
 updated: 2026-05-03
 sources: 1

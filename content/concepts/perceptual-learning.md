@@ -1,7 +1,7 @@
 ---
 title: "Perceptual Learning"
 type: concept
-tags: [cognitive-science, expertise, learning, memory]
+tags: [cognitive-science, expertise, learning, memory, weak]
 created: 2026-05-03
 updated: 2026-05-03
 sources: 1

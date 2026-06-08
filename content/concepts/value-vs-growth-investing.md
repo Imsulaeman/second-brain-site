@@ -1,7 +1,7 @@
 ---
 title: "Value vs Growth Investing"
 type: concept
-tags: [investing, valuation, growth, intrinsic-value]
+tags: [investing, valuation, growth, intrinsic-value, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

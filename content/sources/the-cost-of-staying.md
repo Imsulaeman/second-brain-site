@@ -1,7 +1,7 @@
 ---
 title: "The Cost of Staying"
 type: source
-tags: [career, ai, startups, judgment, opportunity-cost]
+tags: [career, ai, startups, judgment, opportunity-cost, weak]
 created: 2026-05-05
 updated: 2026-05-10
 sources: 1

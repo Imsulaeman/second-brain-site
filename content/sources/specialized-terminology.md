@@ -1,7 +1,7 @@
 ---
 title: "Specialized Terminology"
 type: source
-tags: [reading, vocabulary, terminology, learning]
+tags: [reading, vocabulary, terminology, learning, weak]
 created: 2026-06-06
 updated: 2026-06-06
 sources: 1

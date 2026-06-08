@@ -1,7 +1,7 @@
 ---
 title: "Circle of Competence"
 type: concept
-tags: [mental-models, investing, self-awareness, charles-munger]
+tags: [mental-models, investing, self-awareness, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

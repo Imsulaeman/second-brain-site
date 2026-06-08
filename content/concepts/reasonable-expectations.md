@@ -1,7 +1,7 @@
 ---
 title: "Reasonable Expectations"
 type: concept
-tags: [investing, risk, skepticism, expectations, howard-marks]
+tags: [investing, risk, skepticism, expectations, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

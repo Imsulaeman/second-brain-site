@@ -1,7 +1,7 @@
 ---
 title: "Spaced Repetition"
 type: concept
-tags: [learning, memory, retention, training]
+tags: [learning, memory, retention, training, weak]
 created: 2026-05-02
 updated: 2026-05-03
 sources: 2

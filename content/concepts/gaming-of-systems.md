@@ -1,7 +1,7 @@
 ---
 title: "Gaming of Systems"
 type: concept
-tags: [incentives, system-design, economics, fraud, charles-munger]
+tags: [incentives, system-design, economics, fraud, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

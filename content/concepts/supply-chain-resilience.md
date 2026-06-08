@@ -1,7 +1,7 @@
 ---
 title: "Supply Chain Resilience"
 type: concept
-tags: [globalization, geopolitics, supply-chain, risk, resilience]
+tags: [globalization, geopolitics, supply-chain, risk, resilience, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

@@ -1,7 +1,7 @@
 ---
 title: "Chunking"
 type: concept
-tags: [cognitive-science, learning, memory, expertise]
+tags: [cognitive-science, learning, memory, expertise, weak]
 created: 2026-05-03
 updated: 2026-05-03
 sources: 2

@@ -1,7 +1,7 @@
 ---
 title: "Trading Edge"
 type: concept
-tags: [trading, investing, edge, markets, risk-premia, supply-demand]
+tags: [trading, investing, edge, markets, risk-premia, supply-demand, weak]
 created: 2026-05-10
 updated: 2026-06-06
 sources: 8

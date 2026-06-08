@@ -1,7 +1,7 @@
 ---
 title: "Infographic The Trillion-Dollar App Economy"
 type: source
-tags: [apps, economy, apple, mobile, platforms]
+tags: [apps, economy, apple, mobile, platforms, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

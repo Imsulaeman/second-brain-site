@@ -1,7 +1,7 @@
 ---
 title: "Agentic Coding Workflows"
 type: concept
-tags: [ai, coding, agents, productivity, software-engineering, workflow]
+tags: [ai, coding, agents, productivity, software-engineering, workflow, weak]
 created: 2026-05-11
 updated: 2026-05-21
 sources: 3

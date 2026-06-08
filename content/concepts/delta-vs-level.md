@@ -1,7 +1,7 @@
 ---
 title: "Delta vs. Level"
 type: concept
-tags: [career, ambition, inequality, compounding]
+tags: [career, ambition, inequality, compounding, weak]
 created: 2026-06-01
 updated: 2026-06-01
 sources: 1

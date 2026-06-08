@@ -1,7 +1,7 @@
 ---
 title: "Seamless Web of Trust"
 type: concept
-tags: [trust, integrity, organization, charles-munger]
+tags: [trust, integrity, organization, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

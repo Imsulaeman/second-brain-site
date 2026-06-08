@@ -1,7 +1,7 @@
 ---
 title: "Confidence Cycle"
 type: concept
-tags: [investing, markets, psychology, cycles, macro, howard-marks]
+tags: [investing, markets, psychology, cycles, macro, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

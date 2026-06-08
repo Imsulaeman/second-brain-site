@@ -1,7 +1,7 @@
 ---
 title: "Goldilocks Rule"
 type: concept
-tags: [habits, motivation, deliberate-practice, flow, challenge, james-clear]
+tags: [habits, motivation, deliberate-practice, flow, challenge, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

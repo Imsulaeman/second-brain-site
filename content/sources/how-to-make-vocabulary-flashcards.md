@@ -1,7 +1,7 @@
 ---
 title: "How to Make Vocabulary Flashcards"
 type: source
-tags: [reading, vocabulary, study-techniques, memory]
+tags: [reading, vocabulary, study-techniques, memory, weak]
 created: 2026-06-06
 updated: 2026-06-06
 sources: 1

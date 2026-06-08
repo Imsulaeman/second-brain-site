@@ -1,7 +1,7 @@
 ---
 title: "Can You Outsmart the False Analogy Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, climate, analogy, elizabeth-cox]
+tags: [critical-thinking, logic, fallacies, climate, analogy, elizabeth-cox, weak]
 created: 2026-06-01
 updated: 2026-06-04
 sources: 1

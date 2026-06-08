@@ -1,7 +1,7 @@
 ---
 title: "Incentive Superpower"
 type: concept
-tags: [psychology, incentives, behavior, economics, charles-munger]
+tags: [psychology, incentives, behavior, economics, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

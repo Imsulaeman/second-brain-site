@@ -1,7 +1,7 @@
 ---
 title: "Economic Reality vs Political Reality"
 type: concept
-tags: [politics, economics, tradeoffs, incentives, decision-making]
+tags: [politics, economics, tradeoffs, incentives, decision-making, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

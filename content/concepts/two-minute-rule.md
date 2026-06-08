@@ -1,7 +1,7 @@
 ---
 title: "Two-Minute Rule"
 type: concept
-tags: [habits, technique, behavior-change, friction-reduction, james-clear]
+tags: [habits, technique, behavior-change, friction-reduction, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

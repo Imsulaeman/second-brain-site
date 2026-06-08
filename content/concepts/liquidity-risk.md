@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Risk"
 type: concept
-tags: [investing, markets, risk, liquidity, credit, howard-marks]
+tags: [investing, markets, risk, liquidity, credit, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

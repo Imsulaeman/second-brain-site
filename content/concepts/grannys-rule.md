@@ -1,7 +1,7 @@
 ---
 title: "Granny's Rule"
 type: concept
-tags: [self-management, habits, incentives, psychology, charles-munger]
+tags: [self-management, habits, incentives, psychology, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

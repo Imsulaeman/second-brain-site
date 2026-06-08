@@ -1,7 +1,7 @@
 ---
 title: "Bubble Detection"
 type: concept
-tags: [investing, bubbles, psychology, valuation, ai, howard-marks]
+tags: [investing, bubbles, psychology, valuation, ai, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 2

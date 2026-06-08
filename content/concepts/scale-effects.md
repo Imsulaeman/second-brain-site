@@ -1,7 +1,7 @@
 ---
 title: "Scale Effects"
 type: concept
-tags: [business, economics, strategy, competition, charles-munger]
+tags: [business, economics, strategy, competition, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

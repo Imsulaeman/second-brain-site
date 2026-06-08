@@ -1,7 +1,7 @@
 ---
 title: "Specific Knowledge"
 type: concept
-tags: [career, leverage, skill, authenticity, naval-ravikant]
+tags: [career, leverage, skill, authenticity, naval-ravikant, weak]
 created: 2026-05-11
 updated: 2026-05-19
 sources: 3

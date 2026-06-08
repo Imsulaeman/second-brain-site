@@ -1,7 +1,7 @@
 ---
 title: "The Diderot Effect"
 type: concept
-tags: [habits, consumption, behavior-change, spirals, james-clear]
+tags: [habits, consumption, behavior-change, spirals, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

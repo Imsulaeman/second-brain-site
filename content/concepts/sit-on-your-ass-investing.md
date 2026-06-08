@@ -1,7 +1,7 @@
 ---
 title: "Sit-on-Your-Ass Investing"
 type: concept
-tags: [investing, patience, concentration, charles-munger]
+tags: [investing, patience, concentration, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

@@ -1,7 +1,7 @@
 ---
 title: "Credit Cycle"
 type: concept
-tags: [investing, credit, cycles, markets, risk, howard-marks]
+tags: [investing, credit, cycles, markets, risk, howard-marks, weak]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1

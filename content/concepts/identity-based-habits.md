@@ -1,7 +1,7 @@
 ---
 title: "Identity-Based Habits"
 type: concept
-tags: [habits, identity, behavior-change, self-image, james-clear]
+tags: [habits, identity, behavior-change, self-image, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

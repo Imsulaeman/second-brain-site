@@ -1,7 +1,7 @@
 ---
 title: "Temptation Bundling"
 type: concept
-tags: [habits, technique, motivation, dopamine, james-clear]
+tags: [habits, technique, motivation, dopamine, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

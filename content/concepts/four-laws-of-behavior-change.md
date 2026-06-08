@@ -1,7 +1,7 @@
 ---
 title: "Four Laws of Behavior Change"
 type: concept
-tags: [habits, behavior-change, framework, cue-craving-response-reward, james-clear]
+tags: [habits, behavior-change, framework, cue-craving-response-reward, james-clear, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

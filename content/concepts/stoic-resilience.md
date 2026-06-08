@@ -1,7 +1,7 @@
 ---
 title: "Stoic Resilience"
 type: concept
-tags: [philosophy, adversity, mindset, epictetus, charles-munger]
+tags: [philosophy, adversity, mindset, epictetus, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1

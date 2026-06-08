@@ -1,7 +1,7 @@
 ---
 title: "Febezzlement"
 type: concept
-tags: [economics, finance, wealth-effect, charles-munger]
+tags: [economics, finance, wealth-effect, charles-munger, weak]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 1
