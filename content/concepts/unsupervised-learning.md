@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Learning"
 type: concept
-tags: [ai, machine-learning, patterns]
+tags: [ai, machine-learning, patterns, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

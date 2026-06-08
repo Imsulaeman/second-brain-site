@@ -1,7 +1,7 @@
 ---
 title: "Problem Framing"
 type: concept
-tags: [problem-solving, strategy, diagnosis, decision-making]
+tags: [problem-solving, strategy, diagnosis, decision-making, weak]
 created: 2026-06-01
 updated: 2026-06-03
 sources: 2

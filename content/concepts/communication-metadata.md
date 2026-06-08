@@ -1,7 +1,7 @@
 ---
 title: "Communication Metadata"
 type: concept
-tags: [privacy, surveillance, metadata, security]
+tags: [privacy, surveillance, metadata, security, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

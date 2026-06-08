@@ -1,7 +1,7 @@
 ---
 title: "AI Bias"
 type: concept
-tags: [ai, bias, ethics, fairness]
+tags: [ai, bias, ethics, fairness, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

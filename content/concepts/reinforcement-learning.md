@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning"
 type: concept
-tags: [ai, machine-learning, feedback]
+tags: [ai, machine-learning, feedback, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

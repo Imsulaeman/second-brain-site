@@ -1,7 +1,7 @@
 ---
 title: "Surveillance Self-Defense Security Basics"
 type: source
-tags: [security, privacy, surveillance, digital-security]
+tags: [security, privacy, surveillance, digital-security, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

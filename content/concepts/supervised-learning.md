@@ -1,7 +1,7 @@
 ---
 title: "Supervised Learning"
 type: concept
-tags: [ai, machine-learning, prediction]
+tags: [ai, machine-learning, prediction, weak]
 created: 2026-06-08
 updated: 2026-06-08
 sources: 1

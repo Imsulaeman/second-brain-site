@@ -1,7 +1,7 @@
 ---
 title: "First Principles Thinking"
 type: concept
-tags: [mental-models, problem-solving, creativity, decision-making]
+tags: [mental-models, problem-solving, creativity, decision-making, weak]
 created: 2026-05-10
 updated: 2026-06-03
 sources: 2

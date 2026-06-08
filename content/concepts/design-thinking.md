@@ -79,6 +79,3 @@ Without the drill, teams define problems at the symptom level and waste the idea
 ## Sources
 
 - [[sources/what-are-5-whys]] — 5 Whys as a key tool in the empathize/define phases
-
-Design thinking often blends inductive and deductive moves: observing users to form patterns (inductive), then testing specific solutions against those patterns (deductive).
-EOF && git add -A && git commit -m "integrate: connect design-thinking to reasoning types" && git push
