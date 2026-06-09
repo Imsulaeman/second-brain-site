@@ -48,7 +48,7 @@ export default function LogPage() {
   return (
     <main className="mx-auto max-w-3xl px-6 pb-16 pt-24">
       <header className="mb-12">
-        <p className="mb-3 font-mono text-xs uppercase tracking-[0.22em] text-palace-muted">Private</p>
+        <p className="mb-3 font-mono text-xs uppercase tracking-[0.22em] text-palace-muted">Wiki</p>
         <h1 className="font-display text-5xl text-palace-text">Activity Log</h1>
         <p className="mt-3 text-sm text-palace-muted">{entries.length} entries</p>
       </header>
