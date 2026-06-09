@@ -3,7 +3,7 @@ title: "How do search engines work, How do AI assistants work, Aren’t the boun
 type: source
 tags: [search, ai, research, academic-work, information-literacy]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 sources: 1
 file: "raw/How do search engines work , How do AI assistants work, Aren’t the boundaries blurring, Which should I use — and when , Why this matters for your academic work (ingested).md"
 ---
@@ -32,7 +32,17 @@ The raw also adds two practical limits that matter in research. First, AI output
 
 ## Task Choice, Not Tool Loyalty
 
-The source is not anti-AI. Its advice is to choose tools by task. Use AI assistants to get oriented, simplify difficult ideas, or generate a first pass. Then move to library systems, subject databases, and other search tools when the job requires evidence you can cite, audit, and defend.
+The source is not anti-AI. Its advice is to choose tools by task. The guide makes this concrete with a direct comparison:
+
+| Use an academic search engine when… | Use an AI assistant when… |
+|---|---|
+| You need reliable, up-to-date information | You want a quick explanation or summary |
+| You're checking official sources or academic publishers | You're brainstorming ideas or drafting text |
+| You want multiple viewpoints or to compare sources | You want to simplify complex ideas into plainer language |
+| You're looking for peer-reviewed research or specific data | You need help phrasing something or writing in a specific tone |
+| You need verifiable links to share or reference | You're exploring an unfamiliar topic in conversational form |
+
+Use AI assistants to get oriented, simplify difficult ideas, or generate a first pass. Then move to library systems, subject databases, and other search tools when the job requires evidence you can cite, audit, and defend.
 
 Worth coming back to: the guide's strongest insight is epistemic rather than technical. Modern information tools can look similar on the surface while remaining different in how close they keep you to the evidence.
 

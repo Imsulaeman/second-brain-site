@@ -3,7 +3,7 @@ title: "AI Assistants"
 type: concept
 tags: [ai, research, tools, information-literacy]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 sources: 2
 ---
 
@@ -21,7 +21,7 @@ This is why interface convergence can be misleading. Google can now answer conve
 
 AI assistants are often genuinely useful for orientation. They can explain a topic in plainer language, help a beginner find the shape of an unfamiliar field, brainstorm alternatives, summarize a document, or help draft prose. They are especially good when the task is exploratory and the cost of a rough first pass is low.
 
-They become much weaker when the task requires traceable evidence, stable citation, or complete coverage of the literature. The same prompt may not always yield the same answer, and many scholarly or professional sources remain behind paywalls that the model cannot fully access. A polished output can therefore be both helpful and incomplete.
+They become much weaker when the task requires traceable evidence, stable citation, or complete coverage of the literature. The same prompt may not always yield the same answer, and many scholarly or professional sources remain behind paywalls that the model cannot fully access. A polished output can therefore be both helpful and incomplete. It is also worth knowing what training data looks like in practice: it includes academic papers but also a large volume of blogs, forums, and other open-web content whose reliability varies. The model cannot distinguish those sources by quality at generation time.
 
 ## Why Responsible Use Matters
 

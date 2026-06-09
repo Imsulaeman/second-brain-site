@@ -3,7 +3,7 @@ title: "Google and Other Search Engines"
 type: source
 tags: [search, research, google, information-literacy]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 sources: 1
 file: "raw/Google and Other Search Engines (ingested).md"
 ---
@@ -38,7 +38,7 @@ The screenshots do real teaching work here. One results-page image shows an AI O
 
 The chapter also updates the search-literacy conversation by including AI-generated search summaries. These can be convenient, but the source warns that they may be wrong, outdated, or tied to sources that do not actually support the synthesis. It recommends treating them with caution and moving quickly to inspect underlying links.
 
-For academic work, the source is equally clear that Google and even [[concepts/google-scholar|Google Scholar]] are useful starting points but not substitutes for library databases, source evaluation, or access to full scholarly literature. Citation counts can signal influence, but they do not guarantee quality, and search convenience does not replace institutional access or critical reading.
+For academic work, the source is equally clear that Google and even [[concepts/google-scholar|Google Scholar]] are useful starting points but not substitutes for library databases, source evaluation, or access to full scholarly literature. Citation counts can signal influence, but they do not guarantee quality. Google Scholar also does not filter exclusively for peer-reviewed or reputable journals — not everything it surfaces meets that bar. Many results are also paywalled, but the source notes that Google Scholar can be connected to a university library subscription to unlock access to the full text of those results.
 
 Worth coming back to: the page's real contribution is that it joins search mechanics to reading discipline. Better searching is not only about better queries. It is also about better restraint at the moment of selection.
 

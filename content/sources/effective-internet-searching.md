@@ -3,7 +3,7 @@ title: "Effective internet searching"
 type: source
 tags: [search, web, research, information-literacy]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 sources: 1
 file: "raw/Effective internet searching (ingested).md"
 ---
@@ -32,6 +32,8 @@ The guide also draws a distinction that matters for academic research: the **dee
 Once the right tool is chosen, the guide turns to query design. It covers Boolean logic (`AND`, `OR`, `NOT`), phrase searching with quotation marks, domain limits (`site:edu`), filetype filters (`filetype:pdf`), title and URL targeting, date controls, numerical ranges, partial matching, and related-site lookup. The core idea is that a query is a set of constraints — deciding what counts as relevant before the engine decides for you — rather than a natural-language sentence typed out and hoped for.
 
 The raw is broader than a Google-only operator sheet. It explicitly treats advanced search as something that varies by engine. Some engines support symbols, others menus, others dedicated advanced-search pages. The durable lesson is not one syntax table. It is that query construction is an active design practice.
+
+One specific technique worth naming: truncation or wildcard searching, where you type the root of a word plus a character such as `*` and let the engine match all endings. Searching `America*` finds American, Americas, and Americans in one pass. The exact wildcard character varies by engine. The guide also notes Google Alerts as a lightweight way to stay current — set up an alert for a search term and receive email notifications when new results matching it appear.
 
 URL domain types carry different levels of implied credibility. `.edu` and `.gov` are controlled by educational institutions and government bodies. `.org` is unrestricted — anyone can register one — and signals nothing on its own about accuracy or independence. `.com` domains are commercial and subject to commercial incentives. The guide's point is contextual, not absolutist: a domain suffix can help frame what you are looking at, but it cannot replace source evaluation.
 

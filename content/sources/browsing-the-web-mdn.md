@@ -3,7 +3,7 @@ title: "Browsing the web - MDN"
 type: source
 tags: [web, browser, search, mdn, web-literacy]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-06-10
 sources: 1
 file: "raw/Browsing the web - MDN (ingested).md"
 ---
@@ -29,6 +29,8 @@ This is a stripped-down model, but it is a good first map because it replaces th
 ## Searching For Information
 
 The last third of the source turns from web mechanics to search habits. The advice is practical: start with specialized documentation when you know the domain, widen to general search when needed, search with the programming language or exact error message when solving coding problems, and treat AI-generated answers as accelerants rather than authorities.
+
+The source also lists specific [[concepts/search-operators|search operators]] that most major engines support: `"phrase in quotes"` to require an exact string, `term -exclusion` to drop unwanted results, `term1 OR term2` to broaden a search to either word, and `intitle:word` to require the word in the page title. These narrow abstract advice into actual syntax you can type. The source points to the documentation pages for Google, DuckDuckGo, and Microsoft Bing for the full operator sets.
 
 Its caution about AI is straightforward and still important. AI can compress the search process, but it can also present outdated or subtly wrong answers with a lot of confidence. The source's real lesson is that search quality is part of judgment. You still need to know what you are asking, what kind of answer would count, and how to verify what comes back. That is why the page pairs ordinary browser literacy with search habits instead of treating them as separate skills.
 
