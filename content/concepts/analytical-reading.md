@@ -15,7 +15,7 @@ Adler organizes analytical reading into three stages. First, understand the book
 
 This makes analytical reading a kind of intellectual etiquette. It is rigorous, but not hostile. The reader's first duty is interpretive justice. Only then does judgment become legitimate.
 
-Analytical reading belongs near [[concepts/active-reading|active reading]] but is stricter and fuller. It also bridges directly into [[concepts/socratic-method|the Socratic method]], because both demand clarification before evaluation and argument before assertion.
+Analytical reading belongs near [[concepts/active-reading|active reading]] but is stricter and fuller. It also bridges directly into [[concepts/socratic-method|the Socratic method]], because both demand clarification before evaluation and argument before assertion. And because its third stage is about evaluating whether arguments hold, it is one of the core reading modes that sharpens [[concepts/critical-thinking|critical thinking]] in practice.
 
 ## Sources
 

@@ -48,3 +48,4 @@ These are not soft skills in the dismissive sense. They are the highest-value ou
 ## Sources
 
 - [[sources/something-is-different-about-2026]]
+- [[sources/the-cost-of-staying]]

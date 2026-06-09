@@ -18,3 +18,5 @@ The practical test is simple: if you remove the conclusion from the premises, is
 ## Sources
 
 - [[sources/can-you-outsmart-the-circular-reasoning-fallacy]]
+
+See also: [[synthesis/critical-thinking-and-logical-fallacies]] for how this fallacy fits alongside the full pattern of argument failures.

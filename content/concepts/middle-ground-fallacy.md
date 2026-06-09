@@ -18,3 +18,5 @@ The key question is not whether a view is moderate. It is whether the positions 
 ## Sources
 
 - [[sources/can-you-outsmart-the-middle-ground-fallacy]]
+
+See also: [[synthesis/critical-thinking-and-logical-fallacies]] for how this fallacy fits alongside the full pattern of argument failures.

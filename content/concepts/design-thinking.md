@@ -74,6 +74,7 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - [[concepts/problem-framing]] — design thinking is one structured approach to framing; E5 (from HBR) is another
 - [[concepts/first-principles-thinking]] — complementary: design thinking starts from user needs; first-principles starts from foundational constraints. Use both.
 - [[concepts/critical-thinking]] — design thinking is a workflow that embeds critical thinking (question assumptions, gather evidence, test hypotheses)
+- [[concepts/computational-thinking]] — CT is the parallel problem-solving framework from computing. Design thinking centers empathy and prototyping; CT centers logical structure and algorithm design. In practice: DT diagnoses the problem space, CT builds the solution.
 - [[entities/don-norman]] — Norman's empathize → define → ideate sequence became the d.school model
 
 ## Sources

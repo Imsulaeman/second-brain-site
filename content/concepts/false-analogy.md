@@ -18,3 +18,5 @@ The fastest test for a false analogy is to ask what important differences have b
 ## Sources
 
 - [[sources/can-you-outsmart-the-false-analogy-fallacy]]
+
+See also: [[synthesis/critical-thinking-and-logical-fallacies]] for how this fallacy fits alongside the full pattern of argument failures.

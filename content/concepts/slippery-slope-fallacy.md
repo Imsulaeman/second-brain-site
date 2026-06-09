@@ -18,3 +18,5 @@ The right response to a slope claim is to unpack it. What are the actual links? 
 ## Sources
 
 - [[sources/can-you-outsmart-the-slippery-slope-fallacy]]
+
+See also: [[synthesis/critical-thinking-and-logical-fallacies]] for how this fallacy fits alongside the full pattern of argument failures.

@@ -37,7 +37,7 @@ Why does that matter for Academy prep? Because project work is full of persuasiv
 
 ### 2. Problem-solving starts before solutions
 
-The problem-solving section points hard at one principle: [[synthesis/diagnosis-before-solution|diagnosis before solution]]. [[concepts/5-whys|5 Whys]] drills beneath symptoms. [[concepts/problem-framing|Problem framing]] slows down the rush to solve the wrong thing. Together they form a habit that matters in product work, teamwork, and self-correction.
+The problem-solving section points hard at one principle: [[synthesis/diagnosis-before-solution|diagnosis before solution]]. [[concepts/5-whys|5 Whys]] drills beneath symptoms. [[concepts/problem-framing|Problem framing]] slows down the rush to solve the wrong thing. [[concepts/computational-thinking|Computational thinking]] provides the downstream counterpart: once the right problem is identified, CT gives a systematic method for building the solution — decompose, recognize patterns, abstract away noise, then construct the algorithm. Together they form a complete problem-handling stack that matters in product work, teamwork, and self-correction.
 
 This is especially relevant in beginner builder environments, because novices often mistake speed for competence. They jump from "we need an app for X" to "let's build feature Y" without checking whether X was even the real problem. The better move is slower and stronger: what is actually failing, for whom, under what constraints, and what evidence says this is the right frame?
 
@@ -133,6 +133,7 @@ For Apple Developer Academy, that is probably the real selection criterion hidin
 - [[concepts/critical-thinking]]
 - [[synthesis/critical-thinking-and-logical-fallacies]]
 - [[concepts/problem-framing]]
+- [[concepts/computational-thinking]]
 - [[synthesis/diagnosis-before-solution]]
 - [[concepts/inductive-reasoning]]
 - [[concepts/deductive-reasoning]]

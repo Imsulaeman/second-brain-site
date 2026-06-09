@@ -26,7 +26,7 @@ const WIKI_DIR = WIKI_DIR_CANDIDATES.find((candidate) => fs.existsSync(candidate
 const CONTENT_DIR = path.resolve(__dirname, 'content')
 
 const SYNC_DIRS = ['concepts', 'entities', 'sources', 'synthesis']
-const SKIP_FILES = new Set(['index.md', 'log.md'])
+const SKIP_FILES = new Set(['index.md'])
 
 function walkDir(dir) {
   if (!fs.existsSync(dir)) return []
@@ -76,6 +76,19 @@ for (const subdir of SYNC_DIRS) {
       deleted++
     }
   }
+}
+
+// Sync log.md from wiki root
+const srcLog = path.join(WIKI_DIR, 'log.md')
+const dstLog = path.join(CONTENT_DIR, 'log.md')
+if (fs.existsSync(srcLog)) {
+  if (filesDiffer(srcLog, dstLog)) {
+    fs.copyFileSync(srcLog, dstLog)
+    copied++
+  }
+} else if (fs.existsSync(dstLog)) {
+  fs.unlinkSync(dstLog)
+  deleted++
 }
 
 // Sync overview.md from wiki root

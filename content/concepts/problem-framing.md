@@ -47,6 +47,7 @@ This makes problem framing more than a mindset. It becomes a repeatable team pro
 - [[concepts/second-order-thinking]] asks what downstream effects a frame or solution will create
 - [[concepts/epistemic-humility]] asks you to treat first impressions as hypotheses, not truth
 - [[concepts/5-whys]] is a sharp tool for the "examine root causes" step — drill from symptom to systemic cause before drafting the problem statement
+- [[concepts/computational-thinking]] is the downstream counterpart: once the right problem is identified, CT provides the systematic approach for building the solution (decompose → pattern recognize → abstract → algorithmize)
 
 Problem framing sits upstream of all three.
 
