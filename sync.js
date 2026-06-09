@@ -78,6 +78,8 @@ for (const subdir of SYNC_DIRS) {
   }
 }
 
+const wikiExists = fs.existsSync(WIKI_DIR)
+
 // Sync log.md from wiki root
 const srcLog = path.join(WIKI_DIR, 'log.md')
 const dstLog = path.join(CONTENT_DIR, 'log.md')
@@ -86,7 +88,7 @@ if (fs.existsSync(srcLog)) {
     fs.copyFileSync(srcLog, dstLog)
     copied++
   }
-} else if (fs.existsSync(dstLog)) {
+} else if (wikiExists && fs.existsSync(dstLog)) {
   fs.unlinkSync(dstLog)
   deleted++
 }
@@ -99,7 +101,7 @@ if (fs.existsSync(srcOverview)) {
     fs.copyFileSync(srcOverview, dstOverview)
     copied++
   }
-} else if (fs.existsSync(dstOverview)) {
+} else if (wikiExists && fs.existsSync(dstOverview)) {
   fs.unlinkSync(dstOverview)
   deleted++
 }
