@@ -1,3 +1,9 @@
+## [2026-06-09] ingest | Algorithm (BBC Bitesize KS3 + Sphero)
+
+- Ingested `What is an algorithm - Algorithms - KS3 Computer Science Revision.md` (BBC) and `6 Examples of Algorithms In Everyday Life.md` (Sphero)
+- BBC flowchart shapes table and name/age flowchart (both CDN images) recreated as markdown table + Mermaid diagram; shape names include Indonesian equivalents
+- Pages created: 3 (concepts/algorithm, 2 source pages). Pages updated: 4 (computational-thinking, index, ingest-audit, log)
+
 ## [2026-06-09] ingest | If X, Then Y: Sufficiency and Necessity (Khan Academy)
 
 - Ingested `If X, then Y  Sufficiency and necessity - Khan Academy.md` (9.6K)

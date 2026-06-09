@@ -35,7 +35,7 @@ Both sources agree on a canonical four-element core. These are the moves CT actu
 
 **[[concepts/abstraction|Abstraction]]** — step back from the details and focus only on what matters for solving the problem. Remove irrelevant information. A public transit map is abstraction: it shows stops and direction, not street widths or building heights. A book report abstracts a novel into its central thesis.
 
-**Algorithmic Thinking** — create an ordered, step-by-step plan to solve the problem. Algorithms can be written in plain language, as flowcharts, or as pseudocode. Recipes, furniture assembly instructions, and parliamentary procedures are all algorithms.
+**[[concepts/algorithm|Algorithmic Thinking]]** — create an ordered, step-by-step plan to solve the problem. Algorithms can be written in plain language, as flowcharts, or as pseudocode. Recipes, furniture assembly instructions, and parliamentary procedures are all algorithms.
 
 The relationship between them in practice: decompose first, recognize patterns in the pieces, abstract away noise from each piece, then write the algorithm that combines the solutions.
 
