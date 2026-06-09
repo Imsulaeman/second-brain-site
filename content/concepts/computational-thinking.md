@@ -4,7 +4,7 @@ type: concept
 tags: [computational-thinking, problem-solving, programming, digital-literacy, education]
 created: 2026-06-09
 updated: 2026-06-09
-sources: 2
+sources: 3
 ---
 
 # Computational Thinking
@@ -130,8 +130,10 @@ CT is closely related to several existing frameworks:
 - [[concepts/agentic-coding-workflows]] — CT is the underlying mental model for directing AI coding agents. Decomposing tasks, writing clear algorithmic instructions, and debugging agent output are all CT practices applied to the AI collaboration context.
 - [[synthesis/apple-developer-academy-prep-learning-and-thinking]] — CT is a core reasoning skill in the ADA prep synthesis.
 - [[synthesis/apple-developer-academy-prep-digital-literacy]] — CT sits inside the Digital Literacy cluster; the DL/CS/CT Venn diagram is the structural map.
+- [[synthesis/apple-developer-academy-prep-computational-thinking]] — Deep-mechanics synthesis covering all six ADA CT curriculum sections and the four cornerstones as an integrated operating model.
 
 ## Sources
 
 - [[sources/computational-thinking-introduction]]
 - [[sources/computational-thinking-tech-tip]]
+- [[sources/what-is-computational-thinking-bbc-bitesize]]

@@ -4,7 +4,7 @@ type: concept
 tags: [logic, reasoning, critical-thinking, conditionals, deductive-reasoning]
 created: 2026-06-09
 updated: 2026-06-09
-sources: 1
+sources: 4
 ---
 
 Confusing sufficient and necessary conditions is one of the most common logical errors — and one of the easiest to commit, because the two can sound interchangeable in everyday language. They aren't. Getting them wrong produces arguments that feel valid but lead to conclusions that don't follow.
@@ -82,6 +82,65 @@ Recognizing the form in natural language requires reading signal words:
 
 All three map to the same conditional — different surface language, same logical structure.
 
+## "If" vs. "Only If" — An Easy Mistake to Make
+
+These two phrasings look almost identical but point in opposite directions:
+
+**"I wear a hat *if* it's sunny"** → sunny → hat (sunniness is sufficient for wearing a hat)
+
+**"I wear a hat *only if* it's sunny"** → hat → sunny (wearing a hat is sufficient to know it's sunny; sunniness is merely necessary)
+
+In the first case, every sunny day guarantees a hat. In the second, every hat guarantees sun — but a sunny day alone doesn't guarantee a hat. The "only if" condition names the *necessary condition*, not the trigger. And the necessary condition always goes on the *right* of the arrow.
+
+Variations of "only" that all mean the same thing (hat → sunny):
+- I only wear a hat if it's sunny
+- I wear a hat only when it's sunny
+- The only time I wear a hat is if it's sunny
+- Only sunny days will get me to wear a hat
+
+**Top tip:** Rephrase any "only" statement as "X only if Y" before diagramming. Identify what is *required* (necessary condition) vs. what *guarantees* another event (sufficient condition).
+
+## 14 Common Translation Patterns
+
+The same logical structure hides behind many prose phrasings. Translating for *logical meaning* rather than word order is the skill:
+
+| Prose form | Diagram | High-risk? |
+|---|---|---|
+| If X, then Y | X → Y | — |
+| X if Y | Y → X | ⚠️ X appears first but is the result |
+| X only if Y | X → Y | — |
+| Only X are Y | Y → X | ⚠️ "Only" makes X the necessary condition |
+| Any X is Y | X → Y | — |
+| Every X is Y | X → Y | — |
+| No X is Y | X → ¬Y | — |
+| X cannot be Y | X → ¬Y | — |
+| Without X, no Y | Y → X | ⚠️ Y is the trigger, X is necessary |
+| X requires Y | X → Y | — |
+| In order for X, Y must be true | X → Y | — |
+| X depends on Y | X → Y | — |
+| X happens whenever Y | Y → X | ⚠️ Y is the trigger |
+| No X unless Y | X → Y | — |
+
+## Multi-Term Contrapositives: The AND↔OR Rule
+
+When a conditional has compound conditions joined by AND or OR, forming the contrapositive requires a third step beyond flip-and-negate.
+
+**Example:** Skateboarding → helmet **and** gloves
+
+Step 1 — Flip: helmet and gloves → skateboarding
+
+Step 2 — Negate every term: ¬helmet and ¬gloves → ¬skateboarding
+
+This is still wrong — it says "wearing neither" is required to conclude no skateboarding, but lacking just one item is already sufficient to know I'm not skateboarding.
+
+Step 3 — Change AND to OR (and OR to AND):
+
+¬helmet **or** ¬gloves → ¬skateboarding ✓
+
+This is correct: if *either* required item is missing, I cannot be skateboarding.
+
+**The rule:** In any contrapositive, AND ↔ OR. Every AND becomes OR; every OR becomes AND.
+
 ## Connections
 
 - [[concepts/deductive-reasoning]] — if-then conditionals are the core unit of deductive argument; this page gives that page its formal mechanics
@@ -93,3 +152,6 @@ All three map to the same conditional — different surface language, same logic
 ## Sources
 
 - [[sources/if-x-then-y-sufficiency-and-necessity-khan-academy]]
+- [[sources/a-quick-guide-to-conditional-logic-khan-academy]]
+- [[sources/conditional-reasoning-and-logical-equivalence-khan-academy]]
+- [[sources/the-logic-of-if-vs-only-if-khan-academy]]

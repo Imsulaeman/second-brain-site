@@ -98,6 +98,7 @@ Algorithms exist far outside computers. Six everyday examples:
 ## Connections to the Wiki
 
 - [[concepts/computational-thinking]] — Algorithmic thinking is one of the four core elements of CT. An algorithm is the output of the CT process: after decomposing the problem, recognizing patterns, and abstracting away noise, you write the algorithm that solves it.
+- [[concepts/evaluation]] — Evaluation is the checking stage that follows algorithm design. Before programming, an algorithm should be dry-run: trace it on paper with representative inputs to verify every path produces the correct output. The name/age algorithm (ages 15 and 75) is the BBC's worked dry-run example.
 - [[concepts/decomposition]] — Decomposition breaks the problem into sub-problems. Algorithms are written for each sub-problem, then assembled. The algorithm is the recombination step.
 - [[concepts/abstraction]] — An algorithm that solves too many cases is overcomplicated. Abstraction strips irrelevant detail before the algorithm is written, keeping the steps clean.
 - [[concepts/pattern-recognition]] — Once a pattern is found in a problem, the algorithm can be generalized and reused across all instances of that pattern.

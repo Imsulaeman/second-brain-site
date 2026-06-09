@@ -132,6 +132,7 @@ For Apple Developer Academy, that is probably the real selection criterion hidin
 
 - [[concepts/critical-thinking]]
 - [[synthesis/critical-thinking-and-logical-fallacies]]
+- [[synthesis/apple-developer-academy-prep-computational-thinking]] — CT as the operational problem-solving layer; this synthesis covers the broader learning and reasoning substrate
 - [[concepts/problem-framing]]
 - [[concepts/computational-thinking]]
 - [[synthesis/diagnosis-before-solution]]

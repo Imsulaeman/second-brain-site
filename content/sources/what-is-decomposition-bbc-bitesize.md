@@ -13,11 +13,15 @@ sources: 1
 
 ---
 
+![[decomposition-cornerstone.png]]
+
 The article frames decomposition as one of the four cornerstones of Computer Science: breaking a complex problem or system into smaller parts that are more manageable and easier to understand. The core argument is that tackling many stages at once is harder than breaking a problem down and solving each piece individually — not just because the pieces are smaller, but because each can be examined in more detail.
 
 The tooth-brushing example opens the piece to make the point that decomposition is already happening automatically in familiar tasks; it's only with new or complex tasks that conscious decomposition becomes necessary.
 
 ## The two worked examples
+
+![[decomposition-crime-scene.png]]
 
 **Crime scene** — the question "who committed this crime?" is decomposed into: what crime was committed, when, where, what evidence exists, whether there were witnesses, whether similar crimes have occurred recently. Each sub-question can be investigated independently.
 

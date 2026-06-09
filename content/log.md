@@ -1,3 +1,39 @@
+## [2026-06-09] synthesis | ADA Prep — Computational Thinking
+
+- Created synthesis covering ADA CT curriculum (3.1–3.6) plus Evaluation as closing loop
+- 6-step ADA prep drill; BBC images embedded; cross-links to all three existing ADA syntheses
+- Pages created: 1 synthesis. Pages updated: index, ingest-audit, log, concepts/computational-thinking, synthesis/apple-developer-academy-prep-learning-and-thinking
+
+## [2026-06-09] ingest | Conditional Logic trio (Khan Academy)
+
+- Ingested 3 Khan Academy LSAT prep articles on conditional logic
+- Expanded `concepts/sufficient-and-necessary-conditions` with: "if" vs "only if" contrast, 14 translation pattern table, AND↔OR flip rule for multi-term contrapositives, converse/inverse/contrapositive named
+- Pages created: 3 source pages. Pages updated: concepts/sufficient-and-necessary-conditions, index, ingest-audit, log
+
+## [2026-06-09] ingest | Abstraction (BBC Bitesize KS3)
+
+- Ingested BBC abstraction article; added "Filtering to a Model" section to concepts/abstraction
+- Images embedded: abstraction-cornerstone.png, abstraction-cat-stamp.png, pattern-recognition-cats-comparison.png (shared)
+- Pages created: 1 source page. Pages updated: concepts/abstraction (sources count 3), index
+
+## [2026-06-09] ingest | Computational Thinking intro (BBC Bitesize KS3)
+
+- Ingested BBC CT intro article; added CT vs programming distinction and worked examples
+- Images embedded: ct-intro-cornerstones.png, ct-intro-videogame.png
+- Pages created: 1 source page. Pages updated: concepts/computational-thinking (sources count 3), index
+
+## [2026-06-09] ingest | Evaluation (BBC Bitesize KS3)
+
+- Ingested BBC evaluation article; new concept page (evaluation); bidirectional link with algorithm concept
+- Images embedded: evaluation-developer, ingredients-decomp, equipment-decomp, inefficient-algorithm, efficient-algorithm (decorative photos excluded)
+- Pages created: concepts/evaluation, 1 source page. Pages updated: concepts/algorithm (added dry-run link), index
+
+## [2026-06-09] manual | Image embedding pass — BBC CT cluster
+
+- Downloaded all BBC educational diagram images for decomposition, pattern-recognition, CT intro, abstraction, evaluation sources
+- Embedded images in source pages; removed 7 Sphero stock photos and 2 evaluation decorative JPEG photos from public/assets
+- Previous algorithm audit entry corrected: BBC images were downloaded and embedded; Mermaid fallbacks removed
+
 ## [2026-06-09] ingest | Algorithm (BBC Bitesize KS3 + Sphero)
 
 - Ingested `What is an algorithm - Algorithms - KS3 Computer Science Revision.md` (BBC) and `6 Examples of Algorithms In Everyday Life.md` (Sphero)

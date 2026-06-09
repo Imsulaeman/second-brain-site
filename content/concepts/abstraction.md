@@ -4,7 +4,7 @@ type: concept
 tags: [abstraction, computational-thinking, problem-solving, programming]
 created: 2026-06-09
 updated: 2026-06-09
-sources: 2
+sources: 3
 ---
 
 The word sounds like it means vague or unclear — in ordinary speech it often does. In computing and problem-solving it means the opposite: a precise simplification that lets you work at a higher level without managing lower-level detail. The computing definition comes closer to "the summary of something" or "the extraction from something."
@@ -14,6 +14,16 @@ The word sounds like it means vague or unclear — in ordinary speech it often d
 Every abstraction has two sides. The **interface** is what you see and interact with. The **implementation** is everything happening behind it. Pressing the "on" button on a coffee maker is the interface; the water pump, heating element, and drip mechanism are the implementation. A good abstraction makes the interface clean enough that you never need to think about the implementation unless something breaks.
 
 This is the key nuance: abstraction doesn't erase complexity. The heating element is still heating water. The chemistry in the recipe is still happening. Abstraction *contains* complexity within a defined boundary and exposes only what you need to operate the system. The inner workings remain intact; you just don't have to touch them.
+
+## Filtering to a Model
+
+The BBC framing adds precision to what abstraction *produces*: a **model**. A model is a general idea of a problem that represents all instances, not a specific one. Once you have a model, you can design a solution that works for any instance — not just the one in front of you.
+
+The cats example makes this concrete. All cats share eyes, tails, and fur. Those are the general characteristics. Specific characteristics — fur color, tail length, eye color — vary from cat to cat. Abstracting means keeping the generals and discarding the specifics. The result is a model cat: not any particular cat, but the idea of a cat that applies to all cats.
+
+Without abstraction, the risk is over-specification: you solve the specific case in front of you but the solution breaks for any variant. If you assume all cats have long tails and short fur, your algorithm for "draw a cat" fails on any other cat.
+
+The same structure applies to any problem: find the shared pattern first (pattern recognition), then filter out the details that vary (abstraction), keeping only what is needed to construct a general solution.
 
 ## Why it scales
 
@@ -51,3 +61,4 @@ In each case a layer of complexity is real but contained — accessible if you n
 
 - [[sources/understanding-abstraction-everyday-examples]]
 - [[sources/computational-thinking-introduction]]
+- [[sources/what-is-abstraction-bbc-bitesize]]
