@@ -1,3 +1,8 @@
+## [2026-06-09] ingest | Decomposition (BBC Bitesize KS3)
+
+- Ingested `What is decomposition - Decomposition - KS3 Computer Science Revision.md` (BBC Bitesize, 3.3K)
+- Pages created: 2 (concepts/decomposition, sources/what-is-decomposition-bbc-bitesize). Pages updated: 3 (computational-thinking, index, ingest-audit)
+
 ## [2026-06-09] ingest | Abstraction (Understanding Abstraction: Everyday Examples)
 
 - Ingested `Understanding Abstraction Everyday Examples.md` (EasyTech, 8.7K)

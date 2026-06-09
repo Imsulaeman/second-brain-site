@@ -29,7 +29,7 @@ Both sources agree on a canonical four-element core. These are the moves CT actu
 
 ![[CT_flowchart.png]]
 
-**Decomposition** — break the problem into smaller, manageable sub-problems. Solve each separately, then combine. A to-do list for cleaning your room is decomposition. So is breaking an essay into introduction, argument, and conclusion before writing.
+**[[concepts/decomposition|Decomposition]]** — break the problem into smaller, manageable sub-problems. Solve each separately, then combine. A to-do list for cleaning your room is decomposition. So is breaking an essay into introduction, argument, and conclusion before writing.
 
 **Pattern Recognition** — examine the problem for similarities to previously solved problems, or for recurring structure within the current one. If a pattern exists, the solution can be simplified, grouped, or reused. If no pattern exists, that's also useful: it means no further simplification is available.
 
