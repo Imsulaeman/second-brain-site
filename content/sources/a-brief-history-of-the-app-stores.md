@@ -5,7 +5,7 @@ tags: [apps, platforms, apple, google-play, software-distribution, app-economy]
 created: 2026-06-09
 updated: 2026-06-09
 sources: 1
-file: "raw/A-Brief-History-of-Time-The-App-Stores.pdf"
+file: "raw/A-Brief-History-of-Time-The-App-Stores (ingested).pdf"
 ---
 
 # A Brief History of the App Stores
@@ -50,4 +50,4 @@ Worth coming back to: the strongest lesson here is that platform governance emer
 
 ## Sources
 
-- `raw/A-Brief-History-of-Time-The-App-Stores.pdf`
+- `raw/A-Brief-History-of-Time-The-App-Stores (ingested).pdf`
