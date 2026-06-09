@@ -33,7 +33,7 @@ Both sources agree on a canonical four-element core. These are the moves CT actu
 
 **Pattern Recognition** — examine the problem for similarities to previously solved problems, or for recurring structure within the current one. If a pattern exists, the solution can be simplified, grouped, or reused. If no pattern exists, that's also useful: it means no further simplification is available.
 
-**Abstraction** — step back from the details and focus only on what matters for solving the problem. Remove irrelevant information. A public transit map is abstraction: it shows stops and direction, not street widths or building heights. A book report abstracts a novel into its central thesis.
+**[[concepts/abstraction|Abstraction]]** — step back from the details and focus only on what matters for solving the problem. Remove irrelevant information. A public transit map is abstraction: it shows stops and direction, not street widths or building heights. A book report abstracts a novel into its central thesis.
 
 **Algorithmic Thinking** — create an ordered, step-by-step plan to solve the problem. Algorithms can be written in plain language, as flowcharts, or as pseudocode. Recipes, furniture assembly instructions, and parliamentary procedures are all algorithms.
 

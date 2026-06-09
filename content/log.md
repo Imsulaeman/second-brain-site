@@ -1,3 +1,8 @@
+## [2026-06-09] ingest | Abstraction (Understanding Abstraction: Everyday Examples)
+
+- Ingested `Understanding Abstraction Everyday Examples.md` (EasyTech, 8.7K)
+- Pages created: 2 (concepts/abstraction, sources/understanding-abstraction-everyday-examples). Pages updated: 3 (computational-thinking, index, ingest-audit)
+
 ## [2026-06-09] ingest | Computational Thinking (two sources)
 
 - Ingested `Computational Thinking.md` (LTS, 32K) and `Computational Thinking Tech Tip.pdf` (Bowers Institute, 4pp)
