@@ -69,7 +69,7 @@ function extractWikiLinks(content: string, validIds: Set<string>, idsBySlug: Map
 
 export function resolveWikiLinks(content: string, validIds?: Set<string>, idsBySlug?: Map<string, string[]>): string {
   return content
-    .replace(/!\[\[[^\]]+\]\]/g, '')
+    .replace(/!\[\[([^\]]+)\]\]/g, (_, src: string) => `![](/assets/${path.basename(src)})`)
     .replace(/(`[^`\n]*`|```[\s\S]*?```)|<(?![a-zA-Z/!])/g, (m: string, code?: string) => code !== undefined ? code : '&lt;')
     .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, link: string, label: string) => {
       const target = validIds && idsBySlug ? resolveLinkTarget(link, validIds, idsBySlug) : slugFromLink(link)

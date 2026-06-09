@@ -24,6 +24,9 @@ const WIKI_DIR_CANDIDATES = [
 ]
 const WIKI_DIR = WIKI_DIR_CANDIDATES.find((candidate) => fs.existsSync(candidate)) ?? WIKI_DIR_CANDIDATES[0]
 const CONTENT_DIR = path.resolve(__dirname, 'content')
+const ASSETS_SRC_DIR = path.resolve(path.dirname(WIKI_DIR), 'raw', 'assets')
+const ASSETS_DST_DIR = path.resolve(__dirname, 'public', 'assets')
+const IMAGE_EXTS = new Set(['.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'])
 
 const SYNC_DIRS = ['concepts', 'entities', 'sources', 'synthesis']
 const SKIP_FILES = new Set(['index.md'])
@@ -104,6 +107,20 @@ if (fs.existsSync(srcOverview)) {
 } else if (wikiExists && fs.existsSync(dstOverview)) {
   fs.unlinkSync(dstOverview)
   deleted++
+}
+
+// Sync raw/assets/ → public/assets/ (flatten all image files into one dir)
+if (fs.existsSync(ASSETS_SRC_DIR)) {
+  fs.mkdirSync(ASSETS_DST_DIR, { recursive: true })
+  for (const srcFile of walkDir(ASSETS_SRC_DIR)) {
+    const ext = path.extname(srcFile).toLowerCase()
+    if (!IMAGE_EXTS.has(ext)) continue
+    const dstFile = path.join(ASSETS_DST_DIR, path.basename(srcFile))
+    if (filesDiffer(srcFile, dstFile)) {
+      fs.copyFileSync(srcFile, dstFile)
+      copied++
+    }
+  }
 }
 
 console.log(`sync: ${copied} copied, ${deleted} deleted`)
