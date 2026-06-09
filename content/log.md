@@ -1,3 +1,9 @@
+## [2026-06-09] ingest | Pattern Recognition (QCAA video + BBC Bitesize KS3)
+
+- Ingested `Pattern Recognition.md` (QCAA video transcript + 5 slides) and `What is pattern recognition - Pattern recognition - KS3 Computer Science Revision.md` (BBC Bitesize, 5.2K)
+- Images: moved 5 PNGs from wiki/concepts/ to raw/assets/pattern-recognition/; copied to site public/assets/
+- Pages created: 3 (concepts/pattern-recognition, 2 source pages). Pages updated: 3 (computational-thinking, index, ingest-audit)
+
 ## [2026-06-09] ingest | Decomposition (BBC Bitesize KS3)
 
 - Ingested `What is decomposition - Decomposition - KS3 Computer Science Revision.md` (BBC Bitesize, 3.3K)
