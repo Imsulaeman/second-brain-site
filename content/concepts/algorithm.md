@@ -59,6 +59,8 @@ A flowchart uses standard shapes to show the same algorithm visually. Each shape
 
 #### Flowchart Shapes Reference
 
+![[algorithm-shapes.png]]
+
 | Shape | Name | What it means | When to use |
 |---|---|---|---|
 | **Oval** (rounded ends) | Terminal / Start-End | Marks where the algorithm begins or finishes | First and last box in any flowchart |
@@ -71,27 +73,7 @@ A flowchart uses standard shapes to show the same algorithm visually. Each shape
 
 #### Flowchart: Name and Age Example
 
-The pseudocode above, drawn as a flowchart:
-
-```mermaid
-flowchart TD
-    A([Start]) --> B[/Output: 'What is your name?'/]
-    B --> C[/Input: name/]
-    C --> D[/Output: 'Hello ' + name/]
-    D --> E[/Output: 'How old are you?'/]
-    E --> F[/Input: age/]
-    F --> G{age >= 70?}
-    G -->|Yes| H[/Output: 'You are aged to perfection!'/]
-    G -->|No| I[/Output: 'You are a spring chicken!'/]
-    H --> J([End])
-    I --> J
-```
-
-Shape key for this diagram:
-- `([...])` → **Oval** — Start and End terminals
-- `[/..../]` → **Parallelogram** — every Input and Output step
-- `{...}` → **Diamond** — the decision (`age >= 70?`)
-- Arrows → **Flow lines** showing the direction
+![[algorithm-flowchart.png]]
 
 ---
 

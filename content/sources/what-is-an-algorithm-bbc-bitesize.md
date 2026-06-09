@@ -14,6 +14,8 @@ sources: 1
 
 ## Summary
 
+![[algorithm-brain.png]]
+
 Algorithms are one of the four cornerstones of Computer Science. An algorithm is a plan — a set of step-by-step instructions to solve a problem. The source introduces the concept with everyday examples (tying shoes, making tea, getting dressed), explains why algorithms matter for programming, introduces "garbage in, garbage out," and walks through two ways to represent an algorithm: pseudocode and flow diagrams.
 
 ## Key Points
@@ -29,6 +31,8 @@ Algorithms are one of the four cornerstones of Computer Science. An algorithm is
 1. **Pseudocode** — not a programming language. Written line by line. Keywords in uppercase (IF, THEN, ELSE, INPUT, OUTPUT), variables in lowercase, messages in sentence case.
 
 2. **Flow diagrams** — use standard shapes. The source lists five shapes in a table (the table is a CDN image; shapes are: oval/terminal, rectangle/process, diamond/decision, parallelogram/input-output, and flow arrows). See [[concepts/algorithm]] for the full shapes reference.
+
+![[algorithm-everyday.png]]
 
 **Example program (name/age):**
 - Ask for name → greet the user
