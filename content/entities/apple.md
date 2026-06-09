@@ -13,7 +13,7 @@ Apple is the technology company that turned the App Store into one of the centra
 
 That role matters because the App Store did not merely help apps reach users. It helped define the economic and policy environment of the [[concepts/app-economy|app economy]]. Discovery, subscriptions, ranking, app review, privacy labels, search ads, and revenue share all became part of Apple's platform power over how mobile software is distributed and monetized.
 
-The historical sources in this cluster make Apple visible from three angles. [[sources/the-app-store-turns-10]] shows the company's preferred self-description: a curated system that spread apps into every corner of daily life. [[sources/the-trillion-dollar-app-economy]] shows the scale of commerce now flowing through that system. [[sources/a-brief-history-of-the-app-stores]] shows how Apple and Google spent years coevolving the app-store rulebook through feature imitation, search changes, subscription models, privacy tools, and review policies.
+The historical sources in this cluster make Apple visible from three angles. [[sources/the-app-store-turns-10]] shows the company's preferred self-description: a curated system that spread apps into every corner of daily life. [[sources/the-trillion-dollar-app-economy]] shows the scale of commerce now flowing through that system. [[sources/a-brief-history-of-the-app-stores]] shows how Apple and [[entities/google|Google]] spent years coevolving the app-store rulebook through feature imitation, search changes, subscription models, privacy tools, and review policies.
 
 ## Sources
 

@@ -3,22 +3,33 @@ title: "AI Assistants"
 type: concept
 tags: [ai, research, tools, information-literacy]
 created: 2026-06-08
-updated: 2026-06-08
-sources: 1
+updated: 2026-06-09
+sources: 2
 ---
 
 # AI Assistants
 
-AI assistants are conversational systems that generate text, explanations, summaries, or other outputs by predicting language patterns from training data, often with optional access to live tools or web search.
+AI assistants are conversational systems that generate text, explanations, summaries, and other outputs by predicting language patterns from training data, sometimes with added tools such as web search, file analysis, or code execution. Their core job is not to list documents. It is to compose an answer.
 
-Their defining feature is not that they know things in the same way a database knows things. It is that they compose answers. That is why they can feel impressively helpful and still remain hard to verify. The user is usually seeing a synthesized response rather than a transparent list of sources.
+## What Makes Them Different
 
-This makes them different in kind from a [[concepts/search-engine|search engine]], even when modern products blur the interface boundary by combining search, summarization, and browsing. Search engines primarily retrieve. AI assistants primarily generate.
+That difference matters because generation changes the user's relationship to evidence. A [[concepts/search-engine|search engine]] mainly retrieves pages that already exist and lets the user inspect them directly. An AI assistant usually gives you a blended response first and only sometimes exposes the sources behind it. Even when browsing is enabled, the tool is still turning what it found into fresh language.
 
-For research work, that difference matters. AI assistants are often useful for orientation, brainstorming, paraphrase, and explanation. They are much weaker as final authorities, especially when the task requires traceable evidence, stable citation, or guaranteed coverage of paywalled scholarly material.
+This is why interface convergence can be misleading. Google can now answer conversationally. ChatGPT, Claude, and Copilot can search the web. The surface therefore looks similar. Underneath, though, search is still centered on retrieval, while AI assistants are still centered on generation.
 
-Their two most common failure classes in this wiki are [[concepts/ai-hallucinations|hallucinations]] and [[concepts/ai-bias|bias]]. One invents unsupported content. The other reproduces skewed patterns from the training and deployment pipeline. Both matter because polished fluency can hide them.
+## What They Are Good For
+
+AI assistants are often genuinely useful for orientation. They can explain a topic in plainer language, help a beginner find the shape of an unfamiliar field, brainstorm alternatives, summarize a document, or help draft prose. They are especially good when the task is exploratory and the cost of a rough first pass is low.
+
+They become much weaker when the task requires traceable evidence, stable citation, or complete coverage of the literature. The same prompt may not always yield the same answer, and many scholarly or professional sources remain behind paywalls that the model cannot fully access. A polished output can therefore be both helpful and incomplete.
+
+## Why Responsible Use Matters
+
+The two recurring failure modes in this wiki are [[concepts/ai-hallucinations|hallucinations]] and [[concepts/ai-bias|bias]]. Hallucination means the system fabricates unsupported claims or citations. Bias means it reproduces or amplifies skewed social patterns from the data and deployment pipeline. Fluency can hide both.
+
+The practical rule is simple: treat AI assistants as thinking aids, not as self-authenticating authorities. Use them to get oriented or to draft. Then switch to stronger retrieval systems, library tools, official documents, or direct verification when accuracy carries downstream cost.
 
 ## Sources
 
 - [[sources/search-engines-vs-ai-assistants]]
+- [[sources/when-ai-gets-it-wrong]]

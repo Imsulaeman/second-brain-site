@@ -10,43 +10,41 @@ file: "raw/A-Brief-History-of-Time-The-App-Stores.pdf"
 
 # A Brief History of the App Stores
 
-This timeline report is best read as a history of platform coevolution. Rather than telling the story of the App Store alone, it tracks how [[entities/apple|Apple]] and Google kept responding to each other as the smartphone app economy matured. That makes it a strong companion to [[concepts/app-economy|app economy]]: it shows not just that apps became economically important, but how discovery, rankings, subscriptions, review systems, privacy policy, payments, and developer tooling hardened into platform infrastructure.
+This timeline report is best read as a history of platform coevolution. Rather than telling the story of the App Store alone, it tracks how [[entities/apple|Apple]] and [[entities/google|Google]] kept responding to each other as the smartphone app economy matured. That makes it a strong companion to [[concepts/app-economy|app economy]]: it shows not just that apps became economically important, but how discovery, rankings, subscriptions, review systems, privacy policy, payments, and developer tooling hardened into platform infrastructure.
 
-## Two Platforms, One Escalating System
+## Two-Sided Growth
 
-The report covers July 2008 — Apple's App Store launches with 500 apps (25% free) — through early 2021. Google's Android Market launched in October 2008 with 50 free apps. From that parallel start, both platforms tracked each other's moves year by year. The report's most useful pattern is that features, pricing models, review systems, and developer controls repeatedly appeared first on one platform and then in modified form on the other.
+The introduction frames the app economy as a symbiotic system. Developers rely on app stores to reach global consumers, while app stores rely on developers to make the platforms worth using in the first place. That reciprocal dependence matters because it keeps the timeline from reading like pure platform triumph. The stores did not create value alone. They concentrated and governed value that many outside developers produced.
 
-The app count scaling is itself a teachable unit: Apple went from 500 apps at launch to 35,000 in April 2009, 425,000 by July 2011, 1.5 million in July 2015, and 2 million by June 2016. Google went from 50 apps at launch to 16,000 by December 2009, 1 million by July 2013, and over 3 million by January 2021.
+The report covers July 2008 through early 2021. Apple launches with 500 apps, 25 percent of them free. Google launches the Android Market a few months later with 50 free apps. From there, both stores race upward in scale: Apple reaches 35,000 apps by April 2009, 425,000 by July 2011, 1.5 million by July 2015, roughly 1.8 million by 2020, and 2 million by mid-2016 in the timeline's milestone scheme. Google grows from 50 apps at launch to 16,000 by December 2009, 600,000 by mid-2012, 1 million by July 2013, roughly 2.7 million by 2020, and more than 3 million by January 2021.
 
-## The Commission Story
+## The Rulebook Changed In Small Steps
 
-The 70/30 revenue split — 70% to developers, 30% to Apple — was the founding model when the App Store launched. That remained stable for years, then shifted in stages:
+The strongest lesson in the raw is that app-store power did not arrive all at once. It accumulated through many apparently local changes:
 
-- **2016**: Apple moved subscriptions to an 85/15 split after a user had been subscribed for twelve consecutive months.
-- **2016**: Google followed Apple's subscription model change.
-- **2020**: Apple introduced the App Store Small Business Program — developers earning up to $1 million annually pay only 15% commission.
-- **2021**: Google lowered its fee to 15% on the first $1 million in revenue for every developer.
+- Apple expands in-app purchase, then subscription support.
+- Google adds paid apps, carrier billing, subscriptions, and web-store access.
+- Search rankings evolve from simple popularity lists toward systems that consider reviews, keywords, updates, engagement, and editorial features.
+- Review and safety systems thicken: Apple publishes review guidelines in 2010, Google adds malware scanning and later pre-publication review plus Play Protect, and both stores become more explicit about fraud, ratings, spam, and quality control.
+- Privacy and user-control features become part of store governance, culminating in moves such as App Tracking Transparency and privacy labels on Apple's side.
 
-The commission structure is not merely a pricing detail. It determines what kinds of apps can be built sustainably, what business models developers can pursue, and how much of the [[concepts/app-economy|app economy]]'s value flows to developers versus platform owners.
+The key idea is that platform governance is built out of these policy increments. A recommendation tab, a search-ranking tweak, a new review delay, or a privacy label can look like a product detail in isolation. In aggregate, they decide what kinds of apps can survive and how users discover them.
 
-## Competitive Co-evolution
+## Monetization Was A Governance Choice
 
-The report documents several cases where one platform implemented a feature first and the other followed later:
+The report's commission story is one of its most reusable teachable units. The familiar 70/30 split anchored the early store era, but it did not stay untouched. Apple later moved long-running subscriptions to 85/15 after a full year of retention. Google followed with a similar 85/15 subscription split, but applied it immediately instead of waiting a year. Apple then introduced its Small Business Program in 2020 for developers making up to $1 million annually, and Google followed in 2021 by charging 15 percent on the first $1 million of revenue.
 
-- **Developer replies to reviews**: Google allowed this in 2012; Apple did so in March 2017.
-- **Free app of the week**: Apple introduced the promotion in May 2012; Google added it in March 2017.
-- **Try before installing**: Google launched Play Instant (app trials without installation) in October 2017; Apple launched App Clips in September 2020.
-- **Subscription search ads**: Apple introduced App Store Search Ads in September 2016; Google followed.
+These are not just pricing details. They change which business models are sustainable, how much room small developers have, and how much of the value in the [[concepts/app-economy|app economy]] is captured by platform owners rather than by builders.
 
-The pattern matters because it shows the app economy's rules were contested and negotiable, not fixed by one actor.
+## Competitive Coevolution
 
-## Platform Governance as Infrastructure
+The raw is full of cases where one side moves first and the other answers later. Google lets developers respond to reviews in 2012; Apple follows in 2017. Apple introduces a free-app promotion in 2012; Google adds its own version in 2017. Apple launches search ads in 2016; Google later deepens ad and promotional surfaces of its own. Google launches Play Instant in 2017; Apple introduces App Clips in 2020. Those pairings matter because they show the stores as competitive governors of the same ecosystem rather than isolated product lines.
 
-Revenue paid to developers follows a revealing arc. Apple paid $1 billion cumulative to developers by June 2010, $5 billion by June 2012, $9 billion by April 2013, $50 billion by June 2016, $70 billion by July 2017, and $200 billion total by January 2021. Google paid out $80 billion total by January 2020.
+## Economic Scale Followed The Governance Layer
 
-Each of those numbers is partly a function of the platform governance decisions the timeline documents: search ranking algorithms, subscription terms, review guidelines, editorial curation, app-size limits, fraud systems, App Tracking Transparency, and privacy labels. Platform power accumulated through many small policy changes rather than any single dramatic event.
+Developer payouts trace the growth of the system. Apple reaches $1 billion paid out by 2010, $5 billion by 2012, $9 billion by 2013, $50 billion by 2016, $70 billion by 2017, $155 billion by 2020, and $200 billion by January 2021. Google reaches $80 billion by early 2020. Those numbers make the timeline's deeper claim visible: app stores became economic infrastructure because they merged distribution, payments, review, ranking, and trust into one operating layer.
 
-Unlike [[sources/the-app-store-turns-10]], which is largely Apple's own platform narrative, this report is useful as a comparative timeline showing both stores. Unlike [[sources/the-trillion-dollar-app-economy]], which quantifies the scale of app-mediated commerce, this source shows how the operating rules of that commerce were built up incrementally.
+Unlike [[sources/the-app-store-turns-10]], which is largely Apple's own platform narrative, this report is useful as a comparative history. Unlike [[sources/the-trillion-dollar-app-economy]], which shows the scale of app-mediated commerce in one snapshot, this source shows how the operating rules of that commerce were constructed over time.
 
 Worth coming back to: the strongest lesson here is that platform governance emerges step by step. Discovery tabs, subscriptions, review systems, search ads, privacy labels, editorial curation, review queues, and anti-fraud measures may look like product details in isolation. In aggregate, they constitute the governance layer of the app economy.
 

@@ -12,30 +12,37 @@ file: "raw/The App Store turns 10 (ingested).md"
 
 This [[entities/apple|Apple]] retrospective tells the story of the App Store as both software-distribution infrastructure and economic engine. Its main claim is that the App Store did not just add more apps to the iPhone. It changed how software reached users and how developers built businesses, which places it directly inside the wiki's idea of the [[concepts/app-economy|app economy]]. The source is also strongly image-led: each section is paired with a concrete product photo or scene that turns a general claim about the App Store into a specific domain where it reshaped behavior.
 
-## Distribution As Platform Power
+## Distribution Became An Interface Layer
 
-The strongest idea in the piece is that the App Store reduced distribution friction for developers while centralizing discovery, payment, trust, and curation under Apple. That combination made app creation more accessible to small teams while also giving Apple enormous platform-shaping power.
+The article opens with the original 2008 launch: 500 apps, later availability in 155 countries, and a model that let small developers reach global users without building separate distribution or payment systems. That is the source's real platform claim. The App Store lowered the cost of shipping software while centralizing discovery, payments, trust, and curation inside Apple.
 
-The first visuals are doing part of that work. The opening animation and first-generation iPhone screenshots frame the App Store as a door-opening moment: a new interface layer that put a software marketplace directly into the phone. The quoted developer testimonials reinforce that visual message by describing how the store removed the need to build separate distribution and payment systems.
+The first visuals help make that point. The opening animation and the first-generation iPhone screenshot frame the App Store as a door-opening moment: a software marketplace installed directly inside the phone. The developer testimonials reinforce that image by describing the store as removed overhead rather than merely increased demand.
 
-## Apps As Daily Interface
+## The App Store Spread App Logic Everywhere
 
-The source walks through the App Store's effects across games, streaming media, subscriptions, education, health, accessibility, augmented reality, and developer culture. The cumulative picture is that apps became one of the main ways people interact with businesses, media, services, and each other.
+The article walks through the App Store's effects across games, streaming media, subscriptions, education, health, accessibility, augmented reality, and developer culture. The cumulative picture is that apps became one of the main ways people interact with businesses, media, services, and each other.
 
-The visuals sharpen that sweep by giving each area a representative scene:
+The raw is unusually specific about that spread:
 
-- Calm and Headspace stand in for mobile-first wellness and subscription services.
-- Pokémon Go and the LEGO AR image stand in for gaming and AR becoming mass-market habits rather than niche software categories.
-- The iPad, Apple Pencil, classroom, and accessibility photos frame apps as tools for creativity, education, and assistive use, not only entertainment.
-- The student-developer and WWDC images position the App Store as a talent pipeline and aspirational builder ecosystem, not just a storefront.
+- subscriptions reach more than 28,000 iOS apps and are reported up 95 percent year over year
+- developers have earned more than $100 billion from the App Store by June 2018
+- the iPad ecosystem alone grows past 1.3 million purpose-built apps
+- education and reference on iPad passes 200,000 apps
+- health and fitness downloads are up 75 percent since the Apple Watch launch
+- AR rises to more than 3,000 apps after ARKit opens the platform
+- the redesigned 2017 App Store reaches 500 million weekly visitors
 
-Because the article is built this way, the source is not only saying "apps changed everything." It is showing the spread of app logic into one life domain after another.
+These numbers matter because they make the article's sweeping tone concrete. The App Store is being presented not as a niche software venue but as a daily interface layer for work, commerce, entertainment, wellness, learning, accessibility, and creative production.
 
-## Privacy, Curation, And Ecosystem Design
+## Self-Mythology With Useful Evidence
 
-Because the source is from Apple, it predictably emphasizes privacy, curation, and safety as virtues of the ecosystem. That perspective is useful, but it should also be read as platform self-description rather than neutral history.
+Because the source comes from Apple, it predictably emphasizes privacy, curation, safety, and empowerment. That perspective is useful, but it should be read as platform self-description rather than neutral history.
 
-Worth coming back to: the source is most useful as a platform-history document and as a piece of platform self-mythology. The photos and milestone structure show how Apple wants the App Store to be remembered: as a curated system that made software distribution easier, then spread apps into nearly every visible corner of daily life.
+Still, the article contains real teachable evidence. It shows how Apple wants the App Store to be remembered: as the system that democratized software distribution, enabled mobile-first businesses, made games mainstream on phones, normalized subscriptions and in-app purchase, and turned apps into the default way users meet many everyday needs.
+
+The visuals sharpen that self-mythology by giving each claim a representative scene: Calm and Headspace for subscription wellness, Pokemon Go and LEGO AR for mass-market gaming and augmented reality, iPad and Apple Pencil for creative and educational work, assistive-tech cases for accessibility, and WWDC students for the developer pipeline.
+
+Worth coming back to: this source is most useful when read as both platform-history document and platform mythmaking. The metrics and domain examples show the scale of change. The rhetoric shows how Apple narrates its own role in that change.
 
 ## Sources
 
