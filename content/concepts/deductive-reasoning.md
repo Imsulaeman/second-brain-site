@@ -47,6 +47,11 @@ Deduction feels safer than induction because it can produce certainty, but that 
 | Result | probable conclusion | necessary conclusion |
 | Typical job | prediction and generalization | proof and rule application |
 
+## See also
+
+- [[concepts/sufficient-and-necessary-conditions]] — the formal mechanics of if-then conditionals: what X → Y actually means, what the contrapositive is, and the two classic mistakes (treating necessary as sufficient and vice versa)
+
 ## Sources
 
 - [[sources/inductive-and-deductive-reasoning]]
+- [[sources/if-x-then-y-sufficiency-and-necessity-khan-academy]]

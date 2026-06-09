@@ -1,3 +1,8 @@
+## [2026-06-09] ingest | If X, Then Y: Sufficiency and Necessity (Khan Academy)
+
+- Ingested `If X, then Y  Sufficiency and necessity - Khan Academy.md` (9.6K)
+- Pages created: 2 (concepts/sufficient-and-necessary-conditions, source page). Pages updated: 3 (deductive-reasoning, index, ingest-audit)
+
 ## [2026-06-09] ingest | Pattern Recognition (QCAA video + BBC Bitesize KS3)
 
 - Ingested `Pattern Recognition.md` (QCAA video transcript + 5 slides) and `What is pattern recognition - Pattern recognition - KS3 Computer Science Revision.md` (BBC Bitesize, 5.2K)
