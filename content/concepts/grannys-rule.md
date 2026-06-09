@@ -1,39 +1,35 @@
 ---
 title: "Granny's Rule"
 type: concept
-tags: [self-management, habits, incentives, psychology, charles-munger, weak]
+tags: [self-management, habits, incentives, psychology, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Granny's Rule
 
-Children must eat their carrots before they get dessert. The business version: force yourself to do the unpleasant and necessary tasks first, then reward yourself by proceeding to pleasant tasks.
-
----
+Granny's Rule is the simple sequencing principle that the unpleasant but necessary task comes before the reward. The child's version is carrots before dessert. Munger treats it as a serious behavioral tool because it applies the logic of incentives to your own conduct.
 
 ## Why It Works
 
-Granny's Rule exploits [[concepts/incentive-superpower|incentive superpower]] in your own favor. By sequencing reward after duty, you harness the same mechanism that drives all habit formation. Skinner showed that prompt rewards work best, so the reward should follow the unpleasant task immediately.
+The rule uses reward timing to make discipline easier. Instead of relying on abstract virtue, it arranges the environment so the wanted behavior is the gateway to the wanted pleasure. In other words, it turns [[concepts/incentive-superpower]] inward.
 
----
+This matters because many failures of execution are not failures of values. They are failures of sequence. People let the easy pleasure arrive before the necessary effort, and once the reward has already been taken, motivation collapses.
 
-## Practical Application
+## Practical Use
 
-Consultant psychologists teach executives to use Granny's Rule daily. The emphasis on *daily* is deliberate — prompt, consistent reward reinforcement is more effective than intermittent use.
+Granny's Rule works best when the reward is prompt and the sequence is explicit. "After I finish the hard review, I can check messages." "After I train, I can relax." That makes it a close cousin of [[concepts/habit-stacking]] and [[concepts/temptation-bundling]], but the emphasis here is earned order rather than pairing.
 
-This connects directly to [[concepts/habit-stacking]]: "After [unpleasant task], I will [pleasant task]" is both a habit stack and Granny's Rule simultaneously.
+In that sense it is a compact self-governance model. You do not wait to feel disciplined. You build a small incentive structure that makes discipline more likely.
 
----
+## Connections
 
-## Connection to Other Concepts
-
-- [[concepts/temptation-bundling]] — the Atomic Habits version: pair a need-to-do with a want-to-do
-- [[concepts/habit-stacking]] — same sequential structure
-- [[concepts/decisive-moments]] — Granny's Rule is most powerful at the fork-in-the-road moments
+- [[concepts/incentive-superpower]]
+- [[concepts/habit-stacking]]
+- [[concepts/temptation-bundling]]
+- [[concepts/decisive-moments]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-Granny's rule combines inductive recognition of personal resistance patterns with deductive application of sequencing and identity principles.

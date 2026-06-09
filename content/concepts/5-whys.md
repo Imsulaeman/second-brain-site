@@ -1,9 +1,9 @@
 ---
 title: "5 Whys"
 type: concept
-tags: [problem-solving, root-cause-analysis, design-thinking, kaizen, critical-thinking, weak]
+tags: [problem-solving, root-cause-analysis, design-thinking, kaizen, critical-thinking]
 created: 2026-06-03
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -82,4 +82,3 @@ The second statement is solvable. The first is a wall.
 
 - [[sources/what-are-5-whys]] — Interaction Design Foundation definition
 
-These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.

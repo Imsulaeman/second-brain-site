@@ -1,44 +1,43 @@
 ---
 title: "Credit Investing as Negative Art"
 type: concept
-tags: [investing, credit, risk, underwriting, howard-marks, weak]
+tags: [investing, credit, risk, underwriting, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
 # Credit Investing as Negative Art
 
-Credit investing is mostly the art of avoiding losers rather than finding uncapped winners.
+Credit investing is mostly the art of avoiding losers rather than finding uncapped winners. Marks calls it a negative art because the upside is contractually limited while the downside can still be severe.
 
-## Core Idea
+## Why Credit Is Different
 
-Credit analysis is heavily second-order (what happens after the first default or downgrade) and benefits from first-principles decomposition of cash flow and incentive structures. See [[concepts/first-principles-thinking]] and [[concepts/second-order-thinking]].
+In equities, a few huge successes can dominate returns. In credit, the promised upside is usually coupons plus principal repayment. If the borrower performs brilliantly, the lender does not suddenly participate in unlimited upside. But if the borrower fails, the downside can still be large.
 
-In equities, a few huge winners can dominate returns. In credit, upside is usually capped by the contract: interest payments plus principal repayment. The downside, however, can be large if the borrower defaults or the debt is impaired.
+That changes the mindset. The credit investor is not mainly searching for miracles. The job is to underwrite survival, refinancing capacity, collateral, incentives, and the path by which a borrower might fail.
 
-That makes credit a "negative art":
+## What The Investor Tries To Avoid
 
-- Avoid default-prone borrowers.
-- Demand enough spread for the risk.
-- Structure covenants and protections where possible.
-- Watch liquidity and refinancing risk.
-- Treat good times as dangerous because underwriting standards usually weaken.
+- Default-prone borrowers
+- Inadequate spread for the underlying risk
+- Weak covenants and poor documentation
+- Liquidity mismatches
+- Good-times underwriting that quietly assumes conditions will stay easy
 
-## Marks' Version
+This is why Marks so often links attractive credit opportunities to skepticism during easy-money periods. The best headline yield is meaningless if the loan only looks safe because standards have weakened.
 
-Howard Marks repeatedly says Oaktree's job is to avoid losers. In 2023-2025, this becomes especially important because higher rates made credit yields attractive again and private credit became fashionable. Higher promised yield is only useful if the borrower can pay.
+## Why Good Times Are Dangerous
 
-The 2025 First Brands and Tricolor episodes show the same lesson in event form: frauds and weak credits are often seeded during good times, then revealed when scrutiny returns.
+Many weak credits are created during favorable conditions. Cheap money, optimism, and competition among lenders can make risky structures look ordinary. Later, when scrutiny returns, those structures reveal themselves as fragile. That is why credit investing naturally overlaps with [[concepts/credit-cycle]] and [[concepts/liquidity-risk]].
 
 ## Connections
 
-- [[concepts/credit-cycle]] - Lending standards loosen in good times and tighten after losses.
-- [[concepts/liquidity-risk]] - Credit positions can become hard to exit when the market loses confidence.
-- [[concepts/second-order-thinking]] - Good credit research assembles a mosaic of weak signals before the market fully reacts.
-- [[concepts/sea-change-in-rates]] - Higher rates can make credit attractive, but also expose weak borrowers.
+- [[concepts/credit-cycle]]
+- [[concepts/liquidity-risk]]
+- [[concepts/sea-change-in-rates]]
+- [[concepts/second-order-thinking]]
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] - "Fewer Losers, or More Winners?", "Gimme Credit", and "Cockroaches in the Coal Mine."
-Credit investing as a negative art relies on both inductive pattern recognition from default and recovery data and deductive application of downside protection principles.
+- [[sources/the-complete-collection-howard-marks]]

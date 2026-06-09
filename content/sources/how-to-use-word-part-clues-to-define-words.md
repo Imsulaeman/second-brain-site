@@ -1,9 +1,9 @@
 ---
 title: "How to Use Word-Part Clues to Define Words"
 type: source
-tags: [reading, vocabulary, reading-comprehension, morphology, weak]
+tags: [reading, vocabulary, reading-comprehension, morphology]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ That substitution step matters. The source is not claiming that word parts alway
 
 Its broader lesson is that readers should build familiarity with common morphemes over time. Once roots, prefixes, and suffixes become recognizable, later words stop feeling entirely new. They arrive as recombinations of parts you already know.
 
+
+## Related Concepts
+
+- [[concepts/word-part-clues]] - The core strategy of using roots, prefixes, and suffixes.
+- [[concepts/specialized-terminology]] - Domain language often becomes easier once recurring morphemes are familiar.
+- [[concepts/inferencing]] - Context is the natural cross-check when word-part inference is only approximate.

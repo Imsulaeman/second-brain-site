@@ -1,9 +1,9 @@
 ---
 title: "Life Lessons From Trading"
 type: source
-tags: [trading, markets, psychology, risk-management, career, identity, weak]
+tags: [trading, markets, psychology, risk-management, career, identity]
 created: 2026-05-05
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -73,3 +73,9 @@ sources: 1
 - [[sources/the-jackpot-age]] â€” ergodicity, risk preferences, the cultural shift toward jackpot-hunting
 - [[sources/how-to-find-trading-edge]] â€” practical framework for edge as a retail trader
 - [[sources/time-is-event-based]] â€” why some environments are better measured by information density than by clock duration
+
+## Related Concepts
+
+- [[concepts/trading-edge]] - Edge decays, compounds, and often lives inside teams rather than lone insight.
+- [[concepts/position-sizing]] - Survival and drawdown control matter as much as idea quality.
+- [[concepts/ergodicity]] - A market career can fail from path-dependent ruin even with positive expected value.

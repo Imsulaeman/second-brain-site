@@ -1,15 +1,15 @@
 ---
 title: "Can You Outsmart the False Analogy Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, climate, analogy, elizabeth-cox, weak]
+tags: [critical-thinking, logic, fallacies, climate, analogy, elizabeth-cox]
 created: 2026-06-01
-updated: 2026-06-04
+updated: 2026-06-09
 sources: 1
 ---
 
 # Can You Outsmart the False Analogy Fallacy?
 
-Elizabeth Cox uses the climate-change debate to explain why analogy can clarify a problem without proving anything about its cause. Her target is a familiar skeptical move: Earth warmed in the distant past, Earth is warming now, therefore today's warming must also be natural. The article argues that this sounds plausible only because it confuses one shared feature with full explanatory equivalence.
+[[entities/elizabeth-cox|Elizabeth Cox]] uses the climate-change debate to explain why analogy can clarify a problem without proving anything about its cause. Her target is a familiar skeptical move: Earth warmed in the distant past, Earth is warming now, therefore today's warming must also be natural. The article argues that this sounds plausible only because it confuses one shared feature with full explanatory equivalence, which is exactly the structure of [[concepts/false-analogy|false analogy]].
 
 The case works because the historical material is concrete. Cox moves from James Hansen's early warning about human-driven warming to political arguments that treated ancient warm periods as a rebuttal to modern climate science. She then shows why the comparison fails. The Cretaceous Hot Greenhouse and the Paleocene-Eocene Thermal Maximum were real warming episodes, but each had its own mechanism and context. A similar outcome does not establish a similar cause. Warming can be produced by volcanic carbon dioxide, methane release, or modern fossil-fuel combustion, just as a fever can come from several very different illnesses. The right question is not whether the planet warmed before, but why it is warming now.
 

@@ -1,9 +1,9 @@
 ---
 title: "How to Find Trading Edge (as a Retail Trader)"
 type: source
-tags: [trading, markets, edge, risk-premium, supply-demand, arbitrage, retail, weak]
+tags: [trading, markets, edge, risk-premium, supply-demand, arbitrage, retail]
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -13,6 +13,8 @@ sources: 1
 **Type:** Long-form essay â€” practical trading framework
 
 ---
+
+This essay is really a field guide to [[concepts/trading-edge|trading edge]]: where it comes from, why most apparent edge vanishes under competition, and why retail traders usually survive by choosing narrower games.
 
 ## The Framework: 6 Reasons Assets Are Priced as They Are
 
@@ -78,3 +80,9 @@ The approach is blunt and imprecise â€” being in roughly the right place at
 - [[sources/life-lessons-from-trading]] â€” broader trading psychology and edge philosophy
 - [[sources/the-jackpot-age]] â€” ergodicity and why risk sizing matters
 - [[sources/dealing-with-loss]] â€” what to do when edge fails temporarily
+
+## Related Concepts
+
+- [[concepts/trading-edge]] - The page's central question.
+- [[concepts/position-sizing]] - Edge is only useful when sized to survive noise.
+- [[concepts/tape-reading-and-order-flow]] - Relevant to the source's emphasis on flow-driven distortions.

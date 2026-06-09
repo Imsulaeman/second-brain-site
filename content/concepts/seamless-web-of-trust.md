@@ -1,47 +1,35 @@
 ---
 title: "Seamless Web of Trust"
 type: concept
-tags: [trust, integrity, organization, charles-munger, weak]
+tags: [trust, integrity, organization, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Seamless Web of Trust
 
-Munger's term for the highest form of human organization: totally reliable people correctly trusting one another, with minimal bureaucratic procedure. His example is a Mayo Clinic operating room — if lawyers introduced heavy process there, more patients would die.
+A seamless web of trust is Munger's name for the kind of organization where highly reliable people can depend on one another without thick layers of defensive procedure. Trust is not softness here. It is a hard economic and operational asset.
 
----
+## What Makes It Powerful
 
-## Core Principle
+When deserved trust is present, coordination gets faster, transaction costs fall, and attention stays on the real work instead of on bureaucratic self-protection. Munger's image of an operating room is useful because it shows the stakes. In a high-consequence setting, unnecessary friction is not merely inefficient. It can be deadly.
 
-"The safest way to try to get what you want is to try to deserve what you want." Deserved trust compounds: it attracts better partners, reduces transaction costs, and creates self-reinforcing reliability. Undeserved trust, or systems that don't require trust, impose enormous overhead.
+Trust in this sense is not blind faith. It is earned predictability. People keep promises, surface bad news early, and avoid taking advantage of ambiguity. That is why Munger ties the idea to moral deservingness. The safest way to get what you want is to deserve trust from the kinds of people you want to work with.
 
----
+## The Contrast Case
 
-## How It Connects to Economics
+Where trust is weak, organizations compensate with monitoring, process, legal armor, and costly verification. Some of that is necessary, but beyond a point it becomes a tax on action. Worse, low-trust environments invite [[concepts/gaming-of-systems]] because participants assume the system is adversarial anyway.
 
-Munger argues trust has massive economic effects that economists undercount:
-- Double-entry bookkeeping spread trust in business
-- Cash registers made dishonesty mechanically hard ([[concepts/incentive-superpower]])
-- Religion historically instilled guilt-based reliability
-- Ben Franklin proposed unpaid government executives to avoid corruption
+The concept therefore bridges ethics and economics. Reliability is not only virtuous. It is productive.
 
----
+## Connections
 
-## The Antithesis
-
-When trust breaks down, you get [[concepts/gaming-of-systems]] — the workers' comp fraud, the derivative accounting scandals, the "cost-plus-a-percentage-of-cost" contracts that the U.S. government eventually made a felony.
-
----
-
-## Connection to Other Concepts
-
-- [[concepts/specific-knowledge]] — trustworthiness as a compounding advantage that is hard to replicate
-- [[concepts/identity-based-habits]] — "I am a reliable person" as an identity that drives daily behavior
-- [[concepts/permissionless-leverage]] — trust enables leverage; without it, leverage destroys
+- [[concepts/gaming-of-systems]]
+- [[concepts/incentive-superpower]]
+- [[concepts/specific-knowledge]]
+- [[concepts/identity-based-habits]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-Building a seamless web of trust requires inductive pattern recognition from repeated interactions and deductive application of consistency and reputation principles.

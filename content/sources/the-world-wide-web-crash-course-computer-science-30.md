@@ -3,34 +3,42 @@ title: "The World Wide Web Crash Course Computer Science 30"
 type: source
 tags: [web, internet, history, computer-science, crash-course]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: 1
 file: "raw/The World Wide Web Crash Course Computer Science 30 (ingested).md"
 ---
 
 # The World Wide Web Crash Course Computer Science 30
 
-This Crash Course episode explains the web historically rather than only mechanically. It distinguishes the [[concepts/world-wide-web|World Wide Web]] from the internet beneath it, then traces how hypertext, URLs, HTML, HTTP, browsers, servers, directories, search engines, and finally [[concepts/net-neutrality|net neutrality]] fit into one story.
+This Crash Course episode treats the [[concepts/world-wide-web|World Wide Web]] as a history rather than a definition. Starting from an idea in 1945 and ending with an ongoing governance dispute, it shows how hyperlinks, standards, browsers, directories, and search engines compounded into the web as it exists today.
 
 ## The Web Is Not The Internet
 
-The first conceptual cleanup is the most important. The internet is the underlying transport and routing substrate. The web is one huge distributed application running on top of it. That distinction sounds basic, but it matters because people often use "internet" and "web" as if they were interchangeable.
+The episode's first move is a clarification that underpins everything that follows. The internet is the underlying infrastructure — cables, routers, protocols for routing packets. The web is one application layer running on top of it. Email, FTP, and video streaming also run on the internet but are not the web. This distinction matters because the web's specific properties — URLs, hyperlinks, browsers, search engines — belong to the web layer alone.
 
-## Hyperlinks As The Core Idea
+## Vannevar Bush and the Conceptual Ancestor
 
-The episode treats hyperlinks as the web's deepest primitive. A web page is not just a document. It is a node in a network of references. That makes the web less like a static filing cabinet and more like a navigable structure of association, which is why older ideas like Vannevar Bush's Memex appear as conceptual ancestors.
+In 1945, Vannevar Bush published an essay describing the Memex — a hypothetical device that would let a researcher store and navigate associative trails through documents. Bush never built it, and the essay predates digital computing as we know it. The episode uses it to show that the idea of navigating information through links is older than the web by decades. When [[entities/tim-berners-lee|Tim Berners-Lee]] proposed the World Wide Web in 1989 at CERN, he was realizing a concept that had been imagined for a long time.
 
-## Standards, Browsers, And Search
+## Berners-Lee, HTML, HTTP, and URLs
 
-The source then shows how the web became practical through open standards and software. [[entities/tim-berners-lee|Tim Berners-Lee]] appears not only as the inventor of the first browser and server, but as the figure who pulled together URL structure, HTML, and HTTP into a usable system. Mosaic then matters because it helped make the web visually and behaviorally familiar to ordinary users.
+Berners-Lee designed the three things that make the web work together: HTML to mark up documents, HTTP to transfer them, and URLs to locate them. His first draft of HTML had 18 commands; HTML5, the current standard, defines over a hundred. The episode traces the expansion of HTML not as feature creep but as the web gaining the capacity for richer content and more complex interaction over time. Berners-Lee wrote both the first web server and the first web browser himself.
 
-The later move from human-maintained directories to crawlers, indexes, and backlink-sensitive ranking gives the source a clean historical bridge into search engines and Google's rise.
+## Mosaic and the Graphic Web
 
-## Net Neutrality As Governance
+The web became something ordinary users could recognize in 1993 when researchers at the University of Illinois released Mosaic — the first browser to render images inline alongside text. Before Mosaic, browsers displayed text only. Mosaic introduced the visual page layout that most people now associate with the web: text, images, and links together on a single readable screen.
 
-The final turn is governance. Once the reader understands packets and routing, net neutrality stops sounding like a slogan and starts looking like a question about whether network operators should be allowed to privilege some traffic over other traffic. The source does not settle the debate, but it gives the technical skeleton needed to understand why the argument exists.
+## From Directories to Search Engines
 
-Worth coming back to: this is a compact history of how many separate pieces became "the web" at once. Hyperlinks made it conceptual. Standards made it interoperable. Browsers made it usable. Search made it navigable. Governance questions made it political.
+As the web grew, navigation became a problem. The first model was human-maintained directories. Yahoo launched in 1994 as "Jerry and David's Guide to the World Wide Web" — Jerry Yang and David Filo hand-catalogued sites they found useful. That approach could not scale.
+
+The crawler-and-index model replaced it. JumpStation, created by Jonathon Fletcher in 1993, was among the first to automatically crawl pages and build a searchable index. The crucial innovation came from Larry Page and Sergey Brin at Stanford: their BackRub project (1996) introduced PageRank — ranking pages partly by how many other pages linked to them, treating inbound links as a signal of relevance rather than just counting keyword occurrences. Google launched publicly in 1998 and quickly displaced earlier search approaches.
+
+## Net Neutrality as Governance
+
+The episode closes with [[concepts/net-neutrality|net neutrality]] — the principle that network operators should route all traffic equally, without privileging or penalizing specific content or services. Once the reader has the technical foundation (packets, routing, physical infrastructure), the debate stops sounding abstract. The question is whether companies that are simultaneously network operators and content producers — Comcast, which also owns NBC Universal, is the episode's example — can be allowed to slow competitors' traffic or charge more for preferred routing. The episode presents both sides without settling it, but gives the technical skeleton needed to understand why the argument exists and what is actually at stake.
+
+Worth coming back to: this source's value is the sequence. Associative links (Bush, 1945) became a design proposal (Berners-Lee, 1989) that became a browsable system (Mosaic, 1993) that became navigable through directories (Yahoo, 1994), then through automated search (PageRank, 1996; Google, 1998), and then became politically contested (net neutrality). The web is one artifact with a specific history, and the history is what makes its present structure legible.
 
 ## Sources
 

@@ -1,9 +1,9 @@
 ---
 title: "First Principles Thinking"
 type: concept
-tags: [mental-models, problem-solving, creativity, decision-making, weak]
+tags: [mental-models, problem-solving, creativity, decision-making]
 created: 2026-05-10
-updated: 2026-06-03
+updated: 2026-06-09
 sources: 2
 ---
 
@@ -67,4 +67,3 @@ This is especially dangerous when the copied strategy comes from someone more es
 
 - [[sources/first-principles-thinking]] - Personal essay on copying, analogy, and rebuilding from fundamentals.
 
-First principles thinking often requires distinguishing between inductive and deductive moves. Breaking down to fundamentals frequently involves inductive pattern recognition from observations, while rebuilding solutions may rely on deductive application of fundamental truths.

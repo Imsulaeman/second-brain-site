@@ -1,9 +1,9 @@
 ---
 title: "How to Make Vocabulary Flashcards"
 type: source
-tags: [reading, vocabulary, study-techniques, memory, weak]
+tags: [reading, vocabulary, study-techniques, memory]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ Because the video is brief, its value is not complexity but clarity. It gives a 
 
 The distinctive point is that the tool is intentionally low-friction. The source is not proposing a full knowledge-management system. It is proposing a portable retrieval habit.
 
+
+## Related Concepts
+
+- [[concepts/vocabulary-flashcards]] - The core retrieval method.
+- [[concepts/spaced-repetition]] - Flashcards become more powerful when review is repeated over time.
+- [[concepts/kim-chart]] - A slightly richer companion format for recording new words.

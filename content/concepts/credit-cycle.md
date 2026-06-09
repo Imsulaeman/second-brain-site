@@ -1,15 +1,15 @@
 ---
 title: "Credit Cycle"
 type: concept
-tags: [investing, credit, cycles, markets, risk, howard-marks, weak]
+tags: [investing, credit, cycles, markets, risk, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
 # Credit Cycle
 
-The credit cycle is Howard Marks' framework for how the availability of capital expands and contracts. He treats it as the most volatile and market-moving cycle because capital providers can move from eager lending to total refusal faster than the underlying economy changes.
+The credit cycle is Howard Marks' framework for how the availability of capital expands and contracts. He treats it as one of the most market-moving cycles because lenders can swing from eager generosity to total refusal much faster than the real economy changes.
 
 ## Cycle Mechanism
 
@@ -18,28 +18,36 @@ The credit cycle is Howard Marks' framework for how the availability of capital 
 3. Risk aversion declines.
 4. Lenders compete to deploy capital.
 5. Required returns fall.
-6. Credit standards weaken.
-7. Covenants loosen.
-8. Too much capital reaches weak borrowers or bad deals.
-9. Losses appear.
-10. Lenders retreat.
-11. Capital becomes scarce.
-12. Borrowers fail to refinance.
-13. Defaults and bankruptcies rise.
-14. With few lenders left, high-quality lending opportunities reappear.
+6. Covenants loosen and standards weaken.
+7. Capital reaches weak borrowers and weak deals.
+8. Losses appear.
+9. Lenders retreat.
+10. Refinancing becomes difficult.
+11. Defaults and distress rise.
+12. Eventually, scarcity creates attractive opportunities again.
 
-Marks summarizes the pattern: prosperity brings expanded lending, expanded lending leads to unwise lending, unwise lending produces losses, losses make lenders stop lending, and tight lending ends prosperity.
+Marks' summary is blunt: prosperity brings more lending, more lending produces worse lending, and worse lending eventually creates losses that shut the window.
 
-## Why It Matters
+## Why Credit Matters More Than GDP
 
-The credit cycle helps explain why markets move more violently than GDP. The economy may fluctuate modestly, profits more strongly, and markets dramatically, because the credit window can move from wide open to slammed shut.
+The economy can deteriorate gradually while financing conditions snap shut suddenly. That is why credit often moves markets more violently than underlying business fundamentals. A company that looks survivable in a spreadsheet can still fail if the refinancing window closes at the wrong time.
 
-For investors, the key is to observe whether capital is easy or scarce:
+## What To Watch
 
-- **Easy credit** usually means future returns are being compressed and risk is rising.
-- **Tight credit** usually means bargains may be forming, especially for patient capital.
+- Are lenders competing away caution?
+- Are spreads too thin for the risks being taken?
+- Are covenants and documentation weakening?
+- Are weak borrowers getting easy money?
+- Has fear made good lending opportunities unusually scarce in capital but rich in return?
+
+The point is not precise cycle timing. It is calibration: when credit is too easy, future returns are usually being compressed; when credit is scarce, bargains may be forming for patient capital.
+
+## Connections
+
+- [[concepts/credit-investing-as-negative-art]]
+- [[concepts/liquidity-risk]]
+- [[concepts/confidence-cycle]]
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] — "Open and Shut," "The Happy Medium," "The Long View," GFC memos
-Detecting bubbles and credit cycles relies heavily on inductive pattern recognition from historical data combined with deductive application of financial principles.
+- [[sources/the-complete-collection-howard-marks]]

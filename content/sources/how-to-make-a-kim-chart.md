@@ -1,9 +1,9 @@
 ---
 title: "How to Make a KIM Chart"
 type: source
-tags: [reading, vocabulary, study-techniques, memory, weak]
+tags: [reading, vocabulary, study-techniques, memory]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ The design matters because each column does a different cognitive job. The key w
 
 Its practical appeal is that it scales cleanly in a notebook. Unlike a one-off lookup, the KIM chart creates a running record of words encountered over time, which makes vocabulary growth cumulative instead of accidental.
 
+
+## Related Concepts
+
+- [[concepts/kim-chart]] - The note format itself.
+- [[concepts/vocabulary-flashcards]] - Another low-friction retrieval tool for new words.
+- [[concepts/spaced-repetition]] - Why repeated cue-based recall improves retention.

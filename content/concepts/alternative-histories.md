@@ -1,45 +1,40 @@
 ---
 title: "Alternative Histories"
 type: concept
-tags: [probability, decision-making, uncertainty, investing, risk, weak]
+tags: [probability, decision-making, uncertainty, investing, risk]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Alternative Histories
 
-Alternative histories are the plausible paths that could have happened but did not. In [[sources/fooled-by-randomness]], [[entities/nassim-nicholas-taleb|Taleb]] argues that decision quality cannot be judged only by the realized outcome because the realized path is one sample from a wider distribution.
+Alternative histories are the plausible paths that could have happened but did not. Taleb uses the idea to attack outcome worship. A decision is not validated simply because one realized path ended well. The realized path is only one draw from a wider set of possibilities.
 
-## Why It Matters
+## Why This Changes Judgment
 
-Most people evaluate decisions by the path that happened:
+Most people evaluate decisions as if reality were a courtroom with one final verdict. The trade worked, so the trader was smart. The company failed, so the strategy was foolish. Taleb's correction is harsher and more useful: ask what would happen if the same process were replayed across many worlds.
 
-- The trader made money, so the trade was smart.
-- The founder succeeded, so the strategy was correct.
-- The investor lost money, so the thesis was foolish.
+If one lucky path survives while many nearby paths end badly, the success is not strong evidence of skill. It may be evidence of hidden fragility plus one favorable draw. That is why the concept belongs beside [[concepts/decision-quality-vs-outcome]] but carries more probabilistic bite.
 
-Taleb's correction: ask what the same process would have produced across many possible worlds. If most paths ended badly and one lucky path paid off, the success is not proof of skill.
+## The Practical Use
 
-## Practical Test
+Alternative histories force you to think in distributions rather than anecdotes. Before trusting a result, ask:
 
-Before acting, ask:
+- what were the other plausible paths here?
+- how many ended in mere survival, and how many ended in ruin?
+- did the process create a wide range of possible outcomes or a narrow one?
+- would I still approve this decision if this particular run had gone badly?
 
-1. What are the plausible good, bad, and catastrophic paths?
-2. Which path am I implicitly assuming?
-3. How many paths would I survive?
-4. Would I still call this a good decision if the realized result were unlucky?
-5. Am I learning from process or worshiping the outcome?
+This lens is especially important in trading and investing because leverage, illiquidity, and tail risk can hide inside a good-looking realized path for a long time.
 
 ## Connections
 
-- [[concepts/decision-quality-vs-outcome]] - The broader decision framework this concept strengthens.
-- [[concepts/skewness-and-asymmetry]] - Alternative histories reveal hidden payoff shape.
-- [[concepts/ergodicity]] - Survival depends on the path through time, not the average across worlds.
-- [[concepts/position-sizing]] - Sizing decides whether bad alternative histories are survivable.
+- [[concepts/decision-quality-vs-outcome]]
+- [[concepts/skewness-and-asymmetry]]
+- [[concepts/ergodicity]]
+- [[concepts/position-sizing]]
 
 ## Sources
 
-- [[sources/fooled-by-randomness]] - Core concept in Taleb's probabilistic worldview.
-
-These concepts rely on inductive reasoning from historical and probabilistic patterns combined with deductive application of structural constraints.
+- [[sources/fooled-by-randomness]]

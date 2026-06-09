@@ -1,9 +1,9 @@
 ---
 title: "Figurative Language"
 type: source
-tags: [reading, vocabulary, literature, rhetoric, weak]
+tags: [reading, vocabulary, literature, rhetoric]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ The most useful through-line is interpretive rather than taxonomic. Readers are 
 
 Worth returning to: the source treats figurative language as a reading-comprehension problem, not just as a literature-class label set. The real skill is not naming the device after the fact. It is noticing when literal reading would miss the point.
 
+
+## Related Concepts
+
+- [[concepts/figurative-language]] - The umbrella concept for non-literal meaning.
+- [[concepts/inferencing]] - Readers infer the intended meaning instead of taking the phrase literally.
+- [[concepts/specialized-terminology]] - A useful contrast: one compresses meaning through convention, the other through image and implication.

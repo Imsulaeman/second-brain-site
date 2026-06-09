@@ -1,50 +1,42 @@
 ---
 title: "Iron Prescription"
 type: concept
-tags: [thinking, disconfirming-evidence, intellectual-honesty, charles-munger, darwin, weak]
+tags: [thinking, disconfirming-evidence, intellectual-honesty, charles-munger, darwin]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Iron Prescription
 
-Munger's term for the discipline of seeking disconfirming evidence, especially for your best-loved ideas. Named after Darwin's practice of giving special attention to any evidence that contradicted his hypotheses.
+The Iron Prescription is Munger's discipline of hunting for disconfirming evidence, especially when you love your current conclusion. He takes the habit from Darwin, who trained himself to notice and preserve facts that contradicted his favored theory before the mind had time to explain them away.
 
-Munger's version: "I'm not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition."
+## The Point
 
----
+Most people do not need help generating support for what they already believe. The mind does that automatically. The hard part is building a practice strong enough to interrupt confirmation bias before it hardens into identity.
 
-## Darwin's Method
+Munger's test is severe: you are not entitled to hold an opinion unless you can state the arguments against it better than the people who disagree with you. That standard turns intellectual honesty from a mood into a burden of proof.
 
-Darwin trained himself early to intensively consider evidence tending to disconfirm any hypothesis — *more so* if he thought the hypothesis was particularly good. The opposite of Darwin's method is now called **confirmation bias**.
+## Why This Is Difficult
 
-Darwin spent twenty years building his theory of evolution specifically to prepare for every counterargument before publishing. This patience and intellectual honesty produced one of the most robust scientific theories in history.
+The pressure against disconfirmation comes from several directions at once. Ego wants to be right. social proof wants to belong. inconsistency-avoidance wants stability. doubt-avoidance wants closure. The Iron Prescription matters because it is not one clever trick. It is a deliberate counterweight to a whole cluster of mental tendencies.
 
----
+## How To Use It
 
-## Practical Application
+- write the best case against your current view
+- ask what evidence would truly change your mind
+- seek articulate critics rather than weak caricatures
+- revisit your strongest opinions more aggressively than your weaker ones
 
-- Before forming a strong opinion, steelman the opposing view
-- Write down the strongest counterarguments to your own position
-- If you can't articulate the opposition's case better than they can, you haven't earned the right to your opinion
-- In organizations: deliberately bring in articulate disbelievers of incumbent group-think
+This is why the concept belongs near [[concepts/inversion]] and [[concepts/epistemic-humility]]. Inversion asks how things fail. The Iron Prescription asks how your own thinking fails.
 
----
+## Connections
 
-## Why It's So Hard
-
-Multiple psychological tendencies work against it: Inconsistency-Avoidance (resist changing existing beliefs), Excessive Self-Regard (overvalue your own conclusions), Doubt-Avoidance (rush to certainty), and Social Proof (everyone around you agrees). The Iron Prescription requires fighting all of these simultaneously.
-
----
-
-## Connection to Other Concepts
-
-- [[concepts/epistemic-humility]] — calibrating confidence to evidence is the general principle; the Iron Prescription is the specific practice
-- [[concepts/inversion]] — seeking disconfirmation is inversion applied to your own beliefs
-- [[concepts/illusions-of-competence]] — confirmation bias is the intellectual version; the antidote is the same: test yourself honestly
+- [[concepts/epistemic-humility]]
+- [[concepts/inversion]]
+- [[concepts/illusions-of-competence]]
+- [[concepts/circle-of-competence]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-The iron prescription for clear thinking requires both inductive honesty about what one has observed and deductive consistency in applying principles.

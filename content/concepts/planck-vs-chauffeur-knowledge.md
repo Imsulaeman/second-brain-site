@@ -1,49 +1,42 @@
 ---
 title: "Planck vs Chauffeur Knowledge"
 type: concept
-tags: [knowledge, expertise, thinking, charles-munger, weak]
+tags: [knowledge, expertise, thinking, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Planck vs Chauffeur Knowledge
 
-Munger's distinction between two kinds of knowledge, illustrated by an apocryphal story about Max Planck and his chauffeur:
+Planck vs chauffeur knowledge is Munger's distinction between real understanding and convincing performance. The story is simple: Max Planck, after giving the same lecture repeatedly, has a chauffeur who memorizes the talk so well he can deliver it too. The chauffeur can sound like a master without being one.
 
-- **Planck knowledge** — real understanding earned through effort, aptitude, and deep engagement. The person has "paid the dues."
-- **Chauffeur knowledge** — the ability to prattle the talk convincingly. May have a big head of hair and fine voice. Makes a great impression. But it's performance, not understanding.
+## The Distinction
 
----
+Planck knowledge is deep understanding. It lets you answer unscripted questions, explain causes rather than phrases, detect exceptions, and know where your certainty ends.
 
-## Why It Matters
+Chauffeur knowledge is polished surface fluency. It handles the script but breaks down when the environment changes or when a deeper question appears. It often sounds impressive because performance and confidence are visible while depth is not.
 
-The world is full of chauffeur knowledge masquerading as Planck knowledge. Munger says this describes "practically every politician." The practical danger: you make decisions based on confident-sounding advice from someone who lacks real understanding.
+## Why Munger Cares
 
----
+Munger uses the contrast as a practical filter for judgment. Many decisions are made by listening to articulate people whose confidence exceeds their understanding. The danger is not only being fooled by others. It is fooling yourself. A person can learn the talking points of a field and start mistaking rhetorical ease for competence.
 
-## How to Tell the Difference
+This makes the concept especially useful near the edge of your [[concepts/circle-of-competence]]. If you can explain the conclusions but not the mechanism, if you can repeat the case but not handle the hard variant, you may be carrying chauffeur knowledge.
 
-Planck-knowledge holders can:
-- Handle unexpected questions outside the scripted material
-- Explain *why*, not just *what*
-- Identify the boundaries of what they know
-- Adapt when conditions change
+## Signs Of Real Understanding
 
-Chauffeur-knowledge holders break down when:
-- Asked a question outside their memorized script
-- Conditions change from the pattern they learned
-- They need to synthesize across domains
+- you can answer questions that were not in the script
+- you can explain why something works, not only what people say about it
+- you can name the edge cases and failure modes
+- you know what evidence would prove you wrong
 
----
+## Connections
 
-## Connection to Other Concepts
-
-- [[concepts/illusions-of-competence]] — chauffeur knowledge is the expertise-level version of the same trap that afflicts students
-- [[concepts/circle-of-competence]] — knowing which type of knowledge you have in each domain
-- [[concepts/mental-models-latticework]] — building Planck knowledge across disciplines, not chauffeur knowledge in one
+- [[concepts/circle-of-competence]]
+- [[concepts/illusions-of-competence]]
+- [[concepts/mental-models-latticework]]
+- [[concepts/iron-prescription]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-Distinguishing real knowledge from surface knowledge often requires inductive testing through application and deductive verification against first principles.

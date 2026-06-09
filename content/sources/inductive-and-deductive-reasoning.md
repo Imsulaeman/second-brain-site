@@ -1,15 +1,15 @@
 ---
 title: "Inductive and Deductive Reasoning"
 type: source
-tags: [reasoning, logic, critical-thinking, weak]
+tags: [reasoning, logic, critical-thinking]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources: 1
 ---
 
 # Inductive and Deductive Reasoning
 
-This source is a teaching document built to make one distinction stick: inductive reasoning moves from repeated observations toward a probable generalization, while deductive reasoning moves from accepted rules toward a necessary conclusion. It is not a specialist philosophy text. It is a learner-facing primer, and its whole structure is designed around repeated contrast, concrete examples, and practice.
+This source is a teaching document built to make one distinction stick: [[concepts/inductive-reasoning|inductive reasoning]] moves from repeated observations toward a probable generalization, while [[concepts/deductive-reasoning|deductive reasoning]] moves from accepted rules toward a necessary conclusion. It is not a specialist philosophy text. It is a learner-facing primer, and its whole structure is designed around repeated contrast, concrete examples, and practice.
 
 ## Core Contrast
 

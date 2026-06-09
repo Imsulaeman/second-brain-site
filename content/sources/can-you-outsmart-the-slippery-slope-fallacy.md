@@ -1,15 +1,15 @@
 ---
 title: "Can You Outsmart the Slippery Slope Fallacy?"
 type: source
-tags: [critical-thinking, logic, fallacies, politics, cold-war, probability, elizabeth-cox, weak]
+tags: [critical-thinking, logic, fallacies, politics, cold-war, probability, elizabeth-cox]
 created: 2026-06-01
-updated: 2026-06-04
+updated: 2026-06-09
 sources: 1
 ---
 
 # Can You Outsmart the Slippery Slope Fallacy?
 
-Elizabeth Cox uses Eisenhower's domino theory about Vietnam to explain why a scary chain of consequences is not the same as an inevitable one. The point of the essay is not that downstream effects are imaginary. It is that political reasoning often inflates one possible path into the only path, then treats fear as if it were probability.
+[[entities/elizabeth-cox|Elizabeth Cox]] uses Eisenhower's domino theory about Vietnam to explain why a scary chain of consequences is not the same as an inevitable one. The point of the essay is not that downstream effects are imaginary. It is that political reasoning often inflates one possible path into the only path, then treats fear as if it were probability, which is the core move of the [[concepts/slippery-slope-fallacy|slippery slope fallacy]].
 
 The Vietnam example shows why the domino metaphor was so persuasive. If one country fell to communism, nearby countries might follow, regional trade might unravel, allies might weaken, and eventually the United States itself might be threatened. Cox grants the initial intuition: political change can spread. But she argues that the metaphor hides the real structure of events. Countries are not identical dominoes in a straight line. Each step depends on local institutions, leaders, alliances, incentives, and resistance. A chain with many uncertain links becomes much less probable than its rhetoric suggests.
 

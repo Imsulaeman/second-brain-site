@@ -1,36 +1,41 @@
 ---
 title: "Investment Fashion Cycles"
 type: concept
-tags: [investing, cycles, psychology, markets, howard-marks, weak]
+tags: [investing, cycles, psychology, markets, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
 # Investment Fashion Cycles
 
-Investment styles move in and out of favor like clothing hemlines. Howard Marks uses this as a concrete form of [[concepts/second-order-thinking|second-level thinking]]: the question is not whether an asset class has merit, but whether its merit has already been discovered, popularized, overbought, and priced in.
+Investment styles move in and out of favor like clothing hemlines. Howard Marks uses this image to show that popularity itself changes future returns. The question is not whether an asset class or strategy has merit, but whether its merit has already been discovered, celebrated, overbought, and priced in.
 
 ## Cycle Pattern
 
-1. An undervalued asset or strategy is discovered.
+1. An undervalued style or asset is discovered.
 2. Early investors earn strong returns.
-3. Performance attracts attention and capital.
-4. The idea moves from cheap to fair to expensive.
-5. The story becomes accepted as obvious.
-6. The last marginal buyer is converted.
+3. Performance attracts capital and imitators.
+4. Cheap becomes fair, then expensive.
+5. The story becomes socially obvious.
+6. The last marginal buyer arrives.
 7. Overvaluation is exposed.
-8. Former believers flee, often creating the next bargain.
+8. Former believers flee, creating the next bargain.
 
-Marks summarizes this with one of his central adages: "What the wise man does in the beginning, the fool does in the end."
+Marks' old line fits perfectly here: what the wise person does in the beginning, the fool does in the end.
 
-## Why It Matters
+## Why This Matters
 
-The framework prevents rear-view-mirror allocation. Investors often buy what recently worked and abandon what recently disappointed. That means they may buy bonds after bonds protected portfolios, buy stocks after a long equity boom, or buy alternatives after their early premium has been competed away.
+Rear-view-mirror allocation is one of the most common investment mistakes. Investors buy what recently worked and abandon what recently disappointed, which means they often buy what has already become fashionable and expensive.
 
-The proper question is not "has this asset class historically worked?" but "what return is implied by today's price, today's popularity, and today's risk premium?"
+The right question is comparative and forward-looking: what return is implied by today's price, today's popularity, and today's risk premium?
+
+## Connections
+
+- [[concepts/bubble-detection]]
+- [[concepts/confidence-cycle]]
+- [[concepts/second-order-thinking]]
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] — stocks/bonds fashion-cycle memo, "The Long View," "So Much That's False and Nutty"
-Investment fashion cycles are best understood through inductive observation of crowd behavior and deductive analysis of underlying value.
+- [[sources/the-complete-collection-howard-marks]]

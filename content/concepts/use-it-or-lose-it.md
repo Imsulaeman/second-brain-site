@@ -1,24 +1,33 @@
 ---
 title: "Use-It-or-Lose-It"
 type: concept
-tags: [psychology, learning, practice, mental-models, charles-munger, weak]
+tags: [psychology, learning, practice, mental-models, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Use-It-or-Lose-It
 
-Use-It-or-Lose-It is Munger's tendency that skills and knowledge decay when they are not practiced. In [[sources/poor-charlies-almanack]], it appears in the psychology checklist as a warning that even valuable mental models become inert if they are not regularly retrieved and applied.
+Use-it-or-lose-it is the principle that skills and mental models decay when they are not retrieved and used. Munger includes the idea because possessing a concept in theory is not the same as being able to apply it under pressure.
 
-## Why It Matters
+## Why Munger Includes It
 
-This connects Munger's mental-models program to the wiki's learning-science cluster. [[concepts/spaced-repetition]], retrieval practice, and [[concepts/deliberate-practice]] are not just study techniques; they are how you keep useful knowledge alive enough to use under pressure.
+Munger's whole project depends on active recall. A [[concepts/mental-models-latticework]] is valuable only if its models come to mind at the right moment. Knowledge that sits inert in books or memory without being exercised becomes decorative. It feels owned but does not participate in action.
 
-For the [[concepts/mental-models-latticework]], the implication is practical: a checklist, review ritual, or decision journal is not bureaucracy. It is maintenance for cognition.
+This is one of the cleanest links between Munger and the wiki's learning-science cluster. [[concepts/spaced-repetition]], retrieval practice, checklists, and decision journals all serve the same end: they keep important patterns alive enough to be available when stakes are real.
+
+## The Practical Lesson
+
+Do not confuse accumulation with accessibility. Reading widely matters, but so does revisiting, applying, and stress-testing what you have read. If a model never gets used, it fades. If it gets used often, it stops being trivia and becomes judgment.
+
+## Connections
+
+- [[concepts/mental-models-latticework]]
+- [[concepts/spaced-repetition]]
+- [[concepts/deliberate-practice]]
+- [[concepts/illusions-of-competence]]
 
 ## Sources
 
-- [[sources/poor-charlies-almanack]] - Psychology of human misjudgment and Munger's mental-models practice discipline.
-
-These concepts rely on both inductive observation of real-world outcomes and deductive application of fundamental and process principles.
+- [[sources/poor-charlies-almanack]]

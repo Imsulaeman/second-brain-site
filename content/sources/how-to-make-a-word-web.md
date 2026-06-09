@@ -1,9 +1,9 @@
 ---
 title: "How to Make a Word Web"
 type: source
-tags: [reading, vocabulary, study-techniques, memory, weak]
+tags: [reading, vocabulary, study-techniques, memory]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ That is what distinguishes this tool from a flashcard. A flashcard is optimized 
 
 Worth keeping in mind: the source is quietly teaching that vocabulary knowledge has depth. Knowing a word often means knowing more than one definition, more than one use, and more than one path by which the word can be remembered.
 
+
+## Related Concepts
+
+- [[concepts/word-web]] - The semantic-network study tool described by the source.
+- [[concepts/word-part-clues]] - Word webs often include roots, prefixes, and suffixes.
+- [[concepts/inferencing]] - Usage examples and nearby language help confirm meaning in context.

@@ -1,47 +1,35 @@
 ---
 title: "Febezzlement"
 type: concept
-tags: [economics, finance, wealth-effect, charles-munger, weak]
+tags: [economics, finance, wealth-effect, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Febezzlement
 
-Munger's coined term for the **functional equivalent of embezzlement**. Derived from Galbraith's concept of the "bezzle" — undisclosed embezzlement that stimulates the economy because the victim still thinks he's rich while the thief spends the stolen money.
-
----
-
-## Core Idea
-
-Galbraith's original bezzle is a minor phenomenon because discovery quickly reverses the effect. Munger's extension asks: what are the *functional equivalents* that operate on a massive scale?
-
-His main example: billions wasted in investment management fees. As long as markets rise, the fee-payer doesn't feel the loss (rising portfolio values mask it), and the fee-collector treats the income as earned. The functional result is identical to undisclosed embezzlement — a "wealth effect on steroids."
-
----
-
-## Other Examples
-
-- Derivative book profits that were never real (Enron, Westinghouse)
-- Pension plans with unfunded liabilities that nobody addresses
-- Any system where reported wealth exceeds real wealth, and the gap is hidden by rising asset prices
-
----
+Febezzlement is Munger's term for the functional equivalent of embezzlement. The original idea comes from Galbraith's "bezzle": wealth that has already been stolen but has not yet been recognized as missing. Munger broadens the idea to cover any hidden extraction or false wealth that makes people feel richer than they really are.
 
 ## Why It Matters
 
-Febezzlement creates false confidence and postpones reckoning. When the gap is finally revealed — market crash, audit, bankruptcy — the reversal is sharp and painful. Understanding febezzlement helps identify [[concepts/bubble-detection|bubbles]] before they pop.
+The important feature is delayed recognition. While the loss is still hidden, the victim behaves as if the money exists and the extractor behaves as if the gain is legitimate. Spending, confidence, and valuation all get inflated by wealth that is not truly there.
 
----
+That is why febezzlement matters far beyond literal fraud. Excessive investment-management fees, fictional accounting profits, pension promises with concealed gaps, or balance sheets supported by wishful marks can all create the same effect. Reported wealth floats above real wealth until the gap is forced into view.
 
-## Connection to Other Concepts
+## What Makes It Dangerous
 
-- [[concepts/bubble-detection]] — febezzlement is one mechanism inside speculative manias
-- [[concepts/incentive-superpower]] — incentive-caused bias keeps people from reporting the gap
-- [[concepts/confidence-cycle]] — unreported wealth destruction inflates the confidence phase
+Febezzlement is stabilizing in the short run and destabilizing later. It flatters the boom phase because nobody wants to surface the missing value while prices are rising and fees are flowing. When the gap is finally recognized, the reversal is abrupt. The apparent prosperity was partly borrowed from a future disappointment.
+
+This makes febezzlement one of the hidden mechanisms inside [[concepts/bubble-detection]] and the [[concepts/confidence-cycle]]. Markets often look safest when hidden overstatement has had the most time to accumulate.
+
+## Connections
+
+- [[concepts/bubble-detection]]
+- [[concepts/confidence-cycle]]
+- [[concepts/incentive-superpower]]
+- [[concepts/credit-cycle]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-Febezzlement involves both inductive pattern recognition from repeated small extractions and deductive application of incentive misalignment analysis.

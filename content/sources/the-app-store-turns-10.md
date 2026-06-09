@@ -1,16 +1,16 @@
 ---
 title: "The App Store turns 10"
 type: source
-tags: [apps, apple, platform, software, economy, weak]
+tags: [apps, apple, platform, software, economy]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: 1
 file: "raw/The App Store turns 10 (ingested).md"
 ---
 
 # The App Store turns 10
 
-This Apple retrospective tells the story of the App Store as both software-distribution infrastructure and economic engine. Its main claim is that the App Store did not just add more apps to the iPhone. It changed how software reached users and how developers built businesses. The source is also strongly image-led: each section is paired with a concrete product photo or scene that turns a general claim about the App Store into a specific domain where it reshaped behavior.
+This [[entities/apple|Apple]] retrospective tells the story of the App Store as both software-distribution infrastructure and economic engine. Its main claim is that the App Store did not just add more apps to the iPhone. It changed how software reached users and how developers built businesses, which places it directly inside the wiki's idea of the [[concepts/app-economy|app economy]]. The source is also strongly image-led: each section is paired with a concrete product photo or scene that turns a general claim about the App Store into a specific domain where it reshaped behavior.
 
 ## Distribution As Platform Power
 

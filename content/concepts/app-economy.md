@@ -3,8 +3,8 @@ title: "App Economy"
 type: concept
 tags: [apps, economy, platforms, software, apple]
 created: 2026-06-08
-updated: 2026-06-08
-sources: 2
+updated: 2026-06-09
+sources: 3
 ---
 
 # App Economy
@@ -28,7 +28,7 @@ The visual argument is immediate: the giant retail block dwarfs the classic "sof
 
 ## How It Was Built
 
-The App Store launched in 2008 alongside iPhone OS 2.0. Its structural contribution was reducing distribution friction for developers while centralizing discovery, payment, trust, and curation under Apple. That combination made app creation accessible to small teams and solo developers while also giving Apple platform-shaping power over the entire software-distribution channel.
+The App Store launched in 2008 alongside iPhone OS 2.0. Its structural contribution was reducing distribution friction for developers while centralizing discovery, payment, trust, and curation under [[entities/apple|Apple]]. That combination made app creation accessible to small teams and solo developers while also giving Apple platform-shaping power over the entire software-distribution channel.
 
 Before the App Store, reaching consumers required building your own distribution, payment processing, and marketing infrastructure. After it, those problems were solved at platform level — in exchange for a 15–30% revenue share.
 
@@ -40,7 +40,10 @@ The key distinction is between the App Store as a software shelf and the App Sto
 
 This makes the platform's curator role carry unusual weight. Control over distribution, search ranking, and payment processing in this context is not just software policy. It is infrastructure policy for entire industries.
 
+The newer platform-history source adds a second layer: the app economy was not only built by one store getting bigger. It was shaped by years of competitive coevolution between Apple and Google, with each store gradually absorbing more control over subscriptions, rankings, search ads, review systems, developer tooling, privacy norms, and anti-fraud enforcement. That makes the app economy a story about software distribution and about platform governance.
+
 ## Sources
 
+- [[sources/a-brief-history-of-the-app-stores]]
 - [[sources/the-app-store-turns-10]]
 - [[sources/the-trillion-dollar-app-economy]]

@@ -1,17 +1,19 @@
 ---
 title: "Confidence Cycle"
 type: concept
-tags: [investing, markets, psychology, cycles, macro, howard-marks, weak]
+tags: [investing, markets, psychology, cycles, macro, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
 # Confidence Cycle
 
-The confidence cycle is Howard Marks' idea that belief, optimism, and certainty move in self-reinforcing waves. Confidence affects both the economy and markets: people spend, invest, lend, hire, and buy assets when they feel sure about the future; they pull back when confidence disappears.
+The confidence cycle is Howard Marks' idea that belief, optimism, and certainty move in self-reinforcing waves. Confidence affects both the economy and markets: people spend, lend, invest, hire, and buy assets more aggressively when they feel sure about the future, then reverse those behaviors when confidence collapses.
 
-The danger is that confidence is usually highest after good outcomes have already occurred and prices have already risen. Low confidence is usually reached after pain, bad news, and price declines. This makes the crowd wrong at extremes.
+## Why Extremes Mislead
+
+Confidence is usually highest after good outcomes have already occurred and prices have already risen. It is usually lowest after pain, bad news, and price declines. That means the crowd often feels safest when risk is quietly rising and feels most hopeless when bargains are beginning to form.
 
 ## Mechanism
 
@@ -19,36 +21,28 @@ High confidence creates:
 
 - More spending and investment
 - Easier credit
-- Higher asset prices
+- Higher prices
 - Lower skepticism
 - Lower demanded risk premiums
-- More leverage and weaker deal terms
+- More leverage and weaker standards
 
-Low confidence creates:
+Low confidence creates the reverse:
 
-- Lower spending and investment
+- Less spending and investment
 - Tighter credit
-- Lower asset prices
+- Lower prices
 - Higher skepticism
 - Higher demanded risk premiums
 - Forced selling and wider bargains
 
-## All-Good / All-Bad Thinking
+## "All Good" And "All Bad"
 
-At extremes, investors stop weighing both sides. In euphoric periods they see every fact as confirmation that things are "all good." In panic periods they see every fact as confirmation that things are "all bad." The same news can be interpreted in opposite ways depending on where the confidence pendulum stands.
+Marks repeatedly describes markets at extremes as slipping into all-good or all-bad thinking. The same fact gets interpreted differently depending on where the psychological pendulum already stands. This is why confidence is not just a mood variable. It reshapes how information is processed.
 
-## Practical Rule
+## Why Investors Care
 
-The investor should ask:
-
-- Are people highly confident or deeply worried?
-- Are prices already reflecting that mood?
-- Is the market demanding enough compensation for risk?
-- Am I being pushed by confidence, fear, or price?
-
-Marks' contrarian rule follows: when others are overconfident, prudence should rise; when others are confidence-starved and fleeing, aggression may be appropriate.
+The investor's job is not to forecast the exact turning point of confidence. It is to ask whether current prices already reflect too much optimism or too much despair. In that sense the confidence cycle is one of the bridges between [[concepts/bubble-detection]], [[concepts/credit-cycle]], and [[concepts/reasonable-expectations]].
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] — "The Role of Confidence" (2013), "Ditto" (2013), "It's All Good" (2007), and recurring pendulum/cycle memos.
-The confidence cycle is driven by inductive over-extrapolation from recent results and requires deductive recalibration against long-term evidence.
+- [[sources/the-complete-collection-howard-marks]]

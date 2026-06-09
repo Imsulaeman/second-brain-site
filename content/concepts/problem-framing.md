@@ -1,9 +1,9 @@
 ---
 title: "Problem Framing"
 type: concept
-tags: [problem-solving, strategy, diagnosis, decision-making, weak]
+tags: [problem-solving, strategy, diagnosis, decision-making]
 created: 2026-06-01
-updated: 2026-06-03
+updated: 2026-06-09
 sources: 2
 ---
 
@@ -54,8 +54,5 @@ Problem framing sits upstream of all three.
 
 - [[sources/to-solve-a-tough-problem-reframe-it]]
 - [[sources/what-are-5-whys]]
-
-These problem-solving approaches combine inductive drilling into root causes with deductive application of structured questioning frameworks.
-
 
 Also connects to [[concepts/kaizen]] (continuous reframing) and [[concepts/inversion]].

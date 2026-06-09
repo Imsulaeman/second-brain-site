@@ -1,16 +1,16 @@
 ---
 title: "Infographic The Trillion-Dollar App Economy"
 type: source
-tags: [apps, economy, apple, mobile, platforms, weak]
+tags: [apps, economy, apple, mobile, platforms]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: 1
 file: "raw/Infographic The Trillion-Dollar App Economy (ingested).md"
 ---
 
 # Infographic The Trillion-Dollar App Economy
 
-This Statista infographic frames the App Store less as a software catalog and more as an economic infrastructure layer. The image itself matters because it is not just decoration around a claim. It is a treemap-style breakdown showing where the money actually sits inside the 2022 App Store ecosystem.
+This Statista infographic frames the App Store less as a software catalog and more as an economic infrastructure layer. The image itself matters because it is not just decoration around a claim. It is a treemap-style breakdown showing where the money actually sits inside the 2022 [[concepts/app-economy|App Store ecosystem]], which also makes it a useful companion to [[entities/apple|Apple]] as a platform gatekeeper.
 
 ## What The Number Means
 

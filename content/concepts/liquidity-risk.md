@@ -1,35 +1,37 @@
 ---
 title: "Liquidity Risk"
 type: concept
-tags: [investing, markets, risk, liquidity, credit, howard-marks, weak]
+tags: [investing, markets, risk, liquidity, credit, howard-marks]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
 # Liquidity Risk
 
-Liquidity risk is the risk that an investor cannot sell an asset quickly at a fair price when they need to. Howard Marks treats liquidity as transient and paradoxical: it is usually plentiful when investors do not care about it and scarce when they need it most.
+Liquidity risk is the risk that an investor cannot sell an asset quickly at a fair price when they need to. Marks treats liquidity as transient and paradoxical: it is usually plentiful when investors do not care about it and scarce when they need it most.
 
-The key mistake is assuming that the liquidity visible in good times will exist during stress. Vehicles can promise daily trading, but they cannot be more liquid than the assets they hold. If many holders want out at once, the vehicle may trade at a discount, force underlying sales, or transmit pressure into the market.
+## Why It Gets Mispriced
 
-## Mechanism
+Liquidity is easy to underappreciate because it looks abundant right before it disappears. In calm markets, investors price assets as if exits will always be available. In stress, dealers step back, leverage tightens, redemption pressure rises, and the apparent exit door narrows for everyone at once.
 
-Liquidity disappears when:
+## Typical Failure Pattern
 
-- Many holders want to sell at the same time.
-- Dealers or banks reduce balance-sheet support.
-- Funds face redemptions and must sell regardless of price.
-- Leverage creates margin calls.
-- Investors rely on market prices rather than durable intrinsic value.
+- Holders assume they can sell whenever needed.
+- Market structure depends on normal conditions.
+- Stress hits and many holders want out at once.
+- Financing support weakens.
+- Sales must happen regardless of price.
+- "Liquid" vehicles reveal the illiquidity of their underlying assets.
 
-## Marks' Rule
+This is why Marks warns that a daily-trading vehicle cannot truly be more liquid than what it owns.
 
-Prepare for illiquidity by owning assets that can be held through stress, using vehicle structures that allow patience, avoiding fragile leverage, and aligning clients/managers around long-term expectations.
+## Practical Rule
 
-Liquidity can turn from comfort into danger when it encourages trading, short-termism, and false confidence that exits will be available in a crisis.
+Prepare for illiquidity by owning assets that can be held through stress, using structures that allow patience, avoiding fragile leverage, and refusing to confuse quoted liquidity with durable liquidity.
+
+Liquidity risk belongs naturally with [[concepts/credit-cycle]] because disappearing funding is often what turns a valuation problem into a solvency crisis.
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] — Liquidity memo (2015), plus recurring GFC/fire-sale discussions.
-Liquidity risk analysis requires both inductive pattern recognition from market stress events and deductive application of balance sheet and funding rules.
+- [[sources/the-complete-collection-howard-marks]]

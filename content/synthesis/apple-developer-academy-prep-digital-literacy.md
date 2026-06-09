@@ -3,8 +3,8 @@ title: "Apple Developer Academy Prep: Digital Literacy"
 type: synthesis
 tags: [digital-literacy, web, search, privacy, ai, app-economy, apple-developer-academy]
 created: 2026-06-08
-updated: 2026-06-08
-sources: 16
+updated: 2026-06-09
+sources: 17
 ---
 
 # Apple Developer Academy Prep: Digital Literacy
@@ -66,11 +66,11 @@ This is especially relevant inside an Academy context, where AI can accelerate l
 
 ### 6. App-economy literacy: software reaches people through governed marketplaces
 
-The app-store material broadens digital literacy from user behavior to ecosystem structure. [[sources/the-app-store-turns-10]] and [[sources/the-trillion-dollar-app-economy]] make the same hidden point from two angles: apps are not only pieces of software. They are distribution objects inside powerful marketplaces that decide visibility, monetization pathways, curation standards, privacy rules, and economic participation.
+The app-store material broadens digital literacy from user behavior to ecosystem structure. [[sources/the-app-store-turns-10]], [[sources/the-trillion-dollar-app-economy]], and [[sources/a-brief-history-of-the-app-stores]] make the same hidden point from three angles: apps are not only pieces of software. They are distribution objects inside powerful marketplaces that decide visibility, monetization pathways, curation standards, privacy rules, and economic participation.
 
 That is why the [[concepts/app-economy|app economy]] deserves a place next to web, search, privacy, and AI literacy. It explains the world the learner is preparing to enter. You are not building in a vacuum. You are building inside platforms that mediate discovery, payment, trust, update channels, and sometimes even what kinds of products are allowed to exist.
 
-For an Academy student, this is the shift from "I want to make an app" to "I need to understand the ecosystem that decides how apps are distributed, judged, and monetized."
+For an Academy student, this is the shift from "I want to make an app" to "I need to understand the ecosystem that decides how apps are distributed, judged, and monetized." The timeline source makes the governance layer explicit: subscriptions, search ads, review systems, editorial tabs, privacy labels, anti-fraud systems, and developer rules accumulate over time into a form of [[concepts/platform-governance|platform governance]].
 
 ## One Throughline Across The Whole Section
 
@@ -115,6 +115,7 @@ That is the deeper thesis of this section:
 - [[concepts/privacy]]
 - [[concepts/ai-assistants]]
 - [[concepts/app-economy]]
+- [[concepts/platform-governance]]
 
 ## Sources
 
@@ -132,5 +133,6 @@ That is the deeper thesis of this section:
 - [[sources/how-does-artificial-intelligence-learn]]
 - [[sources/search-engines-vs-ai-assistants]]
 - [[sources/when-ai-gets-it-wrong]]
+- [[sources/a-brief-history-of-the-app-stores]]
 - [[sources/the-app-store-turns-10]]
 - [[sources/the-trillion-dollar-app-economy]]

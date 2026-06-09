@@ -1,43 +1,42 @@
 ---
 title: "Man-with-a-Hammer Syndrome"
 type: concept
-tags: [mental-models, thinking, cognitive-bias, charles-munger, weak]
+tags: [mental-models, thinking, cognitive-bias, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: 1
 ---
 
 # Man-with-a-Hammer Syndrome
 
-"To a man with only a hammer, every problem looks pretty much like a nail."
+Man-with-a-hammer syndrome is the tendency to force every problem into the shape of the one tool you already know. Munger uses it as a standing warning against single-discipline thinking. If the only serious model you have is a hammer, you will experience the world as nails even when the world is clearly made of something else.
 
-Munger's name for the universal tendency to over-apply the single tool or framework you know best, warping problems to fit your method rather than finding the method that fits the problem.
+## Why Smart People Still Fall Into It
 
----
+The trap is not lack of intelligence. It is overinvestment in one successful frame. A person gets powerful results from one model, then starts overexplaining everything through that same model. Skinner sees incentives everywhere. Lawyers see legal remedies everywhere. economists see incentive curves everywhere. The useful tool becomes an empire.
 
-## Why It's Dangerous
+This is attractive because one tool gives speed, confidence, and identity. It also reduces ambiguity. But reality is mixed-causal. Most important problems have psychological, economic, social, technical, and historical dimensions at the same time. One-tool thinking creates elegant explanations that fail contact with the world.
 
-The syndrome doesn't spare brilliant people. Munger's key examples:
+## What The Syndrome Looks Like
 
-- **B.F. Skinner** — discovered the superpower of incentives, then tried to explain *all* human behavior through incentives alone, ruining his personal reputation
-- **Eddie Blanchard (Yale Law)** — believed declaratory judgments could solve everything
-- **Economics professors** — Keynes/Galbraith's quip: "most economical with ideas; they make a few learned in graduate school last a lifetime"
+- overusing the same framework regardless of context
+- translating every problem into your profession's native language
+- dismissing information that your main model cannot easily explain
+- preferring clean explanations over messy but more accurate ones
 
----
+## The Munger Antidote
 
-## The Antidote
+Munger's answer is the [[concepts/mental-models-latticework]]. You do not need infinite models, but you need enough of the big ones that no single framework gets to dominate by default. That is also why checklists matter to him. They slow the rush toward the familiar tool and force a broader scan.
 
-The cure is the [[concepts/mental-models-latticework]]: acquire the big ideas from all major disciplines so you have many tools. Then use a checklist to ensure the right tool is applied to each problem. Munger argues this is not impossibly hard — ~100 models carry 95% of the freight.
+This is closely related to the [[concepts/einstellung-effect]], but Munger's version is broader than problem solving. It includes professional deformation, institutional blind spots, and ideological monoculture.
 
----
+## Connections
 
-## Connection to Other Concepts
-
-- [[concepts/einstellung-effect]] — the cognitive science version: existing patterns block better solutions
-- [[concepts/mental-models-latticework]] — the direct antidote
-- [[concepts/psychology-of-human-misjudgment]] — man-with-a-hammer is itself a meta-tendency that afflicts psychology professors who study only one tendency at a time
+- [[concepts/mental-models-latticework]]
+- [[concepts/einstellung-effect]]
+- [[concepts/planck-vs-chauffeur-knowledge]]
+- [[concepts/second-order-thinking]]
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-These cognitive traps often stem from over-reliance on a single mode of reasoning without awareness of when inductive or deductive approaches are more appropriate.

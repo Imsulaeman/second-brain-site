@@ -1,9 +1,9 @@
 ---
 title: "The Cost of Staying"
 type: source
-tags: [career, ai, startups, judgment, opportunity-cost, weak]
+tags: [career, ai, startups, judgment, opportunity-cost]
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -16,7 +16,7 @@ sources: 1
 
 ## Core Frame: The K-Curve
 
-The AI era is creating a K-curve divergence in tech careers: those who repositioned early are on the upper arm (compounding); those still deliberating are on the lower arm (falling behind). The key variable: **time**. Every quarter spent in the wrong seat, the gap widens and compounds.
+The AI era is creating a K-curve divergence in tech careers: those who repositioned early are on the upper arm (compounding); those still deliberating are on the lower arm (falling behind). The key variable: **time**. Every quarter spent in the wrong seat, the gap widens and compounds. The essay connects closely to [[concepts/skills-abstracting-upward]] because it argues that execution is being commoditized while judgment, taste, and problem selection are becoming more valuable.
 
 > "The valuable skill in tech went from 'can you solve this problem' to 'can you tell which problems are worth solving and which solutions are actually good.'" The scarce thing flipped from **execution to judgment**.
 

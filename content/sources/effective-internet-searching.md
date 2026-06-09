@@ -1,34 +1,41 @@
 ---
 title: "Effective internet searching"
 type: source
-tags: [search, web, research, information-literacy, weak]
+tags: [search, web, research, information-literacy]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources: 1
 file: "raw/Effective internet searching (ingested).md"
 ---
 
 # Effective internet searching
 
-This guide treats internet search less as a reflex and more as a method. Its main claim is simple: better results usually come not from typing faster, but from choosing the right search environment and shaping the query with intent.
+This guide treats internet search as a layered method with three distinct phases: tool selection, query construction, and result evaluation. Its main claim is that better results come from choosing the right search environment and shaping queries deliberately, not from searching faster or more often. It belongs with [[concepts/search-engine]], [[concepts/lateral-reading]], and the broader discipline of [[concepts/critical-thinking]].
 
-## Choosing The Right Search Tool
+## Tool Selection First
 
-The source begins by refusing the lazy idea that "searching the internet" means using one default engine for everything. General search engines are useful for ordinary web discovery, but scholarly research often lives behind paywalls, inside library systems, or inside subject databases. That means a bad search can fail before the query is even typed because the wrong tool was chosen.
+The guide opens by rejecting the assumption that "searching the internet" means using one default search engine for everything. Different environments surface different material:
 
-This is the most durable contribution of the page. It frames search as a tool-selection problem before it becomes a keyword problem. The question is not only "what words should I use?" but also "what system is designed to surface the kind of material I actually need?"
+- **General search engines** (Google, Bing, DuckDuckGo): broad web discovery, news, general reference.
+- **Academic databases** (Google Scholar, JSTOR, PubMed): peer-reviewed research, often paywalled but with far better scholarly coverage than general search.
+- **Library systems**: institutional access to paywalled academic and professional literature.
+- **Image search**: Wikimedia Commons and Librestock for free-to-use images; reverse image search (via Google Images or TinEye) for tracing where an image originated or has appeared before.
+- **Social media search**: Social Searcher aggregates results across platforms, useful for tracking how a topic or claim is spreading.
+- **Internet Archive / Wayback Machine** (web.archive.org): cached and deleted versions of webpages — useful for checking whether a source changed its claims after publication.
 
-## Search As Query Design
+The guide also draws a distinction that matters for academic research: the **deep web** is the portion of the internet not indexed by standard search engines — mostly paywalled databases, private systems, and institutional repositories. It is not the same as the **dark web** (overlay networks requiring special software). Most serious academic research lives in the deep web and is only accessible through institutional library subscriptions, not a standard Google query.
 
-Once the right tool is chosen, the guide turns to query construction. It covers Boolean combinations, phrase searching, domain limits, filetype filters, title and URL targeting, wildcard-style partial matching, and result refinement by date or other controls. The core idea is that search quality improves when the user stops thinking of a query as one loose phrase and starts thinking of it as a set of constraints.
+## Query Construction
 
-This makes search look a lot more like problem framing than like luck. The page is especially good at making operators feel practical instead of advanced. `site:`, `filetype:pdf`, quotation marks, and exclusion terms are presented as ways of deciding what counts as relevant before the engine decides for you.
+Once the right tool is chosen, the guide turns to query design. It covers Boolean logic (`AND`, `OR`, `NOT`), phrase searching with quotation marks, domain limits (`site:edu`), filetype filters (`filetype:pdf`), title and URL targeting, date controls, and partial matching. The core idea is that a query is a set of constraints — deciding what counts as relevant before the engine decides for you — rather than a natural-language sentence typed out and hoped for.
 
-## Search Results Still Need Judgment
+URL domain types carry different levels of implied credibility. `.edu` and `.gov` are controlled by educational institutions and government bodies. `.org` is unrestricted — anyone can register one — and signals nothing on its own about accuracy or independence. `.com` domains are commercial and subject to commercial incentives.
 
-The guide also insists that better search technique does not remove the need for evaluation. Search rankings may reflect quality, but they also reflect advertising, indexing limits, and the assumptions built into the platform. That is why the page pushes the reader to inspect authorship, audience, accuracy, update history, objectivity, and the larger context of the site's domain rather than trusting the first plausible result.
+## Results Still Need Judgment
 
-Worth coming back to: the source's best lesson is that searching is a layered skill. First choose the right retrieval system. Then write sharper constraints. Then judge the results rather than outsourcing judgment to ranking.
+The guide closes with an important reminder: better search technique does not substitute for source evaluation. Search rankings reflect relevance signals, advertising relationships, and indexing limits — not editorial accuracy. The guide pushes the reader to inspect authorship, publication date, audience, accuracy, objectivity, and the organizational context of the domain even after finding a result that appears relevant.
+
+Worth coming back to: the three-phase structure — tool, query, evaluation — reframes search from a luck problem into a design problem. The judgment required at the end doesn't go away; it just operates on better-assembled inputs.
 
 ## Sources
 

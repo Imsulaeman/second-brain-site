@@ -1,9 +1,9 @@
 ---
 title: "Specialized Terminology"
 type: source
-tags: [reading, vocabulary, terminology, learning, weak]
+tags: [reading, vocabulary, terminology, learning]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-09
 sources: 1
 ---
 
@@ -17,3 +17,9 @@ Its main study device is the terminology chart. The chart has three sections: ne
 
 What makes the page worth keeping is that it treats terminology learning as system-building. You are not only memorizing isolated words. You are building a local lexicon for a domain, plus the pattern library that helps future terms feel less foreign.
 
+
+## Related Concepts
+
+- [[concepts/specialized-terminology]] - The main idea: domains compress knowledge into working vocabularies.
+- [[concepts/word-part-clues]] - Morphemes make new technical terms easier to decode.
+- [[concepts/inferencing]] - Context helps distinguish a general word from its domain-specific sense.
