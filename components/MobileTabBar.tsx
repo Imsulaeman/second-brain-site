@@ -2,12 +2,13 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Books, Graph, House, Wrench } from '@phosphor-icons/react'
+import { Books, Graph, House, Telescope, Wrench } from '@phosphor-icons/react'
 
 const tabs = [
   { href: '/', icon: House, label: 'Home' },
   { href: '/sources', icon: Books, label: 'Library' },
   { href: '/concepts', icon: Wrench, label: 'Workshop' },
+  { href: '/synthesis', icon: Telescope, label: 'Observatory' },
   { href: '/graph', icon: Graph, label: 'Graph' },
 ]
 
