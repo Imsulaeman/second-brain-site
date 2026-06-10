@@ -12,6 +12,8 @@ file: "raw/Library Guides Evaluating Resources and Misinformation The SIFT Metho
 
 This library guide presents Mike Caulfield's [[concepts/sift-method|SIFT method]] as a four-step routine for evaluating claims before accepting or sharing them. The guide opens with an infographic — that visual mnemonic is part of the method's design, not decoration, because SIFT is meant to be recalled under time pressure.
 
+![[sift-infographic.png]]
+
 ## Stop
 
 The first move is not to do anything. The guide frames Stop as an interruption to emotional and automatic response. Headlines are designed to provoke a reaction, and that reaction can bypass verification entirely. The stop is an explicit pause: acknowledge the impulse, resist it, check first.

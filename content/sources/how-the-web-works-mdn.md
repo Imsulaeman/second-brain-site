@@ -14,6 +14,8 @@ This MDN article takes the vague experience of "opening a website" and decompose
 
 ## The Web As A Sequence
 
+![[simple-client-server.png]]
+
 The most useful part of the article is its event order. You enter a [[concepts/url|URL]]. The [[concepts/web-browser|browser]] consults [[concepts/dns|DNS]] to resolve the domain name into an IP address. The client opens a connection, sends an [[concepts/http|HTTP]] request over [[concepts/tcp-ip|TCP/IP]], receives a response from a [[concepts/web-server|web server]], and then assembles incoming [[concepts/packets|packets]] into the files needed to display the page.
 
 That sequence matters because it clarifies where different failures live. Wrong URL, DNS problem, missing file, permission issue, server outage, or redirect loop are not all the same kind of problem just because the user experiences them as "the page didn't load."

@@ -28,6 +28,12 @@ The source treats both as normal parts of the search environment rather than sca
 
 ## Search Better, Then Click Better
 
+![[google-search-results.jpeg]]
+
+![[google-search-operators.png]]
+
+![[google-scholar-seo.png]]
+
 The guide's practical core is twofold. First, use [[concepts/search-operators|search operators]] such as `site:`, `filetype:pdf`, the minus sign, and quotation marks to better express what you are actually looking for. Second, practice [[concepts/click-restraint|click restraint]]: scan the page, inspect titles and snippets, notice ads and AI overviews, and resist the reflex to click the first plausible answer.
 
 This is a small but important step beyond ordinary search literacy. The source treats the results page itself as something that must be read, not merely passed through.

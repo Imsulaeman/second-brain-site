@@ -22,6 +22,8 @@ The essay is about what it feels like to discover the global scoreboard early wh
 
 ## Local Maxima vs. the Real Game
 
+![[proxima-local-maxima.png]]
+
 The narrator frames early achievement as winning inside a local maximum while already knowing there is a much taller global peak elsewhere. That creates a split experience:
 
 - pride, because the climb from origin was real
@@ -33,6 +35,10 @@ This is a clean articulation of the pain of **seeing the true game too early** w
 ---
 
 ## Delta vs. Level
+
+![[proxima-delta-slope.png]]
+
+![[proxima-delta-convergence.png]]
 
 The essay's most useful distinction is [[concepts/delta-vs-level]]:
 
@@ -49,6 +55,8 @@ The proposed stance is harder: honor the cost of the climb without asking origin
 ---
 
 ## Gamma and Convexity
+
+![[proxima-crossover.png]]
 
 The second useful frame is the essay's use of **gamma** as delayed convexity. Some people inherit compounding structures early: language, elite schools, networks, money, legibility. Others initially move linearly and only later build a steep slope.
 

@@ -47,6 +47,8 @@ First-level thinking is where everyone reaches the same conclusions. Extraordina
 
 ## Key Insight
 
+![[second-order-graph.png]]
+
 Many extraordinary things are **first-order negative, second-order positive.** If you only think at the first level, you'll avoid these opportunities â€” and face less competition from those who can't think past the immediate cost.
 
 Second-order thinking is how you separate yourself. It's not easy â€” thinking in terms of systems, interactions, and time is hard â€” but it creates durable advantages.
