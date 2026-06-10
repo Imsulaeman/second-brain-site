@@ -1,21 +1,22 @@
----
+﻿---
 title: "Su Zhu"
 type: entity
-tags: [person, crypto, trading, markets, three-arrows-capital]
-created: 2026-06-06
-updated: 2026-06-06
-sources: 2
+tags: [trading, crypto, bitcoin, three-arrows-capital, macro]
+created: 2026-06-10
+updated: 2026-06-10
+sources: 1
 ---
 
 # Su Zhu
 
-Su Zhu is a crypto trader and the co-founder of Three Arrows Capital (3AC). In this wiki he appears in two very different roles: as a participant in thoughtful trading and Bitcoin-market structure discussions, and as a later cautionary example in the risk and ergodicity cluster.
+Co-founder and CEO of Three Arrows Capital (3AC), one of the most prominent crypto hedge funds until its collapse in 2022. Co-host of the Uncommon Core podcast alongside [[entities/hasu|Hasu]].
 
-In [[sources/art-of-trading-with-light-su-zhu-and-hasu]], he contributes to the practical trading side of the discussion: thesis clarity, invalidation, asymmetric payoff, and the emotional difficulty of accepting that the market is telling you that you are wrong. His side of the conversation repeatedly pushes toward structured self-accountability rather than vibes.
+In [[sources/art-of-trading-with-light-su-zhu-and-hasu]] (~October 2020), Su Zhu articulates an influential macro case for Bitcoin: that it is the dominant [[concepts/shelling-point|shelling point]] for crypto monetary coordination, and that Ethereum and altcoins are structurally disadvantaged because they fragment the coordination game and have narratives too complex to sustain broad belief. His application of the [[concepts/lindy-effect|Lindy effect]] to Bitcoin adoption — that institutional players need a network that is "predictable" and whose rules are stable — became a durable framing in the Bitcoin-maximalism debate.
 
-Elsewhere in the wiki, especially around [[concepts/ergodicity]], Su Zhu appears in a harsher light as shorthand for an exponential risk preference that ultimately failed. That tension is worth keeping visible. The same person can articulate good market principles and still violate deeper survival principles in practice.
+His ETH bear call in that podcast was directionally wrong in 2021: ETH went from ~$400 to ~$4,800 during the DeFi and NFT cycle before the structural concerns he identified began to bite.
+
+**3AC collapse (2022):** Three Arrows Capital was liquidated in June 2022 after the LUNA/UST collapse. The fund had built massive leveraged exposure and reportedly held through the collapse without adequate invalidation or sizing discipline — a direct contradiction of the process principles articulated in the same podcast. The collapse became one of the defining events of the 2022 crypto credit crisis.
 
 ## Sources
 
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
-- [[sources/the-jackpot-age]]

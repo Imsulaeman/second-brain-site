@@ -1,7 +1,7 @@
 ﻿---
 title: "Beginner Trader-Investor Learning Path"
 type: synthesis
-tags: [trading, investing, beginner, risk-management, learning-path, synthesis]
+tags: [trading, investing, beginner, risk-management, learning-path, synthesis, needs-review]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 5

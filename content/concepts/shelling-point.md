@@ -24,9 +24,17 @@ This makes shelling points closely related to [[concepts/trust-minimization|trus
 | Strong shelling point | People with different motives still converge on one asset or standard |
 | Weak shelling point | Attention and capital fragment across many plausible candidates |
 
+## Alt Fragmentation as a Reverse Shelling Point
+
+[[sources/art-of-trading-with-light-su-zhu-and-hasu]] makes a specific application: altcoins do not merely fail to achieve a shelling point, they actively undermine their own candidates. When there are many alt tokens for any given narrative (DeFi, smart contracts, rollups), they compete with each other for the same coordination prize. Each new token dilutes the others' claim to scarcity. Bitcoin versus alts has always been Bitcoin versus the entire competitive field combined — and within the alt field, every entrant reduces every other entrant's chance of achieving coordination.
+
+Su Zhu's formulation: "For all of them only one option to buy BTC. If you look at something inside Ethereum, even in a narrow space, Ether is basically one of many ways to express a constructive view. And that's a reverse shelling point almost."
+
+This framing also explains why institutional adoption cohered around Bitcoin faster than it did around Ethereum. A family office manager coordinating with peers needs one asset where he can show up at the right party. Bitcoin is that party; the alt space is a crowd of parties, and picking the wrong one is absolute loss — you missed Bitcoin *and* lost your bet.
+
 ## Why It Matters
 
-Shelling-point strength often determines where monetary narratives settle. In that sense it connects to [[concepts/second-order-thinking]] because the key question is not only "is this asset good?" but "what will other people treat as the default good asset?"
+Shelling-point strength often determines where monetary narratives settle. In that sense it connects to [[concepts/second-order-thinking]] and [[concepts/reflexivity]] because the key questions are not only "is this asset good?" but "what will other people treat as the default good asset?" and "does the coordination around that answer self-reinforce?"
 
 ## Sources
 

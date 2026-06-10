@@ -1,25 +1,19 @@
----
-title: "Light Crypto"
+﻿---
+title: "Light (LightCrypto)"
 type: entity
-tags: [person, crypto, trading, pseudonymous, markets]
-created: 2026-06-06
-updated: 2026-06-06
+tags: [trading, crypto, anonymous, prop-trader]
+created: 2026-06-10
+updated: 2026-06-10
 sources: 1
 ---
 
-# Light Crypto
+# Light (LightCrypto)
 
-Light Crypto is a pseudonymous crypto trader discussed in this wiki as a practitioner of discretionary trading grounded in pattern recognition, order-flow observation, payoff asymmetry, and strong invalidation discipline.
+Anonymous crypto prop trader, known on Crypto Twitter as @lightcrypto. One of the largest and most successful prop traders in crypto as of 2020, notable for being unusually secretive — the [[sources/art-of-trading-with-light-su-zhu-and-hasu|Uncommon Core interview]] was his first ever recorded conversation.
 
-In [[sources/art-of-trading-with-light-su-zhu-and-hasu]], Light's role is distinctive because he does not present trading as a set of static formulas. He presents it as an adaptive zero-sum game where rules, meta, and participants keep changing. That makes him a bridge between the wiki's probabilistic discipline from [[entities/nassim-nicholas-taleb|Taleb]], the process discipline from [[entities/howard-marks|Howard Marks]], and the implementation-level realities of crypto trading.
+His trading background is unusually broad: started in equities and equity options (activist short seller information trades circa 2010), moved to tournament poker (reportedly top 50 globally by ROI), then entered crypto in 2016 when a poker site forced a Bitcoin withdrawal at the cycle bottom (~$365–370). By 2017–2018, he and his partners accounted for roughly 1% of all swap flow on BitMEX.
 
-His most durable contributions in this source are:
-
-- edge decays as markets learn
-- process matters more than single outcomes
-- invalidation is mandatory, not optional
-- order-flow pattern recognition can be a real edge in soft markets
-- speculative history rhymes, especially in pre-regulatory environments
+His approach blends behavioral pattern recognition, tape reading and order flow, and asymmetric information. He treats crypto as a changing zero-sum game — closer to poker than investing — where generalism still outperforms specialization because the space is soft enough for capable generalists to harvest edge across multiple simultaneous games. His most durable contribution to the wiki's trading cluster is the three-part trade requirement: thesis, invalidation (both price and thesis), and an asymmetric payoff structure.
 
 ## Sources
 

@@ -15,6 +15,14 @@ In [[sources/art-of-trading-with-light-su-zhu-and-hasu]], Light presents this as
 
 This style matters most in markets where structure changes quickly and many participants are still unsophisticated. It is less about prediction in the grand macro sense and more about local diagnosis: what is happening right now, who is likely driving it, and what usually follows from this kind of flow. That makes it naturally adjacent to [[concepts/trading-edge|trading edge]], because the edge often comes from recognizing forced, price-insensitive, or poorly informed behavior earlier than others do.
 
+## Painting the Tape: Historical Parallel
+
+Light connects modern tape reading to a practice documented in Jesse Livermore's era (*Reminiscences of a Stock Operator*): "painting the tape." In pre-regulatory markets, operators running stock promotion campaigns would make wash trades back and forth with themselves, causing the ticker tape to print artificial volume and price movement. The goal was attention — people like buying things that are going up. The practice was banned, but the behavior pattern did not disappear.
+
+In crypto, the same mechanism reappears in thin assets. On major down days for the broad market, a low-float altcoin will sometimes rip 50% on wash trading — free advertising. It costs almost nothing to create the appearance of momentum in an illiquid asset, and it works precisely because order flow readers who are not paying attention treat printed volume as real demand.
+
+Understanding this historical parallel is part of what tape reading is: knowing that some of what you are seeing is signal and some is manufactured noise, and training the pattern recognition to distinguish them.
+
 ## Failure Mode
 
 The danger is turning vague intuition into fake precision. Tape reading is useful only when it is tied to explicit risk rules, invalidation, and review. Otherwise the trader can mistake adrenaline or pattern nostalgia for real signal.

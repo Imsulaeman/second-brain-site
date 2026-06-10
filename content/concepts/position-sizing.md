@@ -88,6 +88,14 @@ Practical addition: before increasing size, ask whether recent performance prove
 
 ---
 
+## Liquidity-Adjusted Sizing
+
+At larger capital sizes, price impact becomes a material cost. [[sources/art-of-trading-with-light-su-zhu-and-hasu]] makes this explicit: a large player cannot always enter or exit cleanly. They may have to buy on the way down and sell on the way up — not because they chose to, but because that is the only way to build or exit a position without moving the market against themselves. Slippage and price impact eat into expected value in ways that are invisible in small-position thinking.
+
+The implication: the larger the position, the higher the required EV threshold before entry. A marginal edge at small size might have negative expected value at large size once price impact is accounted for. Ignoring this is how large players routinely subsidize their own entries and exits.
+
+Practical corollary: if the exit liquidity will not be there when you are wrong, the position is too large regardless of conviction.
+
 ## Connection To Edge
 
 Sizing should follow [[concepts/trading-edge]], not replace it. A weak idea does not become good because the size is small; a good idea can become fatal because the size is too large.
@@ -96,7 +104,7 @@ The order should be:
 
 1. Identify the edge.
 2. Define invalidation.
-3. Estimate downside.
+3. Estimate downside and exit liquidity.
 4. Choose size.
 5. Journal the decision.
 

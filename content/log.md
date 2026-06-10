@@ -1,3 +1,13 @@
+## [2026-06-10] ingest | Art of Trading — Light, Su Zhu, and Hasu
+
+- Full reingest of 577-line podcast transcript (Uncommon Core, ~Oct 2020)
+- Source page rewritten from 28 lines to comprehensive coverage of both halves (trading process + Bitcoin macro)
+- Historical outcome section added: BTC ATH call correct, ETH bear call wrong in short run, 3AC collapse 2022 as cautionary coda
+- Pages created: concepts/reflexivity, concepts/lindy-effect, entities/light-crypto, entities/su-zhu, entities/hasu
+- Pages updated: sources/art-of-trading-with-light-su-zhu-and-hasu, concepts/tape-reading-and-order-flow, concepts/decision-quality-vs-outcome, concepts/position-sizing, concepts/shelling-point
+- Synthesis tagged needs-review: synthesis/beginner-trader-investor-learning-path
+- Pages created: 5. Pages updated: 6.
+
 ## [2026-06-09] synthesis | ADA Prep — Computational Thinking
 
 - Created synthesis covering ADA CT curriculum (3.1–3.6) plus Evaluation as closing loop
