@@ -151,6 +151,24 @@ Evaluation is not a separate discipline from CT — it is the verification pass 
 
 ---
 
+## The CT Loop
+
+```mermaid
+flowchart TD
+    A([Problem]) --> B[Decompose\nbreak into sub-tasks]
+    B --> C[Pattern Recognition\nscan for known solutions]
+    C --> D[Abstraction\nremove irrelevant detail,\nbuild a general model]
+    D --> E[Algorithm\nwrite pseudocode or flowchart]
+    E --> F[Conditional Logic\nmap every branch and direction]
+    F --> G[Dry-run / Evaluate\ntrace with real inputs,\ncheck all paths]
+    G -->|gaps found| B
+    G -->|passes| H([Solution])
+```
+
+The loop is not always linear. A dry-run failure sends you back to decomposition or abstraction, not always to the beginning. The diagram shows the common path; judgment decides where to re-enter.
+
+---
+
 ## A Practice Model for ADA Prep
 
 The six sections compose into one workable drill:
