@@ -99,6 +99,7 @@ export default function MermaidDiagram({ code }: { code: string }) {
   const id = `mermaid-${rawId.replace(/:/g, '')}`
   const [expanded, setExpanded] = useState(false)
   const [svgContent, setSvgContent] = useState('')
+  const [fullSvgContent, setFullSvgContent] = useState('')
 
   useEffect(() => {
     let cancelled = false
@@ -150,6 +151,10 @@ export default function MermaidDiagram({ code }: { code: string }) {
               const vbW = parseFloat(parts[2])
               const vbH = parseFloat(parts[3])
               if (vbW > 0 && vbH > 0) {
+                svgEl.setAttribute('width', String(Math.round(vbW)))
+                svgEl.setAttribute('height', String(Math.round(vbH)))
+                setFullSvgContent(ref.current.innerHTML)
+
                 const containerW = ref.current.clientWidth - 48
                 const maxH = window.innerHeight * 0.72
                 const scale = Math.min(containerW / vbW, maxH / vbH, 1)
@@ -174,16 +179,10 @@ export default function MermaidDiagram({ code }: { code: string }) {
 
   return (
     <>
-      <div className="relative my-8 overflow-auto rounded-lg border border-palace-border bg-palace-surface/60 p-6">
-        {svgContent && (
-          <button
-            type="button"
-            onClick={() => setExpanded(true)}
-            className="absolute top-3 right-3 z-10 rounded border border-palace-border bg-palace-surface px-2 py-1 font-mono text-[10px] uppercase tracking-[0.18em] text-palace-muted hover:border-palace-gold/60 hover:text-palace-text transition-colors duration-200"
-          >
-            Expand {'\u2922'}
-          </button>
-        )}
+      <div
+        className="relative my-8 overflow-hidden rounded-lg border border-palace-border bg-palace-surface/60 p-6 cursor-zoom-in"
+        onClick={() => svgContent && setExpanded(true)}
+      >
         <div className="flex w-full justify-center" ref={ref}>
           <div className="h-24 w-24 animate-pulse rounded-lg bg-palace-border/30" />
         </div>
@@ -194,7 +193,11 @@ export default function MermaidDiagram({ code }: { code: string }) {
           className="fixed inset-0 z-[9998] flex cursor-zoom-out items-start justify-center overflow-auto bg-palace-bg/95 p-8"
           onClick={() => setExpanded(false)}
         >
-          <div className="pointer-events-none" dangerouslySetInnerHTML={{ __html: svgContent }} />
+          <div
+            className="pointer-events-auto cursor-default"
+            onClick={(e) => e.stopPropagation()}
+            dangerouslySetInnerHTML={{ __html: fullSvgContent }}
+          />
         </div>
       )}
     </>
