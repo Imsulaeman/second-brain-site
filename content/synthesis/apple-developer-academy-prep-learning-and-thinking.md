@@ -71,6 +71,24 @@ People often underrate this because it looks like schoolwork. But in practice, s
 
 This is where the reading cluster meets [[synthesis/building-vocabulary-while-reading|building vocabulary while reading]] and [[concepts/active-reading|active reading]]. Good readers are not passive recipients of text. They infer, check, decode, connect, and keep a working model of what the author is actually saying.
 
+## The Learning Loop
+
+```mermaid
+flowchart TD
+    A([New material or problem]) --> B[Read & Comprehend\ninfer, decode, build a working model]
+    B --> C[Evaluate the reasoning\nspot fallacies, check evidence quality]
+    C --> D[Frame the right problem\nresist premature solutions,\nuse 5 Whys]
+    D --> E[Attempt and receive feedback]
+    E --> F{Difficulty or failure?}
+    F -->|growth mindset| G[Diagnose what went wrong\nstay in process language]
+    F -->|fixed mindset| H([Stall or withdraw])
+    G -->|iterate| B
+```
+
+The loop does not require perfect comprehension or zero failure. It requires staying in motion — re-entering at B or D depending on where the gap is, rather than exiting at H.
+
+---
+
 ## One Operating Model, Not Five Topics
 
 The real value of this material appears when the pieces are stacked in order:
@@ -133,6 +151,7 @@ For Apple Developer Academy, that is probably the real selection criterion hidin
 - [[concepts/critical-thinking]]
 - [[synthesis/critical-thinking-and-logical-fallacies]]
 - [[synthesis/apple-developer-academy-prep-computational-thinking]] — CT as the operational problem-solving layer; this synthesis covers the broader learning and reasoning substrate
+- [[synthesis/apple-developer-academy-prep-digital-literacy]] — the environment layer; digital literacy is where judgment meets the mediated systems that Academy builders work inside
 - [[concepts/problem-framing]]
 - [[concepts/computational-thinking]]
 - [[synthesis/diagnosis-before-solution]]

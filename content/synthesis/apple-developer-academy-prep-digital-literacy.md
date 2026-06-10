@@ -87,6 +87,23 @@ The Apple-versus-Google timeline matters because platform rules did not appear f
 
 For Academy prep, this is the point: you are learning to build inside governed marketplaces. Good product thinking has to include distribution, trust, incentives, platform rules, and user rights, not only interface polish or feature ideas.
 
+## The Six-Layer Stack
+
+```mermaid
+flowchart TD
+    A([Any Digital Interface]) --> B[Web Literacy\nname the parts:\nbrowser, server, DNS, HTTP, packets]
+    B --> C[Search Literacy\ndesign queries,\njudge the result page]
+    C --> D[Information Literacy\nleave the page,\nuse SIFT and lateral reading]
+    D --> E[Privacy & Security\nthreat-model,\nprotect content and metadata]
+    E --> F[AI Literacy\nmatch tool to task,\nverify high-cost claims]
+    F --> G[App-Economy Literacy\nread platform governance\nas part of product design]
+    G --> H([Judgment Across Mediated Systems])
+```
+
+Every layer is a place where a passive user stops and a literate one keeps going. The arrow is not strictly sequential — in practice you move between layers depending on what you are doing — but the direction of increasing agency holds.
+
+---
+
 ## One Operating Model
 
 The six layers are one mental model for digital agency.
@@ -126,6 +143,7 @@ That is the synthesis:
 ## Connections
 
 - [[synthesis/apple-developer-academy-prep-learning-and-thinking]]
+- [[synthesis/apple-developer-academy-prep-computational-thinking]] — CT is the method for building solutions once the problem is framed; digital literacy is the judgment layer for navigating the environment those solutions live in
 - [[concepts/world-wide-web]]
 - [[concepts/search-engine]]
 - [[concepts/lateral-reading]]
