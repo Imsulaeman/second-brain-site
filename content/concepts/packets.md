@@ -9,7 +9,7 @@ sources: 2
 
 # Packets
 
-Packets are the small chunks into which data is split when it travels across the internet. Instead of sending an entire page or file as one giant block, the network sends many smaller units that can be routed, checked, and reassembled efficiently.
+Packets are the small chunks into which data is split when it travels across the internet. They are the unit of transport in [[concepts/packet-switching|packet switching]] — the architectural principle that lets data travel across shared, decentralized infrastructure without a dedicated connection between sender and receiver.
 
 Each packet contains both payload and control information. The payload is the actual piece of data being carried. The header contains information such as addressing, ordering, and protocol details, which lets the receiving system figure out where the packet came from, where it belongs, and how to reassemble it with the rest.
 
