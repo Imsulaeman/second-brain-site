@@ -139,15 +139,23 @@ export default function MermaidDiagram({ code }: { code: string }) {
           if (svgEl) {
             repairMermaidLabels(svgEl)
             svgEl.removeAttribute('width')
-            svgEl.style.overflow = 'visible'
-            svgEl.style.minWidth = '520px'
+            svgEl.removeAttribute('height')
             svgEl.style.display = 'block'
+            svgEl.style.margin = '0 auto'
+            svgEl.style.overflow = 'visible'
 
             const viewBox = svgEl.getAttribute('viewBox')
-            if (viewBox) {
+            if (viewBox && ref.current) {
               const parts = viewBox.trim().split(/\s+/)
-              const h = parseFloat(parts[3])
-              if (h > 0) svgEl.setAttribute('height', String(h + 48))
+              const vbW = parseFloat(parts[2])
+              const vbH = parseFloat(parts[3])
+              if (vbW > 0 && vbH > 0) {
+                const containerW = ref.current.clientWidth - 48
+                const maxH = window.innerHeight * 0.72
+                const scale = Math.min(containerW / vbW, maxH / vbH, 1)
+                svgEl.setAttribute('width', String(Math.round(vbW * scale)))
+                svgEl.setAttribute('height', String(Math.round(vbH * scale)))
+              }
             }
           }
           setSvgContent(ref.current.innerHTML)
@@ -176,7 +184,7 @@ export default function MermaidDiagram({ code }: { code: string }) {
             Expand {'\u2922'}
           </button>
         )}
-        <div className="flex min-w-fit justify-center" ref={ref}>
+        <div className="flex w-full justify-center" ref={ref}>
           <div className="h-24 w-24 animate-pulse rounded-lg bg-palace-border/30" />
         </div>
       </div>
