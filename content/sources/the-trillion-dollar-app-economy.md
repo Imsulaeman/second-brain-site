@@ -12,6 +12,8 @@ file: "raw/Infographic The Trillion-Dollar App Economy (ingested).md"
 
 This Statista infographic frames the App Store less as a software catalog and more as an economic infrastructure layer. The image itself matters because it is not just decoration around a claim. It is a treemap-style breakdown showing where the money actually sits inside the 2022 [[concepts/app-economy|App Store ecosystem]].
 
+![[app-economy-trillion-dollar.jpeg]]
+
 ## What The Trillion-Dollar Claim Includes
 
 The source separates two different senses of app economy. One is direct developer revenue from app sales and in-app purchases. The other is the much larger volume of commerce facilitated through apps, especially retail, bookings, and service transactions.

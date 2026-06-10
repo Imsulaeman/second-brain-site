@@ -19,6 +19,8 @@ The article defines pattern recognition as finding the similarities or character
 
 ## The cats example
 
+![[pattern-recognition-cat-stamp.png]]
+
 ![[pattern-recognition-cats-comparison.png]]
 
 All cats share eyes, tails, and fur. Once you know this pattern, you can draw many cats without re-deriving what a cat looks like each time. The only things that vary are the specifics (eye color, tail length, fur pattern). The article makes an important negative case: if you don't look for the pattern, you might not realize all cats share these features — your drawn cats might not even look like cats. Missing the pattern doesn't just slow you down; it risks solving the problem incorrectly.
