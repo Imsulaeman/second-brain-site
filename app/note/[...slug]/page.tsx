@@ -122,7 +122,7 @@ export default function NotePage({ params }: { params: { slug: string[] } }) {
         </div>
 
         <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_280px]">
-          <div className="prose prose-invert max-w-none prose-headings:font-display prose-headings:font-normal prose-headings:text-palace-text prose-p:leading-8 prose-p:text-palace-text/88 prose-strong:text-palace-text prose-li:text-palace-text/88 prose-hr:border-palace-border prose-blockquote:border-palace-gold/60 prose-blockquote:text-palace-text prose-code:rounded prose-code:bg-palace-surface prose-code:px-1.5 prose-code:py-0.5 prose-code:text-palace-gold prose-pre:border-0 prose-pre:bg-transparent prose-pre:p-0 prose-table:my-0">
+          <div className="prose prose-invert max-w-none prose-headings:font-display prose-headings:font-normal prose-headings:text-palace-text prose-p:leading-7 prose-p:text-palace-text/88 prose-strong:text-palace-text prose-li:text-palace-text/88 prose-hr:border-palace-border prose-blockquote:border-palace-gold/60 prose-blockquote:text-palace-text prose-code:rounded prose-code:bg-palace-surface prose-code:px-1.5 prose-code:py-0.5 prose-code:text-palace-gold prose-pre:border-0 prose-pre:bg-transparent prose-pre:p-0 prose-table:my-0">
             <MDXRemote
               source={note.content}
               components={mdxComponents}
