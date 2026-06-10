@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-06-09
-sources: 8
+updated: 2026-06-11
+sources: 9
 ---
 
 # Trading Edge
@@ -54,6 +54,15 @@ Even a real edge fails if it is sized badly. A good setup with reckless size, hi
 - [[concepts/skewness-and-asymmetry]]
 - [[concepts/tape-reading-and-order-flow]]
 
+## Livermore's Edge Framework
+
+[[sources/reminiscences-of-a-stock-operator]] provides the earliest and most detailed practitioner account of how edge is built and preserved over decades:
+
+- **Studying general conditions** as the source of edge, not stock-by-stock analysis. Livermore's big winning trades — the 1907 short, the 1916 bear, the 1929 crash — all came from reading the macro before others did.
+- **The waiting edge**: Most traders destroy their edge by overtrading. Livermore would do nothing for weeks, then act decisively when conditions aligned. The inactivity is not the absence of edge — it is the preservation of it.
+- **Tape reading as real-time edge**: At the execution level, Livermore's tape reading gave him a timing edge that pure fundamental analysis cannot provide. He knew when the market was absorbing supply and when distribution was underway — and that determined entry timing.
+- **Edge requires adequate capital**: "Without adequate margins it would be impossible to take the cold-blooded, dispassionate attitude toward the game." This is a practical constraint on edge expression: undercapitalized traders cannot afford probe trades, cannot sit through drawdowns, and are forced into bad decisions. Capital itself is an edge prerequisite.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]]
@@ -64,3 +73,4 @@ Even a real edge fails if it is sized badly. A good setup with reckless size, hi
 - [[sources/the-most-important-thing-illuminated]]
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/poor-charlies-almanack]]
+- [[sources/reminiscences-of-a-stock-operator]]

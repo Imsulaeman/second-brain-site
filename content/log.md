@@ -1,3 +1,70 @@
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (complete — Ch 23 tail + Ch 24 + appendix + PTJ afterword)
+
+- Read Ch 23 tail (pp. 384–388): New Haven Railroad case study (insider selling masked as bear raids), Charles Woerishoffer bear operator annotation, Livermore's 4th bankruptcy (1934, $2.25M liabilities / $184K assets)
+- Read Ch 24 (pp. 389–393): broker market letters, broker distribution network (calls/puts structure), legal asymmetry (bear lies punished, bull lies free), Trojan horse / partial payment plan, price action as self-explanatory, market cannot be beaten consistently
+- Read appendix (DJIA 1895–1929 chart) and Paul Tudor Jones afterword (pp. 399–403)
+- Pages created: entities/Charles-Woerishoffer, entities/Paul-Tudor-Jones
+- Pages updated: entities/Edwin-Lefevre (full biography expanded), concepts/market-manipulation (3 new sections: New Haven case, broker distribution network, legal asymmetry), sources/reminiscences-of-a-stock-operator (Part XVI + status → complete + new entities), wiki/index.md
+- Pages created: 2. Pages updated: 5.
+- Ingest now complete. Next: synthesis scan (Task #7) + sync/commit/push/re-index (Task #8)
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 22-conclusion + Ch 23 addition)
+
+- Read Ch 22 conclusion + Ch 23 (book pp. 364–383): zero-inventory distribution (Consolidated Stove finale), tip cascade + innocent third parties, insider accumulation/distribution cycle, J.P. Morgan full profile
+- Pages created: entities/JP-Morgan
+- Pages updated: concepts/market-manipulation (3 new sections: zero-inventory distribution, tip cascade, insider accumulation/distribution cycle), sources/reminiscences-of-a-stock-operator (Part XV), wiki/index.md
+- Pages created: 1. Pages updated: 4.
+- Next: continue reading Ch 24+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 21-tail + Ch 22 addition)
+
+- Read Ch 21 tail + Ch 22 (book pp. 344–363): manipulation ethics + investor/speculator distinction, boom psychology, Consolidated Stove case study (two capital blunders, floor intelligence marketing), Governor Roswell Pettibone Flower
+- Pages created: concepts/boom-psychology, entities/Roswell-Pettibone-Flower
+- Pages updated: concepts/market-manipulation (3 new sections: legitimacy line, Consolidated Stove blunders, floor intelligence marketing), sources/reminiscences-of-a-stock-operator (Part XIV + Key Entities/Concepts), wiki/index.md
+- Pages created: 2. Pages updated: 4.
+- Next: continue reading Ch 23+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 20-tail + Ch 21 addition)
+
+- Read Ch 20 tail + Ch 21 (book pp. 324–343): operator deal structure, clearing overhang, bull flurries, only-buyer signal, Pete Products case, Piggly Wiggly corner
+- Pages created: none
+- Pages updated: concepts/market-manipulation (5 new sections: deal structure, overhang clearing, bull flurries, only-buyer signal, sell-on-the-way-down), sources/reminiscences-of-a-stock-operator (Part XIII), wiki/index.md
+- Pages created: 0. Pages updated: 3.
+- Next: continue reading Ch 22+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 19-tail + Ch 20 addition)
+
+- Read Ch 19 tail + Ch 20 (book pp. 304–323): Addison G. Jerome, Henry Keep, locking-up-greenbacks tactic, James R. Keene profile + manipulation theory
+- Pages created: entities/Henry-Keep, entities/Addison-G-Jerome
+- Pages updated: entities/James-R-Keene (full Ch 20 expansion: career arc, U.S. Steel, Amalgamated Copper, character), concepts/market-manipulation (locking-up-greenbacks, tape-as-advertising, marketability, orderly retreat, strategy vs tactics), sources/reminiscences-of-a-stock-operator (Part XII + Key Entities updated), wiki/index.md
+- Pages created: 2. Pages updated: 4.
+- Next: continue reading Ch 21+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 18–19 addition)
+
+- Read Chapters 18–19 (book pp. 287–303) covering Tropical Trading squeeze + historical corners
+- Pages created: entities/Daniel-Drew, entities/Jacob-Little
+- Pages updated: concepts/market-manipulation (squeeze mechanics, counter-manipulation, proxy selling, corners, Havemeyer sequence), concepts/trading-psychology (Watts courage quote), sources/reminiscences-of-a-stock-operator (Ch 18-19 sections), wiki/index.md
+- Pages created: 2. Pages updated: 4.
+- Next: continue reading Ch 20+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 17 addition)
+
+- Read Chapter 17 (book pp. 264–283) covering Ch 16 conclusion + Ch 17 professional attitude
+- Pages created: concepts/anticipation-and-market-forecasting, concepts/group-behaviourism, entities/James-R-Keene
+- Pages updated: concepts/trading-psychology (divided attention trap), concepts/tape-reading-and-order-flow (insider non-buying signal + absorption test), sources/reminiscences-of-a-stock-operator (Ch 16 conclusion + Ch 17 section), wiki/index.md
+- Pages created: 3. Pages updated: 5.
+- Next: continue reading Ch 18+
+
+## [2026-06-11] ingest | Reminiscences of a Stock Operator (partial, Ch 1–16)
+
+- Read Chapters 1–16 (book pp. 1–263) across multiple sessions; full book read still in progress
+- Source page created as partial ingest covering bucket shop years through WWI bull market and coffee episode
+- Pages created: sources/reminiscences-of-a-stock-operator, entities/Jesse-Livermore, entities/Edwin-Lefevre, entities/Mr-Partridge, entities/Percy-Thomas, entities/Addison-Cammack, entities/Bernard-Baruch, concepts/sitting-tight, concepts/line-of-least-resistance, concepts/trading-psychology, concepts/pyramiding, concepts/market-manipulation, concepts/speculation-vs-gambling
+- Pages updated: concepts/tape-reading-and-order-flow, concepts/trading-edge, wiki/index.md
+- Pages created: 13. Pages updated: 3.
+- Next: continue reading Ch 17+ then write again before final integration pass
+
 ## [2026-06-10] ingest | Art of Trading — Light, Su Zhu, and Hasu
 
 - Full reingest of 577-line podcast transcript (Uncommon Core, ~Oct 2020)

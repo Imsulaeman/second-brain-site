@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Market Judgment Operating Model"
 type: synthesis
-tags: [uncertainty, markets, investing, trading, taleb, howard-marks, charles-munger, decision-making]
+tags: [uncertainty, markets, investing, trading, taleb, howard-marks, charles-munger, decision-making, needs-review]
 created: 2026-05-19
 updated: 2026-05-19
 sources: 6
