@@ -78,6 +78,7 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - [[entities/don-norman]] — Norman's empathize → define → ideate sequence became the d.school model
 - [[concepts/emotional-design]] — Norman's three levels (visceral, behavioral, reflective) explain why good design at the emotional level makes products successful and people happy; positive affect leads to creative breadth-first thinking
 - [[concepts/eye-for-design]] — the capacity for taste is trained through deliberate observation and reflective practice; this skill improves the quality of judgment brought to every stage of a design process
+- [[concepts/iterative-development]] — the prototype → test → iterate loop in design thinking is iterative development in practice; the two frameworks describe the same dynamic from different angles
 
 ## Sources
 

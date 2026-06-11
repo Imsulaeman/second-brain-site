@@ -67,6 +67,7 @@ The shared insight: **improvement is a system, not an event**.
 - [[concepts/four-laws-of-behavior-change]] — Atomic Habits operationalizes personal kaizen
 - [[concepts/plateau-of-latent-potential]] — the compounding curve kaizen relies on
 - [[concepts/inversion]] — kaizen tends to ask "how do we do this better?"; inversion asks "how would we make this worse?" Both surface improvement targets.
+- [[concepts/iterative-development]] — iterative development applies the same continuous-improvement logic to product design that kaizen applies to manufacturing processes; both treat improvement as a system, not an event
 
 ## When to Reach for Kaizen
 

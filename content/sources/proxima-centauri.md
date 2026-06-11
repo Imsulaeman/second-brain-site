@@ -74,6 +74,7 @@ The ending matters because it turns the piece away from biography and toward dec
 
 ## Related Concepts
 
+- [[concepts/local-maxima]] — the framing that connects the essay's "wrong hill" insight to iterative development and first-principles thinking
 - [[concepts/delta-vs-level]]
 - [[concepts/specific-knowledge]]
 - [[concepts/permissionless-leverage]]

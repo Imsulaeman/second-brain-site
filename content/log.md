@@ -1,3 +1,10 @@
+## [2026-06-11] ingest | What is Iterative Development? (IxDF)
+- Source: IxDF topic page with expert video commentary (Klein, Dix, Spillers, Hudson, Peng, Warfel)
+- Pages created: sources/what-is-iterative-development, concepts/iterative-development, concepts/local-maxima, entities/alan-dix, entities/laura-klein
+- Pages updated: concepts/design-thinking (iterative-development link), concepts/kaizen (iterative-development link), sources/proxima-centauri (local-maxima link)
+- Images: 4 qualifying diagrams moved to raw/assets/iterative-development/ and public/assets/; 2 decorative excluded
+- Index: added source, 2 entities, 2 concepts; fixed theresa-wiseman duplicate entry
+
 ## [2026-06-11] repair | Design cluster (emotional-design + eye-for-design rewrites)
 - emotional-design.md: distilled from transcript into mechanism-focused concept (three levels + affect link); tight examples only; moved source-specific quotes to source page.
 - three-ways-good-design-makes-you-happy-don-norman.md: cleaned transcript into proper source summary; removed artifacts (e.g. "the new him"); organized by talk structure in coherent prose.
