@@ -1,3 +1,21 @@
+## [2026-06-11] repair | Design cluster (emotional-design + eye-for-design rewrites)
+- emotional-design.md: distilled from transcript into mechanism-focused concept (three levels + affect link); tight examples only; moved source-specific quotes to source page.
+- three-ways-good-design-makes-you-happy-don-norman.md: cleaned transcript into proper source summary; removed artifacts (e.g. "the new him"); organized by talk structure in coherent prose.
+- eye-for-design.md: rebuilt as tight concept around the core teachable unit (taste trained by observation + reflective practice); folded lightweight blog advice; no longer a summary island mirroring source.
+- develop-an-eye-for-good-visual-design.md: treated as lightweight source; no dedicated heavyweight concept created (per feedback); key practice idea integrated into eye-for-design.
+- design-thinking.md updated with cross-link to the rebuilt eye-for-design.
+- All pages now use required structure (## headers on concepts), filled tags, and prose wikilinks.
+- Bookkeeping updated with repair block.
+
+## [2026-06-11] repair | Empathy cluster structure (headers, links, tags)
+- Added first-mention wikilinks across concept and both source pages per CLAUDE.md rule.
+- Filled meaningful tags on all five pages for Dataview visibility.
+- Created [[entities/theresa-wiseman]] (framework origin, parallel to Bandura in creativity cluster).
+- Created [[concepts/sympathy]] (the structured contrast using hole metaphor and "at least" responses).
+- Polished Brown source page prose to reduce bullet density while preserving transcript structure and adding integration pointer.
+- Updated design-thinking tags.
+- No new synthesis flags beyond prior pass.
+
 ## [2026-06-11] ingest | Brené Brown on Empathy + Jonathan Juravich (empathy definition + practice)
 - Ingested 2 sources: the RSA Animate transcript on empathy vs sympathy (four qualities, hole metaphor, vulnerable choice, "at least" trap) and Juravich's TED-Ed talk on awareness as root + concrete classroom/family practices
 - Pages created: sources/brene-brown-on-empathy, sources/how-do-you-teach-empathy-jonathan-juravich, concepts/empathy, entities/brene-brown, entities/jonathan-juravich

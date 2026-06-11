@@ -1,7 +1,7 @@
 ---
 title: "Diagnosis Before Solution"
 type: synthesis
-tags: [problem-solving, decision-making, design-thinking, kaizen, root-cause]
+tags: [problem-solving, decision-making, design-thinking, kaizen, root-cause, needs-review]
 created: 2026-06-03
 updated: 2026-06-03
 sources: 6

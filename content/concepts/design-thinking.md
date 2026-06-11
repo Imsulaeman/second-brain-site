@@ -77,6 +77,7 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - [[concepts/computational-thinking]] — CT is the parallel problem-solving framework from computing. Design thinking centers empathy and prototyping; CT centers logical structure and algorithm design. In practice: DT diagnoses the problem space, CT builds the solution.
 - [[entities/don-norman]] — Norman's empathize → define → ideate sequence became the d.school model
 - [[concepts/emotional-design]] — Norman's three levels (visceral, behavioral, reflective) explain why good design at the emotional level makes products successful and people happy; positive affect leads to creative breadth-first thinking
+- [[concepts/eye-for-design]] — the capacity for taste is trained through deliberate observation and reflective practice; this skill improves the quality of judgment brought to every stage of a design process
 
 ## Sources
 

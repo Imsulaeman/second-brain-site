@@ -40,6 +40,17 @@ This connects his design-thinking framework to [[entities/toyota|Toyota's]] oper
 - [[concepts/design-thinking]] — Norman's empathize → define → ideate → prototype → test loop is the canonical model
 - [[concepts/problem-framing]] — Norman's "define the real problem" step is exactly what [[concepts/5-whys]] targets
 
+## Emotional Design
+
+Norman 's later work emphasizes the emotional side of design. In his 2003 TED talk, he introduced three levels of emotional processing that make products successful and make people happy:
+
+- **Visceral**: appearance, beauty, first impression (biology: bright colors, symmetry, etc.). Examples: Philippe Starck juicer, 1963 Jaguar, water bottle kept for decoration.
+- **Behavioral**: how it works, usability, feel, control, pleasure in use. Examples: Global cutting knife, high-performance car, Kohler waterfall shower, Ronnefeldt tilting teapot.
+- **Reflective**: personal meaning, stories, self-image, consciousness. Examples: Hummer (attention), GM car (protect the environment), expensive watch (impress), Jake Cress claw chair (story).
+
+Positive affect (happiness) leads to creative, breadth-first thinking (dopamine in prefrontal lobes), making things work better. Anxiety narrows to depth-first. The brain works differently when happy; pleasant things work better because you're more creative. Examples: ping-pong with projected fish, Google logo, MINI Cooper.
+
 ## Sources
 
 - [[sources/what-are-5-whys]] — Interaction Design Foundation cites Norman's advocacy for root-cause thinking in 21st-century design
+- [[sources/three-ways-good-design-makes-you-happy-don-norman]] — TED talk on the three emotional levels of design (visceral, behavioral, reflective) and why pleasant things work better

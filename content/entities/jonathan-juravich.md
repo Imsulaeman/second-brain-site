@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Juravich"
 type: entity
-tags: []
+tags: [education, empathy, teaching, awareness]
 created: 2026-06-11
 updated: 2026-06-11
 sources: 1
