@@ -7,7 +7,7 @@ updated: 2026-06-11
 sources: 1
 ---
 
-The capacity to discern and appreciate good visual design is a trainable skill rather than an innate gift or the result of following a fixed formula. It develops through repeated, reflective observation of the designed world.
+Taste is not natural. Every designer whose work looks effortless built that effortlessness through years of deliberate looking — noticing not just that something works, but why. The eye for design is a trained skill, and its training method is systematic observation: active, repeated, recorded.
 
 ## Observation as the Starting Point
 
@@ -39,5 +39,6 @@ There is no shortcut that bypasses ongoing observation and reflection. A sustain
 
 ## Connections
 
+- [[concepts/deliberate-practice]] — developing taste follows the same structure as any skill: focused repetition with feedback, not passive exposure. Time spent "looking at design" without interrogating it is not practice.
 - [[concepts/design-thinking]] — the practice of cultivating taste complements the structured process of design thinking by improving the quality of judgment brought to each stage.
 - [[concepts/emotional-design]] — an eye for visual design is a prerequisite for fully experiencing and evaluating designs at the visceral and reflective levels.

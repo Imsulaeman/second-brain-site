@@ -42,13 +42,7 @@ This connects his design-thinking framework to [[entities/toyota|Toyota's]] oper
 
 ## Emotional Design
 
-Norman 's later work emphasizes the emotional side of design. In his 2003 TED talk, he introduced three levels of emotional processing that make products successful and make people happy:
-
-- **Visceral**: appearance, beauty, first impression (biology: bright colors, symmetry, etc.). Examples: Philippe Starck juicer, 1963 Jaguar, water bottle kept for decoration.
-- **Behavioral**: how it works, usability, feel, control, pleasure in use. Examples: Global cutting knife, high-performance car, Kohler waterfall shower, Ronnefeldt tilting teapot.
-- **Reflective**: personal meaning, stories, self-image, consciousness. Examples: Hummer (attention), GM car (protect the environment), expensive watch (impress), Jake Cress claw chair (story).
-
-Positive affect (happiness) leads to creative, breadth-first thinking (dopamine in prefrontal lobes), making things work better. Anxiety narrows to depth-first. The brain works differently when happy; pleasant things work better because you're more creative. Examples: ping-pong with projected fish, Google logo, MINI Cooper.
+In his 2003 TED talk, Norman argued that design must engage three levels of emotional processing — visceral (appearance), behavioral (feel and control), and reflective (personal meaning) — and that products succeeding at all three don't just please users, they make them more cognitively capable. Positive affect shifts the brain into a breadth-first mode that improves creative problem-solving. See [[concepts/emotional-design]] for the full model.
 
 ## Sources
 

@@ -7,7 +7,7 @@ updated: 2026-06-11
 sources: 1
 ---
 
-Design that succeeds by engaging users across three distinct emotional levels of processing: visceral (immediate appearance and sensory response), behavioral (the experience of use and control), and reflective (personal meaning and self-image). These levels explain both why certain designs create happiness and why they often enable better performance in practice.
+Attractive things work better. Not aesthetically better — functionally better. [[entities/don-norman|Don Norman]]'s three-level model of emotional design explains why: products operate on visceral (appearance), behavioral (feel), and reflective (meaning) layers simultaneously, and engaging all three doesn't just make a product pleasant — it changes how the brain works while using it.
 
 ## Visceral Level
 
@@ -27,11 +27,13 @@ The reflective level is conscious and narrative. It is the meaning the user assi
 
 Jake Cress's "claw" chair, which appears to be desperately reaching for a lost ball, succeeds because it invites the user to complete a small, humorous story. The piece becomes memorable through the narrative it triggers.
 
-## Why the Levels Matter
+## Why Pleasant Things Work Better
 
-Designs that address all three levels produce positive emotional states. These states broaden attention and support creative, flexible thinking, making the designed thing not only more pleasant but often more effective in real use. Designs that neglect the emotional layers may be usable yet fail to create lasting value or delight.
+The three levels aren't cosmetic concerns — they affect cognition. Positive affect from well-designed objects causes the brain to release dopamine into the prefrontal lobes, shifting thinking from depth-first (narrow, anxious, focused on the immediate threat) to breadth-first (open, associative, more likely to find remote connections). The brain works differently when you're at ease.
 
-This framework, articulated by [[entities/don-norman|Don Norman]], treats emotion as a core performance dimension of design rather than an optional aesthetic overlay. It complements process-oriented approaches such as [[concepts/design-thinking|design thinking]] by focusing on the experienced outcome.
+Norman illustrates this with a plank: lay it on the ground and you walk across without thinking. Suspend it 300 feet up and you freeze. The task is identical; the emotional state is not. Alice Isen confirmed the cognitive side in an experiment — students given a small gift before a problem-solving task solved it far more often than a control group. The gift didn't teach them anything. It shifted their mode.
+
+This maps directly onto [[concepts/focused-vs-diffuse-thinking|diffuse thinking]] and the [[concepts/insight-vs-analytical-thinking|insightful mode]]: relaxed, positive states expand associative range. Design that reliably creates that state isn't decoration — it's a performance condition. For [[concepts/design-thinking|design thinking]], this is why environments and objects that produce positive affect during ideation are part of the method, not a luxury.
 
 ## Sources
 

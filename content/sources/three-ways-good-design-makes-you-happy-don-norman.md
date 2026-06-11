@@ -24,7 +24,3 @@ Reflective design operates at the level of meaning and self-image. It is the sto
 Norman connects these levels to performance. Positive emotional states produced by good design improve cognitive function. They broaden attention and support creative, associative thinking. In contrast, anxiety narrows focus to linear, detail-oriented processing. The result is that designs which delight users can also enable better outcomes in use because the user's mind is in a more flexible state.
 
 The source is the TED talk by [[entities/don-norman|Don Norman]].
-
-## Sources
-
-- [[sources/three-ways-good-design-makes-you-happy-don-norman]]
