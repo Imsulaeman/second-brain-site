@@ -1,3 +1,10 @@
+## [2026-06-11] ingest | Creative Thinking (4 sources: Kelley, APA/Weir, Robinson, Kounios)
+
+- Ingested 4 sources: How to Build Your Creative Confidence, The Science Behind Creativity, Do Schools Kill Creativity?, Creativity Insight and Eureka Moments
+- Pages created: sources/how-to-build-your-creative-confidence, sources/the-science-behind-creativity, sources/do-schools-kill-creativity, sources/creativity-insight-and-eureka-moments, concepts/creativity, concepts/creative-confidence, concepts/divergent-thinking, concepts/insight-vs-analytical-thinking, entities/david-kelley, entities/ken-robinson, entities/john-kounios
+- Pages updated: concepts/focused-vs-diffuse-thinking (major upgrade + weak tag removed), concepts/growth-mindset, concepts/learning-from-failure, concepts/fixed-mindset, wiki/index.md
+- Pages created: 11. Pages updated: 5.
+
 ## [2026-06-11] ingest | Reminiscences of a Stock Operator (complete — Ch 23 tail + Ch 24 + appendix + PTJ afterword)
 
 - Read Ch 23 tail (pp. 384–388): New Haven Railroad case study (insider selling masked as bear raids), Charles Woerishoffer bear operator annotation, Livermore's 4th bankruptcy (1934, $2.25M liabilities / $184K assets)

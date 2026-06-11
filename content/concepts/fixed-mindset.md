@@ -29,7 +29,13 @@ Fixed mindset is not just pessimism. It is a distorted interpretation layer that
 
 The contrast page is [[concepts/growth-mindset|growth mindset]]. The point is not that people permanently belong to one camp or the other. Most people carry fixed-mindset reactions in some domains and growth-oriented ones in others.
 
+## In Creative Identity
+
+One of the more consequential applications of fixed mindset is the "I'm not the creative type" self-label. [[entities/david-kelley|Kelley]] and [[entities/ken-robinson|Robinson]] both document how a single critical episode in childhood — a comment about a clay horse, a teacher signaling that a drawing isn't good enough — can cause someone to permanently opt out of creative identity. The mechanism is identical to Dweck's classroom findings: the episode gets read as evidence of a fixed attribute ("I am not creative") rather than as an isolated event. [[concepts/creative-confidence|Creative confidence]] work is the targeted repair for this specific domain of fixed mindset.
+
 ## Sources
 
 - [[sources/growth-mindset-vs-fixed-mindset-an-introduction]]
 - [[sources/the-power-of-belief-mindset-and-success]]
+- [[sources/how-to-build-your-creative-confidence]]
+- [[sources/do-schools-kill-creativity]]

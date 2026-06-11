@@ -42,8 +42,14 @@ That broader role is exactly why it sits near the center of [[synthesis/apple-de
 - **Praising effort without strategy.** Dweck's point is process praise, not blind applause. Effort matters most when paired with better methods, focus, and correction.
 - **Using it only on children.** The pattern matters in adult work, relationships, negotiation, and performance too.
 
+## Creativity as an Extension
+
+The growth mindset literature focuses on academic and professional ability, but the same structure governs creative identity. [[entities/ken-robinson|Ken Robinson]] documents how children are born willing to take creative chances — not afraid of being wrong — and lose that willingness as school conditions them to see mistakes as failure. [[entities/david-kelley|David Kelley]] tracks the same dynamic at the individual level: a critical comment in third grade causes someone to adopt the fixed self-label "I'm not the creative type" and opt out of creative work for decades. In both cases the identity move — "I am not this kind of person" — is a fixed-mindset response to an early social wound, not a realistic appraisal of capacity. Kelley's [[concepts/creative-confidence|creative confidence]] work is essentially guided-mastery-based growth mindset applied specifically to creative ability.
+
 ## Sources
 
 - [[sources/the-power-of-believing-that-you-can-improve]]
 - [[sources/growth-mindset-vs-fixed-mindset-an-introduction]]
 - [[sources/the-power-of-belief-mindset-and-success]]
+- [[sources/how-to-build-your-creative-confidence]]
+- [[sources/do-schools-kill-creativity]]

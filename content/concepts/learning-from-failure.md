@@ -29,6 +29,13 @@ The French-class survey adds another layer: beginners often prefer encouragement
 
 This concept adds caution to the growth-oriented part of the wiki. [[concepts/growth-mindset|Growth mindset]] and resilience matter, but they do not make all failure equally useful. It also connects to [[concepts/deliberate-practice|deliberate practice]], where feedback is only valuable if the learner can process it, and to [[concepts/problem-framing|problem framing]], because vague failure often reflects vague diagnosis.
 
+## The Fear of Being Wrong
+
+[[entities/ken-robinson|Robinson]] adds a sharper version of this problem specific to creativity. He argues that schools don't just make failure painful — they treat mistakes as the worst possible outcome, actively stigmatizing them rather than treating them as information. The result is not just that students fail to learn from specific errors; they stop attempting anything where failure is possible. They lose the willingness to be wrong, and with it the capacity for original thought. Being wrong is not the same as being creative — Robinson is explicit about this — but you cannot produce anything original if you are never prepared to be wrong.
+
+This is the institutional-design version of the same individual dynamic that Kelley documents with Brian's clay horse: one early signal that a mistake exposes you gets encoded as "don't try." The failure to learn from failure thus has two layers: the learner must tolerate the setback (the individual psychology this page opened with) and also exist in an environment that treats mistakes as usable information rather than as judgment. When neither condition is met, failure teaches nothing and discourages the next attempt entirely.
+
 ## Sources
 
 - [[sources/how-to-overcome-your-mistakes]]
+- [[sources/do-schools-kill-creativity]]
