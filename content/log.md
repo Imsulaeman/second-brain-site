@@ -1,3 +1,9 @@
+## [2026-06-11] ingest | GCR Trade Review + Gigantic Rebirth: Top Crypto Traders (2026)
+- Two GCR sources ingested together: annotated trade PDF (4 trades: CREAM, DOGE, BTC, SUSHI) + Arkham full career profile
+- Pages created: entities/GCR, entities/George-Soros, entities/Do-Kwon, sources/gcr-trade-review, sources/gigantic-rebirth-top-crypto-traders
+- Pages updated: concepts/trading-edge (GCR crypto edge framework section), concepts/reflexivity (contrarianism as reflexivity trigger section + new sources)
+- Audit: partial — synthesis scan pending, market-manipulation modern parallels not updated yet
+
 ## [2026-06-11] synthesis | Apple Developer Academy Prep — Design and Creativity
 - Section 4 synthesis covering 4.1 Creative Thinking, 4.2 Empathy, 4.3 Observing What Works, 4.4 Iteration & Openness to Feedback
 - Thesis: all four subsections are expressions of one capacity — staying open long enough to understand the problem before proposing a solution
