@@ -1,3 +1,10 @@
+## [2026-06-11] synthesis | Apple Developer Academy Prep — Design and Creativity
+- Section 4 synthesis covering 4.1 Creative Thinking, 4.2 Empathy, 4.3 Observing What Works, 4.4 Iteration & Openness to Feedback
+- Thesis: all four subsections are expressions of one capacity — staying open long enough to understand the problem before proposing a solution
+- Cross-source connections: fear as common enemy (Robinson/Kelley/Brown/Klein/Norman), Norman's positive affect = Kounios' insightful mode = Juravich's awareness state, Dix's local maxima warning applied to empathy, Kelley's guided mastery = iterative development applied to the self
+- Pages created: synthesis/apple-developer-academy-prep-design-and-creativity
+- Pages updated: index.md
+
 ## [2026-06-11] ingest | What is Iterative Development? (IxDF)
 - Source: IxDF topic page with expert video commentary (Klein, Dix, Spillers, Hudson, Peng, Warfel)
 - Pages created: sources/what-is-iterative-development, concepts/iterative-development, concepts/local-maxima, entities/alan-dix, entities/laura-klein
