@@ -1,3 +1,10 @@
+## [2026-06-11] ingest | Brené Brown on Empathy + Jonathan Juravich (empathy definition + practice)
+- Ingested 2 sources: the RSA Animate transcript on empathy vs sympathy (four qualities, hole metaphor, vulnerable choice, "at least" trap) and Juravich's TED-Ed talk on awareness as root + concrete classroom/family practices
+- Pages created: sources/brene-brown-on-empathy, sources/how-do-you-teach-empathy-jonathan-juravich, concepts/empathy, entities/brene-brown, entities/jonathan-juravich
+- Pages updated: concepts/design-thinking (Empathize stage expanded with the four qualities, hole image, awareness definition, and action examples; two new sources added)
+- Pages created: 5. Pages updated: 1.
+- Ingest complete. The two raws were the exact material behind the earlier "4.2 Empathy" note; real transcripts now supply the durable versions.
+
 ## [2026-06-11] ingest | Creative Thinking (4 sources: Kelley, APA/Weir, Robinson, Kounios)
 
 - Ingested 4 sources: How to Build Your Creative Confidence, The Science Behind Creativity, Do Schools Kill Creativity?, Creativity Insight and Eureka Moments

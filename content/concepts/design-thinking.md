@@ -15,7 +15,7 @@ A structured, human-centered approach to problem-solving and innovation. Popular
 
 The canonical Stanford d.school sequence:
 
-1. **Empathize** — observe, interview, immerse. Understand users' needs, pain points, and context. **Don't assume.**
+1. **Empathize** — observe, interview, immerse. Understand users' needs, pain points, and context. **Don't assume.** This is the non-negotiable first stage. Real empathy requires perspective taking without judgment, recognising the other person's emotion, and communicating that recognition (see [[concepts/empathy]]). The memorable image is climbing down into the hole with the person rather than offering comfort from above. Common blocks include starting with "at least" silver linings and running shallow persona exercises that never change what gets built. Awareness of your own reactions is the prerequisite; without it you collect data *about* users instead of feeling *with* them.
 2. **Define** — synthesize findings into a clear problem statement. Frame the real problem, not the symptom. [[concepts/5-whys]] lives here.
 3. **Ideate** — generate many possible solutions. Quantity over quality at this stage; diverge before converging.
 4. **Prototype** — build the cheapest/fastest version that tests the core hypothesis. Paper sketches, clickable wireframes, role-play.
@@ -80,3 +80,5 @@ Without the drill, teams define problems at the symptom level and waste the idea
 ## Sources
 
 - [[sources/what-are-5-whys]] — 5 Whys as a key tool in the empathize/define phases
+- [[sources/brene-brown-on-empathy]] — the four qualities of empathy and the distinction between feeling with versus feeling for
+- [[sources/how-do-you-teach-empathy-jonathan-juravich]] — awareness as the root of empathy and concrete practices that turn noticing into action

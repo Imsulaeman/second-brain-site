@@ -1,7 +1,7 @@
 ---
 title: "Apple Developer Academy Prep: Learning and Thinking"
 type: synthesis
-tags: [learning, critical-thinking, problem-solving, reasoning, mindset, reading, apple-developer-academy]
+tags: [learning, critical-thinking, problem-solving, reasoning, mindset, reading, apple-developer-academy, needs-review]
 created: 2026-06-06
 updated: 2026-06-06
 sources: 20
