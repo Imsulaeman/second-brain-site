@@ -31,7 +31,7 @@ Adam Green's lab has also found that the **frontopolar cortex** — in the brain
 
 ## The Eureka Moment
 
-Kounios distinguishes two routes to a creative solution. System 1 (fast, unconscious): the aha moment, where the answer bursts into awareness. System 2 (slow, deliberate): working through the problem consciously. Both can produce creative results; they often work in sequence, with System 1 generating ideas and System 2 refining them.
+Kounios distinguishes two routes to a creative solution. [[concepts/system-1-vs-system-2|System 1]] (fast, unconscious): the aha moment, where the answer bursts into awareness. System 2 (slow, deliberate): working through the problem consciously. Both can produce creative results; they often work in sequence, with System 1 generating ideas and System 2 refining them.
 
 A relevant warning from Schooler: the rush of a eureka moment inflates the perceived importance of an idea. In his study of creative writers and physicists, ideas that arrived during mind-wandering were initially rated as highly important — but six months later, revisited, participants rated them as creative but less important than they had thought. The aha experience may be a visceral marker but it can also misfire. Don't be afraid to return and critique an insight.
 
