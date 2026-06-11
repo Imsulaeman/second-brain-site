@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking"
 type: concept
-tags: [problem-solving, user-research, ux-design, innovation, ideation, weak]
+tags: [problem-solving, user-research, ux-design, innovation, ideation, empathy, weak]
 created: 2026-06-03
 updated: 2026-06-03
 sources: 1
@@ -76,9 +76,12 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - [[concepts/critical-thinking]] — design thinking is a workflow that embeds critical thinking (question assumptions, gather evidence, test hypotheses)
 - [[concepts/computational-thinking]] — CT is the parallel problem-solving framework from computing. Design thinking centers empathy and prototyping; CT centers logical structure and algorithm design. In practice: DT diagnoses the problem space, CT builds the solution.
 - [[entities/don-norman]] — Norman's empathize → define → ideate sequence became the d.school model
+- [[concepts/emotional-design]] — Norman's three levels (visceral, behavioral, reflective) explain why good design at the emotional level makes products successful and people happy; positive affect leads to creative breadth-first thinking
 
 ## Sources
 
 - [[sources/what-are-5-whys]] — 5 Whys as a key tool in the empathize/define phases
 - [[sources/brene-brown-on-empathy]] — the four qualities of empathy and the distinction between feeling with versus feeling for
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]] — awareness as the root of empathy and concrete practices that turn noticing into action
+- [[sources/develop-an-eye-for-good-visual-design]] — practical advice for developing an eye for good visual design through observation, journaling, study, and practice
+- [[sources/three-ways-good-design-makes-you-happy-don-norman]] — Norman's three emotional levels of design and why pleasant things work better
