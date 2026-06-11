@@ -56,6 +56,20 @@ The practical implication is that finding edge and maintaining edge are differen
 
 **Retail catalyst as distribution signal.** GCR shorted DOGE on Elon Musk's SNL appearance. His explanation: "retail heavy coins often hyped for months… market makers use the cascade of final liquidity to distribute." The final publicly-awaited catalyst is the exit ramp for whoever accumulated, not the entry. This maps onto [[concepts/anticipation-and-market-forecasting]]: position before the crowd acts, exit as they arrive.
 
+**Exchange listing wick arbitrage.** Recurring across ACH, IOTX, COTI, and 1INCH: assets pump aggressively into a major exchange listing, print a wick at the listing price, then revert. Trade: long pre-pump on announcement, short the listing wick. The mechanism — retail anticipation inflates price into the event; profit-taking and new-buyer illiquidity create the wick — is consistent across assets and exchanges. The structural reason the wick exists: forced liquidity demand at a psychologically anchored price.
+
+**Announcement-of-announcement trades.** GCR identified this in TRX/Justin Sun's pre-announcement pattern: the announcement that an announcement is coming is the entry, not the announcement itself. The crowd enters on the announcement; you exit into them. Position before the crowd acts.
+
+**Low unit bias as structural retail magnet.** Assets priced at fractions of a cent (SHIB at $0.00002) attract disproportionate retail buying because participants perceive them as "cheap" regardless of market cap. This creates predictable reflexive setups: thin order books, large nominal quantities per dollar, and strong sensitivity to a single narrative catalyst. Low unit bias is not alpha on its own — it is a structural precondition for certain reflexive trades.
+
+**Systematic catalyst fade.** The DOGE pattern generalizes: once a catalyst has been "sold the news" multiple times (SNL, payments integration, Superbowl ad), the crowd continues positioning for the next one. The structural ceiling on utility never changes, so each rally is structurally the same trade — fade the peak of expectation before the catalyst, exit as the crowd arrives. "Has there been an easier, higher hit rate (>100%?), less complex trade in the past year than fading Elon Musk inspired DOGE pumps?"
+
+**Pair trades as bear-market edge.** Long the strongest, short the weakest — stay delta neutral or net short on the general market. GCR credits 2018–2019 pair trading as the survival strategy when directional bets were unreliable: "the key was to focus on pair trading, and to stay delta neutral to net short on the general market, while being able to pick the winners." The edge is relative mispricing, not market direction.
+
+**Market maker distribution pattern.** After studying many pump-and-dump structures, GCR describes the tell: "the supply is carefully cornered during periods of capitulation; opportunistic teams patiently wait until the next 'alt szn' to capitalize." The exit signal: "precipitous and steady decline in volume" after a pump phase. Volume exhaustion precedes price collapse; reading this pattern gives a structural short entry.
+
+**The operationalize-one-edge principle.** GCR's meta-stance on edge itself: "Advice: find one edge. Just one. Put serious resources into it. Operationalize it. And just hammer it. I've been hammering an edge for 4 years now." This is a resource-allocation claim: shallow coverage of many edges produces less than deep mastery of one. Most traders diversify edges before they have mastered any single one. GCR estimated 30,000 hours of work on his primary edge before others began copying it.
+
 ## Edge Needs Survival
 
 Even a real edge fails if it is sized badly. A good setup with reckless size, hidden correlation, leverage, or poor liquidity discipline can still end in ruin. That is why trading edge belongs tightly with [[concepts/position-sizing]], [[concepts/liquidity-risk]], and [[concepts/skewness-and-asymmetry]].

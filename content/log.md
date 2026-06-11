@@ -1,8 +1,16 @@
+## [2026-06-11] rewrite | GCR Trade Review — full 119-page pass
+- Prior partial ingest (only 5 pages read) fully replaced after reading all 119 pages
+- gcr-trade-review source page: complete rewrite covering 9 thematic sections; ~220 lines (was ~57)
+- GCR entity page: complete rewrite; origin story ($1000 start), 15+ key trades, political prediction markets, full philosophy distilled; ~190 lines (was ~85)
+- trading-edge concept: 8 new mechanism entries added (exchange listing wick arb, announcement-of-announcement, low unit bias, systematic catalyst fade, pair trades, market maker distribution tell, efficient yield hypothesis, operationalize-one-edge principle)
+- ingest-audit: status updated to `full` for both raw files
+- Audit: full — all 119 PDF pages and the Arkham profile absorbed
+
 ## [2026-06-11] ingest | GCR Trade Review + Gigantic Rebirth: Top Crypto Traders (2026)
 - Two GCR sources ingested together: annotated trade PDF (4 trades: CREAM, DOGE, BTC, SUSHI) + Arkham full career profile
 - Pages created: entities/GCR, entities/George-Soros, entities/Do-Kwon, sources/gcr-trade-review, sources/gigantic-rebirth-top-crypto-traders
 - Pages updated: concepts/trading-edge (GCR crypto edge framework section), concepts/reflexivity (contrarianism as reflexivity trigger section + new sources)
-- Audit: partial — synthesis scan pending, market-manipulation modern parallels not updated yet
+- Audit: partial — synthesis scan pending, market-manipulation modern parallels not updated yet (superseded by rewrite pass above)
 
 ## [2026-06-11] synthesis | Apple Developer Academy Prep — Design and Creativity
 - Section 4 synthesis covering 4.1 Creative Thinking, 4.2 Empathy, 4.3 Observing What Works, 4.4 Iteration & Openness to Feedback
