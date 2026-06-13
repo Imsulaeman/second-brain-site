@@ -1,3 +1,49 @@
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 4 (Complete; All 30 Principles)
+- Read Part 4 Ch 1–9 (all 9 principles): "Be a Leader — How to Change People Without Giving Offense or Arousing Resentment"
+- Pages created: concepts/begin-with-praise, concepts/indirect-criticism, concepts/own-mistakes-first, concepts/ask-instead-of-order, concepts/let-save-face, concepts/praise-every-improvement, concepts/give-fine-reputation, concepts/make-fault-seem-easy, concepts/make-them-glad
+- Pages updated: sources/how-to-win-friends-and-influence-people (status → full, Part 4 complete), index (9 new entries)
+- Completeness gate passed: all 30 principles read and integrated
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 3 Ch 9–12
+- Read Part 3 Ch 9–12 (pp. 165–184): Principles 9–12 of Part 3 (overall Principles 18–21); Part 3 now complete
+- Pages created: concepts/offer-sympathy, concepts/appeal-nobler-motives, concepts/dramatize-your-ideas, concepts/throw-down-challenge
+- Pages updated: sources/how-to-win-friends-and-influence-people (Part 3 fully complete), index (4 new entries)
+- Audit: partial — Part 4 not yet read; completeness gate not yet passed
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 3 Ch 5–8
+- Read Part 3 Ch 5–8 (pp. 145–164): Principles 5–8 of Part 3 (overall Principles 14–17)
+- Pages created: concepts/yes-yes-technique, concepts/let-them-talk, concepts/let-them-feel-its-their-idea, concepts/see-their-point-of-view
+- Pages updated: sources/how-to-win-friends-and-influence-people (added Part 3 Principles 5–8), index (4 new entries)
+- Audit: partial — Part 3 Ch 9–12 and Part 4 not yet read
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 3 Ch 1–4
+- Read Part 3 Ch 1–4 (pp. 105–144): Principles 1–4 of Part 3 (overall Principles 10–13)
+- Pages created: concepts/avoid-argument, concepts/never-say-youre-wrong, concepts/admit-mistakes, concepts/begin-friendly
+- Pages updated: sources/how-to-win-friends-and-influence-people (added Part 3 Principles 1–4), index (4 new entries)
+- Audit: partial — Part 3 Ch 5–12 and Part 4 not yet read
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 2 Ch 3–6
+- Read Part 2 Ch 3–6 (pp. 85–104): Principles 6–9, names/listening/interests/importance
+- Pages created: concepts/remembering-names, concepts/active-listening, concepts/talk-in-terms-of-interests, concepts/make-others-feel-important
+- Pages updated: sources/how-to-win-friends-and-influence-people (Part 2 complete)
+- Index updated with 4 new concept entries
+- Audit: Parts 1–2 complete, Parts 3–4 pending
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 2 Ch 1–2
+- Read Part 2 Ch 1–2 (pp. 65–84): Principles 4–5, genuine interest + smile
+- Pages created: concepts/genuine-interest-in-others, concepts/smile
+- Pages updated: sources/how-to-win-friends-and-influence-people (added Part 2 Ch 1–2 content)
+- Index updated with 2 new concept entries
+- Audit: partial — Part 2 Ch 3–6 and Parts 3–4 not yet read
+
+## [2026-06-13] ingest | How to Win Friends and Influence People — Part 1 (partial)
+- Read preface + Part 1 (pp. 1–65): 3 chapters, 3 principles, full Carnegie argument from sources
+- Pages created: concepts/desire-to-feel-important
+- Pages updated: concepts/criticism-is-futile (stub → full), concepts/give-honest-and-sincere-appreciation (stub → full), concepts/arouse-an-eager-want (stub → full), sources/how-to-win-friends-and-influence-people (stub → structured partial), entities/dale-carnegie (stub → full)
+- Cross-links: concepts/four-laws-of-behavior-change now bridges to criticism-is-futile (Skinner); all 4 Carnegie concepts now linked to each other and to source/entity
+- Pages created: 1 (desire-to-feel-important), pages updated: 6
+- Audit: partial — Parts 2–4 (27 remaining principles) not yet read
+
 ## [2026-06-11] rewrite | GCR Trade Review — full 119-page pass
 - Prior partial ingest (only 5 pages read) fully replaced after reading all 119 pages
 - gcr-trade-review source page: complete rewrite covering 9 thematic sections; ~220 lines (was ~57)

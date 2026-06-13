@@ -77,6 +77,7 @@ When trying to break a habit, invert each question.
 - **[[concepts/focused-vs-diffuse-thinking]]** — environment design (1st Law) shapes which cognitive mode you default to
 - **[[concepts/pomodoro-technique]]** — a pre-built implementation of the 3rd and 4th laws (easy start + immediate reward)
 - **[[concepts/deliberate-practice]]** — the laws handle habit formation; deliberate practice handles pushing the frontier once habits are established
+- **[[concepts/criticism-is-futile]]** — the 4th Law (make it satisfying) and its inverse rest on the same Skinner finding Carnegie cites: reward produces faster, more durable learning than punishment; Clear's "never miss twice" and Carnegie's "don't criticize" are expressions of the same underlying mechanism
 
 ## Sources
 
