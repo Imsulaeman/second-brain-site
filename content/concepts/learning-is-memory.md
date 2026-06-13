@@ -1,9 +1,9 @@
 ---
 title: "Learning is Memory"
 type: concept
-tags: [cognitive-science, learning, memory, expertise, weak]
+tags: [cognitive-science, learning, memory, expertise]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-13
 sources: 2
 ---
 
@@ -44,4 +44,3 @@ Repetition doesn't suppress creativity — it *enables* it by automating the mec
 
 - [[sources/advice-on-upskilling|Advice on Upskilling]] — Ch 10 (Expertise), section "Learning is Memory"
 - [[sources/a-mind-for-numbers|A Mind for Numbers]] — Ch 4 (Chunking), Ch 10–11 (Memory); Oakley makes the same point via the chunking framework without stating it as directly
-These learning concepts involve both inductive pattern recognition and deductive application of memory and perception principles.

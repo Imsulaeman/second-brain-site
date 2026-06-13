@@ -1,9 +1,9 @@
 ---
 title: "Working Memory vs Long-Term Memory"
 type: concept
-tags: [cognitive-science, learning, expertise, memory, weak]
+tags: [cognitive-science, learning, expertise, memory]
 created: 2026-05-02
-updated: 2026-05-03
+updated: 2026-06-13
 sources: 2
 ---
 
@@ -59,4 +59,3 @@ When you chunk information, a pre-chunked concept that required all 4 tentacles 
 - [[sources/advice-on-upskilling]] — Ch 9 (Learning), Ch 10 (Expertise)
 - [[sources/a-mind-for-numbers]] — Ch 4 (Chunking), Ch 10–11 (Memory), Ch 12 (Talent)
 - Referenced research: Chase & Ericsson (1982); Unsworth & Engle (2005); Shamloo & Helie (2016); Sweller, Clark & Kirschner (2010)
-The relationship between working memory and long-term memory involves both inductive learning from repeated exposure and deductive application of encoding strategies.

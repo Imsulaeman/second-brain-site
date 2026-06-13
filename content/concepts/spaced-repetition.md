@@ -1,9 +1,9 @@
 ---
 title: "Spaced Repetition"
 type: concept
-tags: [learning, memory, retention, training, weak]
+tags: [learning, memory, retention, training]
 created: 2026-05-02
-updated: 2026-05-03
+updated: 2026-06-13
 sources: 2
 ---
 
@@ -58,4 +58,3 @@ Deliberate practice covers skill *acquisition*; spaced repetition covers *retent
 
 - [[sources/advice-on-upskilling]] — Ch 9 (Learning), sections "Review Should Feel Challenging," "Learn Like You Lift," "Recall Before Re-reading"
 - [[sources/a-mind-for-numbers]] — Ch 10–11 (Memory), with practical techniques for index cards, memory palace integration, and spacing schedules
-These concepts combine inductive learning from repeated exposure with deductive application of consistency and emotional discipline principles.

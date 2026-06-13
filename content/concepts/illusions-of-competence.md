@@ -1,9 +1,9 @@
 ---
 title: "Illusions of Competence"
 type: concept
-tags: [learning, cognitive-science, study-techniques, metacognition, weak]
+tags: [learning, cognitive-science, study-techniques, metacognition]
 created: 2026-05-03
-updated: 2026-05-19
+updated: 2026-06-13
 sources: 3
 ---
 
@@ -54,4 +54,3 @@ The fix is cheap and simple: **close the book, try to recall, check yourself.** 
 - [[sources/a-mind-for-numbers]] — Ch 4 (central concept), Ch 7, Ch 16
 - [[sources/advice-on-upskilling]] — Ch 9 ("Following Along" Versus Learning, "One of the WORST Mistakes You Can Make While Studying")
 - [[sources/poor-charlies-almanack]] — Planck vs Chauffeur Knowledge; Excessive Self-Regard and Overoptimism tendencies.
-These concepts involve both inductive learning from direct experience and deductive awareness of the limits of one's knowledge.
