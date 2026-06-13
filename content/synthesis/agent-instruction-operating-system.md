@@ -122,10 +122,14 @@ The user's strongest pattern is not "use more AI." It is:
 
 This synthesis should guide future agent setup work across Folio, Hermes, the Second Brain, and any new coding project.
 
-## Links
+## Sources
+
+- [[sources/karpathy-claude-md-hit-number-one]]
+- [[sources/andrej-karpathy-skills-repo]]
+- [[sources/ramping-your-coding-output-with-openai-codex]]
+
+## Connections
 
 - [[concepts/agent-operating-instructions]]
 - [[concepts/agentic-coding-workflows]]
-- [[sources/ramping-your-coding-output-with-openai-codex]]
 - [[synthesis/second-brain-as-leverage-system]]
-These operating systems and knowledge maps require both inductive pattern recognition from experience and deductive application of structure and principle.
