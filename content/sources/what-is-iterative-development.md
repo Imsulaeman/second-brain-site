@@ -7,13 +7,13 @@ updated: 2026-06-11
 sources: 1
 ---
 
-An IxDF explainer on iterative development in UX design, drawing on video commentary from Laura Klein, Alan Dix, Frank Spillers, William Hudson, Morgane Peng, and Todd Zaki Warfel. Covers what iteration means, why teams fail at it, the local maxima trap, and how to show iterative work in a portfolio.
+An IxDF explainer on [[concepts/iterative-development|iterative development]] in UX design, drawing on video commentary from [[entities/laura-klein|Laura Klein]], [[entities/alan-dix|Alan Dix]], Frank Spillers, William Hudson, Morgane Peng, and Todd Zaki Warfel. Covers what iteration means, why teams fail at it, the local maxima trap, and how to show iterative work in a portfolio.
 
 ## The Core Idea
 
-Iterative development means shipping imperfect versions deliberately — in order to learn — and then going back to improve based on what you found. The cycle repeats until the product is good enough, and in web products may never formally stop.
+[[concepts/iterative-development|Iterative development]] means shipping imperfect versions deliberately — in order to learn — and then going back to improve based on what you found. The cycle repeats until the product is good enough, and in web products may never formally stop.
 
-Laura Klein's observation is the sharpest entry point: most agile teams she studied in 2019–2020 weren't actually iterating. They shipped features to the Done column and never looked at them again — sometimes without even checking whether anyone used them. Teams would ship stripped-down versions "just to get them out the door" and then still never return. The result was products full of half-finished things that didn't cohere. That, Klein says, is one of the least agile things you can do.
+[[entities/laura-klein|Laura Klein]]'s observation is the sharpest entry point: most agile teams she studied in 2019–2020 weren't actually iterating. They shipped features to the Done column and never looked at them again — sometimes without even checking whether anyone used them. Teams would ship stripped-down versions "just to get them out the door" and then still never return. The result was products full of half-finished things that didn't cohere. That, Klein says, is one of the least agile things you can do.
 
 ## Incremental vs Iterative
 
@@ -31,7 +31,7 @@ These two words are often confused but describe fundamentally different approach
 
 ## The Local Maxima Problem
 
-Alan Dix's contribution is the most important caution about iteration: **starting position constrains how good you can get.**
+[[entities/alan-dix|Alan Dix]]'s contribution is the most important caution about iteration: **starting position constrains how good you can get.** This is the [[concepts/local-maxima|local maxima]] problem.
 
 If you begin with a genuinely poor design and iterate on it, you will end up with a somewhat less poor design. You are climbing a small hill. No amount of incremental improvement will get you to the top of the mountain if you started in the wrong valley.
 
@@ -74,3 +74,13 @@ User-centered by design. Reduces risk by catching errors early rather than disco
 Reid Hoffman's rule on the last point: *"If you are not embarrassed by the first version of your product, you've launched too late."*
 
 The source is the IxDF topic page on iterative development, drawing on expert video commentary throughout.
+
+## Key Concepts
+
+- [[concepts/iterative-development|Iterative Development]]
+- [[concepts/local-maxima|Local Maxima]]
+
+## Key Entities
+
+- [[entities/laura-klein|Laura Klein]] — UX designer, author of *Build Better Products*
+- [[entities/alan-dix|Alan Dix]] — HCI professor, local maxima explanation
