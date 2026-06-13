@@ -3,7 +3,7 @@ title: "Psychology of Human Misjudgment"
 type: concept
 tags: [psychology, cognitive-bias, decision-making, checklist, charles-munger]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-13
 sources: 1
 ---
 
@@ -60,6 +60,7 @@ Munger's magnum opus: a taxonomy of 25 standard causes of human misjudgment, dev
 - [[concepts/bubble-detection]] — Social Proof + Deprival-Superreaction + Overoptimism + Incentive-Caused Bias
 - [[concepts/confidence-cycle]] — the market version of oscillating psychological tendencies
 - [[concepts/second-order-thinking]] — required to see past the first-order pull of these tendencies
+- [[concepts/criticism-is-futile]] — Carnegie's empirical finding maps directly onto Tendency #3 (Disliking/Hating): criticism activates the hating tendency, causing the target to ignore virtues, distort facts, and dig in; Tendency #9 (Reciprocation) explains why the triggered resentment compounds — the person now looks for ways to strike back
 
 ## Sources
 

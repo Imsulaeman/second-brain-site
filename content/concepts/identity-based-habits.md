@@ -3,7 +3,7 @@ title: "Identity-Based Habits"
 type: concept
 tags: [habits, identity, behavior-change, self-image, james-clear, weak]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-13
 sources: 1
 ---
 
@@ -48,6 +48,7 @@ The danger: identity can also lock in bad habits. "I'm bad at math" or "I'm not 
 - **[[concepts/specific-knowledge]]** — Naval says to build on what feels like play to you. Identity-based habits operationalize this: if your identity naturally pulls toward a domain, habits in that domain compound faster.
 - **[[concepts/deliberate-practice]]** — identity provides the motivational foundation; deliberate practice provides the method for growth at the edge.
 - **[[concepts/illusions-of-competence]]** — identity can create its own illusion: "I study hard" ≠ effective learning. The votes must be real.
+- **[[concepts/give-fine-reputation]]** — Carnegie's Principle 7 in Part 4 is identity-based behavior change applied externally: assign a person a fine reputation to live up to, and they vote for that identity through their actions. The mechanism is the same voting loop — the difference is who names the identity first.
 
 ## Sources
 

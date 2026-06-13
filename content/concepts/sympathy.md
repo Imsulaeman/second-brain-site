@@ -3,7 +3,7 @@ title: "Sympathy"
 type: concept
 tags: [empathy, psychology, distinction, connection, design, education]
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-13
 sources: 1
 ---
 
@@ -26,6 +26,10 @@ In practice, sympathy shows up in design as shallow personas that collect surfac
 ## The Cost
 
 The hole metaphor makes the cost visible. When someone is in pain, sympathy keeps the helper dry. Empathy gets wet.
+
+## Connections
+
+- **[[concepts/offer-sympathy]]** — Carnegie's Principle 9 in Part 3 is the leadership application: expressing genuine sympathy for another's grievances rather than defending your position. The distinction from the hole metaphor maps directly — Carnegie's technique closes the distance that sympathy usually preserves.
 
 ## Sources
 - [[sources/brene-brown-on-empathy]]

@@ -3,7 +3,7 @@ title: "Four Laws of Behavior Change"
 type: concept
 tags: [habits, behavior-change, framework, cue-craving-response-reward, james-clear, weak]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-13
 sources: 1
 ---
 
@@ -78,6 +78,7 @@ When trying to break a habit, invert each question.
 - **[[concepts/pomodoro-technique]]** — a pre-built implementation of the 3rd and 4th laws (easy start + immediate reward)
 - **[[concepts/deliberate-practice]]** — the laws handle habit formation; deliberate practice handles pushing the frontier once habits are established
 - **[[concepts/criticism-is-futile]]** — the 4th Law (make it satisfying) and its inverse rest on the same Skinner finding Carnegie cites: reward produces faster, more durable learning than punishment; Clear's "never miss twice" and Carnegie's "don't criticize" are expressions of the same underlying mechanism
+- **[[concepts/praise-every-improvement]]** — Carnegie's Principle 6 in Part 4 is the 4th Law operationalized for managing people: specific, immediate praise for every improvement is the "make it satisfying" mechanism applied in real time; both cite Skinner's conditioning research as the behavioral foundation
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Empathy"
 type: concept
 tags: [empathy, psychology, design-thinking, education, awareness]
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-13
 sources: 2
 ---
 
@@ -47,6 +47,11 @@ In design, empathy is the required first stage. The Empathize step in [[concepts
 Empathy is not infinite. It is a limited resource that requires choice and energy. It also cannot be performed from a position of superiority. The moment judgment or "at least" enters, the connection is lost.
 
 The same capacity that lets someone sit with another's pain is what lets designers, teachers, and parents move from noticing to useful action.
+
+## Connections
+
+- **[[concepts/see-their-point-of-view]]** — Carnegie's Principle 8 in Part 3: "Try honestly to see things from the other person's point of view." The perspective-taking quality of empathy applied as a conversational practice; where empathy is the capacity, see-their-point-of-view is the deliberate act.
+- **[[concepts/offer-sympathy]]** — Carnegie's Principle 9: "Be sympathetic with the other person's ideas and desires." The "magic phrase" (*I don't blame you one iota for feeling as you do*) is empathy enacted at the moment of conflict — recognition of emotion, communicating that recognition, no judgment.
 
 ## Sources
 - [[sources/brene-brown-on-empathy]]
