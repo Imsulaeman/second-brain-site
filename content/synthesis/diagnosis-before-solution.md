@@ -1,10 +1,10 @@
 ---
 title: "Diagnosis Before Solution"
 type: synthesis
-tags: [problem-solving, decision-making, design-thinking, kaizen, root-cause, needs-review]
+tags: [problem-solving, decision-making, design-thinking, kaizen, root-cause]
 created: 2026-06-03
 updated: 2026-06-03
-sources: 6
+sources: 7
 ---
 
 # Diagnosis Before Solution
@@ -147,7 +147,7 @@ The diagnosis-before-solution stance is domain-general. It applies anywhere huma
 - **Investing:** [[entities/howard-marks|Howard Marks]] frames most market failures as people solving the wrong question (predicting direction) instead of the right one (calibrating risk vs reward at current price). [[concepts/second-order-thinking]] is essentially "diagnose deeper before deciding."
 - **Trading:** [[sources/life-lessons-from-trading]] hammers the same point — losses come from misdiagnosis (mistaking variance for skill, mistaking a trend for a cycle, mistaking position-size for edge), not from missing the obvious solution.
 - **Habits and personal change:** [[entities/james-clear|James Clear]]'s identity-based habits work because they reframe *the problem of behavior change itself* — from "how do I do X?" to "what kind of person does X?" That reframing is a diagnosis-altitude move, not a tactical one.
-- **Relationships and communication:** misunderstandings persist because both parties try to *solve* before either has *defined* what's actually contested. The 5 Whys works on people too, with the framing softened.
+- **Relationships and communication:** misunderstandings persist because both parties try to *solve* before either has *defined* what's actually contested. [[entities/dale-carnegie|Carnegie]]'s principles operationalize this: [[concepts/avoid-argument|avoid argument]] (argument is premature solution), [[concepts/let-them-talk|let them talk]] (stay in diagnosis mode), [[concepts/see-their-point-of-view|try honestly to see their point of view]] (understand the other framing before proposing your own), [[concepts/never-say-youre-wrong|never say they're wrong outright]] (you close down their framing before you've understood it). Carnegie's entire influence framework is diagnosis-before-solution applied to human interaction.
 - **Strategy and career:** [[sources/proxima-centauri]] argues that personal ambition fails not because people lack effort but because they're climbing the wrong hill. That's a diagnostic failure at the highest altitude — first-principles failure about what game to play.
 
 The pattern is the same everywhere: **rushed diagnosis is universal, and the cost is paid in silent compounding for years before the symptom returns loud enough to force re-diagnosis.**
@@ -208,6 +208,7 @@ The best problem-solvers are not the ones who arrive at solutions fastest. They 
 - [[concepts/kaizen]] — diagnosis-before-solution as continuous, not heroic
 - [[entities/don-norman]] — explicit advocate of root-cause thinking in design
 - [[entities/sakichi-toyoda]] — originator of 5 Whys; institutionalized this stance at Toyota
+- [[entities/dale-carnegie]] — influence framework as applied diagnosis-before-solution in human interaction
 
 ## Sources
 
@@ -217,4 +218,6 @@ The best problem-solvers are not the ones who arrive at solutions fastest. They 
 - [[sources/critical-thinking-a-practical-guide-to-better-decision-making]] — define-the-question loop
 - [[sources/this-tool-will-help-improve-your-critical-thinking]] — Socratic interrogation
 - [[sources/second-order-thinking]] — Farnam Street on consequences and depth of reasoning
+- [[sources/how-to-win-friends-and-influence-people]] — Carnegie's influence framework as diagnosis-before-solution for human interaction
+
 Good diagnosis often relies on inductive reasoning from observed symptoms and patterns, while solution design may rely more on deductive application of proven principles. Mixing the two without awareness creates weak problem-solving.

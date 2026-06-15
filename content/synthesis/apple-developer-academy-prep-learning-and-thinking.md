@@ -3,8 +3,8 @@ title: "Apple Developer Academy Prep: Learning and Thinking"
 type: synthesis
 tags: [learning, critical-thinking, problem-solving, reasoning, mindset, reading, apple-developer-academy, needs-review]
 created: 2026-06-06
-updated: 2026-06-06
-sources: 20
+updated: 2026-06-15
+sources: 21
 ---
 
 # Apple Developer Academy Prep: Learning and Thinking
@@ -132,6 +132,16 @@ If the goal is preparation rather than admiration, the material suggests five co
 
 These are small practices, but they train the exact machinery the Academy environment will keep exercising.
 
+## What The Academy Is Actually Building: The T-Shaped Developer
+
+A Kohort 7 alumni from [[entities/Apple-Developer-Academy-Indonesia|ADA Indonesia]] names the target profile directly: a [[concepts/t-shaped-developer|T-shaped developer]]. Broad enough to work across product, design, coding, and business. Deep in one area. Comfortable rotating roles across projects.
+
+This clarifies what the "Learning & Thinking" material is really for. The five-layer stack — critical thinking, problem-solving, logic, mindset, reading — is not subject content to be tested. It is the horizontal bar of the T: the general learning machinery that makes someone trainable across all the domains the Academy will rotate them through.
+
+Someone who can only think well about their specialty will hit a wall when they are asked to run the research phase of a design project, sit in a product meeting, or evaluate a teammate's architectural decision. The broader the learning machinery, the more useful the T-shape becomes — because the vertical stroke stays intact while the horizontal bar enables genuine participation across the team.
+
+The selection process reflects this. The online entry test includes logic, programming, design, and business questions in a single sitting — not to find generalists, but to see the shape of each candidate's T. The FGD is not a knowledge test; it is a learning-under-pressure test. The whole stack is being measured at once.
+
 ## The Deeper Point
 
 What makes this material good prep is not that it teaches one framework after another. It teaches a stance toward learning:
@@ -164,6 +174,8 @@ For Apple Developer Academy, that is probably the real selection criterion hidin
 - [[concepts/inferencing]]
 - [[synthesis/building-vocabulary-while-reading]]
 - [[concepts/active-reading]]
+- [[concepts/t-shaped-developer]] — the output profile the Academy is building; this synthesis covers the learning machinery that makes the T-shape trainable
+- [[entities/Apple-Developer-Academy-Indonesia]]
 
 ## Sources
 
@@ -187,3 +199,4 @@ For Apple Developer Academy, that is probably the real selection criterion hidin
 - [[sources/learn-about-how-to-make-inferences-as-you-read]]
 - [[sources/how-to-use-context-clues-to-define-words]]
 - [[sources/how-to-use-word-part-clues-to-define-words]]
+- [[sources/cara-gue-masuk-apple-developer-academy]]

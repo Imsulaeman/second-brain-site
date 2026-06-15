@@ -3,8 +3,8 @@ title: "Empathy"
 type: concept
 tags: [empathy, psychology, design-thinking, education, awareness]
 created: 2026-06-11
-updated: 2026-06-13
-sources: 2
+updated: 2026-06-15
+sources: 3
 ---
 
 Empathy is the choice to feel with another person.
@@ -42,6 +42,14 @@ In the classroom, after Hurricane Harvey hit Houston during an architecture unit
 
 In design, empathy is the required first stage. The Empathize step in [[concepts/design-thinking|design thinking]] only produces useful insight when it reaches the depth of feeling with users rather than collecting data about them. Shallow empathy creates personas that never change decisions. Real empathy changes what gets built.
 
+## Empathy in Group Dynamics
+
+The same capacity that Brown describes in interpersonal connection becomes decisive in collaborative settings. In the [[entities/Apple-Developer-Academy-Indonesia|Apple Developer Academy]] Focus Group Discussion (FGD), applicants are deliberately split into opposing groups and asked to critique each other's solutions. The design creates pressure toward ego and defensiveness. The evaluators are watching for the opposite.
+
+"Empathy over ego" in this context means: listen to the other group's criticism as information, not as attack. Show through body language and response that you can receive an idea without hardening against it. Be curious about *why* they reached a different conclusion, not defensive about *whether* they're right to challenge yours. Be the person who lifts the group's energy when the discussion gets stuck, not the person who needs to be heard loudest.
+
+This is the behavioral extension of Brown's framework: perspective taking and non-judgment are not just interior states — they are visible in how you respond under pressure.
+
 ## Limits
 
 Empathy is not infinite. It is a limited resource that requires choice and energy. It also cannot be performed from a position of superiority. The moment judgment or "at least" enters, the connection is lost.
@@ -56,3 +64,4 @@ The same capacity that lets someone sit with another's pain is what lets designe
 ## Sources
 - [[sources/brene-brown-on-empathy]]
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]]
+- [[sources/cara-gue-masuk-apple-developer-academy]] — FGD dynamics; empathy over ego in group assessment settings

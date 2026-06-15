@@ -3,8 +3,8 @@ title: "Design Thinking"
 type: concept
 tags: [problem-solving, user-research, ux-design, innovation, ideation, empathy, weak]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 1
+updated: 2026-06-15
+sources: 2
 ---
 
 # Design Thinking
@@ -54,6 +54,12 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - **Prototype without hypothesis** — building something to "see what happens" instead of testing a specific belief.
 - **Ignoring constraints** — design thinking optimizes for desirability (users want it), but you also need feasibility (can we build it?) and viability (will it sustain the business?). Purely user-centered design can produce beautiful things no one will pay for or that can't be built.
 
+## Design Thinking as The Dominant Mode at ADA
+
+[[entities/Apple-Developer-Academy-Indonesia|Apple Developer Academy Indonesia]] is built around design thinking to an extent that surprises most applicants. A Kohort 7 alumni described the ratio as roughly **80% research and design, 20% coding** across a typical project cycle. His first project challenge ran for a full month with no coding requirement at all — the entire period was empathize, define, ideate, and prototype. The point was to demonstrate that understanding the problem is harder and more important than building the solution.
+
+This reflects the Academy's selection criteria: applicants who show a strong design thinking mindset in their portfolio and FGD — *how did you arrive at this solution?* — are rated above applicants who only show that they can ship code.
+
 ## When to Use Design Thinking
 
 - Ambiguous problem space — you know something's wrong but not what
@@ -87,3 +93,4 @@ Without the drill, teams define problems at the symptom level and waste the idea
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]] — awareness as the root of empathy and concrete practices that turn noticing into action
 - [[sources/develop-an-eye-for-good-visual-design]] — practical advice for developing an eye for good visual design through observation, journaling, study, and practice
 - [[sources/three-ways-good-design-makes-you-happy-don-norman]] — Norman's three emotional levels of design and why pleasant things work better
+- [[sources/cara-gue-masuk-apple-developer-academy]] — ADA Indonesia Kohort 7 alumni on design thinking as 80% of Academy work; first challenge was pure research with no coding

@@ -1,3 +1,9 @@
+## [2026-06-15] ingest | Cara Gue Masuk Apple Developer Academy — Theo (@theodevoid)
+- ADA Indonesia Kohort 7 alumni live session; selection process, portfolio philosophy, FGD tips, T-shaped developer target
+- Pages created: sources/cara-gue-masuk-apple-developer-academy, entities/Apple-Developer-Academy-Indonesia, concepts/t-shaped-developer, concepts/thinking-out-loud
+- Pages updated: concepts/design-thinking (ADA 80% DT ratio), concepts/empathy (FGD group dynamics), synthesis/apple-developer-academy-prep-design-and-creativity (FGD + portfolio), synthesis/apple-developer-academy-prep-learning-and-thinking (T-shaped developer section)
+- Status: full; no site push (ingest for MCP discussion only)
+
 ## [2026-06-13] ingest | How to Win Friends and Influence People — Part 4 (Complete; All 30 Principles)
 - Read Part 4 Ch 1–9 (all 9 principles): "Be a Leader — How to Change People Without Giving Offense or Arousing Resentment"
 - Pages created: concepts/begin-with-praise, concepts/indirect-criticism, concepts/own-mistakes-first, concepts/ask-instead-of-order, concepts/let-save-face, concepts/praise-every-improvement, concepts/give-fine-reputation, concepts/make-fault-seem-easy, concepts/make-them-glad

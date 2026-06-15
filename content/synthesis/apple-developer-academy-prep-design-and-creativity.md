@@ -3,8 +3,8 @@ title: "Apple Developer Academy Prep: Design and Creativity"
 type: synthesis
 tags: [design, creativity, empathy, iteration, apple-developer-academy, ux-design, creative-confidence]
 created: 2026-06-11
-updated: 2026-06-11
-sources: 9
+updated: 2026-06-15
+sources: 11
 ---
 
 # Apple Developer Academy Prep: Design and Creativity
@@ -47,6 +47,8 @@ The unifying diagnosis: the impulse to close down is universal and often rationa
 [[concepts/empathy|Empathy]] requires something actively uncomfortable: you must locate in yourself some version of what the other person is carrying. Brown's formulation is precise — empathy is not observation from a distance, it is climbing down into the hole with someone. That requires vulnerability, and vulnerability requires suspending the self-protective urge to stay at the top with a sandwich.
 
 [[entities/jonathan-juravich|Juravich]] adds the operational layer: this capacity starts with awareness of your own emotional state. You cannot recognize another person's frustration if you are not practiced at noticing your own. His daily prompts — name a moment of pride, frustration, excitement from your day — are not sentimental exercises. They are rehearsals for the empathic act of noticing without judging.
+
+[[entities/dale-carnegie|Carnegie]] completes the loop at the behavioral level. Brown defines what empathy *is*; Juravich builds the inner awareness to *feel* it; Carnegie's principles — [[concepts/see-their-point-of-view|try honestly to see things from the other person's point of view]], [[concepts/active-listening|listen and encourage others to talk about themselves]], [[concepts/talk-in-terms-of-interests|talk in terms of the other person's interests]] — are the social-behavioral techniques for *acting on it* in real interaction. The three layers are not redundant: you can understand empathy theoretically, cultivate self-awareness daily, and still fail at the moment of actual conversation if you lack the behavioral habits Carnegie describes.
 
 For product design specifically, the empathize stage of [[concepts/design-thinking|design thinking]] only produces useful insight when it reaches this depth. Shallow empathy produces personas that describe users without understanding them — and never changes what gets built.
 
@@ -117,13 +119,35 @@ Once a day, notice something in your environment that feels off or unusually rig
 **Iteration drill.**
 For any project you are working on, identify what you would learn from putting it in front of a real user tomorrow — not when it is perfect, but now. What would change in your next version based on what they did or felt?
 
+## What The FGD Is Actually Testing
+
+The sources above describe what the Academy wants to develop. A Kohort 7 alumni from ADA Indonesia has confirmed what the selection process is actually testing in the [[entities/Apple-Developer-Academy-Indonesia|Focus Group Discussion]] — and the alignment is almost exact.
+
+The FGD splits applicants into two groups, has each build a solution to the essay topic, then has the groups exchange criticism. The three formal criteria are creativity, collaboration, and communication. But beneath those labels, the evaluators are watching for the same four capacities.
+
+**Empathy in the FGD** means "empathy over ego" — not treating the session as a debate to win, but treating criticism from the other group as information from a different vantage point. Group tension is built into the format deliberately; the question is whether you harden against it or stay open to it. Listen actively. Show that you're receiving ideas, not just tolerating them. If someone critiques your proposal, ask *why* they think their approach is stronger — genuinely. Don't shut down and don't go defensive.
+
+**Divergent thinking in the FGD** is not about generating many ideas openly but about not being captured by your own first idea. The group that anchors too hard on its first solution and defends it against all challenges has stopped generating. The stronger move is to treat criticism as new input and let your solution evolve.
+
+**Thinking out loud** is the perceptual sensitivity applied to your own reasoning — making your framework visible to the group rather than only surfacing conclusions. The alumni's formulation: *"The goal isn't to find the best answer. The goal is to find the best way to an answer."* Your idea may not be chosen. But if the team could see how you approached the problem — what you noticed, what angles you considered, how you handled not knowing — that is what gets remembered. Don't be someone who produces outputs silently and reveals them only when complete.
+
+**Don't kill the vibe** is iteration at the social level. The same way iterative development asks you to treat your current design as a hypothesis rather than an achievement, the FGD asks you to treat the group's current dynamic as something to maintain and improve — not something to win over. Be someone who can raise the energy when the discussion stalls. Be the person who makes thinking easier for everyone in the room, not harder.
+
+## Portfolio as Design Practice
+
+The portfolio section of the online application is a direct test of the same capacities. The most common mistake is treating it as an app gallery. The alumni's reframe is crisp: **don't start from what technology you used; start from what problem your product solves and how.**
+
+A Figma mockup that walks through the full problem-solving process — empathy research, problem definition, ideation, prototype rationale — is stronger than a shipped app that jumps from "I had an idea" to "here is the code." A YouTube channel that shows a sustained passion for teaching is stronger than a to-do list app that shows only that you followed a tutorial.
+
+The portfolio is the Academy's first window into how you think, not what you've built. Show the process, not just the artifact.
+
 ## The Deeper Point
 
 The Design & Creativity section is not a softer version of the other sections. It is asking whether you can apply the same learning discipline from the Learning & Thinking section — stay open, diagnose before solving, revise based on evidence — to a domain where the feedback is emotional and embodied rather than logical and propositional.
 
 Users do not tell you what is wrong in well-formed arguments. They feel something, hesitate somewhere, abandon the flow at a point that reveals something important. The designer's job is to notice what the user could not articulate. That requires all four of the capacities this section is training — and the willingness to stay uncertain long enough for the signal to become visible.
 
-That is what the Academy is selecting for in this section: not artistic talent, but epistemic patience.
+What the FGD makes clear is that the Academy is not only selecting for people who think this way about users. It is selecting for people who bring the same posture to their own teams and collaborative processes. Epistemic patience in design. Epistemic patience in collaboration. The same capacity, applied outward to users and inward to teammates.
 
 ## Connections
 
@@ -133,6 +157,9 @@ That is what the Academy is selecting for in this section: not artistic talent, 
 - [[concepts/creative-confidence]]
 - [[concepts/divergent-thinking]]
 - [[concepts/empathy]]
+- [[concepts/see-their-point-of-view]]
+- [[concepts/active-listening]]
+- [[concepts/talk-in-terms-of-interests]]
 - [[concepts/design-thinking]]
 - [[concepts/emotional-design]]
 - [[concepts/iterative-development]]
@@ -140,6 +167,9 @@ That is what the Academy is selecting for in this section: not artistic talent, 
 - [[concepts/focused-vs-diffuse-thinking]]
 - [[concepts/insight-vs-analytical-thinking]]
 - [[concepts/self-efficacy]]
+- [[concepts/thinking-out-loud]] — making reasoning visible in the FGD
+- [[concepts/t-shaped-developer]] — the profile the Academy is selecting for; this section trains the breadth axis
+- [[entities/Apple-Developer-Academy-Indonesia]]
 
 ## Sources
 
@@ -147,8 +177,10 @@ That is what the Academy is selecting for in this section: not artistic talent, 
 - [[sources/the-science-behind-creativity]]
 - [[sources/do-schools-kill-creativity]]
 - [[sources/creativity-insight-and-eureka-moments]]
+- [[sources/how-to-win-friends-and-influence-people]]
 - [[sources/brene-brown-on-empathy]]
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]]
 - [[sources/three-ways-good-design-makes-you-happy-don-norman]]
 - [[sources/develop-an-eye-for-good-visual-design]]
 - [[sources/what-is-iterative-development]]
+- [[sources/cara-gue-masuk-apple-developer-academy]]
