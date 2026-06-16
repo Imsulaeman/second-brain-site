@@ -1,3 +1,9 @@
+## [2026-06-16] ingest | How to Get Rich — Naval Ravikant
+- Primary source for Naval's tweet storm (~3.5hr transcript); goes deeper than the Almanack on luck taxonomy, builder/seller, network effects, principal-agent, and ethics
+- Pages created: sources/how-to-get-rich, concepts/four-types-of-luck, concepts/network-effects, concepts/learn-to-sell-learn-to-build
+- Pages updated: entities/naval-ravikant (rewritten, 2 sources), concepts/specific-knowledge (weak tag removed, 4 sources), concepts/permissionless-leverage (weak tag removed, 3 sources), synthesis/my-specific-knowledge-map (Naval loop deepened), index (1 source + 4 concepts)
+- Status: full
+
 ## [2026-06-15] ingest | Cara Gue Masuk Apple Developer Academy — Theo (@theodevoid)
 - ADA Indonesia Kohort 7 alumni live session; selection process, portfolio philosophy, FGD tips, T-shaped developer target
 - Pages created: sources/cara-gue-masuk-apple-developer-academy, entities/Apple-Developer-Academy-Indonesia, concepts/t-shaped-developer, concepts/thinking-out-loud

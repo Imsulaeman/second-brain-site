@@ -28,7 +28,7 @@ That shows up in five loops:
 1. **Learning loop** - become more capable through [[sources/advice-on-upskilling|serious upskilling]], [[concepts/prereq-mastery|prerequisite mastery]], [[concepts/deliberate-practice|deliberate practice]], and [[concepts/learning-is-memory|deep memory]].
 2. **Market loop** - survive uncertainty through [[sources/the-complete-collection-howard-marks|Howard Marks]], [[concepts/second-order-thinking|second-order thinking]], [[concepts/trading-edge|edge]], [[concepts/position-sizing|position sizing]], and [[concepts/ergodicity|ruin avoidance]].
 3. **AI leverage loop** - use [[sources/ramping-your-coding-output-with-openai-codex|Codex and agentic workflows]] to turn judgment, planning, and review into more output.
-4. **Naval loop** - aim effort toward [[concepts/specific-knowledge|specific knowledge]], [[concepts/permissionless-leverage|permissionless leverage]], accountability, ownership, and long-term games.
+4. **Naval loop** - aim effort toward [[concepts/specific-knowledge|specific knowledge]], [[concepts/permissionless-leverage|permissionless leverage]], accountability, ownership, long-term games; move up the [[concepts/four-types-of-luck|luck ladder]] from hustle luck to character/destiny luck; develop [[concepts/learn-to-sell-learn-to-build|both build and sell]] capabilities.
 5. **Writing/synthesis loop** - convert scattered inputs into reusable thinking through essays, articulation, and cross-domain synthesis.
 
 ```mermaid
@@ -41,7 +41,7 @@ flowchart TD
     B --> B1["Learning how to learn"]
     B --> B2["Decision-making under uncertainty"]
     B --> B3["AI-assisted building"]
-    B --> B4["Wealth, leverage, ownership"]
+    B --> B4["Wealth, leverage, ownership, luck architecture"]
     B --> B5["Writing and synthesis"]
 
     C --> C1["AI-augmented learner-builder-investor"]
@@ -59,7 +59,7 @@ flowchart TD
 | [[sources/the-complete-collection-howard-marks|Marks / investing]] | You are drawn to judgment under uncertainty | Risk awareness, cycle thinking, price/value discipline | Becoming too abstract or too cautious | Investment/trading checklist, cycle notes, risk journal |
 | [[synthesis/beginner-trader-investor-learning-path|Trading]] | You want an applied arena where feedback is real and ego is punished | Edge, sizing, emotional discipline, probabilistic thinking | Overtrading, leverage, mistaking luck for skill | Small-size journaled experiments |
 | [[sources/ramping-your-coding-output-with-openai-codex|AI coding]] | You want leverage over execution | Ability to build tools, automate workflows, increase output | Delegating judgment instead of execution | Agents, scripts, dashboards, wiki tools |
-| [[sources/the-almanack-of-naval-ravikant|Naval]] | You want a philosophy for wealth, freedom, and personal fit | Direction: specific knowledge + leverage + long-term games | Staying at aphorism level | Personal operating principles |
+| [[sources/the-almanack-of-naval-ravikant|Naval (Almanack)]] + [[sources/how-to-get-rich|How to Get Rich]] | You want a philosophy for wealth, freedom, and personal fit | Direction: specific knowledge + leverage + accountability + [[concepts/four-types-of-luck\|four types of luck]] + build/sell duality | Staying at aphorism level | Personal operating principles |
 | [[sources/how-to-articulate-yourself-intelligently|Writing / articulation]] | You want to make your thinking legible and reusable | Communication, public assets, clearer thinking | Consuming more than producing | Essays, memos, synthesis pages |
 
 The strongest repeated signal: **you keep choosing sources about compounding capability.** Not random self-help, not random market tips, not random coding tutorials. The sources cluster around durable capability: learning, judgment, leverage, risk control, synthesis, and self-direction.
@@ -260,8 +260,11 @@ This page should be revisited after another 10-20 ingested sources and after you
 ## Sources
 
 - [[sources/the-almanack-of-naval-ravikant]]
+- [[sources/how-to-get-rich]]
 - [[concepts/specific-knowledge]]
 - [[concepts/permissionless-leverage]]
+- [[concepts/four-types-of-luck]]
+- [[concepts/learn-to-sell-learn-to-build]]
 - [[sources/ramping-your-coding-output-with-openai-codex]]
 - [[concepts/agentic-coding-workflows]]
 - [[sources/advice-on-upskilling]]
