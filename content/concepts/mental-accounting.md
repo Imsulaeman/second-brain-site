@@ -12,7 +12,7 @@ Mental accounting (Richard Thaler, via Kahneman) is how Humans — not Econs —
 ## Key patterns
 
 - **Sunk-cost fallacy:** paid ticket → drive through blizzard; lost cash → skip show (same economic loss, different account)
-- **Disposition effect:** sell winners, hold losers — close accounts at a gain; rational agent sells worst future prospect
+- **Disposition effect:** sell winners, hold losers — [[concepts/loss-aversion|loss aversion]] makes realizing losses painful; rational agent sells worst future prospect
 - **House money effect / keeping score:** prior gains change risk tolerance
 - **Regret and omission vs commission:** worse to act and fail than to default and fail
 

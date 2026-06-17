@@ -45,7 +45,7 @@ Munger's **[[concepts/psychology-of-human-misjudgment]]** catalogs 25 standard c
 3. Doubt-Avoidance + Inconsistency-Avoidance — rush to conclusions, then refuse to change them
 4. Reciprocation — subconscious debt from favors; exploited by compliance practitioners
 5. Social Proof — follow the crowd, especially under stress
-6. Deprival-Superreaction — loss aversion on steroids; drives gambling compulsion and sunk-cost escalation
+6. Deprival-Superreaction — [[concepts/loss-aversion|loss aversion]] on steroids; drives gambling compulsion and sunk-cost escalation
 7. Contrast-Misreaction — small incremental changes mask trends toward disaster
 8. Excessive Self-Regard — overestimate yourself, your possessions, your conclusions
 9. Availability-Misweighing — overweight vivid/recent data; antidote is checklists

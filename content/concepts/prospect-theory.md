@@ -15,7 +15,7 @@ Outcomes are coded as **gains and losses** relative to a reference point (status
 
 ## Three core features
 
-1. **Loss aversion:** losses loom ~2× larger than equivalent gains. Explains risk aversion for gains (take $900 sure over 90% of $1000) and risk seeking for losses (gamble to avoid sure $900 loss).
+1. **[[concepts/loss-aversion|Loss aversion]]:** losses loom ~2× larger than equivalent gains. Explains risk aversion for gains (take $900 sure over 90% of $1000) and risk seeking for losses (gamble to avoid sure $900 loss).
 
 2. **Diminishing sensitivity:** marginal value decreases for both gains and losses — concave gains, convex losses.
 
@@ -28,5 +28,6 @@ Endowment effect (mugs study), fourfold pattern (certainty effect, possibility e
 ## Sources
 
 - [[sources/thinking-fast-and-slow]]
+- [[concepts/loss-aversion]]
 - [[concepts/framing-effects]]
 - [[concepts/mental-accounting]]

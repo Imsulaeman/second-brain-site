@@ -69,7 +69,7 @@ Light: "Whenever I have a trade idea that feels good, the way I actually spend t
 
 ## Trade Journal as the Feedback Loop
 
-Cognitive biases from volatility — loss aversion, anchoring to high-water marks, the emotional memory of wins and losses — make unassisted memory unreliable as a learning tool. A trade journal (entry thesis, invalidation level, size rationale, exit) is how a discretionary trader creates a record that can actually be reviewed.
+Cognitive biases from volatility — [[concepts/loss-aversion|loss aversion]], anchoring to high-water marks, the emotional memory of wins and losses — make unassisted memory unreliable as a learning tool. A trade journal (entry thesis, invalidation level, size rationale, exit) is how a discretionary trader creates a record that can actually be reviewed.
 
 Without it, you cannot do leak-finding: identifying which parts of your process are structurally costing you. Light's comparison: trading without a journal is like playing poker without hand histories. You keep making the same structural mistakes because you never see the pattern. Find the big leaks first — the spots where you are losing in obvious ways — before worrying about fine-grained edge cases.
 

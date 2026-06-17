@@ -45,7 +45,7 @@ This connects to [[concepts/inversion]] and [[concepts/second-order-thinking]]: 
 
 ### Trade journal as the feedback mechanism
 
-Cognitive biases from volatility — loss aversion, anchoring to high-water marks, prospect theory — make memory unreliable as a learning tool. Without a recorded log of trades (entry thesis, invalidation level, size rationale, exit) a discretionary trader cannot do leak-finding. Light's comparison: trading without a journal is like poker without hand histories. You keep making the same mistakes because you never see the pattern.
+Cognitive biases from volatility — [[concepts/loss-aversion|loss aversion]], anchoring to high-water marks, [[concepts/prospect-theory|prospect theory]] — make memory unreliable as a learning tool. Without a recorded log of trades (entry thesis, invalidation level, size rationale, exit) a discretionary trader cannot do leak-finding. Light's comparison: trading without a journal is like poker without hand histories. You keep making the same mistakes because you never see the pattern.
 
 The leak-finding priority matters too. Find the structural leaks first — the spots where you are hemorrhaging EV in obvious ways — before worrying about fine-grained execution improvements. A trader obsessing over whether to call or fold on a specific run-out while systematically opening weak hands from bad position is fixing the wrong problem.
 

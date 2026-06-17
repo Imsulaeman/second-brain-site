@@ -67,4 +67,4 @@ Munger's magnum opus: a taxonomy of 25 standard causes of human misjudgment, dev
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-- [[sources/thinking-fast-and-slow]] — experimental psychology parallel: anchoring, availability, loss aversion, overconfidence, outcome bias
+- [[sources/thinking-fast-and-slow]] — experimental psychology parallel: anchoring, availability, [[concepts/loss-aversion]], overconfidence, outcome bias

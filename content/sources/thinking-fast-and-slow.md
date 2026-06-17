@@ -31,7 +31,7 @@ Narrative fallacy (via Taleb): coherent stories after the fact. **Hindsight bias
 
 ## Part IV — Choices
 
-Bernoulli's error: utility attaches to wealth states, but people feel **gains and losses** relative to a **reference point**. [[concepts/prospect-theory]] (Kahneman & Tversky, 1979): loss aversion (~2:1), diminishing sensitivity, probability weighting (overweight small probabilities). **Endowment effect**, fourfold pattern (certainty effect, possibility effect), **framing** ([[concepts/framing-effects]]), mental accounting ([[concepts/mental-accounting]]), sunk costs, disposition effect, regret and omission vs commission.
+Bernoulli's error: utility attaches to wealth states, but people feel **gains and losses** relative to a **reference point**. [[concepts/prospect-theory]] (Kahneman & Tversky, 1979): [[concepts/loss-aversion|loss aversion]] (~2:1), diminishing sensitivity, probability weighting (overweight small probabilities). **Endowment effect**, fourfold pattern (certainty effect, possibility effect), **framing** ([[concepts/framing-effects]]), mental accounting ([[concepts/mental-accounting]]), sunk costs, disposition effect, regret and omission vs commission.
 
 Humans are not Econs; Thaler's **nudge** and libertarian paternalism follow directly.
 
@@ -47,4 +47,4 @@ Kahneman grounds [[concepts/probability-blindness]], sharpens [[concepts/decisio
 
 **Entities:** [[entities/Daniel-Kahneman]], [[entities/Amos-Tversky]]
 
-**Concepts:** [[concepts/system-1-vs-system-2]], [[concepts/wysiati]], [[concepts/substitution-heuristic]], [[concepts/anchoring-effect]], [[concepts/availability-heuristic]], [[concepts/base-rate-neglect]], [[concepts/law-of-small-numbers]], [[concepts/regression-to-the-mean]], [[concepts/halo-effect]], [[concepts/hindsight-bias]], [[concepts/planning-fallacy]], [[concepts/premortem]], [[concepts/prospect-theory]], [[concepts/framing-effects]], [[concepts/mental-accounting]], [[concepts/experiencing-vs-remembering-self]]
+**Concepts:** [[concepts/system-1-vs-system-2]], [[concepts/wysiati]], [[concepts/substitution-heuristic]], [[concepts/anchoring-effect]], [[concepts/availability-heuristic]], [[concepts/base-rate-neglect]], [[concepts/law-of-small-numbers]], [[concepts/regression-to-the-mean]], [[concepts/halo-effect]], [[concepts/hindsight-bias]], [[concepts/planning-fallacy]], [[concepts/premortem]], [[concepts/prospect-theory]], [[concepts/loss-aversion]], [[concepts/framing-effects]], [[concepts/mental-accounting]], [[concepts/experiencing-vs-remembering-self]]

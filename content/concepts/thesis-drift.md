@@ -15,7 +15,7 @@ The term appears in [[sources/art-of-trading-with-light-su-zhu-and-hasu]] as a s
 
 ## Why It Happens
 
-Thesis drift is a form of loss aversion operating through rationalization. Admitting a thesis is wrong means realizing a loss. Instead of doing that, the mind generates a new reason to hold — one that is conveniently less falsifiable. "I'm early, not wrong" and "the market hasn't understood the narrative yet" are common drift phrases.
+Thesis drift is a form of [[concepts/loss-aversion|loss aversion]] operating through rationalization. Admitting a thesis is wrong means realizing a loss. Instead of doing that, the mind generates a new reason to hold — one that is conveniently less falsifiable. "I'm early, not wrong" and "the market hasn't understood the narrative yet" are common drift phrases.
 
 The related failure mode is **timeframe conflation**: a trade entered as a short-term momentum play gets silently reclassified as a long-term investment after the short-term thesis fails. The position hasn't changed; only its justification has. Light's formulation in the source: a trader enters a 1-week trade, it doesn't work, and they say "actually, this is a 1-year trade." The decision to extend the timeframe was never consciously made.
 
