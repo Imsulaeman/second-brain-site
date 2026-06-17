@@ -13,7 +13,7 @@ export default function GraphPage() {
           <h1 className="mt-3 font-display text-4xl text-palace-text md:text-5xl">The visible map.</h1>
         </div>
         <p className="hidden max-w-sm text-sm leading-6 text-palace-muted md:block">
-          Drag nodes, zoom the room, and click any point to open its note.
+          Drag nodes, scroll or pinch to zoom, use +/− to go further, and click any point to open its note.
         </p>
       </section>
       <section className="mx-auto min-h-[620px] w-full max-w-7xl flex-1 px-4 pb-8 sm:px-6 lg:px-8">

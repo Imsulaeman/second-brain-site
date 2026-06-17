@@ -13,8 +13,15 @@ const TYPE_COLORS: Record<string, string> = {
   overview: '#6b7a99',
 }
 
+const MIN_ZOOM = 0.08
+const MAX_ZOOM = 12
+const ZOOM_STEP = 1.4
+const FIT_PADDING = 48
+const NODE_PADDING = 22
+
 export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
   const svgRef = useRef<SVGSVGElement>(null)
+  const zoomApiRef = useRef<{ zoomIn: () => void; zoomOut: () => void; fit: () => void } | null>(null)
   const router = useRouter()
 
   useEffect(() => {
@@ -28,7 +35,8 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     svg.selectAll('*').remove()
     const g = svg.append('g')
     const zoom = d3.zoom<SVGSVGElement, unknown>()
-      .scaleExtent([0.3, 3])
+      .scaleExtent([MIN_ZOOM, MAX_ZOOM])
+      .wheelDelta((event) => -event.deltaY * (event.deltaMode === 1 ? 0.05 : event.deltaMode ? 1 : 0.002) * 1.6)
       .on('zoom', (event) => g.attr('transform', event.transform))
 
     svg.call(zoom)
@@ -129,7 +137,7 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       return largestComponent.size ? largestComponent : nodeIds
     }
 
-    const recenterGraph = () => {
+    const fitToView = (animate = false) => {
       if (!simNodes.length) return
 
       const primaryComponentIds = getPrimaryComponentIds()
@@ -138,16 +146,37 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       const ys = fittingNodes.map((datum: any) => datum.y).filter((value): value is number => Number.isFinite(value))
       if (!xs.length || !ys.length) return
 
-      const minX = Math.min(...xs)
-      const maxX = Math.max(...xs)
-      const minY = Math.min(...ys)
-      const maxY = Math.max(...ys)
+      const minX = Math.min(...xs) - NODE_PADDING
+      const maxX = Math.max(...xs) + NODE_PADDING
+      const minY = Math.min(...ys) - NODE_PADDING
+      const maxY = Math.max(...ys) + NODE_PADDING
+      const bboxWidth = Math.max(maxX - minX, 1)
+      const bboxHeight = Math.max(maxY - minY, 1)
+      const scale = Math.min(
+        (width - FIT_PADDING * 2) / bboxWidth,
+        (height - FIT_PADDING * 2) / bboxHeight,
+        MAX_ZOOM,
+      )
+      const clampedScale = Math.max(MIN_ZOOM, scale)
       const centerX = (minX + maxX) / 2
       const centerY = (minY + maxY) / 2
-      const translateX = width / 2 - centerX
-      const translateY = height / 2 - centerY
+      const transform = d3.zoomIdentity
+        .translate(width / 2, height / 2)
+        .scale(clampedScale)
+        .translate(-centerX, -centerY)
 
-      svg.call(zoom.transform, d3.zoomIdentity.translate(translateX, translateY).scale(1))
+      const target = animate ? svg.transition().duration(220) : svg
+      target.call(zoom.transform, transform)
+    }
+
+    const zoomBy = (factor: number) => {
+      svg.transition().duration(180).call(zoom.scaleBy, factor)
+    }
+
+    zoomApiRef.current = {
+      zoomIn: () => zoomBy(ZOOM_STEP),
+      zoomOut: () => zoomBy(1 / ZOOM_STEP),
+      fit: () => fitToView(true),
     }
 
     simulation.on('tick', () => {
@@ -157,13 +186,53 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     simulation.stop()
     for (let index = 0; index < 90; index += 1) simulation.tick()
     render()
-    recenterGraph()
+    fitToView()
     simulation.alpha(0.22).restart()
 
     return () => {
       simulation.stop()
+      zoomApiRef.current = null
     }
   }, [edges, nodes, router])
 
-  return <svg ref={svgRef} className="h-full w-full" role="img" aria-label="Interactive graph of note links" />
+  return (
+    <div className="relative h-full w-full">
+      <svg ref={svgRef} className="h-full w-full" role="img" aria-label="Interactive graph of note links" />
+      <div className="pointer-events-none absolute right-3 top-3 flex flex-col gap-1.5">
+        <button
+          type="button"
+          aria-label="Zoom in"
+          className="btn-press pointer-events-auto flex h-9 w-9 items-center justify-center rounded-md border border-palace-border bg-palace-bg/80 font-mono text-lg leading-none text-palace-text backdrop-blur-sm transition-colors hover:border-palace-gold/60"
+          onClick={() => zoomApiRef.current?.zoomIn()}
+        >
+          +
+        </button>
+        <button
+          type="button"
+          aria-label="Zoom out"
+          className="btn-press pointer-events-auto flex h-9 w-9 items-center justify-center rounded-md border border-palace-border bg-palace-bg/80 font-mono text-lg leading-none text-palace-text backdrop-blur-sm transition-colors hover:border-palace-gold/60"
+          onClick={() => zoomApiRef.current?.zoomOut()}
+        >
+          −
+        </button>
+        <button
+          type="button"
+          aria-label="Fit graph to view"
+          className="btn-press pointer-events-auto flex h-9 w-9 items-center justify-center rounded-md border border-palace-border bg-palace-bg/80 text-palace-text backdrop-blur-sm transition-colors hover:border-palace-gold/60"
+          onClick={() => zoomApiRef.current?.fit()}
+        >
+          <svg viewBox="0 0 16 16" className="h-4 w-4" aria-hidden="true">
+            <path
+              d="M2 5V2h3M11 2h3v3M14 11v3h-3M5 14H2v-3"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  )
 }
