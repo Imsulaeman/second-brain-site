@@ -3,8 +3,8 @@ title: "Decision Quality vs Outcome"
 type: concept
 tags: [decision-making, probability, investing, uncertainty, howard-marks]
 created: 2026-05-10
-updated: 2026-06-06
-sources: 3
+updated: 2026-06-18
+sources: 4
 ---
 
 # Decision Quality vs Outcome
@@ -27,6 +27,14 @@ When judging a decision, ask:
 ## Why It Matters
 
 Outcome bias makes people over-credit winners and over-blame losers. In investing, this can cause managers to abandon good processes after temporary losses, imitate lucky winners, or mistake a single success for skill.
+
+## Outcome Bias and Hindsight
+
+Kahneman names the same failure in [[sources/thinking-fast-and-slow]]: **outcome bias** judges a decision by whether the result was good or bad, not whether the process was sound at the time. After a low-risk surgery ends in a fatal accident, jurors treat the operation as if the risk were obvious in advance — "handwriting on the wall" written in invisible ink that became legible only afterward.
+
+The worse the consequence, the stronger the hindsight distortion. Catastrophes trigger negligence narratives even when officials followed reasonable procedures under uncertainty. That pushes decision makers toward bureaucratic risk aversion and defensive documentation — and paradoxically can reward reckless gamblers who got lucky: a few winning bets crown a leader with a halo of foresight while sensible skeptics look timid in retrospect.
+
+Outcome bias pairs with the [[concepts/halo-effect|halo effect]] in business books that mine successful companies for management morals — the strategy looked brilliant because the stock went up. Kahneman's antidote matches Taleb's: judge against the information and alternatives available *before* the die was cast; use [[concepts/premortem|premortems]] and decision journals that freeze the pre-outcome view.
 
 This concept overlaps with [[concepts/active-management-as-error-detection]] because active investors must distinguish sound reasoning from lucky outcomes, and with [[concepts/ergodicity]] because survival depends on paths, not just average results.
 
@@ -68,5 +76,6 @@ Without it, you cannot do leak-finding: identifying which parts of your process 
 ## Sources
 
 - [[sources/fooled-by-randomness]] — Primary source for alternative histories and luck disguised as skill.
+- [[sources/thinking-fast-and-slow]] — outcome bias, hindsight contamination, halo + outcome in success studies, premortem as fix.
 - [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]] — Timeframe conflation, nullification approach, and trade journal as the feedback mechanism.

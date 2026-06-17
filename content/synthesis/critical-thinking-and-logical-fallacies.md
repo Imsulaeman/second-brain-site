@@ -1,9 +1,9 @@
 ---
 title: "Critical Thinking and Logical Fallacies"
 type: synthesis
-tags: [critical-thinking, logic, fallacies, reasoning, decision-making]
+tags: [critical-thinking, logic, fallacies, reasoning, decision-making, needs-review]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-18
 sources: 8
 ---
 

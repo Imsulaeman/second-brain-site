@@ -1,3 +1,9 @@
+## [2026-06-18] ingest | Thinking, Fast and Slow — Daniel Kahneman
+- Full EPUB read (5 parts, 48 chapters); 15 new concept pages, source summary, 2 entities; integration pass via MCP search + cross-links to Munger/Taleb/Range/Epstein cluster
+- Pages created: 18 (1 source, 2 entities, 15 concepts)
+- Pages updated: 8 (system-1-vs-system-2, inside-view-outside-view, probability-blindness, decision-quality-vs-outcome, kind-vs-wicked-learning-environments, deliberate-practice, psychology-of-human-misjudgment, critical-thinking-and-logical-fallacies needs-review)
+- Status: full
+
 ## [2026-06-18] ingest | Range: Why Generalists Triumph — David Epstein
 - Full EPUB read (intro + 12 chapters + conclusion); 13 new concept pages, source summary, 2 entities; integration pass via MCP search/find_related
 - Pages created: 16 (1 source, 2 entities, 13 concepts)

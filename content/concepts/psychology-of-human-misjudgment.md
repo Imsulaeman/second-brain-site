@@ -3,8 +3,8 @@ title: "Psychology of Human Misjudgment"
 type: concept
 tags: [psychology, cognitive-bias, decision-making, checklist, charles-munger]
 created: 2026-05-19
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-18
+sources: 2
 ---
 
 # Psychology of Human Misjudgment
@@ -61,8 +61,10 @@ Munger's magnum opus: a taxonomy of 25 standard causes of human misjudgment, dev
 - [[concepts/confidence-cycle]] — the market version of oscillating psychological tendencies
 - [[concepts/second-order-thinking]] — required to see past the first-order pull of these tendencies
 - [[concepts/criticism-is-futile]] — Carnegie's empirical finding maps directly onto Tendency #3 (Disliking/Hating): criticism activates the hating tendency, causing the target to ignore virtues, distort facts, and dig in; Tendency #9 (Reciprocation) explains why the triggered resentment compounds — the person now looks for ways to strike back
+- [[concepts/system-1-vs-system-2]] — Kahneman's experimental map of the automatic machinery Munger inventories by anecdote
+- [[concepts/probability-blindness]] — Taleb's market framing of the same errors Kahneman measures in the lab
 
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
-Many of Munger's misjudgment tendencies involve failures in inductive or deductive reasoning — over-extrapolating from small samples (inductive failure) or applying rules without checking their validity in context (deductive failure).
+- [[sources/thinking-fast-and-slow]] — experimental psychology parallel: anchoring, availability, loss aversion, overconfidence, outcome bias

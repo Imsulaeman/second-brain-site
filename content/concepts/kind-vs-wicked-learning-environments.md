@@ -4,7 +4,7 @@ type: concept
 tags: [learning, expertise, decision-making, david-epstein]
 created: 2026-06-18
 updated: 2026-06-18
-sources: 1
+sources: 2
 ---
 
 Psychologist Robin Hogarth divided learning environments into two types. The labels sound cute; the distinction explains when experience makes you better and when it makes you confidently wrong.
@@ -40,3 +40,4 @@ Epstein calls most of real life "Martian tennis": you see something like a game,
 ## Sources
 
 - [[sources/range-why-generalists-triumph]]
+- [[sources/thinking-fast-and-slow]] — Kahneman–Klein joint paper resolving the expert-intuition paradox; kind vs wicked as the boundary condition
