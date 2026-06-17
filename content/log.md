@@ -1,3 +1,10 @@
+## [2026-06-18] ingest | Range: Why Generalists Triumph — David Epstein
+- Full EPUB read (intro + 12 chapters + conclusion); 13 new concept pages, source summary, 2 entities; integration pass via MCP search/find_related
+- Pages created: 16 (1 source, 2 entities, 13 concepts)
+- Pages updated: 10 (polymath, specialization, deliberate-practice, grit, t-shaped-developer, man-with-a-hammer-syndrome, chunking, spaced-repetition, einstellung-effect, Isaiah-Berlin)
+- Lint: Pass 1 clean on broken links/orphans; removed `weak` from deliberate-practice
+- Status: full
+
 ## [2026-06-18] ingest | The Polymath — Peter Burke
 - 353-page PDF read in full; cultural history of 500 Western polymaths 1400–2000; five ages
 - Pages created: sources/the-polymath-peter-burke, concepts/polymath, concepts/specialization, concepts/information-overload, concepts/pansophia, concepts/interdisciplinarity, entities/Peter-Burke, entities/Leonardo-da-Vinci, entities/Gottfried-Wilhelm-Leibniz, entities/Isaiah-Berlin, entities/Jan-Amos-Comenius, entities/Susan-Sontag

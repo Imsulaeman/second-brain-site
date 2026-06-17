@@ -4,7 +4,7 @@ type: concept
 tags: [knowledge, expertise, institutions, history]
 created: 2026-06-17
 updated: 2026-06-17
-sources: 1
+sources: 2
 ---
 
 Specialization is the historical process by which the production of knowledge became organized into distinct, bounded fields — each with its own methods, journals, departments, and professional gatekeepers. It is not a natural state of intellectual life. It is an institutional outcome, and it happened in two identifiable waves.
@@ -37,6 +37,13 @@ Specialization sits in direct tension with the [[concepts/polymath]] ideal, and 
 
 [[concepts/specific-knowledge|Specific knowledge]] in Naval's framing pushes toward the specialist end: depth that is hard to replicate is leverage. The polymath tradition pushes back: the cross-domain fox sees connections the hedgehog's specialists never find.
 
+## When specialization backfires
+
+Epstein's [[sources/range-why-generalists-triumph|*Range*]] documents costs Burke's institutional history implies but does not stress empirically. The 2008 financial crisis exposed siloed risk models; cardiac patients fared better when top cardiologists were away at conferences. Chris Argyris found consultants trained in narrow business-school problems used single-loop learning and brittle defenses when wicked reality intruded. Casadevall's "parallel trenches" in science — macrophage people who won't review B-cell grants — mirror the same structure.
+
+Early hyperspecialization can win in [[concepts/kind-vs-wicked-learning-environments|kind environments]] (chess, golf, routine surgery). In wicked environments, [[concepts/sampling-period|sampling]], [[concepts/match-quality|match-quality]] search, and [[concepts/outside-in-thinking|outside-in]] problem solving outperform the cult of the head start.
+
 ## Sources
 
 - [[sources/the-polymath-peter-burke]]
+- [[sources/range-why-generalists-triumph]] — wicked vs kind domains; costs of siloed expertise; early specialization as institutional default, not natural law

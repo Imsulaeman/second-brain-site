@@ -4,7 +4,7 @@ type: concept
 tags: [mental-models, thinking, cognitive-bias, charles-munger]
 created: 2026-05-19
 updated: 2026-06-09
-sources: 1
+sources: 2
 ---
 
 # Man-with-a-Hammer Syndrome
@@ -38,6 +38,9 @@ This is closely related to the [[concepts/einstellung-effect]], but Munger's ver
 - [[concepts/second-order-thinking]]
 - [[concepts/polymath]] — man-with-a-hammer is the pathological hedgehog; the [[concepts/specialization|specialist-first]] institutional structure makes this failure mode more common; the polymath tradition is the structural antidote
 
+Epstein names the institutional version: interventional cardiologists stenting reflexively, 2008 risk silos, Casadevall's parallel scientific trenches. [[concepts/cognitive-entrenchment]] is the mechanism — repetition in a narrow domain makes the hammer feel truer. [[concepts/outside-in-thinking]] and [[concepts/analogical-thinking]] are structural antidotes.
+
 ## Sources
 
 - [[sources/poor-charlies-almanack]]
+- [[sources/range-why-generalists-triumph]] — siloed specialists in medicine, finance, and science; entrenchment when rules shift

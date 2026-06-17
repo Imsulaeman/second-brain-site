@@ -4,7 +4,7 @@ type: concept
 tags: [career, learning, collaboration, apple-developer-academy, product-development]
 created: 2026-06-15
 updated: 2026-06-15
-sources: 1
+sources: 2
 ---
 
 # T-Shaped Developer
@@ -35,7 +35,10 @@ The selection process reflects this. The online entry test includes logic, progr
 - [[concepts/specific-knowledge]] — depth in the vertical stroke is close to what Naval means by specific knowledge; it is the part that is hard to replicate
 - [[concepts/deliberate-practice]] — the vertical stroke is built through deliberate practice; breadth is built through structured exposure and collaboration
 - [[concepts/polymath]] — the T-shape is the modern institutionalized compromise between the [[concepts/specialization|specialization]] that the university system demands and the cross-domain ambition that has defined polymaths since the Renaissance; it accepts a lower ceiling on breadth in exchange for institutional legibility
+- [[concepts/sampling-period]] — Academy-style role rotation is structured sampling before depth; Epstein's sports and music evidence supports breadth-first development before the vertical stroke hardens
+- [[concepts/kind-vs-wicked-learning-environments]] — product work is mostly wicked; T-shaped collaboration is how teams compensate when no one can chunk the whole problem
 
 ## Sources
 
 - [[sources/cara-gue-masuk-apple-developer-academy]]
+- [[sources/range-why-generalists-triumph]] — sampling before specialization; breadth for wicked product problems

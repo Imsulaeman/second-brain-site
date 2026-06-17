@@ -4,7 +4,7 @@ type: concept
 tags: [learning, memory, retention, training]
 created: 2026-05-02
 updated: 2026-06-13
-sources: 2
+sources: 3
 ---
 
 # Spaced Repetition
@@ -41,7 +41,7 @@ The only time you should check reference material is when you've tried to recall
 
 ## Relation to Desirable Difficulties
 
-Spaced repetition is one instance of a broader principle: introducing "desirable difficulties" into learning — making the task tough yet achievable. Other forms:
+Spaced repetition is one instance of [[concepts/desirable-difficulties|desirable difficulties]] — making the task tough yet achievable. Epstein ([[sources/range-why-generalists-triumph|*Range*]]) groups spacing with generation, testing, and interleaving as techniques that impair short-term performance but build durable, flexible knowledge. Other forms:
 - **Interleaving** — mixing different types of problems rather than blocking by type
 - **Varied contexts** — practicing the same skill in different settings
 - **Time pressure** — reduces priming and forces harder retrieval
@@ -58,3 +58,4 @@ Deliberate practice covers skill *acquisition*; spaced repetition covers *retent
 
 - [[sources/advice-on-upskilling]] — Ch 9 (Learning), sections "Review Should Feel Challenging," "Learn Like You Lift," "Recall Before Re-reading"
 - [[sources/a-mind-for-numbers]] — Ch 10–11 (Memory), with practical techniques for index cards, memory palace integration, and spacing schedules
+- [[sources/range-why-generalists-triumph]] — spacing as desirable difficulty; durable learning over comfortable repetition

@@ -4,7 +4,7 @@ type: concept
 tags: [knowledge, breadth, learning, expertise]
 created: 2026-06-17
 updated: 2026-06-17
-sources: 1
+sources: 2
 ---
 
 A polymath is someone who has made significant contributions in three or more distinct, unrelated fields — not just someone who reads widely. The threshold is active contribution, not passive familiarity. This distinction matters because the word is often used loosely for anyone curious and well-read; Burke's more demanding definition reserves it for people whose output, not just their intake, ranges across domains.
@@ -43,6 +43,8 @@ The polymath's social status has swung dramatically. In the Renaissance the univ
 
 This creates a real tension with modern ideals like the [[concepts/t-shaped-developer|T-shaped profile]] — broad enough to collaborate, deep enough to build. The T-shape is a domesticated polymath: breadth without the full centrifugal ambition, and depth without the hedgehog's single-mindedness.
 
+David Epstein adds a performance argument from [[sources/range-why-generalists-triumph|*Range*]]: Nobel laureates and elite scientists are far more likely than peers to have serious avocations in unrelated fields — music, acting, crafts — not despite their success but as cross-training against [[concepts/cognitive-entrenchment]]. The fox mode (Isaiah Berlin) wins in [[concepts/wicked-learning-environments|wicked worlds]] where hedgehog-like narrow pattern match fails. Burke documents the historical decline of polymathy; Epstein argues the institutional push toward early specialization makes fox-like range more valuable, not less.
+
 ## Limits
 
 Burke's definition excludes the simply curious or well-read. It also excludes people who work across adjacent sub-fields within one discipline. The line is real but occasionally contested: Darwin worked across biology, geology, and philosophy of science — is that polymathy or unusually wide biology?
@@ -52,3 +54,4 @@ The definition also has selection bias. Women, people outside the European elite
 ## Sources
 
 - [[sources/the-polymath-peter-burke]]
+- [[sources/range-why-generalists-triumph]] — avocations among Nobel laureates; fox vs hedgehog in wicked domains; range as antidote to specialization's failure modes

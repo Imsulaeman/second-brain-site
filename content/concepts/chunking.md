@@ -4,7 +4,7 @@ type: concept
 tags: [cognitive-science, learning, memory, expertise]
 created: 2026-05-03
 updated: 2026-06-13
-sources: 2
+sources: 3
 ---
 
 # Chunking
@@ -47,7 +47,12 @@ Both Oakley and Skycak argue this is a false dichotomy. As Skycak puts it: "[[co
 
 The biggest threat to effective chunking is [[concepts/illusions-of-competence|Illusions of Competence]] — believing you've chunked something when you haven't. Watching a solution, rereading text, and having the book open all create the *feeling* of knowing without the actual neural encoding. The antidote: **recall practice** (close the book, try to retrieve).
 
+## Kind environments only
+
+Epstein ([[sources/range-why-generalists-triumph|*Range*]]) uses chess chunking (Chase & Simon, Polgar "memory" demos) to show why pattern libraries work in [[concepts/kind-vs-wicked-learning-environments|kind domains]] and mislead as a universal learning model. Grandmasters chunk meaningful positions, not random layouts. When machines took tactics, centaur teams won on strategy. Wicked work needs [[concepts/far-transfer]] more than bigger chunk libraries.
+
 ## Sources
 
 - [[sources/a-mind-for-numbers]] — Ch 4, 7, 12 (the core mechanism of the book)
 - [[sources/advice-on-upskilling]] — Ch 10 (Expertise), "How To Do Cognitive Weightlifting"
+- [[sources/range-why-generalists-triumph]] — chess chunking; kind-environment limits

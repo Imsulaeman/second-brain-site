@@ -3,8 +3,8 @@ title: "Overview"
 type: overview
 tags: [learning, reasoning, investing, ai, habits, economics, mental-models, synthesis]
 created: 2026-05-02
-updated: 2026-06-08
-sources: 40
+updated: 2026-06-18
+sources: 41
 ---
 
 # Overview
@@ -13,9 +13,10 @@ This wiki has become a system for thinking, not just a shelf of summaries. Its r
 
 ## What This Wiki Covers
 
-The vault currently draws on 54 source pages and clusters around twelve recurring areas:
+The vault currently draws on 73 source pages and clusters around thirteen recurring areas:
 
 - Learning science and skill acquisition: [[sources/advice-on-upskilling]], [[sources/a-mind-for-numbers]], the growth-mindset sources, and the surrounding pages on memory, chunking, retrieval, mindset, deliberate practice, grit, and failure tolerance.
+- Breadth vs depth and generalist advantage: [[sources/range-why-generalists-triumph]] and [[sources/the-polymath-peter-burke]] — kind vs wicked learning environments, sampling period, match quality, fox/hedgehog forecasting, institutional specialization, and when early narrowness wins or backfires.
 - Reading method and bookcraft: Adler and Van Doren's *How to Read a Book* cluster on active reading, the four levels of reading, analytical reading, syntopical reading, and the adaptation of reading strategy to different genres.
 - Writing, articulation, and AI-era leverage: Dan Koe, Codex workflow essays, and instruction-system pages on how durable context improves both human and agent work.
 - Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
@@ -33,7 +34,7 @@ The vault currently draws on 54 source pages and clusters around twelve recurrin
 
 Several clusters now reinforce each other instead of living alone.
 
-Learning science, habits, and deliberate practice form one stack: how skills are built, stabilized, and turned into automatic behavior. Critical thinking, fallacies, and reasoning-type pages form a second: how beliefs get tested, where inference fails, and how to inspect claims before acting on them. Trading, investing, and uncertainty form a third: how to make decisions when noise, incentives, psychology, and ruin risk all matter at once.
+Learning science, habits, and deliberate practice form one stack: how skills are built, stabilized, and turned into automatic behavior. The breadth-vs-depth cluster (Burke + Epstein) now sharpens that stack — [[concepts/kind-vs-wicked-learning-environments]] explains when deliberate practice and chunking transfer, and when [[concepts/sampling-period|sampling]] and [[concepts/far-transfer|far transfer]] matter more. Critical thinking, fallacies, and reasoning-type pages form a second: how beliefs get tested, where inference fails, and how to inspect claims before acting on them. Trading, investing, and uncertainty form a third: how to make decisions when noise, incentives, psychology, and ruin risk all matter at once.
 
 The newer political-economy material widens the wiki in a useful direction. It adds a systems layer beneath older topics like leverage, incentives, labor, value, and power. Questions that once appeared mainly as personal strategy now sit inside a clearer picture of the structures shaping them.
 
@@ -42,6 +43,7 @@ The digital-literacy cluster adds a different kind of systems layer. It turns th
 ## Best Entry Points
 
 - For learning: [[concepts/deliberate-practice]], [[concepts/working-memory-vs-long-term-memory]], and [[concepts/spaced-repetition]].
+- For breadth vs depth: [[concepts/kind-vs-wicked-learning-environments]], [[concepts/sampling-period]], [[concepts/match-quality]], and [[concepts/polymath]].
 - For reasoning: [[concepts/critical-thinking]], [[concepts/inductive-reasoning]], [[concepts/deductive-reasoning]], and [[concepts/correlation-vs-causality]].
 - For diagnosis: [[concepts/5-whys]], [[concepts/problem-framing]], and [[synthesis/diagnosis-before-solution]].
 - For digital literacy: [[synthesis/apple-developer-academy-prep-digital-literacy]], [[concepts/search-engine]], [[concepts/lateral-reading]], and [[concepts/privacy]].
@@ -50,7 +52,7 @@ The digital-literacy cluster adds a different kind of systems layer. It turns th
 
 ## Current Totals
 
-- Sources: 72
-- Entities: 40
-- Concepts: 183
+- Sources: 73
+- Entities: 42
+- Concepts: 196
 - Synthesis pages: 10

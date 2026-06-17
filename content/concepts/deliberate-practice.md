@@ -1,10 +1,10 @@
 ---
 title: "Deliberate Practice"
 type: concept
-tags: [learning, skill-development, training, expertise, weak]
+tags: [learning, skill-development, training, expertise]
 created: 2026-05-02
-updated: 2026-05-19
-sources: 4
+updated: 2026-06-18
+sources: 5
 ---
 
 # Deliberate Practice
@@ -19,6 +19,8 @@ Deliberate practice is the highest-leverage mode of skill training. It involves:
 The key distinguisher from regular practice is the "just beyond" criterion: tasks must be challenging enough to require focus and effort, but achievable enough that you can actually succeed and get feedback. Too easy = no improvement. Too hard = flailing with no learning.
 
 ## The Feedback Loop
+
+Deliberate practice assumes a **kind** learning environment: repeating patterns, rapid accurate feedback, stable rules ([[concepts/kind-vs-wicked-learning-environments]]). It is the engine behind the Tiger Woods path and the ten-thousand-hours rule — and it works brilliantly in chess, golf, and classical performance. Epstein's [[sources/range-why-generalists-triumph|*Range*]] argues the mistake is treating that model as universal. Eventual athletic elites do less early deliberate practice in their final sport, not more; jazz improvisers learn by osmosis before formal rules; wicked careers reward [[concepts/analogical-thinking]] and [[concepts/far-transfer]], not blocked repetition alone.
 
 Deliberate practice depends on a tight feedback loop:
 - Attempt → immediate feedback → adjustment → next attempt
@@ -48,4 +50,4 @@ In schooling, students are grouped by age and paced to the group median. In tale
 - [[sources/atomic-habits]] — Clear's [[concepts/goldilocks-rule|Goldilocks Rule]] (~4% beyond current ability) is the motivational framing of the same "just beyond" criterion. His formula: **Habits + Deliberate Practice = Mastery** — habits automate the basics and free [[concepts/working-memory-vs-long-term-memory|working memory]], then deliberate practice pushes the frontier. Without reflection and review, habits stagnate into complacency.
 - [[sources/introduction-to-algorithms-and-machine-learning]] — Skycak turns deliberate practice into a technical curriculum: implement from scratch, debug actively, and use friction as proof you are working at the real frontier rather than consuming polished abstractions.
 - [[sources/poor-charlies-almanack]] — Munger frames continuous learning as a moral duty and notes Buffett spends half his waking hours reading. His [[concepts/mental-models-latticework]] requires practicing all useful skills continuously, not just domain-specific ones. His Use-It-or-Lose-It tendency (#19) warns that all skills atrophy with disuse — the antidote is the "aircraft simulator" equivalent: routine practice of rarely-used skills.
-Deliberate practice involves both inductive feedback from performance data and deductive application of structured improvement principles.
+- [[sources/range-why-generalists-triumph]] — deliberate practice is necessary but domain-bound; sampling periods precede elite performance; [[concepts/desirable-difficulties]] often beat comfortable repetition for transfer

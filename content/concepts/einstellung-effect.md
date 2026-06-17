@@ -3,8 +3,8 @@ title: "Einstellung Effect"
 type: concept
 tags: [cognitive-science, problem-solving, learning, bias]
 created: 2026-05-03
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-18
+sources: 2
 ---
 
 # Einstellung Effect
@@ -63,3 +63,4 @@ Edison and Dalí both used a technique for capturing diffuse-mode insight: hold 
 ## Sources
 
 - [[sources/a-mind-for-numbers]] — Ch 2–3 (pinball metaphor, focused vs diffuse), Ch 12 (WM size and Einstellung), throughout
+- [[sources/range-why-generalists-triumph]] — [[concepts/cognitive-entrenchment]] in specialists; oil-spill solver stuck in chemistry until distant analogy broke fixation
