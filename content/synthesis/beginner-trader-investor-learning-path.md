@@ -1,7 +1,7 @@
 ﻿---
 title: "Beginner Trader-Investor Learning Path"
 type: synthesis
-tags: [trading, investing, beginner, risk-management, learning-path, synthesis, needs-review]
+tags: [trading, investing, beginner, risk-management, learning-path, synthesis]
 created: 2026-05-10
 updated: 2026-06-18
 sources: 7
@@ -11,7 +11,7 @@ sources: 7
 
 This page turns the trading/investing cluster into a beginner roadmap. It draws mainly from [[sources/the-most-important-thing-illuminated]], [[sources/how-to-find-trading-edge]], [[concepts/ergodicity]], [[sources/life-lessons-from-trading]], [[sources/dealing-with-loss]], [[sources/the-complete-guide-to-trading]] for mainstream TA vocabulary and the random-walk fork, and [[sources/trading-in-the-zone]] for probabilistic mindset and accepting risk before edge matters.
 
-The core rule: **your first goal is not to make money fast. Your first goal is to survive long enough to learn well.**
+The core rule: **survive first, then learn in samples — not on the last trade.** [[sources/trading-in-the-zone|Mark Douglas]]: consistency is a state of mind; [[sources/the-complete-guide-to-trading|CFI]]: learn the vocabulary fork (random walk vs active trading) only after risk and psychology are in place.
 
 ---
 
@@ -73,6 +73,24 @@ The survival stack:
 [[concepts/ergodicity]] is the mathematical foundation here. In repeated-risk games, what matters is not just average expected value but whether one individual path survives over time. A strategy that looks positive in the ensemble can still send most participants to zero.
 
 Practical beginner rule: **build more [[concepts/trading-edge|edge]] before adding size.**
+
+---
+
+## Stage 1b: Mental Analysis (Before More Market Analysis)
+
+[[sources/trading-in-the-zone]] argues the gap between knowing and earning is almost always **[[concepts/mental-analysis-in-trading|mental analysis]]** — not another indicator. Life trains you to need certainty; markets punish that.
+
+Install these before sizing up:
+
+| Layer | What to internalize |
+|---|---|
+| [[concepts/probabilistic-trading-mindset|Five truths]] | Anything can happen; you don't need the next tick; wins/losses distribute randomly per edge; edge = probability skew; every moment is unique |
+| [[concepts/accepting-risk-in-trading|Accepting risk]] | Peace with the loss *before* entry — a stop without acceptance still produces fear errors |
+| [[concepts/seven-principles-of-consistency|Seven principles]] | Objective edges, predefined risk, acceptance, act without hesitation, pay yourself, monitor errors, never violate |
+
+**Mechanical-stage drill:** define a simple edge, fix risk per trade, take **every** signal for **20 trades**, judge the batch not the last print. Size so losing all 20 is survivable. This is how casino logic meets [[concepts/decision-quality-vs-outcome|process review]].
+
+CFI's fork ([[sources/the-complete-guide-to-trading]]): if [[concepts/random-walk-theory]] is true for you, index and stop learning TA; if not, build [[concepts/fundamental-vs-technical-analysis|analysis skills]] and [[concepts/market-specialization|specialize]] — but only after Douglas's beliefs are functional, or analysis becomes expensive entertainment.
 
 ```mermaid
 flowchart LR
@@ -163,6 +181,8 @@ flowchart TD
 
 If you cannot explain who is on the other side and why they may be wrong, forced, constrained, or overpaying, you probably do not have a trade. You have a feeling.
 
+Douglas addendum: once you can name the edge, **take every instance** that fits your definition. Cherry-picking destroys sample size and keeps you in prediction mode. Evaluate edge quality over 20+ trades, not one lucky or unlucky ticket.
+
 ---
 
 ## Stage 5: Second-Order Thinking
@@ -206,8 +226,9 @@ Every trade/investment gets one entry:
 | Exit | Profit-taking and stop plan. |
 | Emotions | What am I feeling before entry? |
 | Review | Good process, bad process, lucky win, or unlucky loss? |
+| Sample # | Which trade in the current 20-trade batch? (not "am I winning today") |
 
-This connects to [[sources/life-lessons-from-trading]]: build identity on process, not on being talented, contrarian, or right. Markets are noisy enough that one outcome cannot validate the whole person.
+This connects to [[sources/life-lessons-from-trading]]: build identity on process, not on being talented, contrarian, or right. Douglas: one outcome cannot validate the whole person — only the sample and the adherence to [[concepts/seven-principles-of-consistency|seven principles]] can.
 
 ---
 
@@ -235,10 +256,10 @@ The goal is not emotional toughness as a vibe. The goal is structure. A loss sho
 | 1-2 | Market mechanics | Notes on order types, spreads, liquidity, leverage, fees |
 | 3-4 | Risk and ergodicity | Personal risk rules and position-sizing template |
 | 5-6 | Price/value and Marks framework | One-page checklist for evaluating investments |
-| 7-8 | Edge framework | List of possible edges in one chosen market |
-| 9-10 | Paper trading or tiny-size trading | 20 journaled trades/investments, no focus on profit |
-| 11 | Review | Categorize outcomes: process vs luck |
-| 12 | System revision | Keep, remove, or refine rules based on evidence |
+| 7-8 | Edge framework + CFI vocab | Named edge in one market; random-walk fork decided; optional TA primer via [[concepts/trading-technical-indicator]] |
+| 9-10 | Douglas mechanical exercise | 20 journaled trades at fixed risk — every edge, no cherry-picking |
+| 11 | Sample review | Batch stats + process audit (not last-trade emotion) |
+| 12 | System revision | Keep, remove, or refine rules until beliefs and behavior match |
 
 By the end, the target is not "I am profitable." The target is: **I can describe my game, control my downside, identify my edge category, and review my decisions honestly.**
 
@@ -271,13 +292,12 @@ Investor path:
 
 Trader path:
 
-- market microstructure
-- volatility and liquidity
-- [[concepts/position-sizing|position sizing]]
-- backtesting and sample size
-- execution quality
-- flow and positioning
-- psychology under pressure
+- [[concepts/probabilistic-trading-mindset]], [[concepts/accepting-risk-in-trading]], [[concepts/seven-principles-of-consistency]]
+- market microstructure, volatility, liquidity
+- [[concepts/position-sizing|position sizing]] and [[concepts/risk-reward-ratio]]
+- [[concepts/trading-technical-indicator]] / [[concepts/fundamental-vs-technical-analysis]] (if not indexing)
+- execution quality, flow, positioning
+- [[concepts/trading-psychology]] under pressure
 
 Shared path:
 
@@ -291,7 +311,7 @@ Shared path:
 
 ## One-Sentence Summary
 
-A beginner trader-investor should learn to **survive first, separate investing from trading, respect price and risk, demand a named edge, journal every decision, and size small until the process proves itself.**
+A beginner trader-investor should **survive first, install probabilistic beliefs (Douglas), separate investing from trading, demand a named edge, run 20-trade samples, journal process not outcomes, and size small until behavior matches rules.**
 
 ## Sources
 

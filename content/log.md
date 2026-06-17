@@ -1,3 +1,8 @@
+## [2026-06-18] maintenance | Housekeeping + synthesis revision
+- Deleted raw extraction helpers (`_*_extracted.txt`), duplicate Carnegie PDF, `desktop.ini`
+- Revised `beginner-trader-investor-learning-path` (Douglas Stage 1b, sample curriculum; cleared needs-review)
+- Revised `uncertainty-market-judgment-operating-model` (Kahneman + Douglas lenses; cleared needs-review)
+
 ## [2026-06-18] ingest | Trading in the Zone — Mark Douglas
 - Full EPUB read (11 chapters + foreword/preface); 4 concept pages, source summary, 1 entity; integration pass on trading-psychology cluster
 - Pages created: 6 (1 source, 1 entity, 4 concepts)
