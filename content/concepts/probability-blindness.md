@@ -4,7 +4,7 @@ type: concept
 tags: [probability, psychology, cognitive-bias, uncertainty, decision-making]
 created: 2026-05-19
 updated: 2026-06-18
-sources: 2
+sources: 3
 ---
 
 # Probability Blindness
@@ -35,6 +35,7 @@ Probability blindness turns markets into emotional traps. Traders may over-size 
 - Separate explanation from evidence.
 - Use [[concepts/position-sizing]] so emotional miscalibration cannot become ruin.
 - Deploy [[concepts/premortem|premortems]] and checklists where organizations amplify individual bias.
+- Install [[concepts/probabilistic-trading-mindset|probabilistic trading beliefs]] at functional level — Douglas's five truths and 20-trade sample exercise ([[sources/trading-in-the-zone]]).
 
 ## Connections
 
@@ -47,3 +48,4 @@ Probability blindness turns markets into emotional traps. Traders may over-size 
 
 - [[sources/fooled-by-randomness]] — probability blindness, random sequences, media narratives, and emotional errors under uncertainty.
 - [[sources/thinking-fast-and-slow]] — heuristics, WYSIATI, base rates, regression, availability, and organizational debiasing.
+- [[sources/trading-in-the-zone]] — belief installation for probabilistic execution; casino sample-size antidote

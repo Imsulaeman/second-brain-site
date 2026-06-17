@@ -4,7 +4,7 @@ type: concept
 tags: [trading, investing, risk-management, ergodicity, survival, sizing]
 created: 2026-05-10
 updated: 2026-06-18
-sources: 8
+sources: 9
 ---
 
 # Position Sizing
@@ -29,6 +29,8 @@ The question is not only "Is this a good trade?" but:
 If the answer is no, the size is too large.
 
 Sizing pairs with [[concepts/risk-reward-ratio]]: CFI's master-trader rule is to skip trades where potential gain is small relative to defined stop risk — no size can rescue negative expectancy setups.
+
+[[sources/trading-in-the-zone]] adds a psychological gate: size must be small enough that you **[[concepts/accepting-risk-in-trading|accept the risk]]** of the full 20-trade sample worst case — otherwise fear, not math, drives execution. Predefining risk is principle #2 of [[concepts/seven-principles-of-consistency]]; if it takes willpower each time, the belief is not yet installed.
 
 ---
 
@@ -122,3 +124,4 @@ The order should be:
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/the-complete-guide-to-trading]]
+- [[sources/trading-in-the-zone]] — accept 20-trade worst-case risk; predefine as identity not effort

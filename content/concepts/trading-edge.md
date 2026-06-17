@@ -4,7 +4,7 @@ type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
 updated: 2026-06-18
-sources: 12
+sources: 13
 ---
 
 # Trading Edge
@@ -37,6 +37,8 @@ Munger adds the pari-mutuel lens. Most of the time, the crowd's odds are roughly
 Taleb adds the harshest filter: edge must survive the randomness test. A trader can look skillful while merely living through one favorable [[concepts/alternative-histories|alternative history]] or quietly selling a negatively skewed payoff.
 
 CFI's beginner frame ([[sources/the-complete-guide-to-trading]]) makes the fork explicit: if [[concepts/random-walk-theory]] is true, index and stop; if not, build [[concepts/fundamental-vs-technical-analysis|analysis skills]] and **[[concepts/market-specialization|specialize]]** — edge rarely transfers across every commodity or equity universe equally.
+
+Mark Douglas ([[sources/trading-in-the-zone]]) defines edge minimally: **a higher probability of one outcome over another** — nothing more. The casino runs a small edge across every hand; traders must likewise **take every signal** that fits their definition, not pick winners in advance. Cherry-picking collapses sample size and keeps you in prediction mode. Edge is a numbers game over 20+ trades, not a verdict on the last print.
 
 ## Edge Decays
 
@@ -107,3 +109,4 @@ Even a real edge fails if it is sized badly. A good setup with reckless size, hi
 - [[sources/poor-charlies-almanack]]
 - [[sources/reminiscences-of-a-stock-operator]]
 - [[sources/the-complete-guide-to-trading]] — random walk fork, specialization, retail TA vocabulary
+- [[sources/trading-in-the-zone]] — edge as probability skew; take every signal; casino sample-size logic

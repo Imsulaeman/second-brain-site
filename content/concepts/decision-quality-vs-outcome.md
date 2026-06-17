@@ -4,7 +4,7 @@ type: concept
 tags: [decision-making, probability, investing, uncertainty, howard-marks]
 created: 2026-05-10
 updated: 2026-06-18
-sources: 4
+sources: 5
 ---
 
 # Decision Quality vs Outcome
@@ -73,9 +73,14 @@ Cognitive biases from volatility — [[concepts/loss-aversion|loss aversion]], a
 
 Without it, you cannot do leak-finding: identifying which parts of your process are structurally costing you. Light's comparison: trading without a journal is like playing poker without hand histories. You keep making the same structural mistakes because you never see the pattern. Find the big leaks first — the spots where you are losing in obvious ways — before worrying about fine-grained edge cases.
 
+## Sample Size vs Last Trade (Douglas)
+
+[[sources/trading-in-the-zone]] pushes the same separation into high-frequency execution: the typical trader judges the **last trade**; the consistent trader judges a **sample of 20+ edges**. Right/wrong on one ticket loses significance once you believe in [[concepts/probabilistic-trading-mindset|random distribution between wins and losses]] for a fixed edge — same logic as alternative histories, applied before the session ends.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]] — Primary source for alternative histories and luck disguised as skill.
 - [[sources/thinking-fast-and-slow]] — outcome bias, hindsight contamination, halo + outcome in success studies, premortem as fix.
 - [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]] — Timeframe conflation, nullification approach, and trade journal as the feedback mechanism.
+- [[sources/trading-in-the-zone]] — 20-trade sample vs last-trade verdict; probabilistic process review

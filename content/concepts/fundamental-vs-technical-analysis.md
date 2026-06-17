@@ -4,10 +4,10 @@ type: concept
 tags: [trading, investing, analysis, valuation, charts]
 created: 2026-06-18
 updated: 2026-06-18
-sources: 1
+sources: 2
 ---
 
-Two broad approaches to markets. **Fundamental analysis** estimates intrinsic value from economics, financial statements, and metrics (P/E, P/B, D/E, ROI, ROA, EPS trends). **Technical analysis** reads price and volume on charts — trendlines, moving averages, volume patterns, momentum indicators — on the premise that supply and demand are already encoded in price.
+Two broad approaches to markets — plus a third Douglas adds. **Fundamental analysis** estimates intrinsic value from economics, financial statements, and metrics (P/E, P/B, D/E, ROI, ROA, EPS trends). **Technical analysis** reads price and volume on charts — trendlines, moving averages, volume patterns, momentum indicators — on the premise that supply and demand are already encoded in price. **[[concepts/mental-analysis-in-trading|Mental analysis]]** ([[sources/trading-in-the-zone]]) studies beliefs and perception: why the same chart produces execution in one trader and self-sabotage in another.
 
 ## Fundamental side
 
@@ -26,5 +26,6 @@ Neither camp has a monopoly on success. CFI's framing: both have rich and poor p
 ## Sources
 
 - [[sources/the-complete-guide-to-trading]]
+- [[sources/trading-in-the-zone]] — mental analysis as third leg; execution gap after chart literacy
 - [[concepts/value-vs-growth-investing]] — fundamental stock-picking flavors
 - [[concepts/support-and-resistance]] — core technical structure

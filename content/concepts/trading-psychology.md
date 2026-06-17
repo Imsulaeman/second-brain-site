@@ -5,7 +5,7 @@ tags: [trading, psychology, discipline, emotion, speculation]
 created: 2026-06-11
 updated: 2026-06-18
 
-sources: 2
+sources: 3
 ---
 
 # Trading Psychology
@@ -43,6 +43,18 @@ This reversal is the central insight of [[sources/reminiscences-of-a-stock-opera
 Core attitudes: the market is **neutral** — not rigged against you personally. Focus on reading the market, not watching account balance (Schwager's Market Wizards pattern). Six master skills: analytical ability, process-over-P&L focus, adapting when regimes shift, staying in the game through drawdowns, [[concepts/risk-reward-ratio|risk/reward discipline]], and patience on flat days. Skill #7: **trade journal** — same feedback loop as [[concepts/decision-quality-vs-outcome]] and Light's hand-history analogy.
 
 Boredom trading — entering because nothing else is happening — is a named failure mode. Wait for low-risk setups; flat sessions are not emergencies.
+
+## Probabilistic Mindset (Douglas)
+
+[[sources/trading-in-the-zone]] argues most traders fail on **[[concepts/mental-analysis-in-trading|mental analysis]]**, not market analysis. Life trains you to need certainty, avoid pain, and take credit for wins — all toxic in unlimited markets.
+
+Core shift: **[[concepts/probabilistic-trading-mindset|think in probabilities]]** — you don't need to know the next tick; anything can happen; each trade is a unique draw from your edge's distribution. Consistency is a state of mind, not a hidden indicator.
+
+**[[concepts/accepting-risk-in-trading|Accepting risk]]** is the operational test. Stops without acceptance produce hesitation, cherry-picking, moving stops, and living on the last trade's emotion. Full acceptance yields carefree execution — the trading "zone" — without euphoric oversizing.
+
+Douglas's error catalog when out of the zone: jump the gun, skip predefined risk, let losers grow, cut winners early, revenge trade, oversize. All map to fear of being wrong or fear of giving back gains — Livermore's reversed impulses at the systematic level.
+
+Install via [[concepts/seven-principles-of-consistency|seven principles]] and 20-trade sample exercise: take every edge, judge the batch not the tick.
 
 ## Self-Knowledge as Prerequisite
 
@@ -98,3 +110,4 @@ The lesson: a losing trade you are not mentally present to manage *will* grow. T
 
 - [[sources/reminiscences-of-a-stock-operator]] — reversed impulses, lone hand, sleeping point, divided attention
 - [[sources/the-complete-guide-to-trading]] — winning mindset, six skills, journal, boredom trading
+- [[sources/trading-in-the-zone]] — probabilistic mindset, accepting risk, mental analysis, zone state, sample-size thinking

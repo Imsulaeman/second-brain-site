@@ -1,3 +1,9 @@
+## [2026-06-18] ingest | Trading in the Zone — Mark Douglas
+- Full EPUB read (11 chapters + foreword/preface); 4 concept pages, source summary, 1 entity; integration pass on trading-psychology cluster
+- Pages created: 6 (1 source, 1 entity, 4 concepts)
+- Pages updated: 7 (trading-psychology, trading-edge, decision-quality-vs-outcome, probability-blindness, position-sizing, fundamental-vs-technical-analysis, beginner-trader-investor-learning-path)
+- Status: full
+
 ## [2026-06-18] concept | trading-technical-indicator
 - Umbrella page for CFI indicator primers: ADX, MACD, TRIN, triangles, pin bars; linked from source + TA cluster
 
