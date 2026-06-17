@@ -4,14 +4,14 @@ type: source
 tags: [learning, career, specialization, breadth, expertise, david-epstein]
 created: 2026-06-18
 updated: 2026-06-18
-sources: 0
+sources: 1
 ---
 
 David Epstein's argument is simple and contrarian: in a complex, fast-changing world, breadth beats early narrowness more often than the Tiger Woods story suggests. The book opens with Roger Federer — sampled sports, started tennis late, still became number one — against Tiger's deliberate-practice-from-infancy path. Epstein does not deny that kind environments reward hyperspecialization. He denies that most of life is a kind environment.
 
 ## The wrong stories
 
-The cult of the head start treats chess, golf, and classical music as models for all learning. [[concepts/kind-vs-wicked-learning-environments|Kind learning environments]] have repeating patterns, rapid accurate feedback, and clear rules. [[concepts/deliberate-practice|Deliberate practice]] and chunking work brilliantly there. [[concepts/wicked-learning-environments|Wicked environments]] do not: rules shift, feedback is delayed or misleading, and experience can reinforce the wrong lessons. Robin Hogarth's distinction explains why Gary Klein's firefighters improve with repetition while Daniel Kahneman's experts often do not. Most work, Epstein argues, is closer to "Martian tennis" — you can see players and balls, but nobody shared the rules.
+The cult of the head start treats chess, golf, and classical music as models for all learning. [[concepts/kind-vs-wicked-learning-environments|Kind learning environments]] have repeating patterns, rapid accurate feedback, and clear rules. [[concepts/deliberate-practice|Deliberate practice]] and chunking work brilliantly there. [[concepts/kind-vs-wicked-learning-environments|Wicked environments]] do not: rules shift, feedback is delayed or misleading, and experience can reinforce the wrong lessons. Robin Hogarth's distinction explains why Gary Klein's firefighters improve with repetition while Daniel Kahneman's experts often do not. Most work, Epstein argues, is closer to "Martian tennis" — you can see players and balls, but nobody shared the rules.
 
 The Polgar sisters and Laszlo Polgar's chess experiment prove that early technical drilling can produce excellence — in chess. Centaur chess (human strategy + machine tactics) showed that when tactics are outsourced, years of pattern practice matter less. AI savants need stable, narrow worlds; humans win when the picture gets bigger.
 

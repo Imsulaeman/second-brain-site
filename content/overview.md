@@ -54,5 +54,5 @@ The digital-literacy cluster adds a different kind of systems layer. It turns th
 
 - Sources: 73
 - Entities: 42
-- Concepts: 196
+- Concepts: 195
 - Synthesis pages: 10

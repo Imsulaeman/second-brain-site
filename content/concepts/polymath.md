@@ -43,7 +43,7 @@ The polymath's social status has swung dramatically. In the Renaissance the univ
 
 This creates a real tension with modern ideals like the [[concepts/t-shaped-developer|T-shaped profile]] — broad enough to collaborate, deep enough to build. The T-shape is a domesticated polymath: breadth without the full centrifugal ambition, and depth without the hedgehog's single-mindedness.
 
-David Epstein adds a performance argument from [[sources/range-why-generalists-triumph|*Range*]]: Nobel laureates and elite scientists are far more likely than peers to have serious avocations in unrelated fields — music, acting, crafts — not despite their success but as cross-training against [[concepts/cognitive-entrenchment]]. The fox mode (Isaiah Berlin) wins in [[concepts/wicked-learning-environments|wicked worlds]] where hedgehog-like narrow pattern match fails. Burke documents the historical decline of polymathy; Epstein argues the institutional push toward early specialization makes fox-like range more valuable, not less.
+David Epstein adds a performance argument from [[sources/range-why-generalists-triumph|*Range*]]: Nobel laureates and elite scientists are far more likely than peers to have serious avocations in unrelated fields — music, acting, crafts — not despite their success but as cross-training against [[concepts/cognitive-entrenchment]]. The fox mode (Isaiah Berlin) wins in [[concepts/kind-vs-wicked-learning-environments|wicked worlds]] where hedgehog-like narrow pattern match fails. Burke documents the historical decline of polymathy; Epstein argues the institutional push toward early specialization makes fox-like range more valuable, not less.
 
 ## Limits
 

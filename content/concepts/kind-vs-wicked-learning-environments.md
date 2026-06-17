@@ -21,12 +21,19 @@ In a **wicked** environment, rules are incomplete or shifting, patterns may not 
 
 Daniel Kahneman's heuristics-and-biases work and Klein's NDM program looked like a paradox — does experience help or not? Their joint paper resolved it: **it depends entirely on the domain.** Narrow experience helps in kind worlds; in wicked worlds it often breeds confidence without skill.
 
-Epstein calls most of real life "Martian tennis": you see something like a game, but the rules were never explained and may change without notice.
+Epstein calls most of real life "Martian tennis": you see something like a game, but the rules were never explained and may change without notice. Most professional work — medicine outside routine procedures, policy, investing, organizational leadership, scientific discovery — sits on the wicked end of the spectrum.
+
+## What to do in wicked worlds
+
+- Treat narrow expertise as necessary but insufficient; seek [[concepts/analogical-thinking|distant analogies]] and the [[concepts/inside-view-outside-view|outside view]].
+- Vary training deliberately to avoid [[concepts/cognitive-entrenchment]]; keep one foot outside your world.
+- Prefer [[concepts/test-and-learn-career|test-and-learn]] and [[concepts/match-quality|match-quality]] exploration over locking onto one path before you know the domain.
+- Learn slowly with [[concepts/desirable-difficulties]] so knowledge stays flexible, not performative.
 
 ## Implications
 
 - Early hyperspecialization pays off mainly in kind domains with stable rules.
-- In wicked domains, range, analogies, and evaluating before choosing beat instinctive pattern match ([[concepts/analogical-thinking]], [[concepts/inside-view-outside-view]]).
+- In wicked domains, range, analogies, and evaluating before choosing beat instinctive pattern match.
 - [[concepts/cognitive-entrenchment]] and [[concepts/man-with-a-hammer-syndrome]] are what happen when kind-world habits get exported to wicked problems.
 - AI is increasingly savant-like: crushing kind games, struggling in open worlds where humans still add strategy ([[sources/range-why-generalists-triumph]]).
 
