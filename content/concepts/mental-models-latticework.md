@@ -51,6 +51,7 @@ Having the models is not enough. Like a concert pianist, you must practice using
 - [[concepts/chunking]] — the latticework is chunking applied to cross-domain knowledge
 - [[concepts/specific-knowledge]] — a unique latticework combination becomes specific knowledge that is hard to replicate
 - [[concepts/first-principles-thinking]] — the latticework provides the foundational truths to reason from
+- [[concepts/polymath]] — the latticework is the deliberate construction of a polymathic mind; Munger is a contemporary practitioner of what Burke calls a *clustered* polymath strategy
 
 ## Sources
 

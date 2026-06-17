@@ -42,6 +42,7 @@ Munger shifted Buffett from Graham-style cigar-butt investing toward buying wond
 - [[entities/howard-marks]] — Marks' second-level thinking is Munger's multidisciplinary checklist applied to investing
 - [[entities/naval-ravikant]] — Naval's "specific knowledge" and "judgment over execution" echo Munger's Planck-vs-chauffeur distinction
 - [[entities/james-clear]] — Clear's habit systems operationalize Munger's "lifetime learning as moral duty"
+- [[concepts/polymath]] — Munger is a contemporary example of what Burke calls a *clustered* polymath: his range (law, psychology, economics, biology, physics, investing) spans genuinely different epistemic territories and produces cross-domain pattern recognition that no specialist can replicate; his latticework is the deliberate construction of a polymathic mental toolkit
 
 ## Sources
 

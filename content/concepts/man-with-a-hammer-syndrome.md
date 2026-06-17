@@ -36,6 +36,7 @@ This is closely related to the [[concepts/einstellung-effect]], but Munger's ver
 - [[concepts/einstellung-effect]]
 - [[concepts/planck-vs-chauffeur-knowledge]]
 - [[concepts/second-order-thinking]]
+- [[concepts/polymath]] — man-with-a-hammer is the pathological hedgehog; the [[concepts/specialization|specialist-first]] institutional structure makes this failure mode more common; the polymath tradition is the structural antidote
 
 ## Sources
 

@@ -74,6 +74,8 @@ Two external signals that you've found it:
 
 Scott Adams' observation (cited by Naval): you don't have to be world-class at any single thing. Being in the top 25% of two or three things that rarely combine may make you effectively unique at the intersection. The combinatorics rapidly shrink the competition. Top-25% at finance + top-25% at writing + top-25% at network understanding = the kind of profile that gets to say things nobody else is positioned to say. The key: let the stack emerge naturally from your interests rather than assembling it deliberately for a career outcome — forced stacks reveal themselves as inauthentic.
 
+This is a miniaturized form of the [[concepts/polymath]] strategy. Burke's historical analysis shows that the most impactful polymaths were not polymaths by design but by temperament — curiosity drove them across domains, and the cross-domain pattern recognition accumulated as a byproduct. The skill-stack works the same way: the intersection becomes specific knowledge precisely because it wasn't deliberately engineered for that purpose.
+
 ## Munger's Version: The Latticework as Specific Knowledge
 
 [[entities/charles-munger|Munger]] doesn't use the term "specific knowledge," but his [[concepts/mental-models-latticework]] is a concrete example. His unique combination of law, psychology, economics, and investing creates a cross-domain pattern-recognition ability that is extremely hard to replicate. His [[concepts/planck-vs-chauffeur-knowledge|Planck vs Chauffeur]] distinction maps directly: Planck knowledge is specific knowledge that has been earned through real engagement; chauffeur knowledge is the trainable surface that Naval says society will replace you for.

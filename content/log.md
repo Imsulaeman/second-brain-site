@@ -1,3 +1,10 @@
+## [2026-06-18] ingest | The Polymath — Peter Burke
+- 353-page PDF read in full; cultural history of 500 Western polymaths 1400–2000; five ages
+- Pages created: sources/the-polymath-peter-burke, concepts/polymath, concepts/specialization, concepts/information-overload, concepts/pansophia, concepts/interdisciplinarity, entities/Peter-Burke, entities/Leonardo-da-Vinci, entities/Gottfried-Wilhelm-Leibniz, entities/Isaiah-Berlin, entities/Jan-Amos-Comenius, entities/Susan-Sontag
+- Pages updated: concepts/t-shaped-developer (polymath bridge), concepts/specific-knowledge (skill-stack as mini-polymath), entities/charles-munger (clustered polymath framing), concepts/mental-models-latticework (polymath link), concepts/man-with-a-hammer-syndrome (hedgehog failure mode link)
+- MCP integration pass: confirmed cross-links to mental-models-latticework and man-with-a-hammer-syndrome
+- Status: full
+
 ## [2026-06-16] ingest | How to Get Rich — Naval Ravikant
 - Primary source for Naval's tweet storm (~3.5hr transcript); goes deeper than the Almanack on luck taxonomy, builder/seller, network effects, principal-agent, and ethics
 - Pages created: sources/how-to-get-rich, concepts/four-types-of-luck, concepts/network-effects, concepts/learn-to-sell-learn-to-build

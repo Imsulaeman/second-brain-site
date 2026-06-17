@@ -34,6 +34,7 @@ The selection process reflects this. The online entry test includes logic, progr
 - [[concepts/design-thinking]] — the methodology that structures cross-functional collaboration at the Academy; understanding it is part of the horizontal bar
 - [[concepts/specific-knowledge]] — depth in the vertical stroke is close to what Naval means by specific knowledge; it is the part that is hard to replicate
 - [[concepts/deliberate-practice]] — the vertical stroke is built through deliberate practice; breadth is built through structured exposure and collaboration
+- [[concepts/polymath]] — the T-shape is the modern institutionalized compromise between the [[concepts/specialization|specialization]] that the university system demands and the cross-domain ambition that has defined polymaths since the Renaissance; it accepts a lower ceiling on breadth in exchange for institutional legibility
 
 ## Sources
 
