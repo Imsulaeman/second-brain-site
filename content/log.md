@@ -1,3 +1,16 @@
+## [2026-06-18] ingest | The Complete Guide to Trading — CFI
+- Full PDF read (116 pages, 3 parts); 6 new concept pages, source summary; integration pass on trading cluster
+- Pages created: 7 (1 source, 6 concepts)
+- Pages updated: 4 (trading-psychology, value-vs-growth-investing, trading-edge, position-sizing)
+- Synthesis flagged: beginner-trader-investor-learning-path (CFI added to sources)
+- Status: full
+
+## [2026-06-18] manual | Raw housekeeping — (ingested) renames + VCS cleanup
+- Renamed 36 full-ingest raw sources to `(ingested)` suffix (incl. Kahneman, Range, Polymath epubs)
+- Removed duplicate `Talking_to_My_Daughter_About_the_Economy.epub` (ingested copy kept)
+- Untracked `desktop.ini` and `workspace.json`; expanded `.gitignore` for OS junk, `_extracted.txt`, `mcps/`
+- Left pending: `The-Complete-Guide-to-Trading.pdf`, duplicate Carnegie PDF, extraction helpers
+
 ## [2026-06-18] ingest | Thinking, Fast and Slow — Daniel Kahneman
 - Full EPUB read (5 parts, 48 chapters); 15 new concept pages, source summary, 2 entities; integration pass via MCP search + cross-links to Munger/Taleb/Range/Epstein cluster
 - Pages created: 18 (1 source, 2 entities, 15 concepts)

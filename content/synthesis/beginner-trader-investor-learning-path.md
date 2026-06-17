@@ -3,13 +3,13 @@ title: "Beginner Trader-Investor Learning Path"
 type: synthesis
 tags: [trading, investing, beginner, risk-management, learning-path, synthesis, needs-review]
 created: 2026-05-10
-updated: 2026-05-10
-sources: 5
+updated: 2026-06-18
+sources: 6
 ---
 
 # Beginner Trader-Investor Learning Path
 
-This page turns the trading/investing cluster into a beginner roadmap. It draws mainly from [[sources/the-most-important-thing-illuminated]], [[sources/how-to-find-trading-edge]], [[concepts/ergodicity]], [[sources/life-lessons-from-trading]], and [[sources/dealing-with-loss]].
+This page turns the trading/investing cluster into a beginner roadmap. It draws mainly from [[sources/the-most-important-thing-illuminated]], [[sources/how-to-find-trading-edge]], [[concepts/ergodicity]], [[sources/life-lessons-from-trading]], [[sources/dealing-with-loss]], and [[sources/the-complete-guide-to-trading]] for mainstream TA vocabulary and the random-walk fork.
 
 The core rule: **your first goal is not to make money fast. Your first goal is to survive long enough to learn well.**
 
@@ -300,3 +300,4 @@ A beginner trader-investor should learn to **survive first, separate investing f
 - [[concepts/ergodicity]]
 - [[sources/life-lessons-from-trading]]
 - [[sources/dealing-with-loss]]
+- [[sources/the-complete-guide-to-trading]]

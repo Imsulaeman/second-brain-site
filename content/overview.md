@@ -13,14 +13,14 @@ This wiki has become a system for thinking, not just a shelf of summaries. Its r
 
 ## What This Wiki Covers
 
-The vault currently draws on 74 source pages and clusters around fourteen recurring areas:
+The vault currently draws on 75 source pages and clusters around fourteen recurring areas:
 
 - Learning science and skill acquisition: [[sources/advice-on-upskilling]], [[sources/a-mind-for-numbers]], the growth-mindset sources, and the surrounding pages on memory, chunking, retrieval, mindset, deliberate practice, grit, and failure tolerance.
 - Breadth vs depth and generalist advantage: [[sources/range-why-generalists-triumph]] and [[sources/the-polymath-peter-burke]] — kind vs wicked learning environments, sampling period, match quality, fox/hedgehog forecasting, institutional specialization, and when early narrowness wins or backfires.
 - Judgment and decision-making under uncertainty: [[sources/thinking-fast-and-slow]] — System 1 vs System 2, heuristics and biases, inside/outside view, planning fallacy, prospect theory, framing, outcome bias, and the two selves; connects to Munger, Taleb, Marks, and Epstein clusters.
 - Reading method and bookcraft: Adler and Van Doren's *How to Read a Book* cluster on active reading, the four levels of reading, analytical reading, syntopical reading, and the adaptation of reading strategy to different genres.
 - Writing, articulation, and AI-era leverage: Dan Koe, Codex workflow essays, and instruction-system pages on how durable context improves both human and agent work.
-- Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
+- Trading, investing, and uncertainty: Howard Marks, Taleb, Munger, CFI's beginner trading primer, and multiple trading essays on edge, sizing, cycles, randomness, and survival.
 - Critical thinking and fallacies: Elizabeth Cox's historical fallacy series, practical critical-thinking guides, the Socratic method, inferencing, and newer pages on reasoning types and causal mistakes.
 - Reading comprehension and vocabulary building: inferencing, context clues, word-part clues, specialized terminology, figurative language, and study tools for turning encountered words into memory.
 - Digital literacy and online judgment: the newer web, search, misinformation, privacy, AI, and app-platform cluster on how digital systems work, how they shape attention, and how to keep agency inside them.
@@ -54,7 +54,7 @@ The digital-literacy cluster adds a different kind of systems layer. It turns th
 
 ## Current Totals
 
-- Sources: 74
+- Sources: 75
 - Entities: 44
-- Concepts: 211
+- Concepts: 217
 - Synthesis pages: 10

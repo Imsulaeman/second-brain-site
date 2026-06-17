@@ -3,8 +3,8 @@ title: "Value vs Growth Investing"
 type: concept
 tags: [investing, valuation, growth, intrinsic-value]
 created: 2026-05-10
-updated: 2026-06-09
-sources: 1
+updated: 2026-06-18
+sources: 2
 ---
 
 # Value vs Growth Investing
@@ -36,6 +36,14 @@ The labels survive because different market environments reward different parts 
 
 The healthier comparison is not value versus growth but cheap growth, expensive growth, cheap stagnation, and expensive stagnation. The investor's task is always relative: what stream of future reality is this price demanding, and how likely is that reality?
 
+## Retail Stock Toolkit (CFI)
+
+[[sources/the-complete-guide-to-trading]] teaches the labels from the stock-picker side. **Value:** Ben Graham Number = √(22.5 × EPS × book value per share); price below suggests undervaluation. Absolute P/E adjusts for projected growth — compare to standard P/E; large positive gap hints bargain. Valuation remains part art, part science.
+
+**Growth:** offensive posture — above-average profit potential in expanding sectors (historically tech, healthcare). High P/E can be rational within industry averages; low or negative near-term earnings may fund expansion. Growth investors sometimes overlap value when buying overlooked companies in hot sectors or post-restructuring survivors.
+
+CFI's growth/value split is cruder than Marks' intrinsic-value frame above — useful for vocabulary, not a substitute for [[concepts/second-order-thinking|second-level]] price-vs-value work.
+
 ## Connections
 
 - [[concepts/reasonable-expectations]]
@@ -45,4 +53,5 @@ The healthier comparison is not value versus growth but cheap growth, expensive 
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]]
+- [[sources/the-complete-collection-howard-marks]] — growth as input to value, not opposite
+- [[sources/the-complete-guide-to-trading]] — Graham number, absolute P/E, growth sector playbook

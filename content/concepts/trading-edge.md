@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-06-11
-sources: 11
+updated: 2026-06-18
+sources: 12
 ---
 
 # Trading Edge
@@ -35,6 +35,8 @@ Howard Marks pushes the concept toward [[concepts/active-management-as-error-det
 Munger adds the pari-mutuel lens. Most of the time, the crowd's odds are roughly right, so real opportunity is rare and action should be sparse. When a genuine edge appears, sizing and patience matter more than constant activity.
 
 Taleb adds the harshest filter: edge must survive the randomness test. A trader can look skillful while merely living through one favorable [[concepts/alternative-histories|alternative history]] or quietly selling a negatively skewed payoff.
+
+CFI's beginner frame ([[sources/the-complete-guide-to-trading]]) makes the fork explicit: if [[concepts/random-walk-theory]] is true, index and stop; if not, build [[concepts/fundamental-vs-technical-analysis|analysis skills]] and **[[concepts/market-specialization|specialize]]** — edge rarely transfers across every commodity or equity universe equally.
 
 ## Edge Decays
 
@@ -104,3 +106,4 @@ Even a real edge fails if it is sized badly. A good setup with reckless size, hi
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/poor-charlies-almanack]]
 - [[sources/reminiscences-of-a-stock-operator]]
+- [[sources/the-complete-guide-to-trading]] — random walk fork, specialization, retail TA vocabulary

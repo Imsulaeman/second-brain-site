@@ -3,8 +3,8 @@ title: "Position Sizing"
 type: concept
 tags: [trading, investing, risk-management, ergodicity, survival, sizing]
 created: 2026-05-10
-updated: 2026-06-06
-sources: 7
+updated: 2026-06-18
+sources: 8
 ---
 
 # Position Sizing
@@ -27,6 +27,8 @@ The question is not only "Is this a good trade?" but:
 - Can I keep learning after this trade?
 
 If the answer is no, the size is too large.
+
+Sizing pairs with [[concepts/risk-reward-ratio]]: CFI's master-trader rule is to skip trades where potential gain is small relative to defined stop risk — no size can rescue negative expectancy setups.
 
 ---
 
@@ -119,3 +121,4 @@ The order should be:
 - [[sources/life-lessons-from-trading]]
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
 - [[synthesis/beginner-trader-investor-learning-path]]
+- [[sources/the-complete-guide-to-trading]]

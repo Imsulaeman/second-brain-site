@@ -3,9 +3,9 @@ title: "Trading Psychology"
 type: concept
 tags: [trading, psychology, discipline, emotion, speculation]
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-18
 
-sources: 1
+sources: 2
 ---
 
 # Trading Psychology
@@ -35,6 +35,14 @@ This reversal is the central insight of [[sources/reminiscences-of-a-stock-opera
 **Greed** — causes overtrading, oversizing, and abandoning systems after a run of luck. The market occasionally generates runs that look like edge but are [[concepts/alternative-histories|alternative histories]].
 
 **Impatience** — the compulsion to do something. Markets spend most of their time in non-trending noise. Inactivity feels wrong even when it is correct. Most traders would improve by simply trading less.
+
+## Winning Mindset (CFI)
+
+[[sources/the-complete-guide-to-trading]] argues the separator between winning and losing traders is usually **psychology**, not strategy IQ or analysis quality. Beginners hunt the perfect system; veterans know many intelligent systems still lose when emotions override execution.
+
+Core attitudes: the market is **neutral** — not rigged against you personally. Focus on reading the market, not watching account balance (Schwager's Market Wizards pattern). Six master skills: analytical ability, process-over-P&L focus, adapting when regimes shift, staying in the game through drawdowns, [[concepts/risk-reward-ratio|risk/reward discipline]], and patience on flat days. Skill #7: **trade journal** — same feedback loop as [[concepts/decision-quality-vs-outcome]] and Light's hand-history analogy.
+
+Boredom trading — entering because nothing else is happening — is a named failure mode. Wait for low-risk setups; flat sessions are not emergencies.
 
 ## Self-Knowledge as Prerequisite
 
@@ -88,4 +96,5 @@ The lesson: a losing trade you are not mentally present to manage *will* grow. T
 
 ## Sources
 
-- [[sources/reminiscences-of-a-stock-operator]]
+- [[sources/reminiscences-of-a-stock-operator]] — reversed impulses, lone hand, sleeping point, divided attention
+- [[sources/the-complete-guide-to-trading]] — winning mindset, six skills, journal, boredom trading
