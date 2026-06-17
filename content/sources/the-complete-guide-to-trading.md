@@ -7,7 +7,7 @@ updated: 2026-06-18
 sources: 1
 ---
 
-CFI's 2018 eBook (116 pages) — a structured intro to capital markets for aspiring traders. Three parts: **markets** (asset classes, equities, fixed income, money markets, ETFs, commodities, forex), **concepts** ([[concepts/random-walk-theory|random walk]] vs active trading, [[concepts/fundamental-vs-technical-analysis|fundamental vs technical analysis]], chart reading, value and growth stock approaches), and **strategies** (ADX, MACD, TRIN, triangles, pin bars, trend-following, psychology, master-trader skills).
+CFI's 2018 eBook (116 pages) — a structured intro to capital markets for aspiring traders. Three parts: **markets** (asset classes, equities, fixed income, money markets, ETFs, commodities, forex), **concepts** ([[concepts/random-walk-theory|random walk]] vs active trading, [[concepts/fundamental-vs-technical-analysis|fundamental vs technical analysis]], chart reading, value and growth stock approaches), and **strategies** ([[concepts/trading-technical-indicator|technical indicators]] — ADX, MACD, TRIN, triangles, pin bars — trend-following, psychology, master-trader skills).
 
 The tone is retail-education practical — more textbook than Livermore memoir. Useful as a map of mainstream trading vocabulary and beginner mechanics; pair with [[sources/reminiscences-of-a-stock-operator]], [[sources/how-to-find-trading-edge]], and [[sources/art-of-trading-with-light-su-zhu-and-hasu]] for process and edge at a higher level.
 
@@ -27,10 +27,10 @@ Value investing tools: absolute P/E, Ben Graham Number (√[22.5 × EPS × book 
 
 ## Part III — Strategies and psychology
 
-Indicator primers: ADX (>25 = trending), MACD crossovers, TRIN arms-index sentiment, triangle breakouts. Pin-bar scalping on 5-minute charts with 10/21 EMAs. Three simple trend systems: golden/death cross, 5-8-13 Fibonacci EMAs, ADX filter.
+See [[concepts/trading-technical-indicator]] for ADX (&gt;25 = trending), MACD crossovers, TRIN/Arms breadth, triangle breakouts, and pin-bar scalping (5-minute charts, 10/21 EMAs). Three simple trend systems: golden/death cross, 5-8-13 Fibonacci EMAs, ADX filter.
 
 **[[concepts/trading-psychology]]** upgrade path: winning mindset beats "better strategy" alone; market is neutral not rigged. Six master skills: analytical ability, focus on process not P&L, adapt to regime change, stay in the game, [[concepts/risk-reward-ratio|risk/reward discipline]], patience — plus trade journal as skill #7. Quotes close with Livermore, Elder, Kovner, Templeton.
 
 ## Concepts
 
-[[concepts/random-walk-theory]], [[concepts/fundamental-vs-technical-analysis]], [[concepts/market-specialization]], [[concepts/support-and-resistance]], [[concepts/golden-cross-death-cross]], [[concepts/risk-reward-ratio]], [[concepts/value-vs-growth-investing]], [[concepts/trading-psychology]], [[concepts/trading-edge]], [[concepts/position-sizing]]
+[[concepts/random-walk-theory]], [[concepts/fundamental-vs-technical-analysis]], [[concepts/trading-technical-indicator]], [[concepts/market-specialization]], [[concepts/support-and-resistance]], [[concepts/golden-cross-death-cross]], [[concepts/risk-reward-ratio]], [[concepts/value-vs-growth-investing]], [[concepts/trading-psychology]], [[concepts/trading-edge]], [[concepts/position-sizing]]

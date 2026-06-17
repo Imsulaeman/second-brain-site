@@ -15,7 +15,7 @@ Aims to buy below true value and sell above it. Works across stocks (earnings, b
 
 ## Technical side
 
-Ignores stated intrinsic value; trades probable direction from historical price action. Strength: fast, applicable when fundamentals are disputed or lagging. Weakness: indicator overload — "endless list" of tools; what works on one stock may fail on another ([[concepts/market-specialization]]).
+Ignores stated intrinsic value; trades probable direction from historical price action. Strength: fast, applicable when fundamentals are disputed or lagging. Weakness: indicator overload — "endless list" of tools; what works on one stock may fail on another ([[concepts/market-specialization]]). CFI's indicator stack lives on [[concepts/trading-technical-indicator]].
 
 Neither camp has a monopoly on success. CFI's framing: both have rich and poor practitioners. Hybrid traders use fundamentals for **what** to watch and technicals for **when** to enter — common in [[concepts/anticipation-and-market-forecasting|anticipation]] and [[concepts/tape-reading-and-order-flow|flow]] work at higher sophistication.
 

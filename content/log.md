@@ -1,3 +1,6 @@
+## [2026-06-18] concept | trading-technical-indicator
+- Umbrella page for CFI indicator primers: ADX, MACD, TRIN, triangles, pin bars; linked from source + TA cluster
+
 ## [2026-06-18] ingest | The Complete Guide to Trading — CFI
 - Full PDF read (116 pages, 3 parts); 6 new concept pages, source summary; integration pass on trading cluster
 - Pages created: 7 (1 source, 6 concepts)

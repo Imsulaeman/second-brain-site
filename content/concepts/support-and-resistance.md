@@ -13,7 +13,7 @@ Support and resistance are price levels where buying or selling has repeatedly t
 
 In a range-bound stock, buy near support and sell near resistance can work for months. A **breakout** above resistance (or below support) often signals continuation — e.g. failure to clear $50 repeatedly, then a close above, invites a move to higher ground.
 
-Pin bars and other reversal patterns gain strength at prior support/resistance, pivot points, weekly highs/lows, or Fibonacci levels ([[sources/the-complete-guide-to-trading]]).
+Pin bars and other reversal patterns gain strength at prior support/resistance, pivot points, weekly highs/lows, or Fibonacci levels — see [[concepts/trading-technical-indicator]].
 
 ## Limits
 

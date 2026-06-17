@@ -13,7 +13,7 @@ Golden cross and death cross are moving-average crossover signals using the 50-d
 
 CFI's simplest trend strategy: stay long while 50 > 200; stay short or flat while 50 < 200. Price above the 200-day MA is generally bullish context; below is bearish. The 200-day line is treated as a critical institutional benchmark.
 
-These are slow signals — they lag price and whipsaw in choppy markets. They pair with faster systems (5/8/13 Fibonacci EMAs, ADX > 25 filter) in the same source.
+These are slow signals — they lag price and whipsaw in choppy markets. They pair with faster systems (5/8/13 Fibonacci EMAs, ADX &gt; 25 filter) in [[concepts/trading-technical-indicator]].
 
 ## Wiki context
 
