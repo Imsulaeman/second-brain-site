@@ -77,7 +77,7 @@ body {
 .hero-bg {
   background-image:
     linear-gradient(90deg, rgb(15 21 37 / 0.92) 0%, rgb(15 21 37 / 0.74) 42%, rgb(15 21 37 / 0.58) 100%),
-    url('/images/hero-bg.jpg'),
+    url('/images/hero-bg.webp'),
     linear-gradient(135deg, #0f1525 0%, #1a2035 100%);
   background-position: center;
   background-size: cover;
@@ -89,19 +89,19 @@ body {
 }
 
 .room-library-fallback {
-  background-image: linear-gradient(135deg, rgb(26 21 8 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-library.jpg'), linear-gradient(135deg, #1a1508 0%, #0f1525 100%);
+  background-image: linear-gradient(135deg, rgb(26 21 8 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-library.webp'), linear-gradient(135deg, #1a1508 0%, #0f1525 100%);
 }
 
 .room-workshop-fallback {
-  background-image: linear-gradient(135deg, rgb(13 26 46 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-workshop.jpg'), linear-gradient(135deg, #0d1a2e 0%, #0f1525 100%);
+  background-image: linear-gradient(135deg, rgb(13 26 46 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-workshop.webp'), linear-gradient(135deg, #0d1a2e 0%, #0f1525 100%);
 }
 
 .room-gallery-fallback {
-  background-image: linear-gradient(135deg, rgb(26 15 46 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-gallery.jpg'), linear-gradient(135deg, #1a0f2e 0%, #0f1525 100%);
+  background-image: linear-gradient(135deg, rgb(26 15 46 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-gallery.webp'), linear-gradient(135deg, #1a0f2e 0%, #0f1525 100%);
 }
 
 .room-observatory-fallback {
-  background-image: linear-gradient(135deg, rgb(13 31 30 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-observatory.jpg'), linear-gradient(135deg, #0d1f1e 0%, #0f1525 100%);
+  background-image: linear-gradient(135deg, rgb(13 31 30 / 0.88), rgb(15 21 37 / 0.86)), url('/images/room-observatory.webp'), linear-gradient(135deg, #0d1f1e 0%, #0f1525 100%);
 }
 
 .prose .katex {

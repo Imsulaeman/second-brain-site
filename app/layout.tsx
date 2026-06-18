@@ -24,6 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${GeistSans.variable} ${playfair.variable} ${jetbrains.variable}`}>
       <head>
+        <link rel="preload" href="/images/hero-bg.webp" as="image" fetchPriority="high" />
         <link
           rel="preload"
           href="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"

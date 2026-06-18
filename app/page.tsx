@@ -12,7 +12,7 @@ export default function Home() {
       <ManorEntrance />
       <section
         className="hero-bg relative flex min-h-[92dvh] items-end overflow-hidden pt-24"
-        style={{ '--hero-image': 'url(/images/hero-bg.jpg)' } as React.CSSProperties}
+        style={{ '--hero-image': 'url(/images/hero-bg.webp)' } as React.CSSProperties}
       >
         <div className="absolute inset-0 border-b border-palace-border/70" />
         <div className="relative z-10 mx-auto grid w-full max-w-7xl gap-12 px-4 pb-16 sm:px-6 md:grid-cols-[1.18fr_0.82fr] md:pb-24 lg:px-8">
