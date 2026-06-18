@@ -3,7 +3,7 @@ title: "Advice on Upskilling"
 type: source
 tags: [skill-development, learning, deliberate-practice, career, motivation]
 created: 2026-05-02
-updated: 2026-05-10
+updated: 2026-06-18
 sources: 1
 ---
 
@@ -117,7 +117,11 @@ The cognitive science of what expertise actually is:
 A miscellany of shorter passages covering career, mindset, and practical advice:
 
 - **The Only Reliable Path to Wealth:** Skill up seriously → apply skills to solve real problems people pay to have solved. 10-year horizon. No shortcuts.
-- **Performance Formula:** `Performance = Baseline + Volume × Efficiency × Intrinsic Learning Rate`
+- **Performance Formula:**
+
+  $$
+  \text{Performance} = \text{Baseline} + \text{Volume} \times \text{Efficiency} \times \text{Intrinsic Learning Rate}
+  $$
 - **If You're In Science, Learn Math and Coding:** Eliminates your own bottlenecks AND makes you in high demand where others are weak.
 - **Grade Levels Can Be Compressed:** Standard academic pacing is calibrated to unserious, inefficient work. Serious, efficient work can compress it dramatically.
 - **The #1 Killer of Creativity:** Lack of foundational knowledge/skills. Creativity requires automatized low-level skills to free up WM for high-level recombination. Repetition enables creativity — it's not the enemy of it.

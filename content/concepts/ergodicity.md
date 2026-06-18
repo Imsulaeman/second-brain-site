@@ -17,6 +17,22 @@ The key distinction is between ensemble success and time-path survival. If a pro
 
 This is why the concept matters so much for compounding. Once losses compound multiplicatively, survival becomes the first question. A strategy that occasionally wipes you out cannot be rescued by the fact that some hypothetical population average looks good.
 
+## The Coin-Flip Example
+
+[[sources/the-jackpot-age]] makes the split concrete: +50% on heads, -40% on tails.
+
+$$
+\mathbb{E}[r] = 0.5 \times 0.5 + 0.5 \times (-0.4) = +0.05
+$$
+
+Arithmetic expected value is positive. But each flip multiplies wealth by \(1.5\) or \(0.6\), so the typical compounding path is
+
+$$
+(1.5)^{0.5}(0.6)^{0.5} \approx 0.95
+$$
+
+— negative geometric growth. Ensemble averages look fine; median paths go to zero.
+
 ## The Practical Intuition
 
 Taleb's trader's version of the problem is simple: many strategies produce long stretches of apparent competence before one tail event reveals that the player was collecting pennies in front of a steamroller. [[sources/the-jackpot-age]] adds the stronger quantitative framing, but the shared lesson is the same. Do not optimize for an attractive average if your actual path through time cannot survive the variance.

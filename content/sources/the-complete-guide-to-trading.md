@@ -23,7 +23,13 @@ Five asset classes: equities, fixed income, cash equivalents, real estate/tangib
 
 Chart literacy: 20/50/200 MAs, [[concepts/golden-cross-death-cross|golden cross / death cross]], trendlines, volume patterns, [[concepts/support-and-resistance|support and resistance]], momentum vs trend indicators.
 
-Value investing tools: absolute P/E, Ben Graham Number (√[22.5 × EPS × book value]). Growth investing: hot sectors, earnings trajectory, P/E and P/B in growth context — complements [[concepts/value-vs-growth-investing]] from the retail-stock side.
+Value investing tools: absolute P/E, Ben Graham Number:
+
+$$
+\sqrt{22.5 \times \text{EPS} \times \text{book value}}
+$$
+
+Growth investing: hot sectors, earnings trajectory, P/E and P/B in growth context — complements [[concepts/value-vs-growth-investing]] from the retail-stock side.
 
 ## Part III — Strategies and psychology
 

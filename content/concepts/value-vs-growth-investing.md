@@ -38,7 +38,13 @@ The healthier comparison is not value versus growth but cheap growth, expensive 
 
 ## Retail Stock Toolkit (CFI)
 
-[[sources/the-complete-guide-to-trading]] teaches the labels from the stock-picker side. **Value:** Ben Graham Number = √(22.5 × EPS × book value per share); price below suggests undervaluation. Absolute P/E adjusts for projected growth — compare to standard P/E; large positive gap hints bargain. Valuation remains part art, part science.
+[[sources/the-complete-guide-to-trading]] teaches the labels from the stock-picker side. **Value:** Ben Graham Number
+
+$$
+\sqrt{22.5 \times \text{EPS} \times \text{book value per share}}
+$$
+
+Price below suggests undervaluation. Absolute P/E adjusts for projected growth — compare to standard P/E; large positive gap hints bargain. Valuation remains part art, part science.
 
 **Growth:** offensive posture — above-average profit potential in expanding sectors (historically tech, healthcare). High P/E can be rational within industry averages; low or negative near-term earnings may fund expansion. Growth investors sometimes overlap value when buying overlooked companies in hot sectors or post-restructuring survivors.
 

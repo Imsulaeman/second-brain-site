@@ -36,9 +36,9 @@ Sizing pairs with [[concepts/risk-reward-ratio]]: CFI's master-trader rule is to
 
 ## The Basic Formula
 
-```text
-position size = allowed loss / distance to invalidation
-```
+$$
+\text{position size} = \frac{\text{allowed loss}}{\text{distance to invalidation}}
+$$
 
 Example:
 
@@ -47,7 +47,7 @@ Example:
 - Entry: 50
 - Invalidation/stop: 45
 - Risk per share: 5
-- Position size: 100 / 5 = 20 shares
+- Position size: \(100 / 5 = 20\) shares
 
 The important part is not the exact percentage. The important part is that loss is chosen before ego gets involved.
 

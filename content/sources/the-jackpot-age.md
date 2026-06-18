@@ -3,7 +3,7 @@ title: "The Jackpot Age"
 type: source
 tags: [ergodicity, trading, risk, wealth, expected-value]
 created: 2026-05-05
-updated: 2026-06-06
+updated: 2026-06-18
 sources: 1
 ---
 
@@ -18,11 +18,23 @@ sources: 1
 
 The central insight: a game with **positive arithmetic expected value** can still cause almost everyone to go to zero.
 
-**The coin flip example:** +50% on heads, -40% on tails. Expected value = +5% per flip. Yet if 25,000 people each flip 1,000 times, virtually all end up with ~$0.
+**The coin flip example:** +50% on heads, -40% on tails.
 
-Why? **Arithmetic mean ≠ geometric mean.** The arithmetic mean measures average wealth across all possible outcomes. The geometric mean measures the wealth you'd expect in the *median* outcome. This coin flip has a *negative* geometric mean — it's negatively compounding over the long run.
+$$
+\mathbb{E}[r] = 0.5 \times 0.5 + 0.5 \times (-0.4) = +0.05
+$$
 
-To break even in this game, you need to flip 570 heads and 430 tails. After 1,000 flips, all of the expected value is concentrated in just 0.0001% of jackpot outcomes. See: [[concepts/ergodicity|Ergodicity]].
+Positive arithmetic expected value per flip — yet if 25,000 people each flip 1,000 times, virtually all end up with ~$0.
+
+Why? **Arithmetic mean ≠ geometric mean.** The arithmetic mean measures average wealth across all possible outcomes. The geometric mean measures the wealth you'd expect in the *median* outcome. Per-flip wealth multiplies by \(1.5\) or \(0.6\), so the typical path compounds as
+
+$$
+(1.5)^{0.5}(0.6)^{0.5} \approx 0.95
+$$
+
+— a *negative* geometric growth rate. Most individual paths shrink over time even when the ensemble average looks attractive.
+
+To break even in this game, you need 570 heads and 430 tails in 1,000 flips. After 1,000 flips, all of the expected value is concentrated in just 0.0001% of jackpot outcomes. See: [[concepts/ergodicity|Ergodicity]].
 
 ---
 

@@ -3,7 +3,7 @@ title: "Atomic Habits"
 type: source
 tags: [habits, behavior-change, identity, systems, productivity, self-improvement]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-18
 sources: 1
 ---
 
@@ -16,7 +16,7 @@ sources: 1
 
 ## Core Thesis
 
-Habits are the compound interest of self-improvement. Getting 1% better each day compounds to 37× over a year. But the relationship between effort and results is not linear — there is a [[concepts/plateau-of-latent-potential|Plateau of Latent Potential]] where work accumulates invisibly before breakthrough. Most people quit in this valley of disappointment.
+Habits are the compound interest of self-improvement. Getting 1% better each day compounds to \(1.01^{365} \approx 37\times\) over a year. But the relationship between effort and results is not linear — there is a [[concepts/plateau-of-latent-potential|Plateau of Latent Potential]] where work accumulates invisibly before breakthrough. Most people quit in this valley of disappointment.
 
 The fix: stop optimizing for goals and start optimizing for systems. Winners and losers share the same goals; the difference is systems. "You do not rise to the level of your goals. You fall to the level of your systems."
 
