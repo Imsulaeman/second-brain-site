@@ -70,6 +70,7 @@ export default function Home() {
               <Link
                 key={room.path}
                 href={room.path}
+                prefetch={false}
                 className={`card-hover group relative min-h-[260px] overflow-hidden rounded-lg border border-palace-border bg-palace-surface p-6 hover:border-palace-gold/60 hover:shadow-insetGlow ${
                   wide ? 'md:col-span-2' : ''
                 }`}
