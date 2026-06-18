@@ -1,8 +1,10 @@
+import dynamic from 'next/dynamic'
 import Link from 'next/link'
 import { ArrowRight, Graph } from '@phosphor-icons/react/dist/ssr'
 import { getRoomCounts } from '@/lib/notes'
 import { rooms } from '@/lib/rooms'
-import ManorEntrance from '@/components/ManorEntrance'
+
+const ManorEntrance = dynamic(() => import('@/components/ManorEntrance'), { ssr: false })
 
 export default function Home() {
   const counts = getRoomCounts()

@@ -1,10 +1,12 @@
 'use client'
 
+import dynamic from 'next/dynamic'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { MagnifyingGlass } from '@phosphor-icons/react'
 import { useEffect, useState } from 'react'
-import SearchOverlay from './SearchOverlay'
+
+const SearchOverlay = dynamic(() => import('./SearchOverlay'))
 
 const links = [
   { href: '/sources', label: 'Library' },
