@@ -19,7 +19,7 @@ It is not a trade-entry rule. It answers: *how much*, once expected value is pos
 
 ## The Core Idea
 
-Kelly optimization maximizes **E[log wealth]** — log utility. Each marginal dollar matters less than the last because survival and compounding through time dominate single-shot arithmetic averages.
+Kelly optimization maximizes \(\mathbb{E}[\log W]\) — log utility. Each marginal dollar matters less than the last because survival and compounding through time dominate single-shot arithmetic averages.
 
 [[sources/the-jackpot-age]] and Bernoulli's geometric-mean insight (via [[sources/fortunes-formula]]) say the same thing in different language: positive **arithmetic** EV can still destroy most paths; the **geometric mean** / median path governs survival.
 
@@ -31,38 +31,41 @@ Kelly optimization maximizes **E[log wealth]** — log utility. Each marginal do
 
 ### Even-money binary bet
 
-Win probability \(p\), lose \(q=1-p\), even payoff:
+Win probability \(p\), lose \(q = 1 - p\), even payoff:
 
-```text
-f* = p − q
-g(f) = p·log(1+f) + q·log(1−f)
-```
+$$
+f^* = p - q
+$$
 
-51/49 example: **f* = 0.02** ([[sources/the-kelly-criterion-thorp-2006]], [[sources/how-to-get-rich]]).
+$$
+g(f) = p \log(1 + f) + q \log(1 - f)
+$$
+
+51/49 example: \(f^* = 0.02\) ([[sources/the-kelly-criterion-thorp-2006]], [[sources/how-to-get-rich]]).
 
 ### General two-outcome (edge/odds shortcut)
 
-```text
-f* = (b·p − q) / b
-```
+$$
+f^* = \frac{bp - q}{b}
+$$
 
 where \(b\) is payoff per unit risked. [[sources/understanding-the-kelly-criterion]] warns: **edge/odds applies only to this two-valued case** — not general portfolios.
 
 ### Continuous portfolio (excess return)
 
-```text
-f* = (m − r) / s²
-```
+$$
+f^* = \frac{m - r}{s^2}
+$$
 
-Expected excess return \(m-r\), variance \(s^2\), risk-free \(r\) ([[sources/the-kelly-criterion-thorp-2006]]).
+Expected excess return \(m - r\), variance \(s^2\), risk-free rate \(r\) ([[sources/the-kelly-criterion-thorp-2006]]).
 
 ### Multi-scenario
 
-```text
-g(f) = Σ pᵢ · ln(1 + Rᵢ·f)
-```
+$$
+g(f) = \sum_i p_i \log(1 + R_i f)
+$$
 
-Optimize \(f\) (or weight vector) — requires portfolio-level scenario work, not isolated tickers.
+Optimize \(f\) (or the weight vector) — requires portfolio-level scenario work, not isolated tickers.
 
 ---
 
@@ -70,9 +73,9 @@ Optimize \(f\) (or weight vector) — requires portfolio-level scenario work, no
 
 | Strategy | Behavior | Outcome |
 |---|---|---|
-| Bold | Maximize arithmetic E[wealth] → bet all | Almost sure ruin |
+| Bold | Maximize \(\mathbb{E}[W]\) → bet all | Almost sure ruin |
 | Timid | Minimize ruin → bet minimum | Survive, starve growth |
-| Kelly | Maximize E[log wealth] → proportional fraction | Growth + ruin avoided (technical sense) |
+| Kelly | Maximize \(\mathbb{E}[\log W]\) → proportional fraction | Growth + ruin avoided (technical sense) |
 
 Proportional betting: never stake 100% of **current** bankroll, so you cannot hit literal zero in one step — but wealth can still approach arbitrarily small values ([[sources/fortunes-formula]]).
 
@@ -82,18 +85,18 @@ Proportional betting: never stake 100% of **current** bankroll, so you cannot hi
 
 Full Kelly maximizes asymptotic growth but produces **drawdowns most investors cannot stomach** ([[sources/the-kelly-criterion-thorp-2006]], [[sources/understanding-the-kelly-criterion]]).
 
-Use **f = c·f*** with \(0 < c < 1\):
+Use \(f = c \cdot f^*\) with \(0 < c < 1\):
 
 | Fraction | Tradeoff (Thorp coin/portfolio math) |
 |---|---|
-| Half-Kelly (c=½) | ~75% of max growth rate, ~50% of variance; much lower prob. of halving capital |
+| Half-Kelly (\(c = \tfrac{1}{2}\)) | ~75% of max growth rate, ~50% of variance; much lower prob. of halving capital |
 | Quarter-Kelly | Even gentler; common in practice |
 
 Reasons to fractionalize ([[sources/understanding-the-kelly-criterion]]):
 
 1. **Opportunity costs** — per-bet Kelly ignores rest of portfolio → overestimates \(f^*\)
 2. **Risk tolerance**
-3. **Edge overestimate** — true edge below model → full Kelly can yield g ≤ 0
+3. **Edge overestimate** — true edge below model → full Kelly can yield \(g \leq 0\)
 4. **Black swans** — fat tails not in scenario table
 5. **Finite horizon** — asymptotic dominance may not arrive in time
 
@@ -105,9 +108,9 @@ Reasons to fractionalize ([[sources/understanding-the-kelly-criterion]]):
 
 Wiki default from [[concepts/position-sizing]]:
 
-```text
-position size = allowed loss / distance to invalidation
-```
+$$
+\text{position size} = \frac{\text{allowed loss}}{\text{distance to invalidation}}
+$$
 
 Stop-based sizing does not need win-rate estimates. For discretionary trading with fuzzy edge, it is often **more robust** than plugging guessed \(p\) into Kelly.
 

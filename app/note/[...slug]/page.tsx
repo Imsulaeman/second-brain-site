@@ -2,6 +2,9 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { MDXRemote } from 'next-mdx-remote/rsc'
 import remarkGfm from 'remark-gfm'
+import remarkMath from 'remark-math'
+import rehypeKatex from 'rehype-katex'
+import 'katex/dist/katex.min.css'
 import ReadingProgress from '@/components/ReadingProgress'
 import MermaidDiagram from '@/components/MermaidDiagram'
 import { getAllNotes, getBacklinks, getNoteById } from '@/lib/notes'
@@ -126,7 +129,12 @@ export default function NotePage({ params }: { params: { slug: string[] } }) {
             <MDXRemote
               source={note.content}
               components={mdxComponents}
-              options={{ mdxOptions: { remarkPlugins: [remarkGfm as any] } }}
+              options={{
+                mdxOptions: {
+                  remarkPlugins: [remarkGfm as any, [remarkMath, { singleDollarTextMath: false }] as any],
+                  rehypePlugins: [rehypeKatex],
+                },
+              }}
             />
           </div>
 

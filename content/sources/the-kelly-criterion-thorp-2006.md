@@ -28,14 +28,13 @@ Kelly chooses the intermediate: maximize **expected log wealth** — equivalent 
 
 ## Coin-Toss Derivation
 
-Even-money biased coin: win prob \(p\), lose prob \(q=1-p\). Bet fixed fraction \(f\) of bankroll each trial.
+Even-money biased coin: win prob \(p\), lose prob \(q = 1 - p\). Bet fixed fraction \(f\) of bankroll each trial.
 
-```text
-g(f) = p·log(1+f) + q·log(1−f)
-f* = p − q    (even money)
-```
+$$
+g(f) = p \log(1 + f) + q \log(1 - f), \qquad f^* = p - q \quad \text{(even money)}
+$$
 
-For \(p=0.51\): **f* = 0.02** — risk 2% per flip. Proportional betting means technical "ruin" (hitting exactly zero) has probability 0; wealth can still approach arbitrarily small values under bad sequences.
+For \(p = 0.51\): \(f^* = 0.02\) — risk 2% per flip. Proportional betting means technical "ruin" (hitting exactly zero) has probability 0; wealth can still approach arbitrarily small values under bad sequences.
 
 ## Why Log Utility
 
@@ -70,12 +69,11 @@ Thorp describes a 101-day baseball betting system (first ~4.5 months of 1994) us
 
 ## Stock Market / Continuous Approximation
 
-For continuous compounding with expected excess return \(m-r\) and variance \(s^2\):
+For continuous compounding with expected excess return \(m - r\) and variance \(s^2\):
 
-```text
-f* = (m − r) / s²
-g∞(f*) = (m − r)² / (2s²) + r
-```
+$$
+f^* = \frac{m - r}{s^2}, \qquad g_\infty(f^*) = \frac{(m - r)^2}{2s^2} + r
+$$
 
 Kelly investor dynamically reallocates as forecasts of \(m\), \(r\), \(s\) change. With leverage and taxes, required fractions shift — high tax rates amplify apparent optimal leverage in theory but practical leverage limits bite.
 

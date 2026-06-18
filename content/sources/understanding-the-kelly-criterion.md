@@ -25,11 +25,11 @@ Bet or invest to maximize expected **logarithmic growth** of capital after each 
 
 Many sources (Morningstar, Motley Fool, etc.) repeat:
 
-```text
-optimal Kelly bet = edge / odds
-```
+$$
+f^* = \frac{\text{edge}}{\text{odds}}
+$$
 
-This applies **only** to the special case of a two-valued payoff. General portfolios require solving for asset weights that maximize \(\sum p_i \ln(1 + R_i f)\) — a nonlinear program over joint scenarios.
+This applies **only** to the special case of a two-valued payoff. General portfolios require solving for asset weights that maximize \(\sum_i p_i \log(1 + R_i f)\) — a nonlinear program over joint scenarios.
 
 ## Stewart Enterprises Example (Pabrai)
 
