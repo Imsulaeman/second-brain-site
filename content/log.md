@@ -1,3 +1,9 @@
+## [2026-06-18] ingest | Kelly criterion cluster — Thorp 2006, Understanding Kelly, Fortune's Formula
+- Full read of 3 sources; 3 source pages, 4 entities; kelly-criterion upgraded to 6-source primary-backed concept
+- Pages created: 7 (3 sources, 4 entities)
+- Pages updated: 8 (kelly-criterion, position-sizing, ergodicity, how-to-get-rich, the-jackpot-age, naval-ravikant, beginner-trader-investor-learning-path, index)
+- Status: full
+
 ## [2026-06-18] maintenance | Housekeeping + synthesis revision
 - Deleted raw extraction helpers (`_*_extracted.txt`), duplicate Carnegie PDF, `desktop.ini`
 - Revised `beginner-trader-investor-learning-path` (Douglas Stage 1b, sample curriculum; cleared needs-review)

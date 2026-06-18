@@ -4,96 +4,128 @@ type: concept
 tags: [trading, investing, risk-management, ergodicity, compounding, sizing, math]
 created: 2026-06-18
 updated: 2026-06-18
-sources: 3
+sources: 6
 ---
 
 # Kelly Criterion
 
 The Kelly criterion is a sizing rule for repeated bets: given a genuine edge, what fraction of capital maximizes **long-run geometric growth** — wealth compounded multiplicatively across many independent rounds?
 
-It is not a trade-entry rule. It answers a narrower question: *how much*, once you believe you have positive expected value.
+Originated by [[entities/John-Kelly-Jr|John Kelly]] (1956, information theory). Made operational by [[entities/Edward-Thorp|Ed Thorp]] in blackjack and markets. Popularized historically in [[sources/fortunes-formula|*Fortune's Formula*]].
+
+It is not a trade-entry rule. It answers: *how much*, once expected value is positive.
 
 ---
 
 ## The Core Idea
 
-Kelly optimization assumes you care about **log wealth** — each dollar is slightly less valuable than the one before it, because what matters is surviving and compounding through time, not maximizing arithmetic average outcome in a single shot.
+Kelly optimization maximizes **E[log wealth]** — log utility. Each marginal dollar matters less than the last because survival and compounding through time dominate single-shot arithmetic averages.
 
-[[sources/the-jackpot-age]] makes this concrete: a game can have **positive arithmetic expected value** and still send almost every player to zero. The median path is governed by the **geometric mean**, not the ensemble average. Log-wealth preference — sizing down as bankroll risk rises — is the only preference class that survives that paradox over many rounds.
+[[sources/the-jackpot-age]] and Bernoulli's geometric-mean insight (via [[sources/fortunes-formula]]) say the same thing in different language: positive **arithmetic** EV can still destroy most paths; the **geometric mean** / median path governs survival.
 
-[[sources/how-to-get-rich]] states the same lesson in gambler's language: even with a 51/49 edge, betting the entire bankroll each round eventually wipes you out through variance. Kelly is the formal version of "bet a fraction of your edge, not the whole kitty."
-
----
-
-## The Simple Formula
-
-For a binary bet — win probability \(p\), lose probability \(1-p\), and you gain \(b\) units for every 1 unit risked on a win:
-
-```text
-f* = (b × p − (1 − p)) / b
-```
-
-Where \(f^*\) is the fraction of bankroll to risk. If \(f^* \leq 0\), there is no edge; bet nothing.
-
-**Example (Naval's 51/49):** even money (\(b = 1\)), \(p = 0.51\):
-
-```text
-f* = (1 × 0.51 − 0.49) / 1 = 0.02
-```
-
-Full Kelly says risk 2% of bankroll per round. Betting 100% each time ignores variance and invites ruin before the edge compounds.
+[[sources/how-to-get-rich]]: even 51/49, betting the entire bankroll each round eventually wipes you out. Kelly formalizes "bet a fraction of your edge."
 
 ---
 
-## Why It Matters
+## Formulas
 
-Kelly connects three ideas already in this wiki:
+### Even-money binary bet
 
-| Idea | Link |
-|---|---|
-| Non-ergodic survival | [[concepts/ergodicity]] — your time-path matters; ensemble averages lie |
-| Ruin avoidance | [[sources/fooled-by-randomness]] — one bad draw can erase years of compounding |
-| Practical sizing | [[concepts/position-sizing]] — turn risk limits into shares/contracts |
+Win probability \(p\), lose \(q=1-p\), even payoff:
 
-Kelly is the **theoretical optimum** under known odds and independent repeated bets. Markets rarely offer that cleanly.
+```text
+f* = p − q
+g(f) = p·log(1+f) + q·log(1−f)
+```
+
+51/49 example: **f* = 0.02** ([[sources/the-kelly-criterion-thorp-2006]], [[sources/how-to-get-rich]]).
+
+### General two-outcome (edge/odds shortcut)
+
+```text
+f* = (b·p − q) / b
+```
+
+where \(b\) is payoff per unit risked. [[sources/understanding-the-kelly-criterion]] warns: **edge/odds applies only to this two-valued case** — not general portfolios.
+
+### Continuous portfolio (excess return)
+
+```text
+f* = (m − r) / s²
+```
+
+Expected excess return \(m-r\), variance \(s^2\), risk-free \(r\) ([[sources/the-kelly-criterion-thorp-2006]]).
+
+### Multi-scenario
+
+```text
+g(f) = Σ pᵢ · ln(1 + Rᵢ·f)
+```
+
+Optimize \(f\) (or weight vector) — requires portfolio-level scenario work, not isolated tickers.
+
+---
+
+## Bold vs Timid vs Kelly
+
+| Strategy | Behavior | Outcome |
+|---|---|---|
+| Bold | Maximize arithmetic E[wealth] → bet all | Almost sure ruin |
+| Timid | Minimize ruin → bet minimum | Survive, starve growth |
+| Kelly | Maximize E[log wealth] → proportional fraction | Growth + ruin avoided (technical sense) |
+
+Proportional betting: never stake 100% of **current** bankroll, so you cannot hit literal zero in one step — but wealth can still approach arbitrarily small values ([[sources/fortunes-formula]]).
 
 ---
 
 ## Full Kelly vs Fractional Kelly
 
-Full Kelly maximizes long-run growth rate but produces brutal drawdowns. Practitioners commonly use **half-Kelly** or **quarter-Kelly** because:
+Full Kelly maximizes asymptotic growth but produces **drawdowns most investors cannot stomach** ([[sources/the-kelly-criterion-thorp-2006]], [[sources/understanding-the-kelly-criterion]]).
 
-- Edge estimates are wrong more often than traders admit
-- Payoffs are not binary or fixed
-- Bets are correlated (one "trade" is often many linked exposures)
-- Psychological tolerance for drawdown is finite
+Use **f = c·f*** with \(0 < c < 1\):
 
-[[sources/how-to-get-rich]] widens "ruin" beyond bankroll: reputational, legal, and ethical ruin are also absorbing barriers — functionally equivalent to hitting zero and harder to recover from. Kelly math does not capture that; judgment must cap size further.
+| Fraction | Tradeoff (Thorp coin/portfolio math) |
+|---|---|
+| Half-Kelly (c=½) | ~75% of max growth rate, ~50% of variance; much lower prob. of halving capital |
+| Quarter-Kelly | Even gentler; common in practice |
+
+Reasons to fractionalize ([[sources/understanding-the-kelly-criterion]]):
+
+1. **Opportunity costs** — per-bet Kelly ignores rest of portfolio → overestimates \(f^*\)
+2. **Risk tolerance**
+3. **Edge overestimate** — true edge below model → full Kelly can yield g ≤ 0
+4. **Black swans** — fat tails not in scenario table
+5. **Finite horizon** — asymptotic dominance may not arrive in time
+
+**Overbetting is always worse than underbetting** ([[sources/the-kelly-criterion-thorp-2006]], [[sources/fortunes-formula]] LTCM lesson).
 
 ---
 
 ## Kelly vs Stop-Based Sizing
 
-This wiki's default operational rule — from [[concepts/position-sizing]] — is different but compatible:
+Wiki default from [[concepts/position-sizing]]:
 
 ```text
 position size = allowed loss / distance to invalidation
 ```
 
-That rule does not require estimating win rate. It sizes from **predefined maximum pain** and chart/thesis invalidation. For discretionary trading with fuzzy edge, it is often more robust than plugging guessed \(p\) and \(b\) into Kelly.
+Stop-based sizing does not need win-rate estimates. For discretionary trading with fuzzy edge, it is often **more robust** than plugging guessed \(p\) into Kelly.
 
-Use Kelly as a **ceiling intuition**: if your stop-based size implies risking 8% of account on a coin-flip-quality estimate, something is miscalibrated. Kelly says the upper bound for a thin edge is closer to 2%.
+Kelly still sets a **ceiling intuition**: thin-edge coin-flip quality estimates should not justify 8% account risk when \(f^* \approx 2\%\).
+
+Buffett-style concentration can be Kelly-consistent **only** when sized against the full opportunity set, not a single-name formula ([[sources/understanding-the-kelly-criterion]]).
 
 ---
 
 ## When Kelly Misleads
 
-- **Unknown or unstable edge** — overestimating \(p\) inflates \(f^*\) nonlinearly
-- **Fat tails** — binary Kelly ignores skew; [[concepts/skewness-and-asymmetry]] and Taleb's steamroller strategies break the model
-- **Single bets** — Kelly is for sequences; one venture-capital moonshot is not a Kelly problem
-- **Correlated books** — five "different" trades on the same macro thesis are one oversized bet
+- Unknown or unstable edge — overestimating \(p\) inflates \(f^*\) nonlinearly
+- Correlated books — five trades on one macro thesis = one bet
+- Path-dependent systems vs constant-fraction Kelly assumptions
+- Reputational/legal ruin — [[sources/how-to-get-rich]]; Kelly math is financial only
+- **LTCM-style overbetting** with Nobel-approved models ([[sources/fortunes-formula]])
 
-[[sources/the-jackpot-age]]'s practical line fits here: *build more edge rather than risk more size.*
+[[sources/the-jackpot-age]]: *build more edge rather than risk more size.*
 
 ---
 
@@ -105,14 +137,16 @@ Use Kelly as a **ceiling intuition**: if your stop-based size implies risking 8%
 - [[concepts/decision-quality-vs-outcome]]
 - [[concepts/trading-edge]]
 - [[concepts/risk-reward-ratio]]
+- [[entities/Edward-Thorp]]
+- [[entities/Claude-Shannon]]
+- [[entities/John-Kelly-Jr]]
 - [[entities/naval-ravikant]]
 
 ## Sources
 
-- [[sources/the-jackpot-age]] — log-wealth preference, geometric vs arithmetic mean, Kelly-like survival sizing
-- [[sources/how-to-get-rich]] — ruin avoidance, 51/49 intuition, fractional betting
-- [[sources/fooled-by-randomness]] — path-dependent survival, compounding wiped by tail events
-
-### Coverage gap
-
-This wiki does **not** yet have an ingested primary source on Kelly's original formulation (J. L. Kelly, 1956) or standard trading treatments (e.g. Ed Thorp, *Fortune's Formula*). The concept above is synthesized from ruin/ergodicity material already in the wiki. A dedicated source ingest would strengthen the formula derivation, continuous-payoff extensions, and portfolio-level Kelly.
+- [[sources/the-kelly-criterion-thorp-2006]] — derivation, fractional Kelly math, blackjack, sports, continuous portfolio
+- [[sources/understanding-the-kelly-criterion]] — misapplication warnings, portfolio Kelly, Pabrai example, Leib paradox
+- [[sources/fortunes-formula]] — Kelly–Shannon–Thorp history, geometric mean, LTCM overbetting
+- [[sources/the-jackpot-age]] — log-wealth / geometric mean survival
+- [[sources/how-to-get-rich]] — ruin avoidance intuition
+- [[sources/fooled-by-randomness]] — path-dependent survival, tail risk

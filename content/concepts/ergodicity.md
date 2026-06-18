@@ -3,8 +3,8 @@ title: "Ergodicity"
 type: concept
 tags: [math, risk, trading, expected-value, compounding, survival]
 created: 2026-05-05
-updated: 2026-06-09
-sources: 2
+updated: 2026-06-18
+sources: 4
 ---
 
 # Ergodicity
@@ -42,3 +42,5 @@ This is why ergodicity belongs with [[concepts/position-sizing]], [[concepts/ske
 
 - [[sources/fooled-by-randomness]]
 - [[sources/the-jackpot-age]]
+- [[sources/fortunes-formula]] — Bernoulli geometric mean, Kelly lineage
+- [[sources/the-kelly-criterion-thorp-2006]] — log-utility optimality, proportional betting

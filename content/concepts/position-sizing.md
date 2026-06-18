@@ -4,7 +4,7 @@ type: concept
 tags: [trading, investing, risk-management, ergodicity, survival, sizing]
 created: 2026-05-10
 updated: 2026-06-18
-sources: 9
+sources: 10
 ---
 
 # Position Sizing
@@ -102,6 +102,8 @@ Practical corollary: if the exit liquidity will not be there when you are wrong,
 
 ## Connection To Edge
 
+[[concepts/kelly-criterion]] gives the theoretical growth-optimal fraction when edge and payoff distribution are known; [[sources/understanding-the-kelly-criterion]] and [[sources/the-kelly-criterion-thorp-2006]] both recommend **fractional Kelly** in practice because edge estimates err high and drawdowns at full Kelly are brutal. Stop-based sizing in this page remains the better default for discretionary traders; Kelly is the ceiling check.
+
 Sizing should follow [[concepts/trading-edge]], not replace it. A weak idea does not become good because the size is small; a good idea can become fatal because the size is too large.
 
 The order should be:
@@ -126,3 +128,4 @@ The order should be:
 - [[synthesis/beginner-trader-investor-learning-path]]
 - [[sources/the-complete-guide-to-trading]]
 - [[sources/trading-in-the-zone]] — accept 20-trade worst-case risk; predefine as identity not effort
+- [[sources/understanding-the-kelly-criterion]] — portfolio Kelly, fractional sizing, overbetting warnings

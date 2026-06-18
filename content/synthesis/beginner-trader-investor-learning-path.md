@@ -68,7 +68,7 @@ The survival stack:
 3. **Drawdown limit** - if you hit the limit, stop trading and review.
 4. **Liquidity awareness** - exits disappear when everyone wants out.
 5. **No revenge trading** - do not try to "make it back."
-6. **No jackpot sizing** - positive expected value can still ruin you if size is too large.
+6. **No jackpot sizing** - positive expected value can still ruin you if size is too large. See [[concepts/kelly-criterion]] and [[sources/understanding-the-kelly-criterion]] for when fractional Kelly beats full size.
 
 [[concepts/ergodicity]] is the mathematical foundation here. In repeated-risk games, what matters is not just average expected value but whether one individual path survives over time. A strategy that looks positive in the ensemble can still send most participants to zero.
 
