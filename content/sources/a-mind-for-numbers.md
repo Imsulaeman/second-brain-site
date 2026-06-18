@@ -31,7 +31,7 @@ The central insight of the book: the brain has two fundamentally different think
 
 **Diffuse mode:** Relaxed, big-picture, wandering thinking. Spread across the brain. Like a flashlight set to broad beam. Good for making new connections, creative insights, and approaching unfamiliar problems.
 
-The pinball metaphor: In focused mode, the mental "bumpers" are close together â€” thoughts bounce precisely but stay in a local area. In diffuse mode, bumpers are far apart â€” thoughts travel further, making unexpected connections, but can't do precise work.
+The pinball metaphor: In focused mode, the mental "bumpers" are close together — thoughts bounce precisely but stay in a local area. In diffuse mode, bumpers are far apart — thoughts travel further, making unexpected connections, but can't do precise work.
 
 **Key implication:** You can't be in both modes simultaneously. When stuck on a problem, you must **stop focusing** to let diffuse mode work. This is why solutions often come during walks, showers, or right before sleep.
 
@@ -40,12 +40,12 @@ The pinball metaphor: In focused mode, the mental "bumpers" are close together �
 ## Chapter-by-Chapter Summary
 
 ### Ch 1: Open the Door
-Oakley's personal story: hated math through high school, enlisted in the army, learned Russian, then retrained her brain for engineering in her late 20s. Core message: you can change your relationship with math and science at any age. "Being good at science and math isn't something you *are* â€” it's something you *become*."
+Oakley's personal story: hated math through high school, enlisted in the army, learned Russian, then retrained her brain for engineering in her late 20s. Core message: you can change your relationship with math and science at any age. "Being good at science and math isn't something you *are* — it's something you *become*."
 
-### Ch 2â€“3: Focused and Diffuse Modes
+### Ch 2–3: Focused and Diffuse Modes
 Introduces the two-mode framework. The [[concepts/einstellung-effect|Einstellung Effect]]: when your existing mental patterns block you from seeing better solutions. You get "stuck" because focused mode keeps bouncing your thoughts in the same local area. The fix: shift to diffuse mode by doing something else (walk, nap, shower).
 
-Edison and DalÃ­'s technique: hold a ball bearing / keys while drifting off to sleep. When you drop them, the clatter wakes you â€” capturing the diffuse-mode insight before it fades. Sleep itself consolidates learning by replaying neural patterns and cleaning metabolic toxins.
+Edison and Dalí's technique: hold a ball bearing / keys while drifting off to sleep. When you drop them, the clatter wakes you — capturing the diffuse-mode insight before it fades. Sleep itself consolidates learning by replaying neural patterns and cleaning metabolic toxins.
 
 ### Ch 4: [[concepts/chunking|Chunking]] and Illusions of Competence
 The most important chapter for learning mechanics.
@@ -53,30 +53,30 @@ The most important chapter for learning mechanics.
 **What chunks are:** Pieces of information bound together through meaning. Like compressing files into a .zip. A chunk occupies only one slot in [[concepts/working-memory-vs-long-term-memory|working memory]] (~4 slots), but contains rich interconnected information underneath.
 
 **Three steps to form a chunk:**
-1. **Focus your attention** â€” no distractions. Your "attentional octopus" can only connect so many brain areas at once.
-2. **Understand** the basic idea â€” understanding acts as "superglue" for memory traces. But understanding alone is NOT enough.
-3. **Gain context** â€” practice when to use the chunk AND when NOT to use it. This connects the chunk to the bigger picture.
+1. **Focus your attention** — no distractions. Your "attentional octopus" can only connect so many brain areas at once.
+2. **Understand** the basic idea — understanding acts as "superglue" for memory traces. But understanding alone is NOT enough.
+3. **Gain context** — practice when to use the chunk AND when NOT to use it. This connects the chunk to the bigger picture.
 
 **[[concepts/illusions-of-competence|Illusions of Competence]]:** The biggest trap in learning. Students believe they know material when they don't. Causes:
-- **Rereading** feels fluent â†’ you mistake fluency for learning
+- **Rereading** feels fluent → you mistake fluency for learning
 - **Having the book open** makes you think the knowledge is in your brain
 - **Highlighting/underlining** gives the illusion of engagement without actual encoding
-- **Watching a solution** and thinking "I could do that" â€” you can't until you've done it yourself
+- **Watching a solution** and thinking "I could do that" — you can't until you've done it yourself
 
 **The antidote: Recall.** Close the book and try to retrieve the key ideas. Retrieval practice is far more effective than rereading. This is the book's single most actionable recommendation.
 
-### Ch 5â€“6, 9: Procrastination
-Procrastination gets three chapters because it's the "keystone bad habit" â€” change it and everything else improves.
+### Ch 5–6, 9: Procrastination
+Procrastination gets three chapters because it's the "keystone bad habit" — change it and everything else improves.
 
 **Why we procrastinate:** The brain's pain centers literally light up when anticipating an unpleasant task. We shift attention to something pleasant (phone, web) for immediate relief. But the pain disappears once you actually start working.
 
-**Procrastination as poison:** Like arsenic in tiny doses â€” each instance seems harmless, but the cumulative damage is severe. You never build the neural foundations needed for deep understanding.
+**Procrastination as poison:** Like arsenic in tiny doses — each instance seems harmless, but the cumulative damage is severe. You never build the neural foundations needed for deep understanding.
 
 **The four parts of habit** (from Charles Duhigg):
-1. **Cue** â€” what triggers the zombie response
-2. **Routine** â€” the habitual response (studying â†’ checking phone)
-3. **Reward** â€” the pleasure hit from avoidance
-4. **Belief** â€” "I'm just a procrastinator" (this must change)
+1. **Cue** — what triggers the zombie response
+2. **Routine** — the habitual response (studying → checking phone)
+3. **Reward** — the pleasure hit from avoidance
+4. **Belief** — "I'm just a procrastinator" (this must change)
 
 **Key technique: Focus on process, not product.** Don't think "I need to finish this problem set." Think "I will do 25 minutes of focused work" ([[concepts/pomodoro-technique|Pomodoro Technique]]). Product triggers pain; process does not.
 
@@ -92,8 +92,8 @@ Procrastination gets three chapters because it's the "keystone bad habit" â€�
 ### Ch 8: Tools, Tips, and Tricks
 Practical techniques including: planner-journal, eating your frogs first (hardest tasks in the morning), weekly/daily task lists, and the importance of planning quitting time.
 
-### Ch 10â€“11: Memory
-**[[concepts/working-memory-vs-long-term-memory|Working Memory vs Long-Term Memory]]:** Working memory holds ~4 chunks. Long-term memory is a vast warehouse. The goal is to move chunks from WM â†’ LTM through practice and repetition.
+### Ch 10–11: Memory
+**[[concepts/working-memory-vs-long-term-memory|Working Memory vs Long-Term Memory]]:** Working memory holds ~4 chunks. Long-term memory is a vast warehouse. The goal is to move chunks from WM → LTM through practice and repetition.
 
 **Memory Palace technique:** Place vivid, memorable images in familiar locations (your house). Walk through the locations to retrieve the memories. Surprisingly effective and used by memory champions.
 
@@ -104,26 +104,26 @@ Practical techniques including: planner-journal, eating your frogs first (hardes
 **Exercise:** Regular exercise creates new neurons in memory-related brain areas. Both aerobic and strength training improve learning. One of the most powerful (and underused) learning tools.
 
 ### Ch 12: Learning to Appreciate Your Talent
-**Intuitive understanding through practice:** Like a baseball swing â€” you don't consciously think through each step once it's chunked. Over-explaining the "why" during execution can actually cause choking.
+**Intuitive understanding through practice:** Like a baseball swing — you don't consciously think through each step once it's chunked. Over-explaining the "why" during execution can actually cause choking.
 
-**No genius envy:** Larger working memory (higher IQ) makes focused learning easier BUT can make creativity harder â€” bigger WM holds existing ideas more tightly, increasing Einstellung. Smaller WM may actually foster creativity by allowing more diffuse-mode leakage.
+**No genius envy:** Larger working memory (higher IQ) makes focused learning easier BUT can make creativity harder — bigger WM holds existing ideas more tightly, increasing Einstellung. Smaller WM may actually foster creativity by allowing more diffuse-mode leakage.
 
 ### Ch 13: Sculpting Your Brain
-Neuroplasticity â€” the brain physically changes shape through learning. Santiago RamÃ³n y Cajal (Nobel laureate, mediocre student as a child) is the exemplar. Learning literally grows new dendritic spines and synaptic connections.
+Neuroplasticity — the brain physically changes shape through learning. Santiago Ramón y Cajal (Nobel laureate, mediocre student as a child) is the exemplar. Learning literally grows new dendritic spines and synaptic connections.
 
-### Ch 14â€“15: Mind's Eye and Renaissance Learning
+### Ch 14–15: Mind's Eye and Renaissance Learning
 **Equation poems:** Transfer abstract equations into vivid mental imagery. "Personify" variables and constants.
 
 **Renaissance learning:** Broad education across disciplines creates more transfer opportunities. The most creative breakthroughs often come from outsiders who bring fresh perspectives.
 
 ### Ch 16: Avoiding Overconfidence
-The left hemisphere can be overconfident in its focused-mode solutions. Working with study partners provides a "reality check" â€” others can catch errors your own focused mode misses. This is why professional pilots use checklists and copilots.
+The left hemisphere can be overconfident in its focused-mode solutions. Working with study partners provides a "reality check" — others can catch errors your own focused mode misses. This is why professional pilots use checklists and copilots.
 
 ### Ch 17: Test Taking
-**The "hard-start-then-jump" technique:** Start with the hardest problem first, work on it for 1â€“2 minutes, then jump to an easier problem. This loads the hard problem into diffuse mode while you consciously work on easier ones. Return to the hard problem later with fresh insight.
+**The "hard-start-then-jump" technique:** Start with the hardest problem first, work on it for 1–2 minutes, then jump to an easier problem. This loads the hard problem into diffuse mode while you consciously work on easier ones. Return to the hard problem later with fresh insight.
 
 ### Ch 18: Unlock Your Potential
-The "Law of Serendipity" â€” Lady Luck favors those who try. Just keep showing up and practicing. Change is possible at any age.
+The "Law of Serendipity" — Lady Luck favors those who try. Just keep showing up and practicing. Change is possible at any age.
 
 ---
 
@@ -141,14 +141,14 @@ This book heavily reinforces and complements [[sources/advice-on-upskilling]]:
 | Procrastination | 3 chapters, detailed habit framework | "Just get started," "pain of action vs regret" |
 | Practice volume | Important but balanced | Maximalist emphasis |
 
-> **Key difference:** Oakley emphasizes the *diffuse mode* and the value of stepping away from problems. Skycak emphasizes *volume and grinding through*. These are complementary, not contradictory â€” Oakley is describing *how* to train efficiently; Skycak is arguing you also need *much more volume* than most people do.
+> **Key difference:** Oakley emphasizes the *diffuse mode* and the value of stepping away from problems. Skycak emphasizes *volume and grinding through*. These are complementary, not contradictory — Oakley is describing *how* to train efficiently; Skycak is arguing you also need *much more volume* than most people do.
 
 ---
 
 ## Key Entities
 
-- [[entities/barbara-oakley|Barbara Oakley]] â€” author
-- [[entities/benjamin-bloom|Benjamin Bloom]] â€” referenced for talent development research
+- [[entities/barbara-oakley|Barbara Oakley]] — author
+- [[entities/benjamin-bloom|Benjamin Bloom]] — referenced for talent development research
 
 ---
 
@@ -169,10 +169,10 @@ This book heavily reinforces and complements [[sources/advice-on-upskilling]]:
 
 > "Being good at science and mathematics isn't just something you *are*; it's something you *become*."
 
-> "Intention to learn is helpful only if it leads to the use of good learning strategies." â€” Alan Baddeley
+> "Intention to learn is helpful only if it leads to the use of good learning strategies." — Alan Baddeley
 
-> "The dread of doing a task uses up more time and energy than doing the task itself." â€” Rita Emmett
+> "The dread of doing a task uses up more time and energy than doing the task itself." — Rita Emmett
 
-> "Recall â€” mental retrieval of the key ideas â€” rather than passive rereading will make your study time more focused and effective."
+> "Recall — mental retrieval of the key ideas — rather than passive rereading will make your study time more focused and effective."
 
 > "Just understanding how a problem was solved does not necessarily create a chunk that you can easily call to mind later."

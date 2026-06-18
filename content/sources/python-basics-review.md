@@ -9,7 +9,7 @@ sources: 1
 
 # Python Basics Review
 
-**Source:** freeCodeCamp â€” *Learn Python (v9)*, Review Python Basics module
+**Source:** freeCodeCamp — *Learn Python (v9)*, Review Python Basics module
 **Type:** Structured reference / cheat sheet
 
 ---
@@ -122,7 +122,7 @@ f'My name is {name}.'          # f-string (preferred)
 4 ** 2     # 16   exponentiation
 ```
 
-int + float â†’ float automatically.
+int + float → float automatically.
 
 **Functions:**
 ```python
@@ -168,7 +168,7 @@ int(False)  # 0
 | **Local** | Inside the current function |
 | **Enclosing** | Outer function (for nested functions) |
 | **Global** | Top-level of the module |
-| **Built-in** | Python's reserved names (`print`, `type`, `len`, â€¦) |
+| **Built-in** | Python's reserved names (`print`, `type`, `len`, …) |
 
 ```python
 tax = 0.70                        # global

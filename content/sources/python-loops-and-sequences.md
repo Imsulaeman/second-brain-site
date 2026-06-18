@@ -9,7 +9,7 @@ sources: 1
 
 # Python Loops and Sequences
 
-**Source:** freeCodeCamp â€” *Learn Python (v9)*, Loops and Sequences module
+**Source:** freeCodeCamp — *Learn Python (v9)*, Loops and Sequences module
 **Companion to:** [[sources/python-basics-review]]
 
 ---
@@ -25,7 +25,7 @@ cities[-1]  # 'Tokyo'  (negative indexing from end)
 len(cities) # 3
 ```
 
-**Create:** `list('Jessica')` â†’ `['J','e','s','s','i','c','a']`
+**Create:** `list('Jessica')` → `['J','e','s','s','i','c','a']`
 
 **Modify:**
 ```python
@@ -33,7 +33,7 @@ lst[0] = 'new value'   # update by index
 del lst[1]             # remove by index
 ```
 
-**Check membership:** `'Rust' in lst` â†’ `True`/`False`
+**Check membership:** `'Rust' in lst` → `True`/`False`
 
 **Unpack:**
 ```python
@@ -41,13 +41,13 @@ name, age, job = ['Alice', 34, 'Dev']  # exact count required
 name, *rest   = ['Alice', 34, 'Dev']  # collect remainder with *
 ```
 
-**Slice:** `lst[start:stop:step]` â€” stop is non-inclusive
+**Slice:** `lst[start:stop:step]` — stop is non-inclusive
 ```python
 desserts[1:3]   # ['Cookies', 'Ice Cream']
 numbers[1::2]   # every other element starting at index 1
 ```
 
-**Nest:** `developer[2][1]` â€” chain indices to access nested lists
+**Nest:** `developer[2][1]` — chain indices to access nested lists
 
 ---
 
@@ -65,7 +65,7 @@ numbers[1::2]   # every other element starting at index 1
 | `reverse()` | Reverse in place |
 | `index(x)` | Index of first `x` (raises `ValueError` if not found) |
 
-**`sorted(lst)`** â€” returns a new sorted list, original unchanged.
+**`sorted(lst)`** — returns a new sorted list, original unchanged.
 
 ---
 
@@ -80,7 +80,7 @@ dev[-2]   # 34
 ```
 
 - Mutation raises `TypeError`; deletion raises `TypeError`
-- Supports: indexing, negative indexing, slicing, `in`, unpacking, `*` rest collection â€” same as lists
+- Supports: indexing, negative indexing, slicing, `in`, unpacking, `*` rest collection — same as lists
 - **Use tuple when:** the collection is fixed and should not change
 - **Use list when:** you need to add, remove, or update elements
 
@@ -92,13 +92,13 @@ dev[-2]   # 34
 | `index(x, start?, end?)` | Index of first `x` in optional range |
 | `sorted(tpl)` | Returns a new sorted **list** (not tuple) |
 
-`sorted(iterable, key=len, reverse=True)` â€” optional `key` and `reverse` args work on any iterable.
+`sorted(iterable, key=len, reverse=True)` — optional `key` and `reverse` args work on any iterable.
 
 ---
 
 ## `for` Loop
 
-Iterate over any sequence (list, tuple, string, rangeâ€¦).
+Iterate over any sequence (list, tuple, string, range…).
 
 ```python
 for language in ['Rust', 'Java', 'Python']:
@@ -108,7 +108,7 @@ for char in 'code':
     print(char)
 ```
 
-**Nested loops:** outer loop Ã— inner loop iterations.
+**Nested loops:** outer loop × inner loop iterations.
 
 **`else` clause:** runs only if loop was NOT terminated by `break`.
 
@@ -130,12 +130,12 @@ Also supports `else` clause (executes if no `break`).
 ## `break` and `continue`
 
 ```python
-# break â€” exit loop immediately
+# break — exit loop immediately
 for dev in names:
     if dev == 'Naomi': break
     print(dev)         # prints only up to (not including) Naomi
 
-# continue â€” skip current iteration
+# continue — skip current iteration
 for dev in names:
     if dev == 'Naomi': continue
     print(dev)         # prints all except Naomi
@@ -146,8 +146,8 @@ for dev in names:
 ## `range()`
 
 ```python
-range(stop)            # 0 â€¦ stop-1
-range(start, stop)     # start â€¦ stop-1
+range(stop)            # 0 … stop-1
+range(start, stop)     # start … stop-1
 range(start, stop, step)
 
 range(2, 11, 2)        # 2, 4, 6, 8, 10
@@ -157,21 +157,21 @@ list(range(2, 11, 2))  # [2, 4, 6, 8, 10]
 
 - `stop` is non-inclusive
 - Default `start=0`, default `step=1`
-- Only accepts integers (float â†’ `TypeError`); no args â†’ `TypeError`
+- Only accepts integers (float → `TypeError`); no args → `TypeError`
 
 ---
 
 ## `enumerate()` and `zip()`
 
 ```python
-# enumerate â€” index + value pairs
+# enumerate — index + value pairs
 for i, lang in enumerate(languages):          # starts at 0
 for i, lang in enumerate(languages, start=1): # custom start
 
 list(enumerate(languages))
 # [(0, 'Spanish'), (1, 'English'), ...]
 
-# zip â€” parallel iteration over multiple iterables
+# zip — parallel iteration over multiple iterables
 for name, id in zip(developers, ids):
     print(name, id)
 # stops at shortest iterable
@@ -195,10 +195,10 @@ Pattern: `[expression for item in iterable if condition]`
 ## Iterable Functions
 
 ```python
-# filter(func, iterable) â€” keep items where func returns True
+# filter(func, iterable) — keep items where func returns True
 long_words = list(filter(lambda w: len(w) > 4, words))
 
-# map(func, iterable) â€” apply func to every item
+# map(func, iterable) — apply func to every item
 fahrenheit = list(map(lambda t: (t * 9/5) + 32, celsius))
 
 # sum(iterable, start=0)

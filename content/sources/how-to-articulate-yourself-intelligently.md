@@ -16,51 +16,51 @@ sources: 1
 
 ## Core Premise
 
-Articulation isn't a talent â€” it's a learnable skill built through repeated writing and speaking. The prerequisite: developing a small body of well-refined ideas before you need to perform them.
+Articulation isn't a talent — it's a learnable skill built through repeated writing and speaking. The prerequisite: developing a small body of well-refined ideas before you need to perform them.
 
 ---
 
 ## The Inner Album of Greatest Hits
 
-The most important foundation: **identify your 8â€“10 biggest ideas** that can connect to almost any topic. These are the ideas you've already refined through hundreds of iterations of writing and speaking.
+The most important foundation: **identify your 8–10 biggest ideas** that can connect to almost any topic. These are the ideas you've already refined through hundreds of iterations of writing and speaking.
 
 Key insight: you *must* repeat yourself. The most important ideas deserve repetition, and repetition is how you refine them. The fear of sounding repetitive is the enemy of becoming articulate.
 
-> "Great speakers don't answer the question asked â€” they speak their best idea on the topic and then expand on it with supporting points."
+> "Great speakers don't answer the question asked — they speak their best idea on the topic and then expand on it with supporting points."
 
-Alex Hormozi example: when asked "what's the greatest skill?", he answers with his most viral idea, not something new â€” because new ideas haven't been refined yet.
+Alex Hormozi example: when asked "what's the greatest skill?", he answers with his most viral idea, not something new — because new ideas haven't been refined yet.
 
 ---
 
 ## 3 Frameworks for Articulation
 
-### 1. Beginner â€” The Micro Story (Problem â†’ Amplify â†’ Solution)
+### 1. Beginner — The Micro Story (Problem → Amplify → Solution)
 
-The mind is a story engine. All stories are transformations â€” from problem to resolution.
+The mind is a story engine. All stories are transformations — from problem to resolution.
 
-- **Problem** â€” state a relatable problem you've observed or experienced
-- **Amplify** â€” illustrate the negative consequence if unsolved
-- **Solution** â€” the resolution (one sentence in short-form, full key points in long-form)
+- **Problem** — state a relatable problem you've observed or experienced
+- **Amplify** — illustrate the negative consequence if unsolved
+- **Solution** — the resolution (one sentence in short-form, full key points in long-form)
 
 This is the go-to structure when you have an idea and need to communicate it fast.
 
-### 2. Intermediate â€” The Pyramid Principle
+### 2. Intermediate — The Pyramid Principle
 
 Answer-first communication. The reverse of most content:
 
-- **Main idea first** â€” state the conclusion or recommendation upfront
-- **Key arguments** â€” 3â€“5 supporting points (ask "why?" 3â€“5 times)
-- **Evidence** â€” examples, data, anecdotes
+- **Main idea first** — state the conclusion or recommendation upfront
+- **Key arguments** — 3–5 supporting points (ask "why?" 3–5 times)
+- **Evidence** — examples, data, anecdotes
 
 Works perfectly for podcast responses, writing sections, presentations. Start with a great idea, argue it, support it.
 
-### 3. Advanced â€” Cross-Domain Synthesis
+### 3. Advanced — Cross-Domain Synthesis
 
 For those with multiple interests. Structure:
 
-- **Problem + amplify** â€” introduce the relatable problem in the intro
-- **Cross-domain synthesis** â€” pull patterns from unrelated fields to support your argument (e.g., using *entropy* from physics to explain distraction)
-- **Unique process or solution** â€” your own contemplated steps, not someone else's prescription
+- **Problem + amplify** — introduce the relatable problem in the intro
+- **Cross-domain synthesis** — pull patterns from unrelated fields to support your argument (e.g., using *entropy* from physics to explain distraction)
+- **Unique process or solution** — your own contemplated steps, not someone else's prescription
 
 The "lego blocks" you can insert anywhere in a piece: pain point, example, personal story, statistic, metaphor, quote, reframe, or simply ask "what / how / why?"
 
@@ -68,13 +68,13 @@ The "lego blocks" you can insert anywhere in a piece: pain point, example, perso
 
 ## Key Entities
 
-- [[entities/dan-koe|Dan Koe]] â€” author
+- [[entities/dan-koe|Dan Koe]] — author
 
 ---
 
 ## Key Concepts
 
-- [[concepts/second-order-thinking|Second-Order Thinking]] â€” related: the Pyramid Principle shares the answer-first structure
+- [[concepts/second-order-thinking|Second-Order Thinking]] — related: the Pyramid Principle shares the answer-first structure
 
 ## Sources Cross-References
 

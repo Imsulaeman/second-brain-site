@@ -10,7 +10,7 @@ sources: 1
 # The Cost of Staying
 
 **Author:** Anonymous Bloomberg Beta investor
-**Type:** Essay â€” career strategy in the AI era
+**Type:** Essay — career strategy in the AI era
 
 ---
 
@@ -31,23 +31,23 @@ The AI era is creating a K-curve divergence in tech careers: those who repositio
 - **Both bets are rational. Only one is time-sensitive.**
 
 ### Quant
-- Still works â€” absurd pay, hard problems, immediate P&L feedback
+- Still works — absurd pay, hard problems, immediate P&L feedback
 - Emerging tension: the full quant toolkit (ML infrastructure, data obsession, statistical intuition) is exactly what AI labs need. One has a ceiling; the other doesn't.
 - Those leaving: hit the point where finance felt "bounded" in a way it didn't before
 
 ### Academia
 - The line between university labs and funded startups is blurring in academia's disfavor
 - A 20-person research startup can now do in a weekend what takes an academic lab a semester (compute costs)
-- The most ambitious PhDs aren't choosing academia vs industry â€” they're choosing *theorizing about* experiments vs *actually running* them
+- The most ambitious PhDs aren't choosing academia vs industry — they're choosing *theorizing about* experiments vs *actually running* them
 
 ### AI Startups (Application Layer)
 - Clever features get commoditized by model updates every quarter
-- Those thriving: stopped caring about model capabilities, started caring about what models can't take away â€” **data moats, workflow capture, integration depth**
+- Those thriving: stopped caring about model capabilities, started caring about what models can't take away — **data moats, workflow capture, integration depth**
 - The sharpest moves: getting excited about **plumbing**, not demos
 
 ### Research Startups (New Center of Gravity)
-- 10â€“30 people doing genuine frontier research competing with organizations 50Ã— their size
-- Daily workflow: kick off training runs, come back and apply *judgment* to results â€” taste to distinguish signal from noise
+- 10–30 people doing genuine frontier research competing with organizations 50× their size
+- Daily workflow: kick off training runs, come back and apply *judgment* to results — taste to distinguish signal from noise
 - **Passive leverage**: you set experiments in motion; compounding happens whether or not you're at your desk
 - Skills and network transfer even if the specific company fails
 
@@ -60,7 +60,7 @@ The AI era is creating a K-curve divergence in tech careers: those who repositio
 
 ## The Clock
 
-A year ago, deliberation was cheap. Today: the tools are compounding. People who moved 6 months ago are building on last quarter's learnings. The divergence between the mover and the waiter is already compounding â€” not because opportunities disappear, but because the people already there are getting further ahead.
+A year ago, deliberation was cheap. Today: the tools are compounding. People who moved 6 months ago are building on last quarter's learnings. The divergence between the mover and the waiter is already compounding — not because opportunities disappear, but because the people already there are getting further ahead.
 
 > "The best people want to be close to other people who have tricks they haven't learned yet, at places with enough compute to actually run the experiments."
 
@@ -68,4 +68,4 @@ A year ago, deliberation was cheap. Today: the tools are compounding. People who
 
 ## Related Sources
 
-- [[sources/something-is-different-about-2026]] â€” complementary view from Dan Koe on AI and career adaptation
+- [[sources/something-is-different-about-2026]] — complementary view from Dan Koe on AI and career adaptation

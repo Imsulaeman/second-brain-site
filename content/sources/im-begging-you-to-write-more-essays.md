@@ -16,27 +16,27 @@ sources: 1
 
 ## Core Thesis
 
-The information environment is being poisoned by "fast content" optimized for engagement rather than thinking. Essays â€” the one form AI cannot truly replicate â€” may be the last bastion of real thinking, and writing them is both a personal intellectual practice and a civilizational act.
+The information environment is being poisoned by "fast content" optimized for engagement rather than thinking. Essays — the one form AI cannot truly replicate — may be the last bastion of real thinking, and writing them is both a personal intellectual practice and a civilizational act.
 
 ---
 
-## I â€” The Poisoned Epistemic Commons
+## I — The Poisoned Epistemic Commons
 
 [[entities/daniel-schmachtenberger|Daniel Schmachtenberger]]'s three generator functions driving civilizational risk:
 
-1. **Rivalrous dynamics** â€” win-lose competition (content creators optimizing for clicks over truth)
-2. **Substrate consumption** â€” consuming your own foundation (the attention economy consuming cognitive capacity faster than it recovers)
-3. **Exponential technology** â€” tools that improve faster than human wisdom adapts (AI accelerating content production and imitation)
+1. **Rivalrous dynamics** — win-lose competition (content creators optimizing for clicks over truth)
+2. **Substrate consumption** — consuming your own foundation (the attention economy consuming cognitive capacity faster than it recovers)
+3. **Exponential technology** — tools that improve faster than human wisdom adapts (AI accelerating content production and imitation)
 
 The epistemic commons (public information environment) is like a water supply for minds. Content that doesn't cause beneficial behavior change *poisons* it. The consequences: a population unable to understand civilizational-scale problems coherently.
 
 ---
 
-## II â€” Fast Content vs. Slow Content
+## II — Fast Content vs. Slow Content
 
 **Fast content** (articles, listicles, hot takes, AI summaries): delivers conclusions without requiring thought. Skips the ordering process. Reader feels informed but stays cognitively disordered.
 
-**Slow content** (essays, genuine long-form, idea-dense tweets): requires both writer and reader to engage in the *ordering process* â€” wrestling with complexity until it coheres.
+**Slow content** (essays, genuine long-form, idea-dense tweets): requires both writer and reader to engage in the *ordering process* — wrestling with complexity until it coheres.
 
 **Article vs. Essay distinction:**
 1. Articles are answers; essays are arguments
@@ -49,24 +49,24 @@ The epistemic commons (public information environment) is like a water supply fo
 
 ---
 
-## III â€” Meaning as the Scarcest Commodity
+## III — Meaning as the Scarcest Commodity
 
-**Meaning** = the experience of ordered consciousness. When attention is fragmented â†’ psychic entropy (anxiety, restlessness). When attention is invested in a complex challenge with clear feedback â†’ psychic *negentropy* (flow, purpose, meaning).
+**Meaning** = the experience of ordered consciousness. When attention is fragmented → psychic entropy (anxiety, restlessness). When attention is invested in a complex challenge with clear feedback → psychic *negentropy* (flow, purpose, meaning).
 
-Fast content keeps consciousness disordered. Essays create meaning by requiring the ordering process â€” for both writer and reader.
+Fast content keeps consciousness disordered. Essays create meaning by requiring the ordering process — for both writer and reader.
 
 **The meaning economy:** As AI floods the world with cheap content, *genuine thinking in public* becomes the scarcest and most valuable offering. The opportunity: be an ordinary person who makes sense of their own mind and documents it publicly. This is "value creation" as distinct from influencing.
 
 ---
 
-## IV â€” How to Start
+## IV — How to Start
 
 - Write to discover, not to perform
 - Focus on a single main idea; go down rabbit holes; challenge sources
-- Resist templates â€” find your own structure through doing
-- Ask: "Do I actually believe this?" â€” change your beliefs through writing
+- Resist templates — find your own structure through doing
+- Ask: "Do I actually believe this?" — change your beliefs through writing
 - Read essays and consume centripetal content; curate your feed actively
-- Build a body of work, not a content calendar â€” each essay compounds
+- Build a body of work, not a content calendar — each essay compounds
 
 Platforms: X or Substack (only two that prioritize long-form thinking).
 
@@ -74,9 +74,9 @@ Platforms: X or Substack (only two that prioritize long-form thinking).
 
 ## Key Entities
 
-- [[entities/dan-koe|Dan Koe]] â€” author
-- [[entities/daniel-schmachtenberger|Daniel Schmachtenberger]] â€” systems thinker, metacrisis framework
+- [[entities/dan-koe|Dan Koe]] — author
+- [[entities/daniel-schmachtenberger|Daniel Schmachtenberger]] — systems thinker, metacrisis framework
 
 ## Key Concepts
 
-- [[concepts/epistemic-commons|Epistemic Commons]] â€” the public information environment as shared cognitive infrastructure
+- [[concepts/epistemic-commons|Epistemic Commons]] — the public information environment as shared cognitive infrastructure
