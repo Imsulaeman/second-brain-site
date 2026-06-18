@@ -2,7 +2,7 @@
 
 import Fuse from 'fuse.js'
 import { AnimatePresence, motion } from 'framer-motion'
-import { X } from '@phosphor-icons/react'
+import { X, SpinnerGap } from '@phosphor-icons/react'
 import { useRouter } from 'next/navigation'
 import { useEffect, useMemo, useRef, useState } from 'react'
 
@@ -17,16 +17,16 @@ interface SearchNote {
 export default function SearchOverlay({ onClose }: { onClose: () => void }) {
   const [query, setQuery] = useState('')
   const [notes, setNotes] = useState<SearchNote[]>([])
+  const [semanticResults, setSemanticResults] = useState<SearchNote[] | null>(null)
+  const [isSearching, setIsSearching] = useState(false)
   const [activeIdx, setActiveIdx] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
   const router = useRouter()
 
   useEffect(() => {
-    fetch('/api/search').then((response) => response.json()).then(setNotes)
+    fetch('/api/search').then((r) => r.json()).then(setNotes)
     const id = window.setTimeout(() => inputRef.current?.focus(), 20)
-    const handleKey = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') onClose()
-    }
+    const handleKey = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
     window.addEventListener('keydown', handleKey)
     return () => {
       window.clearTimeout(id)
@@ -34,32 +34,37 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
     }
   }, [onClose])
 
-  const results = useMemo(() => {
+  // Debounced semantic search
+  useEffect(() => {
+    setSemanticResults(null)
+    if (query.trim().length < 3) return
+    setIsSearching(true)
+    const id = window.setTimeout(() => {
+      fetch(`/api/search?q=${encodeURIComponent(query.trim())}`)
+        .then((r) => r.json())
+        .then((results) => setSemanticResults(results))
+        .catch(() => setSemanticResults(null))
+        .finally(() => setIsSearching(false))
+    }, 400)
+    return () => window.clearTimeout(id)
+  }, [query])
+
+  const fuseResults = useMemo(() => {
     if (!query.trim()) return notes.slice(0, 8)
-    const fuse = new Fuse(notes, { keys: ['title', 'tags', 'excerpt', 'type'], threshold: 0.35 })
-    return fuse.search(query).slice(0, 8).map((result) => result.item)
+    const fuse = new Fuse(notes, { keys: ['title', 'tags', 'excerpt'], threshold: 0.35 })
+    return fuse.search(query).slice(0, 8).map((r) => r.item)
   }, [notes, query])
 
-  useEffect(() => setActiveIdx(0), [query])
+  const results = semanticResults ?? fuseResults
 
-  const goTo = (id: string) => {
-    router.push(`/note/${id}`)
-    onClose()
-  }
+  useEffect(() => setActiveIdx(0), [results])
 
-  const onInputKeyDown = (event: React.KeyboardEvent) => {
-    if (event.key === 'ArrowDown') {
-      event.preventDefault()
-      setActiveIdx((idx) => Math.min(idx + 1, results.length - 1))
-    }
-    if (event.key === 'ArrowUp') {
-      event.preventDefault()
-      setActiveIdx((idx) => Math.max(idx - 1, 0))
-    }
-    if (event.key === 'Enter' && results[activeIdx]) {
-      event.preventDefault()
-      goTo(results[activeIdx].id)
-    }
+  const goTo = (id: string) => { router.push(`/note/${id}`); onClose() }
+
+  const onInputKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'ArrowDown') { e.preventDefault(); setActiveIdx((i) => Math.min(i + 1, results.length - 1)) }
+    if (e.key === 'ArrowUp') { e.preventDefault(); setActiveIdx((i) => Math.max(i - 1, 0)) }
+    if (e.key === 'Enter' && results[activeIdx]) { e.preventDefault(); goTo(results[activeIdx].id) }
   }
 
   return (
@@ -70,7 +75,7 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
         transition={{ duration: 0.15 }}
-        onMouseDown={(event) => event.target === event.currentTarget && onClose()}
+        onMouseDown={(e) => e.target === e.currentTarget && onClose()}
       >
         <div className="absolute inset-0 bg-palace-bg/75 backdrop-blur-sm" />
         <motion.div
@@ -84,15 +89,25 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
             <input
               ref={inputRef}
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
+              onChange={(e) => setQuery(e.target.value)}
               onKeyDown={onInputKeyDown}
               placeholder="Search notes..."
               className="flex-1 bg-transparent text-sm text-palace-text outline-none placeholder:text-palace-muted"
             />
+            {isSearching && (
+              <SpinnerGap size={14} className="animate-spin text-palace-gold" />
+            )}
             <button type="button" onClick={onClose} className="btn-press text-palace-muted hover:text-palace-text">
               <X size={16} />
             </button>
           </div>
+
+          {query.trim().length >= 3 && (
+            <div className="border-b border-palace-border/40 px-4 py-1.5 font-mono text-[10px] uppercase tracking-widest text-palace-muted">
+              {isSearching ? 'Semantic search…' : semanticResults ? 'Semantic results' : 'Keyword results'}
+            </div>
+          )}
+
           <ul className="max-h-96 overflow-y-auto py-2">
             {results.map((note, idx) => (
               <li key={note.id}>
@@ -100,7 +115,9 @@ export default function SearchOverlay({ onClose }: { onClose: () => void }) {
                   type="button"
                   onClick={() => goTo(note.id)}
                   className={`w-full px-4 py-3 text-left transition-colors duration-150 ${
-                    idx === activeIdx ? 'bg-palace-border/75 text-palace-text' : 'text-palace-muted hover:bg-palace-border/35 hover:text-palace-text'
+                    idx === activeIdx
+                      ? 'bg-palace-border/75 text-palace-text'
+                      : 'text-palace-muted hover:bg-palace-border/35 hover:text-palace-text'
                   }`}
                 >
                   <div className="font-display text-base text-palace-text">{note.title}</div>
