@@ -230,7 +230,8 @@ Ultimately, wealth is not the goal. "A calm mind, a fit body, and a house full o
 - [[concepts/learn-to-sell-learn-to-build]]
 - [[concepts/network-effects]]
 - [[concepts/happiness-as-skill]]
-- [[concepts/ergodicity]] — Kelly criterion / avoid ruin
+- [[concepts/kelly-criterion]]
+- [[concepts/ergodicity]] — ensemble vs time-path survival
 - [[concepts/long-term-compounding-vs-market-timing]] — compound interest in career, not just investing
 - [[synthesis/my-specific-knowledge-map]]
 

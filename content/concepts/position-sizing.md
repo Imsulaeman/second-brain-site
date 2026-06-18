@@ -118,6 +118,7 @@ The order should be:
 
 - [[sources/fooled-by-randomness]]
 - [[concepts/ergodicity]]
+- [[concepts/kelly-criterion]]
 - [[sources/the-jackpot-age]]
 - [[sources/dealing-with-loss]]
 - [[sources/life-lessons-from-trading]]

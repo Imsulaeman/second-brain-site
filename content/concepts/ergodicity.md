@@ -35,6 +35,7 @@ This is why ergodicity belongs with [[concepts/position-sizing]], [[concepts/ske
 - [[concepts/alternative-histories]]
 - [[concepts/skewness-and-asymmetry]]
 - [[concepts/position-sizing]]
+- [[concepts/kelly-criterion]]
 - [[sources/the-jackpot-age]]
 
 ## Sources

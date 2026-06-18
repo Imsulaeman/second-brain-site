@@ -45,7 +45,7 @@ The most powerful individual in any industry can [[concepts/learn-to-sell-learn-
 
 Being ethical is long-term selfishness in iterated games. The short-term optimizer extracts small advantages on every deal; the long-term player becomes a trusted hub that all deals route through. Trust compounds. Honesty also has a mental-overhead return: you only need to maintain one version of reality.
 
-Avoid ruin — legally, reputationally, physically. The Kelly Criterion (bet only a fraction of your edge) governs risk. Ruin in modern business usually comes not from losing bets but from cutting corners.
+Avoid ruin — legally, reputationally, physically. The [[concepts/kelly-criterion|Kelly criterion]] (bet only a fraction of your edge) governs risk. Ruin in modern business usually comes not from losing bets but from cutting corners.
 
 ---
 

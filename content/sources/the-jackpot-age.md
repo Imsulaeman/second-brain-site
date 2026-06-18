@@ -68,6 +68,7 @@ The cure the author proposes isn't a trading fix but a cultural one: something t
 ## Key Concepts
 
 - [[concepts/ergodicity|Ergodicity]] — why geometric mean ≠ arithmetic mean; why most paths go to zero even with positive EV
+- [[concepts/kelly-criterion]] — log-wealth sizing as the long-run optimum
 
 ## Related Sources
 
