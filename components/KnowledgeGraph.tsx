@@ -18,6 +18,7 @@ const MAX_ZOOM = 12
 const ZOOM_STEP = 1.4
 const FIT_PADDING = 48
 const NODE_PADDING = 22
+const WARMUP_TICKS = 120
 
 export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
   const svgRef = useRef<SVGSVGElement>(null)
@@ -28,9 +29,14 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     if (!svgRef.current) return
 
     const svg = d3.select(svgRef.current)
-    const rect = svgRef.current.getBoundingClientRect()
-    const width = rect.width || 960
-    const height = rect.height || 640
+
+    const getViewport = () => {
+      const rect = svgRef.current?.getBoundingClientRect()
+      return {
+        width: rect?.width || 960,
+        height: rect?.height || 640,
+      }
+    }
 
     svg.selectAll('*').remove()
     const g = svg.append('g')
@@ -48,7 +54,7 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     const simulation = d3.forceSimulation(simNodes as d3.SimulationNodeDatum[])
       .force('link', d3.forceLink(simEdges).id((datum: any) => datum.id).distance(84))
       .force('charge', d3.forceManyBody().strength(-145))
-      .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('center', d3.forceCenter(getViewport().width / 2, getViewport().height / 2))
       .force('collision', d3.forceCollide().radius((datum: any) => Math.max(10, Math.min(24, 6 + datum.size * 1.6))))
 
     const link = g.append('g')
@@ -140,6 +146,9 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     const fitToView = (animate = false) => {
       if (!simNodes.length) return
 
+      render()
+
+      const { width, height } = getViewport()
       const primaryComponentIds = getPrimaryComponentIds()
       const fittingNodes = simNodes.filter((datum) => primaryComponentIds.has(datum.id))
       const xs = fittingNodes.map((datum: any) => datum.x).filter((value): value is number => Number.isFinite(value))
@@ -152,12 +161,12 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
       const maxY = Math.max(...ys) + NODE_PADDING
       const bboxWidth = Math.max(maxX - minX, 1)
       const bboxHeight = Math.max(maxY - minY, 1)
-      const scale = Math.min(
+      const fitScale = Math.min(
         (width - FIT_PADDING * 2) / bboxWidth,
         (height - FIT_PADDING * 2) / bboxHeight,
-        MAX_ZOOM,
       )
-      const clampedScale = Math.max(MIN_ZOOM, scale)
+      // Fit zooms out to show everything; never zoom in past 1:1.
+      const clampedScale = Math.max(MIN_ZOOM, Math.min(fitScale, 1))
       const centerX = (minX + maxX) / 2
       const centerY = (minY + maxY) / 2
       const transform = d3.zoomIdentity
@@ -176,20 +185,47 @@ export default function KnowledgeGraph({ nodes, edges }: { nodes: GraphNode[]; e
     zoomApiRef.current = {
       zoomIn: () => zoomBy(ZOOM_STEP),
       zoomOut: () => zoomBy(1 / ZOOM_STEP),
-      fit: () => fitToView(true),
+      fit: () => {
+        simulation.alphaTarget(0)
+        simulation.alpha(0)
+        fitToView(true)
+      },
     }
 
     simulation.on('tick', () => {
       render()
     })
 
+    let settledFits = 0
+
+    simulation.on('end', () => {
+      if (settledFits >= 2) return
+      settledFits += 1
+      fitToView()
+    })
+
     simulation.stop()
-    for (let index = 0; index < 90; index += 1) simulation.tick()
+    for (let index = 0; index < WARMUP_TICKS; index += 1) simulation.tick()
     render()
-    fitToView()
-    simulation.alpha(0.22).restart()
+
+    const scheduleFit = () => {
+      requestAnimationFrame(() => {
+        fitToView()
+        settledFits = Math.max(settledFits, 1)
+      })
+    }
+
+    scheduleFit()
+    simulation.alpha(0.35).restart()
+
+    const resizeObserver = new ResizeObserver(() => {
+      if (settledFits < 1) return
+      fitToView()
+    })
+    resizeObserver.observe(svgRef.current)
 
     return () => {
+      resizeObserver.disconnect()
       simulation.stop()
       zoomApiRef.current = null
     }
