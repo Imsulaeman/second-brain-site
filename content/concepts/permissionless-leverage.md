@@ -3,7 +3,7 @@ title: "Permissionless Leverage"
 type: concept
 tags: [leverage, internet, code, media, ai, wealth, naval-ravikant]
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-24
 sources: 3
 ---
 
@@ -21,6 +21,10 @@ Permissionless leverage is leverage that does not require someone else to give y
 | Capital | Money multiplying decisions | Yes — requires trust or prior wealth | Industrial |
 | Code | Software running without creator | No — any laptop | Internet age |
 | Media | Distribution without creator | No — any microphone | Internet age |
+
+The scale gap between permissioned and permissionless leverage is not incremental — it is discontinuous. Naval visualizes it as a box: labor effort multiplies by 1×, while code or media output can reach 10,000×:
+
+![LEVERAGE diagram: 1x vs 10,000x output box](/assets/diagram-page-055.png)
 
 Naval in [[sources/how-to-get-rich]]: "The robots are already here. They're in the data centers. Every great software developer has an army of robots working for him at night. The bottleneck is just figuring out intelligent things to tell them to do." The "robot army" metaphor captures what code leverage actually feels like once you can write it.
 
@@ -43,6 +47,16 @@ One underappreciated property: code and media products are consumed identically 
 Labor and capital produce inegalitarian outputs (a private chef, a private plane). Code and media produce egalitarian outputs. If you care about building something that matters — not just something that extracts — code and media are structurally better aligned with genuine value creation.
 
 ---
+
+## The Archimedes Point
+
+Naval returns to the Archimedes lever as the canonical illustration: "Give me a lever long enough and a place to stand, and I will move the world." Code and media are that lever — the fulcrum is your specific knowledge, the lever arm is distribution, the load is value delivered.
+
+![Archimedes lever diagram: "give me a lever long enough"](/assets/diagram-page-087.png)
+
+The exponential curve vs. the linear one captures the same point for earning: trading time for money (employment) is a linear function. Leveraging judgment through products that scale is an exponential one. At small scales the curves look comparable; at large scales they are incomparable.
+
+![Earn with your mind (exponential) vs. time (linear) curves](/assets/diagram-page-067.png)
 
 ## Leverage Magnifies Judgment
 

@@ -3,7 +3,7 @@ title: "Specific Knowledge"
 type: concept
 tags: [career, leverage, skill, authenticity, naval-ravikant]
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-24
 sources: 4
 ---
 
@@ -69,6 +69,16 @@ Often you can't see your own specific knowledge from the inside — curiosity fe
 Two external signals that you've found it:
 - Other people ask you for help with this thing specifically.
 - You do it voluntarily, often without anyone noticing or compensating you.
+
+## Redefining the Arena
+
+Because specific knowledge is tied to who you are, it cannot be reached by copying someone else's path. Naval illustrates this with a sequence of shapes: the goal is to "become the best in the world at what you do" — and if you cannot beat the world at the current definition, you keep redefining the arena until you are the best at the intersection only you occupy.
+
+![Keep redefining diagram: shapes showing "become the best / redefine what you're best at"](/assets/diagram-page-040.png)
+
+As your knowledge deepens, the allocation pattern shifts — you move from spreading effort evenly across many bets toward concentrating on fewer, larger ones where your edge is greatest:
+
+![Knowledge/allocation matrix: as knowledge → fewer bigger bets](/assets/diagram-page-052.png)
 
 ## The Skill-Stack Extension
 

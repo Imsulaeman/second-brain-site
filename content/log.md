@@ -1,3 +1,8 @@
+## [2026-06-24] manual | Naval Ravikant diagrams extracted and integrated
+- Reviewed 137 candidate pages from vector extraction; identified 12 real content diagrams
+- Deleted 52 bad raster images from first extraction (QR codes, title fragments)
+- Pages updated: concepts/permissionless-leverage (3 diagrams), concepts/happiness-as-skill (2 diagrams), concepts/specific-knowledge (2 diagrams), sources/the-almanack-of-naval-ravikant (5 diagrams)
+
 ## [2026-06-24] ingest | Man's Search for Meaning — Viktor Frankl
 - Teachable units: three psychological phases, delusion of reprieve, apathy as protection, last freedom, inner spiritual life as protection, will to meaning as survival driver, Nietzsche's why/how, love as the ultimate, "having been" as permanence, meaning in suffering, humor as survival, post-liberation psychology, two races of men, logotherapy, will to meaning vs Freud/Adler, existential frustration, noögenic neuroses, existential vacuum, noö-dynamics, three avenues to meaning, self-transcendence, responsibleness, paradoxical intention, hyper-intention/hyper-reflection, pan-determinism critique, tragic optimism, tragic triad, grieving doctor, tragic optimism postscript
 - Pages created: sources/mans-search-for-meaning, entities/Viktor-Frankl, concepts/logotherapy, concepts/will-to-meaning, concepts/existential-vacuum, concepts/meaning-in-suffering, concepts/last-freedom, concepts/paradoxical-intention, concepts/tragic-optimism, concepts/self-transcendence

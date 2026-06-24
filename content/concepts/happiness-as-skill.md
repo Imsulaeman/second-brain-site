@@ -3,7 +3,7 @@ title: "Happiness as Skill"
 type: concept
 tags: [happiness, habits, meditation, acceptance, naval-ravikant, psychology]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-24
 sources: 1
 ---
 
@@ -30,7 +30,9 @@ The practical claim:
 
 ## Desire Selection
 
-One of the book's sharpest ideas is that desire is a contract to be unhappy until you get what you want. The implication is not to become passive; it is to choose desires carefully.
+One of the book's sharpest ideas is that desire is a contract to be unhappy until you get what you want. The implication is not to become passive; it is to choose desires carefully. Naval renders this as two states: the contracted state (actively desiring something, therefore unhappy until it arrives) and the satisfied state (no active contract, peace by default).
+
+![Desire as contract: two-box diagram — unhappy until fulfilled](/assets/diagram-page-137.png)
 
 Naval's rule: have very few major desires at once. Each active desire consumes peace.
 
@@ -47,6 +49,12 @@ For any situation:
 The misery loop is wanting change while doing none of the three.
 
 ---
+
+## Tension vs. Relaxation
+
+Naval distinguishes the chattering, effortful state — where you are performing who you think you should be — from the relaxed state, where you simply are who you are. Tension is the gap between the performed self and the actual self. Reducing identity ("lowering your identity") closes that gap.
+
+![Tension/relaxation sine wave: "Tension is who you think you should be. Relaxation is who you are."](/assets/diagram-page-103.png)
 
 ## Practices
 

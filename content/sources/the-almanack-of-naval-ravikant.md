@@ -3,7 +3,7 @@ title: "The Almanack of Naval Ravikant"
 type: source
 tags: [naval-ravikant, wealth, judgment, happiness, leverage, specific-knowledge, philosophy]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-24
 sources: 1
 author: "Eric Jorgenson"
 file: "raw/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf"
@@ -76,6 +76,14 @@ Specific knowledge is valuable because if society can train someone else to do i
 
 ## Leverage
 
+The distinction between how you create value and how you get paid matters. Solve problems iteratively (a creative, non-repeatable process); get paid through repetition (a scalable, distributable process). The shape sequence captures the asymmetry: iteration is lumpy and non-linear; distribution is smooth and repeatable.
+
+![Solve via iteration / get paid via repetition: shape sequence diagram](/assets/diagram-page-069.png)
+
+The time axis clarifies this further: discrete actions (circles) sum to a single result (dot). The leverage question is how far you can stretch the right edge — how many people consume the same output — without adding more circles.
+
+![TIME axis: circles (actions) → dot (result)](/assets/diagram-page-183.png)
+
 Naval divides leverage into three types:
 
 | Leverage | Description | Permissioned? |
@@ -96,7 +104,9 @@ specific knowledge + accountability + leverage + time = wealth
 
 ## Accountability and Judgment
 
-Accountability means taking risk under your own name. It creates downside: public failure, reputational risk, and responsibility. But it also creates upside: credibility, equity, and leverage.
+Accountability means taking risk under your own name. Naval makes the ethical point concrete: intentions don't matter — actions do. The diagram draws a dashed box (intentions, invisible) vs. a solid box (actions, the only thing that counts). Being ethical is hard precisely because intentions and actions diverge.
+
+![Intentions vs. actions: dashed box (intentions) vs. solid box (actions)](/assets/diagram-page-050.png) It creates downside: public failure, reputational risk, and responsibility. But it also creates upside: credibility, equity, and leverage.
 
 Judgment matters more in an age of leverage because a small improvement in decision quality can be multiplied by capital, code, people, or distribution. Naval defines wisdom as knowing the long-term consequences of actions; judgment is wisdom applied to external problems.
 
@@ -122,7 +132,13 @@ This connects to [[concepts/long-term-compounding-vs-market-timing]], but Naval 
 
 ## Clear Thinking and Mental Models
 
-Naval prizes clear thinking over sounding smart. His judgment section emphasizes:
+Naval prizes clear thinking over sounding smart. His most pointed diagram on judgment: the optimist vs. contrarian quadrant. Most people cluster in two quadrants — conventional optimism (mainstream correct bets) or conventional pessimism (mainstream wrong bets). The valuable quadrant is contrarian-correct: the bet the crowd dismissed that turned out right. Getting there requires separating social approval from epistemic accuracy.
+
+![Optimists vs. contrarians quadrant: x marks on quadrant diagram](/assets/diagram-page-100.png)
+
+The hard-choices diagram captures the same idea at the personal level: easy choices now lead to a hard life; hard choices now lead to an easy life. The paths cross and invert.
+
+![Easy/hard choices X diagram: easy choices → hard life; hard choices → easy life](/assets/diagram-page-156.png) His judgment section emphasizes:
 
 - understand basics deeply
 - rederive from fundamentals
