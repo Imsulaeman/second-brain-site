@@ -1,3 +1,9 @@
+## [2026-06-24] ingest | Man's Search for Meaning — Viktor Frankl
+- Teachable units: three psychological phases, delusion of reprieve, apathy as protection, last freedom, inner spiritual life as protection, will to meaning as survival driver, Nietzsche's why/how, love as the ultimate, "having been" as permanence, meaning in suffering, humor as survival, post-liberation psychology, two races of men, logotherapy, will to meaning vs Freud/Adler, existential frustration, noögenic neuroses, existential vacuum, noö-dynamics, three avenues to meaning, self-transcendence, responsibleness, paradoxical intention, hyper-intention/hyper-reflection, pan-determinism critique, tragic optimism, tragic triad, grieving doctor, tragic optimism postscript
+- Pages created: sources/mans-search-for-meaning, entities/Viktor-Frankl, concepts/logotherapy, concepts/will-to-meaning, concepts/existential-vacuum, concepts/meaning-in-suffering, concepts/last-freedom, concepts/paradoxical-intention, concepts/tragic-optimism, concepts/self-transcendence
+- Pages updated: concepts/grit, concepts/growth-mindset, concepts/stoic-resilience, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-24] ingest | The Math of Winning in Trading — Mulham Trading
 - Teachable units: expectancy formula, paper vs real expectancy, system design tradeoff, breakeven win rate, variance + quitting early, gambler's fallacy, position sizing mechanics, risk of ruin, loss asymmetry
 - Pages created: sources/the-math-of-winning-in-trading, concepts/expectancy, concepts/risk-of-ruin, concepts/gamblers-fallacy

@@ -4,7 +4,7 @@ type: concept
 tags: [learning, education, mindset, resilience, improvement]
 created: 2026-06-06
 updated: 2026-06-06
-sources: 3
+sources: 6
 ---
 
 # Growth Mindset
@@ -46,6 +46,10 @@ That broader role is exactly why it sits near the center of [[synthesis/apple-de
 
 The growth mindset literature focuses on academic and professional ability, but the same structure governs creative identity. [[entities/ken-robinson|Ken Robinson]] documents how children are born willing to take creative chances — not afraid of being wrong — and lose that willingness as school conditions them to see mistakes as failure. [[entities/david-kelley|David Kelley]] tracks the same dynamic at the individual level: a critical comment in third grade causes someone to adopt the fixed self-label "I'm not the creative type" and opt out of creative work for decades. In both cases the identity move — "I am not this kind of person" — is a fixed-mindset response to an early social wound, not a realistic appraisal of capacity. Kelley's [[concepts/creative-confidence|creative confidence]] work is essentially guided-mastery-based growth mindset applied specifically to creative ability.
 
+## Frankl's Proof-of-Concept
+
+Growth mindset's claim is that what you cannot control is the difficulty; what you can control is your interpretation of and response to it. [[entities/Viktor-Frankl|Viktor Frankl]] provides the most extreme empirical case: in Nazi concentration camps, the outer conditions were total, fixed, and could not be changed by any mindset. What survived was the capacity to choose one's attitude toward them — the [[concepts/last-freedom|last freedom]]. The pattern Frankl observed exactly mirrors growth mindset's core behavioral prediction: those who maintained a chosen interpretation of their situation (suffering as meaningful, as a task, as a challenge to meet with dignity) outlasted those who collapsed into helplessness. See [[sources/mans-search-for-meaning]].
+
 ## Sources
 
 - [[sources/the-power-of-believing-that-you-can-improve]]
@@ -53,3 +57,4 @@ The growth mindset literature focuses on academic and professional ability, but 
 - [[sources/the-power-of-belief-mindset-and-success]]
 - [[sources/how-to-build-your-creative-confidence]]
 - [[sources/do-schools-kill-creativity]]
+- [[sources/mans-search-for-meaning]] — last freedom; attitude choice as the irreducible human response

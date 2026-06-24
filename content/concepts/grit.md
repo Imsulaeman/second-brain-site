@@ -4,7 +4,7 @@ type: concept
 tags: [learning, motivation, perseverance, long-term, angela-duckworth]
 created: 2026-06-06
 updated: 2026-06-06
-sources: 2
+sources: 3
 ---
 
 # Grit
@@ -37,7 +37,16 @@ Epstein's [[sources/range-why-generalists-triumph|*Range*]] reframes grit's doma
 
 In open-ended careers, finding fit often beats grinding on the wrong match. Van Gogh scored low on "consistency of interests" by grit measures yet optimized match quality through relentless experimentation. Winston Churchill's "never give in" came with an exception: "except to convictions of honor and good sense." Pair grit with [[concepts/test-and-learn-career|test-and-learn]] exploration, not premature lock-in.
 
+## Frankl's Substrate
+
+Duckworth's model describes grit as a behavioral pattern (sustained effort toward a long-term goal) but does not fully explain what makes endurance possible when conditions become extreme.
+
+[[entities/Viktor-Frankl|Viktor Frankl]]'s evidence from the concentration camps provides the most demanding test case available: under conditions of complete physical deprivation and control, the variable that predicted psychological survival was not willpower or toughness but *meaning*. Prisoners who had a why — a child waiting for them, an unfinished manuscript, a specific person to return to — bore the how. Those who lost their why gave up within days regardless of physical condition.
+
+This suggests grit's substrate is meaning: sustained effort compounds only when it is tethered to something that matters. See [[concepts/will-to-meaning]] and [[concepts/meaning-in-suffering]].
+
 ## Sources
 
 - [[sources/grit-the-power-of-passion-and-perseverance]]
 - [[sources/range-why-generalists-triumph]] — grit vs match quality; when quitting is information; restriction of range in grit studies
+- [[sources/mans-search-for-meaning]] — meaning as the substrate of endurance; extreme proof-of-concept
