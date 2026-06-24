@@ -34,14 +34,23 @@ Winners stop predicting individual outcomes. They commit to **every** edge that 
 
 Typical traders emotionally live on the last trade. Douglas prescribes **20+ trades** minimum to test variables fairly — large enough to let odds work, small enough to detect edge decay before large drawdowns. Success/failure is the sample, not the tick.
 
+## Variance and quitting too early
+
+The same system with identical rules and positive [[concepts/expectancy]] can produce wildly different short-term equity curves for different traders. One gets a smooth run up; another faces a brutal drawdown before recovering. Both are executing correctly. Short-term results reveal nothing about whether the edge is working.
+
+The most common way a valid edge gets abandoned: a trader quits during normal variance and moves to a new system before the old one can express. The decision to stop is made on a sample too small to carry any statistical weight — exactly [[concepts/law-of-small-numbers]] applied to your own equity curve.
+
 ## Relation to other wiki ideas
 
 - [[concepts/random-walk-theory]] says patterns can't be exploited; Douglas says individual pattern outcomes are random but **series** of edges are not — he trades the distribution, not certainty.
 - [[concepts/probability-blindness]] names why this is hard; Douglas supplies the belief-installation program.
 - [[concepts/alternative-histories]] and Taleb: one path is not the population.
+- [[concepts/gamblers-fallacy]] — the mirror failure: interpreting a losing streak as evidence the next trade is due, rather than as independent variance.
+- [[concepts/expectancy]] — the mathematical expression of what "edge over a large sample" actually means; probabilistic thinking is how you survive long enough for expectancy to express.
 
 ## Sources
 
 - [[sources/trading-in-the-zone]]
+- [[sources/the-math-of-winning-in-trading]]
 - [[concepts/accepting-risk-in-trading]] — required companion; without risk acceptance, probabilistic beliefs stay intellectual
 - [[concepts/seven-principles-of-consistency]] — operational checklist built on these truths

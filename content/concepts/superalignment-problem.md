@@ -1,7 +1,7 @@
 ---
 title: "Superalignment Problem"
 type: concept
-tags: [ai, alignment, safety, superintelligence, rlhf, weak]
+tags: [ai, alignment, safety, superintelligence, rlhf]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1
@@ -45,5 +45,4 @@ Beyond alignment itself, multiple defensive layers: airgapped clusters, monitori
 
 ## Sources
 
-- [[sources/situational-awareness]] - Part IIIc: Superalignment
-These complex systems problems require both inductive pattern recognition from observed failures and deductive application of constraint and incentive analysis.
+- [[sources/situational-awareness]] - Part IIIc: Superalignment

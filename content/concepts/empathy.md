@@ -61,6 +61,8 @@ The same capacity that lets someone sit with another's pain is what lets designe
 - **[[concepts/see-their-point-of-view]]** — Carnegie's Principle 8 in Part 3: "Try honestly to see things from the other person's point of view." The perspective-taking quality of empathy applied as a conversational practice; where empathy is the capacity, see-their-point-of-view is the deliberate act.
 - **[[concepts/offer-sympathy]]** — Carnegie's Principle 9: "Be sympathetic with the other person's ideas and desires." The "magic phrase" (*I don't blame you one iota for feeling as you do*) is empathy enacted at the moment of conflict — recognition of emotion, communicating that recognition, no judgment.
 
+- **[[concepts/heartbreak]]** — the instinct to offer explanations or silver linings to someone heartbroken is sympathy, not empathy; what they need is to feel seen in the pain, not rescued from it — the same "climbing into the hole" that Brené Brown describes
+
 ## Sources
 - [[sources/brene-brown-on-empathy]]
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]]

@@ -1,7 +1,7 @@
 ---
 title: "AGI as National Security"
 type: concept
-tags: [ai, agi, national-security, geopolitics, military, china, superintelligence, weak]
+tags: [ai, agi, national-security, geopolitics, military, china, superintelligence]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1
@@ -50,5 +50,4 @@ Aschenbrenner predicts a government-led AGI project ("The Project") by 2027-28, 
 
 ## Sources
 
-- [[sources/situational-awareness]] - Parts IIIb, IIId, IV
-Strategic reasoning about AGI as national security involves inductive pattern recognition from current AI development and deductive application of game-theoretic and geopolitical principles.
+- [[sources/situational-awareness]] - Parts IIIb, IIId, IV

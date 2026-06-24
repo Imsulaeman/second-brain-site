@@ -100,6 +100,12 @@ The implication: the larger the position, the higher the required EV threshold b
 
 Practical corollary: if the exit liquidity will not be there when you are wrong, the position is too large regardless of conviction.
 
+## Risk Per Trade Guideline
+
+A practical rule that keeps [[concepts/risk-of-ruin]] manageable: risk between 0.25% and 2% of account per trade. At that range, a normal losing streak creates drawdown but not ruin — a bad week or bad month cannot destroy the account.
+
+The reason the ceiling matters: ruin probability does not scale linearly with risk per trade. At 1%, the probability of a 50% drawdown is roughly 18%. At 2%, it jumps to roughly 65%. Doubling risk per trade multiplies, not doubles, ruin probability.
+
 ## Connection To Edge
 
 [[concepts/kelly-criterion]] gives the theoretical growth-optimal fraction when edge and payoff distribution are known; [[sources/understanding-the-kelly-criterion]] and [[sources/the-kelly-criterion-thorp-2006]] both recommend **fractional Kelly** in practice because edge estimates err high and drawdowns at full Kelly are brutal. Stop-based sizing in this page remains the better default for discretionary traders; Kelly is the ceiling check.
@@ -129,3 +135,4 @@ The order should be:
 - [[sources/the-complete-guide-to-trading]]
 - [[sources/trading-in-the-zone]] — accept 20-trade worst-case risk; predefine as identity not effort
 - [[sources/understanding-the-kelly-criterion]] — portfolio Kelly, fractional sizing, overbetting warnings
+- [[sources/the-math-of-winning-in-trading]] — 0.25-2% risk guideline; ruin probability non-linearity; loss asymmetry

@@ -1,7 +1,7 @@
 ---
 title: "Intelligence Explosion"
 type: concept
-tags: [ai, agi, superintelligence, recursive-improvement, automation, weak]
+tags: [ai, agi, superintelligence, recursive-improvement, automation]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1
@@ -38,5 +38,4 @@ Aschenbrenner places the intelligence explosion in a historical sequence of grow
 
 ## Sources
 
-- [[sources/situational-awareness]] - Part II: From AGI to Superintelligence
-Reasoning about intelligence explosion requires both inductive extrapolation from current AI progress and deductive application of scaling laws and capability thresholds.
+- [[sources/situational-awareness]] - Part II: From AGI to Superintelligence

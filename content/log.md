@@ -1,3 +1,28 @@
+## [2026-06-24] ingest | The Math of Winning in Trading — Mulham Trading
+- Teachable units: expectancy formula, paper vs real expectancy, system design tradeoff, breakeven win rate, variance + quitting early, gambler's fallacy, position sizing mechanics, risk of ruin, loss asymmetry
+- Pages created: sources/the-math-of-winning-in-trading, concepts/expectancy, concepts/risk-of-ruin, concepts/gamblers-fallacy
+- Pages updated: concepts/probabilistic-trading-mindset, concepts/position-sizing, concepts/risk-reward-ratio, index, log, ingest-audit
+- Status: full
+
+## [2026-06-24] ingest | How to Fix a Broken Heart — Guy Winch
+- Teachable units: heartbreak-as-addiction, idealization trap, misplaced closure-seeking, void inventory, cognitive impairment, recovery-as-fight
+- Pages created: sources/how-to-fix-a-broken-heart-guy-winch, concepts/heartbreak, entities/Guy-Winch
+- Pages updated: concepts/empathy (heartbreak connection), index, log
+- Status: full
+
+## [2026-06-24] ingest | Is the Cure for Loneliness Hiding in Your Closet? — Mollie Kaye
+- Teachable units: social isolation epidemic, weak ties health benefit, Hello Zone, belonging vs. blending, visibility paradox, behavioral commitment
+- Pages created: sources/is-the-cure-for-loneliness-hiding-in-your-closet, concepts/loneliness
+- Pages updated: index, log
+- Status: full
+
+## [2026-06-24] audit | Pass 1 + Pass 2 — 544 pages
+- Broken links: 1 fixed (Emmanuel Kimmel unlinked in fortunes-formula)
+- Injected boilerplate removed from 9 concept pages; weak tags cleared
+- 2 Python source islands resolved (added Related sections)
+- 1 remaining weak: concepts/delta-vs-level (intentionally thin)
+- Pages updated: 12
+
 ## [2026-06-18] ingest | Kelly criterion cluster — Thorp 2006, Understanding Kelly, Fortune's Formula
 - Full read of 3 sources; 3 source pages, 4 entities; kelly-criterion upgraded to 6-source primary-backed concept
 - Pages created: 7 (3 sources, 4 entities)

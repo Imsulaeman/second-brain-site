@@ -1,7 +1,7 @@
 ---
 title: "OOMs Framework"
 type: concept
-tags: [ai, compute, scaling, measurement, progress, weak]
+tags: [ai, compute, scaling, measurement, progress]
 created: 2026-05-16
 updated: 2026-05-16
 sources: 1
@@ -33,5 +33,4 @@ A key constraint within the framework: internet training data is nearly exhauste
 
 ## Sources
 
-- [[sources/situational-awareness]] - Part I: Counting the OOMs
-The OOMS framework combines inductive observation of market structure with deductive application of positioning and risk principles.
+- [[sources/situational-awareness]] - Part I: Counting the OOMs

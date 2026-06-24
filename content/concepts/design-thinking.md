@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking"
 type: concept
-tags: [problem-solving, user-research, ux-design, innovation, ideation, empathy, weak]
+tags: [problem-solving, user-research, ux-design, innovation, ideation, empathy]
 created: 2026-06-03
 updated: 2026-06-15
 sources: 2

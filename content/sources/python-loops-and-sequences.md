@@ -218,3 +218,8 @@ sorted(langs, key=lambda s: len(s))     # sort by length
 ```
 
 Best practices: don't assign to a variable; keep simple and short; use for one-off inline functions.
+
+## Related
+
+- [[concepts/computational-thinking]] — Python is the primary implementation language for CT exercises in this wiki
+- [[sources/python-basics-review]] — prerequisite: variables, types, functions, scope, control flow

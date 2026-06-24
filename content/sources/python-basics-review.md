@@ -232,3 +232,8 @@ not is_admin              # inverts
 ```
 
 This page is the static foundation. For the next layer of flow control, iteration, and sequence handling, see [[sources/python-loops-and-sequences]].
+
+## Related
+
+- [[concepts/computational-thinking]] — Python is the primary implementation language for CT exercises in this wiki
+- [[concepts/agentic-coding-workflows]] — Python is the dominant scripting language in agentic coding pipelines

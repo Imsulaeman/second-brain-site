@@ -1,7 +1,7 @@
 ---
 title: "Supply Chain Resilience"
 type: concept
-tags: [globalization, geopolitics, supply-chain, risk, resilience, weak]
+tags: [globalization, geopolitics, supply-chain, risk, resilience]
 created: 2026-05-10
 updated: 2026-05-10
 sources: 1
@@ -29,5 +29,4 @@ The swing away from pure globalization may create opportunities in domestic prod
 
 ## Sources
 
-- [[sources/the-complete-collection-howard-marks]] - "The Pendulum in International Affairs."
-These complex systems problems require both inductive pattern recognition from observed failures and deductive application of constraint and incentive analysis.
+- [[sources/the-complete-collection-howard-marks]] - "The Pendulum in International Affairs."

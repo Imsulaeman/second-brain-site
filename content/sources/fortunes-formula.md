@@ -34,7 +34,7 @@ Thorp's 1961 "Fortune's Formula" talk hit the AP wire — gamblers nationwide ca
 
 - With **no edge**, Kelly says don't bet (unlike martingale fantasies).
 - With edge, proportional betting **prevents gambler's ruin** — you never stake 100% of current bankroll.
-- Thorp became the first documented **sure winner** against Nevada blackjack (with [[entities/Emmanuel-Kimmel]]-backed bankroll).
+- Thorp became the first documented **sure winner** against Nevada blackjack (with Emmanuel Kimmel-backed bankroll).
 
 ## Part III — Arbitrage on Wall Street
 
