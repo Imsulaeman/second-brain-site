@@ -43,3 +43,4 @@ Full minimax becomes expensive quickly because game trees explode. That is why p
 ## Sources
 
 - [[sources/introduction-to-algorithms-and-machine-learning]]
+- [[concepts/game-theory]] — minimax is an algorithmic formalization of adversarial game logic; game theory provides the broader analytical frame

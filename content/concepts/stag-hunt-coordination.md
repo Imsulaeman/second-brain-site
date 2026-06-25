@@ -41,3 +41,4 @@ Not every coordination problem is a stag hunt. Sometimes interests genuinely con
 ## Sources
 
 - [[sources/talking-to-my-daughter-about-the-economy]]
+- [[concepts/game-theory]] — stag hunt is a specific game structure within the broader game-theory framework; confidence is the bottleneck to reaching Nash Equilibrium

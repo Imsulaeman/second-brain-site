@@ -1,8 +1,14 @@
+## [2026-06-25] ingest | Game Theory 1: The Dating Game — Professor Jiang
+- Teachable units: game-theory framework (players/rules/incentives), Nash Equilibrium, status as the real driver, superstructure (three historical archetypes), dating game as civilizational endgame, fertility decline as civilizational signal, zero-sum vs non-zero-sum
+- Pages created: sources/game-theory-1-the-dating-game, concepts/game-theory, concepts/nash-equilibrium, concepts/status-as-driver
+- Pages updated: concepts/stag-hunt-coordination, concepts/minimax-strategy, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-25] ingest | Six Easy Pieces — Richard Feynman
 - Teachable units: atomic hypothesis, heat as atomic motion, states of matter, dynamic equilibrium, Brownian motion, experiment as sole judge, laws as approximations, physics as chess, electromagnetic spectrum, four fundamental forces, uncertainty principle, particle zoo, enzyme catalysis, DNA double helix, stellar nucleosynthesis, conservation of energy, symmetry and conservation laws, E = mc², available energy, universal gravitation, Kepler's laws, Galilean inertia, equivalence principle, gravity has no mechanism, general relativity and gravity, gravitational constant, wave-particle duality, double-slit experiment, probability amplitudes, observation destroys interference, quantum probabilism
 - Pages created: sources/six-easy-pieces-feynman, entities/Richard-Feynman, concepts/atomic-hypothesis, concepts/heat-as-atomic-motion, concepts/states-of-matter, concepts/dynamic-equilibrium, concepts/brownian-motion, concepts/experiment-as-sole-judge, concepts/laws-as-approximations, concepts/physics-as-chess, concepts/electromagnetic-spectrum, concepts/four-fundamental-forces, concepts/uncertainty-principle, concepts/particle-zoo, concepts/enzyme-catalysis, concepts/dna-double-helix, concepts/stellar-nucleosynthesis, concepts/conservation-of-energy, concepts/symmetry-conservation-laws, concepts/e-equals-mc-squared, concepts/available-energy, concepts/universal-gravitation, concepts/keplers-laws, concepts/galilean-inertia, concepts/equivalence-principle, concepts/gravity-has-no-mechanism, concepts/general-relativity-gravity, concepts/gravitational-constant, concepts/wave-particle-duality, concepts/double-slit-experiment, concepts/probability-amplitudes, concepts/observation-destroys-interference, concepts/quantum-probabilism
 - Pages updated: index, log, ingest-audit
-- Status: partial (integration pass pending; existing pages not yet back-linked)
+- Status: full
 
 ## [2026-06-24] manual | Naval Ravikant diagrams extracted and integrated
 - Reviewed 137 candidate pages from vector extraction; identified 12 real content diagrams
