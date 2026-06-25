@@ -43,9 +43,11 @@ Probability blindness turns markets into emotional traps. Traders may over-size 
 - [[concepts/system-1-vs-system-2]] — fast associative mode that generates the stories probability blindness trusts.
 - [[concepts/epistemic-humility]] — humility is emotional calibration under uncertainty.
 - [[concepts/illusions-of-competence]] — feeling certain is not the same as being calibrated.
+- [[concepts/quantum-probabilism]] — the deepest case: at the quantum level, probability is not blindness but structure; individual outcomes are fundamentally unpredictable even given complete physical knowledge. Human probability blindness treats ordinary probabilistic events as if they should be deterministic; quantum mechanics goes further and shows that even nature cannot predict individual outcomes.
 
 ## Sources
 
 - [[sources/fooled-by-randomness]] — probability blindness, random sequences, media narratives, and emotional errors under uncertainty.
 - [[sources/thinking-fast-and-slow]] — heuristics, WYSIATI, base rates, regression, availability, and organizational debiasing.
 - [[sources/trading-in-the-zone]] — belief installation for probabilistic execution; casino sample-size antidote
+- [[sources/six-easy-pieces-feynman]] — quantum probabilism as the physics foundation; individual events cannot be predicted, only odds

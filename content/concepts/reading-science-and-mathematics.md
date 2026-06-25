@@ -40,6 +40,11 @@ This makes the concept a strong companion to [[concepts/prereq-mastery|prereq ma
 
 It also belongs near [[concepts/planck-vs-chauffeur-knowledge|Planck vs chauffeur knowledge]]. Scientific literacy is one of the easiest places to mistake secondhand repetition for first-order understanding.
 
+## A Worked Example
+
+*Six Easy Pieces* by Feynman is the kind of scientific text Adler is describing. It can be read in prose without heavy mathematics, but a reader who mistakes the prose fluency for deep understanding has hit the chauffeur problem. Feynman's explanations of the [[concepts/uncertainty-principle]], [[concepts/probability-amplitudes]], and the [[concepts/double-slit-experiment]] are accessible in language but require genuine conceptual reconstruction — following the reasoning, not just nodding along. The book is also an example of science that honestly names what it does not explain: Feynman states plainly that we don't know what energy *is*, and that nobody knows why the double-slit result is what it is.
+
 ## Sources
 
 - [[sources/how-to-read-a-book]]
+- [[sources/six-easy-pieces-feynman]] — exemplifies honest scientific writing: accessible prose, genuine conceptual depth, and named mysteries

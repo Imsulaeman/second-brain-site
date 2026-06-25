@@ -45,10 +45,15 @@ Good judgment requires asking:
 
 [[entities/nassim-nicholas-taleb|Taleb]] adds a probabilistic version in [[sources/fooled-by-randomness]]: humility means remembering that the realized path is not the whole truth. People over-explain outcomes, undercount [[concepts/alternative-histories]], and mistake lucky survival for skill. Epistemic humility therefore requires inspecting sample selection, tail risk, and hidden skew before trusting any story.
 
+## Feynman's Version
+
+Feynman operationalizes epistemic humility in physics as [[concepts/experiment-as-sole-judge]]: no argument, authority, or aesthetic elegance can substitute for experimental verification. He extends this to [[concepts/laws-as-approximations]]: every physical law holds within a domain and breaks down outside it. The discipline of physics is organized epistemic humility — you know your models are wrong somewhere; the question is where. "If it disagrees with experiment, it is wrong" is the sharpest form of the concept.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]] - Luck disguised as skill, probability blindness, induction limits, and alternative histories.
 - [[sources/the-complete-collection-howard-marks]] - "Knowledge of the Future," "Uncertainty," "Uncertainty II," and "The Illusion of Knowledge."
 - [[sources/poor-charlies-almanack]] - Iron Prescription, Circle of Competence, Planck vs Chauffeur Knowledge.
+- [[sources/six-easy-pieces-feynman]] - Experiment as sole judge; laws as approximations; physics as the science of honest approximation.
 
 This connects directly to the difference between inductive and deductive reasoning. Inductive conclusions are inherently probabilistic and require epistemic humility by nature. Deductive conclusions can create overconfidence when the premises are treated as more certain than they are.

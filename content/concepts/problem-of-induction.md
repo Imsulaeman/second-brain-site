@@ -37,8 +37,11 @@ Past data is useful, but it should train suspicion as well as confidence. The qu
 - [[concepts/skewness-and-asymmetry]] - Rare events can dominate outcomes despite sparse historical evidence.
 - [[concepts/survivorship-bias]] - The past sample may exclude failures.
 - [[concepts/bubble-detection]] - Bubbles often depend on believing a recent pattern has become permanent.
+- [[concepts/experiment-as-sole-judge]] - Feynman's version: the experiment is the judge, but a single confirming experiment never fully proves a theory — it only fails to refute it so far.
+- [[concepts/laws-as-approximations]] - Physical laws are inductive summaries that hold in a domain; every law contains a hidden "so far, in every test we've run."
 
 ## Sources
 
 - [[sources/fooled-by-randomness]] - Taleb's induction, swans, Popper, skepticism, and rare-event framing.
+- [[sources/six-easy-pieces-feynman]] - Laws as approximations; experiment as sole judge; physics as institutionalized inductive humility.
 
