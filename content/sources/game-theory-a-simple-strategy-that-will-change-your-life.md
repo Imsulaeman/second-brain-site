@@ -35,6 +35,9 @@ In later simulations with more chaotic conditions, a more generous tit-for-tat �
 
 ## Connections
 
-- [[concepts/tit-for-tat]] — the central strategy examined
+- [[concepts/tit-for-tat]] — the tournament winner; nice, retaliatory, forgiving, clear
 - [[concepts/prisoners-dilemma]] — the game structure the tournament was built on
+- [[concepts/dominant-strategy]] — defecting is dominant in a one-off game; iteration eliminates that
+- [[concepts/iterated-games]] — repetition transforms the optimal strategy; cooperation becomes possible
+- [[concepts/cooperative-vs-noncooperative-games]] — the two fundamental game types
 - [[concepts/incentive-superpower]] — game theory is the formal study of how incentive structures shape decisions
