@@ -37,8 +37,13 @@ Written language and spoken language are different registers. A script written a
 
 ## Connections
 
-- [[concepts/deliberate-practice]] — pushing through the robot stage is the same pattern as deliberate practice: the difficult middle where performance temporarily degrades before stabilizing at a higher level
-- [[concepts/creative-confidence]] — the fear of performance is the same barrier as the fear of creative exposure; both require commitment before comfort
+- [[concepts/throughline]] — the single idea every section serves; identified before writing, used as a filter throughout
+- [[concepts/talk-as-journey]] — map each step with a label; the model for unscripted preparation
+- [[concepts/unscripted-is-not-unprepared]] — words found in the moment, structure prepared just as rigorously
+- [[concepts/memorizing-a-talk]] — the robot stage and how to push through it
+- [[concepts/spoken-vs-written-language]] — dictate first, write second; scripts written as prose sound unnatural aloud
+- [[concepts/deliberate-practice]] — pushing through the robot stage mirrors the deliberate practice dip
+- [[concepts/creative-confidence]] — committing past the uncomfortable middle applies to both performance and creative exposure
 
 ## Sources
 
