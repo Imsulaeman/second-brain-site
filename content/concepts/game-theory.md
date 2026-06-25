@@ -56,6 +56,10 @@ When a game's incentive is zero-sum (finite positions to be won), you get differ
 
 [[concepts/nash-equilibrium]] is the formal name for a game's theoretically stable outcome — the state where no player can improve by unilaterally changing strategy.
 
+[[concepts/superstructure]] is the macro-context layer — demographics, economics, technology, competition — that determines which game is in play before any individual behavior is analyzed.
+
+[[concepts/zero-sum-vs-non-zero-sum]] is the foundational classification: fixed-pie games (status, rank) behave differently from expandable-pie games (wealth, trade). Misidentifying which type you're in produces wrong predictions and wrong interventions.
+
 [[concepts/stag-hunt-coordination]] is a specific game structure where the superior collective outcome requires enough players to believe others will commit. Confidence becomes the bottleneck.
 
 [[concepts/minimax-strategy]] formalizes adversarial game logic into an algorithm: choose the move whose worst reply still leaves you best off.
@@ -63,6 +67,8 @@ When a game's incentive is zero-sum (finite positions to be won), you get differ
 [[concepts/second-order-thinking]] shares the "and then what?" move of game theory — both refuse to stop at the first visible outcome.
 
 [[concepts/status-as-driver]] is the game theory finding that in modern mating, the actual incentive is status, not procreation.
+
+[[concepts/fertility-decline]] is a predictable downstream outcome once the modern superstructure produces a status game incompatible with reproduction.
 
 ## Sources
 
