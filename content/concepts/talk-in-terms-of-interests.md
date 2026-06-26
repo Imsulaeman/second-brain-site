@@ -3,8 +3,8 @@ title: "Talk in Terms of the Other Person's Interests"
 type: concept
 tags: [carnegie, relationships, communication, likeability, people-skills]
 created: 2026-06-13
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 # Talk in Terms of the Other Person's Interests
@@ -47,7 +47,9 @@ The most fascinating conversationalists you know don't try to impress you with t
 - **[[concepts/arouse-an-eager-want]]** — Part 1's Principle 3 and this principle operate by the same logic: enter the other person's frame of desire, not your own
 - **[[concepts/genuine-interest-in-others]]** — genuine interest motivates you to actually learn and care about what other people care about
 - **[[concepts/give-honest-and-sincere-appreciation]]** — talking in terms of someone's interests is a form of sincere acknowledgment of what they value
+- **[[concepts/about-you-introduction]]** — Okamoto's 20-word formulas operationalize the same listener-first orientation for opening sentences
 
 ## Sources
 
 - [[sources/how-to-win-friends-and-influence-people]]
+- [[sources/how-to-introduce-yourself-rebecca-okamoto]]

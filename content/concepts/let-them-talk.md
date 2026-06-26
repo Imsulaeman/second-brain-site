@@ -3,8 +3,8 @@ title: "Let the Other Person Do the Talking"
 type: concept
 tags: [carnegie, persuasion, communication, listening, people-skills]
 created: 2026-06-13
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 # Let the Other Person Do the Talking
@@ -65,7 +65,9 @@ So minimize achievements. Be modest. Encourage others to talk instead. "Life is 
 - **[[concepts/genuine-interest-in-others]]** — genuine interest gives you real things to ask about; the talking follows naturally
 - **[[concepts/make-others-feel-important]]** — letting someone talk about themselves is one of the fastest ways to make them feel important
 - **[[concepts/let-them-feel-its-their-idea]]** — when someone talks themselves to a conclusion, it becomes their own idea
+- **[[concepts/twenty-word-introduction]]** — a good opening earns "Tell me more" and hands the floor back; credential monologues do the opposite
 
 ## Sources
 
 - [[sources/how-to-win-friends-and-influence-people]]
+- [[sources/how-to-introduce-yourself-rebecca-okamoto]]

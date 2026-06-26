@@ -1,3 +1,9 @@
+## [2026-06-26] ingest | How to Introduce Yourself — Rebecca Okamoto
+- Teachable units: about-you vs about-me introduction, 20-word sound bite, five formulas (benefit/breakthrough/passion/strength/mission), first impressions, imposter reframe, "Tell me more" trigger
+- Pages created: sources/how-to-introduce-yourself-rebecca-okamoto, entities/Rebecca-Okamoto, concepts/about-you-introduction, concepts/twenty-word-introduction, concepts/first-impressions
+- Pages updated: concepts/halo-effect, concepts/talk-in-terms-of-interests, concepts/let-them-talk, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-26] ingest | How to Speak So That People Want to Listen — Julian Treasure
 - Teachable units: seven deadly sins of speaking, HAIL framework, vocal delivery toolbox (register/timbre/pace/pitch/volume), prosody (monotone/uptalk), sodcasting, vocal warmup (6 exercises), conscious listening vision
 - Pages created: sources/how-to-speak-so-people-want-to-listen-julian-treasure, entities/Julian-Treasure, concepts/seven-deadly-sins-of-speaking, concepts/hail-framework, concepts/prosody, concepts/vocal-delivery-toolbox, concepts/sodcasting, concepts/vocal-warmup

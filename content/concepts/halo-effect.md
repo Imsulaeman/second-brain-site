@@ -3,8 +3,8 @@ title: "Halo Effect"
 type: concept
 tags: [judgment, bias, impression, kahneman]
 created: 2026-06-18
-updated: 2026-06-18
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 The halo effect is the tendency for one positive trait to spread across the entire judgment of a person or company. System 1 seeks coherence; liking one feature colors everything else.
@@ -15,6 +15,9 @@ Kahneman links it to the **law of small numbers**: we know little but construct 
 
 Performance reviews, hiring, and due diligence all amplify halos. Structured interviews, independent criteria scored before integration, and checklists reduce but do not eliminate it.
 
+[[entities/Rebecca-Okamoto|Rebecca Okamoto]]'s supply-chain interview failure is a practical example: rejected in five minutes on one opening answer, despite 20 years of qualifications. The [[concepts/first-impressions|first impression]] set by an about-me monologue never gave later credentials a chance to land.
+
 ## Sources
 
 - [[sources/thinking-fast-and-slow]]
+- [[sources/how-to-introduce-yourself-rebecca-okamoto]]
