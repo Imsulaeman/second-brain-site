@@ -1,12 +1,13 @@
+## [2026-06-26] reverify | Game Theory 1: The Dating Game — Professor Jiang
+- Raw line count unchanged (563); existing source + concept cluster reviewed against raw; no new teachable units; status remains full
+- Pages updated: ingest-audit, log
+- Status: full
+
 ## [2026-06-26] ingest | Who Are You, Really? — Brian Little
 - Teachable units: Big Five OCEAN, three natures (biogenic/sociogenic/idiogenic), introversion-extroversion, free traits, personal projects, restorative niches, communication differences
 - Pages created: sources/who-are-you-really-brian-little, entities/Brian-Little, concepts/big-five-personality, concepts/free-traits, concepts/personal-projects, concepts/three-natures-of-personality, concepts/introversion-extroversion
 - Pages updated: concepts/match-quality, index, log, ingest-audit
 - Status: full
-
-## [2026-06-26] reverify | Game Theory 1: The Dating Game — Professor Jiang
-- Raw line count unchanged (563); existing source + concept cluster reviewed against raw; no new teachable units; status remains full
-- Pages updated: ingest-audit, log
 
 ## [2026-06-26] ingest | Telling Stories to Improve Interview Success — Dino Martinez
 - Teachable units: interview storytelling, rolodex of experiences, research yourself/company/interviewers, STAR/CAR, present-past-future intro, behavioral format, learning layer in results, eager vs anxious
