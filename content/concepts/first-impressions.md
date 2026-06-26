@@ -4,7 +4,7 @@ type: concept
 tags: [communication, psychology, interviews, persuasion]
 created: 2026-06-26
 updated: 2026-06-26
-sources: 1
+sources: 2
 ---
 
 # First Impressions
@@ -27,9 +27,12 @@ The attention-deficit framing is deliberately extreme (goldfish comparison), but
 
 When doors close repeatedly, people often blame intelligence or imposter feelings. Okamoto argues many closures are [[concepts/about-you-introduction|introduction failures]] — the person was qualified but framed wrong. Testing the opening sentence is cheaper than rewriting your competence story.
 
+[[entities/Ashley-Rizzotto|Ashley Rizzotto]] argues the most important part of an interview happens **before you arrive** — [[concepts/interview-non-negotiables|non-negotiables]], [[concepts/career-strengths-identification|strengths]], and [[concepts/alignment-through-research|research]] — not the handshake and spotlight moment. Nailing first impressions without fit prep can still produce a bad outcome.
+
 ## Connections
 
 - [[concepts/about-you-introduction]] — listener-oriented framing for the opening moment
+- [[concepts/interview-non-negotiables]] — pre-arrival preparation Rizzotto prioritizes over day-of performance
 - [[concepts/twenty-word-introduction]] — constrained format designed for first-impression capture
 - [[concepts/halo-effect]] — how early liking (or disliking) propagates through evaluation
 - [[concepts/remembering-names]] — another Carnegie first-moment technique; both operate in the opening seconds
@@ -37,3 +40,4 @@ When doors close repeatedly, people often blame intelligence or imposter feeling
 ## Sources
 
 - [[sources/how-to-introduce-yourself-rebecca-okamoto]]
+- [[sources/mastering-the-art-of-the-interview-ashley-rizzotto]]

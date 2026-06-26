@@ -1,3 +1,25 @@
+## [2026-06-26] ingest | Who Are You, Really? — Brian Little
+- Teachable units: Big Five OCEAN, three natures (biogenic/sociogenic/idiogenic), introversion-extroversion, free traits, personal projects, restorative niches, communication differences
+- Pages created: sources/who-are-you-really-brian-little, entities/Brian-Little, concepts/big-five-personality, concepts/free-traits, concepts/personal-projects, concepts/three-natures-of-personality, concepts/introversion-extroversion
+- Pages updated: concepts/match-quality, index, log, ingest-audit
+- Status: full
+
+## [2026-06-26] reverify | Game Theory 1: The Dating Game — Professor Jiang
+- Raw line count unchanged (563); existing source + concept cluster reviewed against raw; no new teachable units; status remains full
+- Pages updated: ingest-audit, log
+
+## [2026-06-26] ingest | Telling Stories to Improve Interview Success — Dino Martinez
+- Teachable units: interview storytelling, rolodex of experiences, research yourself/company/interviewers, STAR/CAR, present-past-future intro, behavioral format, learning layer in results, eager vs anxious
+- Pages created: sources/telling-stories-to-improve-interview-success-dino-martinez, entities/Dino-Martinez, concepts/interview-storytelling, concepts/star-method, concepts/present-past-future-introduction
+- Pages updated: concepts/career-strengths-identification, concepts/twenty-word-introduction, index, log, ingest-audit
+- Status: full
+
+## [2026-06-26] ingest | Mastering the Art of the Interview — Ashley Rizzotto
+- Teachable units: prep before arrival, non-negotiables (inside/outside work), strengths (idealized vs actual), alignment through research, advocate or walk away, honest vs pleasing answers, offer mirroring
+- Pages created: sources/mastering-the-art-of-the-interview-ashley-rizzotto, entities/Ashley-Rizzotto, concepts/interview-non-negotiables, concepts/career-strengths-identification, concepts/alignment-through-research
+- Pages updated: concepts/match-quality, concepts/first-impressions, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-26] ingest | How to Stay Calm Under Stress — Daniel Levitin
 - Teachable units: cortisol/cloudy thinking, stress impairs judgment (meta-problem), premortem/prospective hindsight, designated place system, hippocampus spatial memory, NNT, informed consent, quality-of-life pre-decisions, travel backups
 - Pages created: sources/how-to-stay-calm-under-stress-daniel-levitin, entities/Daniel-Levitin, entities/Gary-Klein, concepts/stress-impairs-judgment, concepts/designated-place-system, concepts/hippocampus, concepts/number-needed-to-treat

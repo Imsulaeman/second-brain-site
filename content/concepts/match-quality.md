@@ -3,8 +3,8 @@ title: "Match Quality"
 type: concept
 tags: [career, learning, decision-making]
 created: 2026-06-18
-updated: 2026-06-18
-sources: 1
+updated: 2026-06-26
+sources: 3
 ---
 
 Match quality is economist Ofer Malamud's term for how well work fits a person — their abilities, interests, and evolving self. It is the hidden variable behind "did I choose the right career?"
@@ -21,10 +21,16 @@ Steven Levitt's coin-flip experiment: people who made a desired change (especial
 
 Van Gogh, Gauguin, and Frances Hesselbein are extreme cases of match-quality optimization through repeated false starts.
 
+[[concepts/personal-projects|Personal projects]] (Brian Little) and [[concepts/interview-non-negotiables|non-negotiables]] (Rizzotto) are idiogenic/situational expressions of the same question: what core pursuits must a role serve for you to thrive?
+
 ## vs grit
 
 [[concepts/grit]] predicts sticking through Beast Barracks among preselected cadets. It does not replace match quality for life design. Perseverance on the wrong match is a sunk-cost trap, not virtue. Ask *when* someone is gritty, not only *whether* — context and fit matter as much as stamina.
 
+[[entities/Ashley-Rizzotto|Ashley Rizzotto]]'s [[concepts/alignment-through-research|alignment through research]] is match quality applied at interview time: compare non-negotiables and strengths against the posting, advocate or walk away. Her ten-month burnout after a "perfect" interview is what bad match quality looks like when you tell employers what they want to hear.
+
 ## Sources
 
 - [[sources/range-why-generalists-triumph]]
+- [[sources/mastering-the-art-of-the-interview-ashley-rizzotto]]
+- [[sources/who-are-you-really-brian-little]]

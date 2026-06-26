@@ -63,6 +63,7 @@ Different audiences value different benefits. Keep multiple versions — what wo
 
 ## Connections
 
+- [[concepts/present-past-future-introduction]] — Martinez's 2–3 minute interview opener; complementary not competing
 - [[concepts/about-you-introduction]] — the orientation underneath every formula
 - [[concepts/first-impressions]] — why the constraint exists
 - [[concepts/hail-framework]] — honesty and authenticity still apply; the 20 words must be true
