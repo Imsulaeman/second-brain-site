@@ -5,6 +5,7 @@ source_type: video
 tags: [personality, psychology, introversion, extroversion, TED]
 created: 2026-06-26
 updated: 2026-06-26
+sources: 1
 author: Brian Little (TED)
 ---
 

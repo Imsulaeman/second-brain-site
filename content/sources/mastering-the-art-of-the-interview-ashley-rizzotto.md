@@ -5,6 +5,7 @@ source_type: video
 tags: [interviews, career, strengths, job-search, TEDx]
 created: 2026-06-26
 updated: 2026-06-26
+sources: 1
 author: Ashley Rizzotto (TEDxNSU)
 ---
 
