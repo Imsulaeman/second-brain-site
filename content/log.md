@@ -1,3 +1,23 @@
+## [2026-06-26T19:38:12+07:00] gate | Game Theory 1: The Dating Game — re-verification
+- Mechanical gate: gates/game-theory.txt PASS (563 raw MATCH b3683db tree; raw immutability confirmed)
+- MCP gate: gates/game-theory-mcp.txt (game-theory cluster confirmed)
+- Status: full
+
+## [2026-06-26T19:37:41+07:00] gate | Who Are You, Really? — Brian Little
+- Mechanical gate: gates/little.txt PASS (299 raw, proving pages phrase hits confirmed)
+- MCP gate: gates/little-mcp.txt (personality cluster + match-quality integration)
+- Status: full
+
+## [2026-06-26T19:37:28+07:00] gate | Telling Stories to Improve Interview Success — Dino Martinez
+- Mechanical gate: gates/martinez.txt PASS (158 raw → 181 wiki source+proving)
+- MCP gate: gates/martinez-mcp.txt (search cluster confirmed)
+- Status: full
+
+## [2026-06-26T19:37:06+07:00] gate | Mastering the Art of the Interview — Ashley Rizzotto
+- Mechanical gate: gates/rizzotto.txt PASS (63 raw → 186 wiki source+proving)
+- MCP gate: gates/rizzotto-mcp.txt (search cluster confirmed)
+- Status: full
+
 ## [2026-06-26] reverify | Game Theory 1: The Dating Game — Professor Jiang
 - Raw line count unchanged (563); existing source + concept cluster reviewed against raw; no new teachable units; status remains full
 - Pages updated: ingest-audit, log
