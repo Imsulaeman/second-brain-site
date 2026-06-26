@@ -1,3 +1,9 @@
+## [2026-06-26] ingest | How to Speak So That People Want to Listen — Julian Treasure
+- Teachable units: seven deadly sins of speaking, HAIL framework, vocal delivery toolbox (register/timbre/pace/pitch/volume), prosody (monotone/uptalk), sodcasting, vocal warmup (6 exercises), conscious listening vision
+- Pages created: sources/how-to-speak-so-people-want-to-listen-julian-treasure, entities/Julian-Treasure, concepts/seven-deadly-sins-of-speaking, concepts/hail-framework, concepts/prosody, concepts/vocal-delivery-toolbox, concepts/sodcasting, concepts/vocal-warmup
+- Pages updated: concepts/active-listening, concepts/empathy, concepts/spoken-vs-written-language, sources/whats-the-best-way-to-give-a-presentation, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-25] ingest | Game Theory 1: The Dating Game — Professor Jiang
 - Teachable units: game-theory framework (players/rules/incentives), Nash Equilibrium, status as the real driver, superstructure (three historical archetypes), dating game as civilizational endgame, fertility decline as civilizational signal, zero-sum vs non-zero-sum
 - Pages created: sources/game-theory-1-the-dating-game, concepts/game-theory, concepts/nash-equilibrium, concepts/status-as-driver

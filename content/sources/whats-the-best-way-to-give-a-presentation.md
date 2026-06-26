@@ -4,7 +4,7 @@ type: source
 source_type: video
 tags: [public-speaking, communication, memorization, scripting, TED-Ed]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-06-26
 author: TED-Ed (Public Speaking 101, Episode 4)
 ---
 
@@ -44,6 +44,9 @@ Written language and spoken language are different registers. A script written a
 - [[concepts/spoken-vs-written-language]] — dictate first, write second; scripts written as prose sound unnatural aloud
 - [[concepts/deliberate-practice]] — pushing through the robot stage mirrors the deliberate practice dip
 - [[concepts/creative-confidence]] — committing past the uncomfortable middle applies to both performance and creative exposure
+- [[concepts/vocal-warmup]] — physical preparation before high-stakes delivery
+- [[concepts/vocal-delivery-toolbox]] — how you say it, not just what you say
+- [[sources/how-to-speak-so-people-want-to-listen-julian-treasure]] — sibling TED source on voice and listening
 
 ## Sources
 

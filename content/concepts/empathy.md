@@ -3,8 +3,8 @@ title: "Empathy"
 type: concept
 tags: [empathy, psychology, design-thinking, education, awareness]
 created: 2026-06-11
-updated: 2026-06-15
-sources: 3
+updated: 2026-06-26
+sources: 4
 ---
 
 Empathy is the choice to feel with another person.
@@ -27,6 +27,10 @@ The image that makes the distinction clearest is the hole. When someone is at th
 ## The At Least Trap
 
 Because empathy demands feeling with, it is vulnerable. You must locate in yourself some version of the feeling the other person is carrying. Without that touch, the response easily slides into silver-lining language that begins with "at least." Those responses minimise the experience and break connection.
+
+## Wishing Well vs. Judging
+
+[[entities/Julian-Treasure|Julian Treasure]]'s [[concepts/hail-framework|HAIL framework]] includes love defined as wishing people well — not romantic love, but a stance that makes simultaneous judgment nearly impossible. That speaker-side ethic rhymes with empathy's requirement to stay out of judgment: both orient toward the other person before evaluating them.
 
 ## Awareness as the Root
 
@@ -67,3 +71,4 @@ The same capacity that lets someone sit with another's pain is what lets designe
 - [[sources/brene-brown-on-empathy]]
 - [[sources/how-do-you-teach-empathy-jonathan-juravich]]
 - [[sources/cara-gue-masuk-apple-developer-academy]] — FGD dynamics; empathy over ego in group assessment settings
+- [[sources/how-to-speak-so-people-want-to-listen-julian-treasure]] — HAIL love pillar; wishing well vs. judging

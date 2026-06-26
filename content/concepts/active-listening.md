@@ -3,8 +3,8 @@ title: "Active Listening"
 type: concept
 tags: [carnegie, relationships, communication, likeability, empathy]
 created: 2026-06-13
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 # Active Listening
@@ -63,6 +63,10 @@ Want to make people shun and despise you? Never listen for long. Talk incessantl
 
 ---
 
+## Conscious Listening
+
+[[entities/Julian-Treasure|Julian Treasure]] contrasts the default state — people speaking poorly to others who aren't really listening, in noisy environments — with a target state: speaking powerfully to people who listen *consciously*, in spaces designed for sound. Active listening on the receiver side is the behavioral half of that vision; Treasure's [[concepts/hail-framework|HAIL framework]] and [[concepts/vocal-delivery-toolbox|vocal delivery toolbox]] cover the speaker half.
+
 ## Connections
 
 - **[[concepts/genuine-interest-in-others]]** — genuine interest is the motivation; active listening is what genuine interest looks like in conversation
@@ -73,3 +77,4 @@ Want to make people shun and despise you? Never listen for long. Talk incessantl
 ## Sources
 
 - [[sources/how-to-win-friends-and-influence-people]]
+- [[sources/how-to-speak-so-people-want-to-listen-julian-treasure]]

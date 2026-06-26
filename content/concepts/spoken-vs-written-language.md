@@ -3,8 +3,8 @@ title: "Spoken vs. Written Language"
 type: concept
 tags: [communication, public-speaking, writing, language, cognition]
 created: 2026-06-25
-updated: 2026-06-25
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 # Spoken vs. Written Language
@@ -27,11 +27,18 @@ The distinction isn't absolute. Some talks are deliberately literary — Amanda 
 
 The rule: written language works on stage when the audience is meant to experience it *as* writing. When the goal is to feel like a person talking directly to you, spoken language wins.
 
+## Delivery Register
+
+Choosing spoken-language words is only half the problem. [[entities/Julian-Treasure|Julian Treasure]] separates *what* you say from *how* you say it: [[concepts/prosody|prosody]], pace, pitch, and the other controls in the [[concepts/vocal-delivery-toolbox|vocal delivery toolbox]] layer meaning on top of the script. A natural-sounding script delivered in monotone still fails the ear.
+
 ## Connections
 
 - [[concepts/memorizing-a-talk]] — the dictate-first method produces the raw material that gets memorized; solving register and memorization together
 - [[concepts/active-listening]] — the listener's ear processes differently from the reader's eye; spoken language is designed for that mode
+- [[concepts/prosody]] — the melodic layer that written text cannot carry without a speaker
+- [[concepts/vocal-delivery-toolbox]] — how delivery choices shape meaning beyond word choice
 
 ## Sources
 
 - [[sources/whats-the-best-way-to-give-a-presentation]]
+- [[sources/how-to-speak-so-people-want-to-listen-julian-treasure]]
