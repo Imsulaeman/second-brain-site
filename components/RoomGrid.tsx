@@ -10,20 +10,52 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
   const room = roomByPlural(type)
   const [tag, setTag] = useState('all')
   const [open, setOpen] = useState(false)
+  const [tagQuery, setTagQuery] = useState('')
   const dropdownRef = useRef<HTMLDivElement>(null)
+  const searchRef = useRef<HTMLInputElement>(null)
 
   const tags = useMemo(() => {
     return Array.from(new Set(notes.flatMap((note) => note.tags))).sort((a, b) => a.localeCompare(b))
   }, [notes])
 
+  const tagCounts = useMemo(() => {
+    const counts = new Map<string, number>()
+    for (const note of notes) {
+      for (const noteTag of note.tags) {
+        counts.set(noteTag, (counts.get(noteTag) ?? 0) + 1)
+      }
+    }
+    return counts
+  }, [notes])
+
+  const filteredTags = useMemo(() => {
+    const q = tagQuery.trim().toLowerCase()
+    if (!q) return tags
+    return tags.filter((item) => item.toLowerCase().includes(q))
+  }, [tags, tagQuery])
+
+  function closeDropdown() {
+    setOpen(false)
+    setTagQuery('')
+  }
+
+  function selectTag(next: string) {
+    setTag(next)
+    closeDropdown()
+  }
+
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
-        setOpen(false)
+        closeDropdown()
       }
     }
     if (open) document.addEventListener('mousedown', handleClickOutside)
     return () => document.removeEventListener('mousedown', handleClickOutside)
+  }, [open])
+
+  useEffect(() => {
+    if (open) searchRef.current?.focus()
   }, [open])
 
   const filtered = tag === 'all' ? notes : notes.filter((note) => note.tags.includes(tag))
@@ -72,30 +104,48 @@ export default function RoomGrid({ notes, type }: { notes: Note[]; type: string 
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, y: -4 }}
                   transition={{ duration: 0.14 }}
-                  className="absolute left-0 top-full z-50 mt-1.5 min-w-[180px] max-w-[260px] rounded-lg border border-palace-border bg-palace-surface shadow-[0_8px_32px_rgba(4,8,20,0.5)]"
+                  className="absolute left-0 top-full z-50 mt-1.5 min-w-[220px] max-w-[300px] rounded-lg border border-palace-border bg-palace-surface shadow-[0_8px_32px_rgba(4,8,20,0.5)]"
                 >
+                  <div className="border-b border-palace-border/60 p-2">
+                    <input
+                      ref={searchRef}
+                      type="search"
+                      value={tagQuery}
+                      onChange={(e) => setTagQuery(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Escape') closeDropdown()
+                      }}
+                      placeholder="Search tags…"
+                      className="w-full rounded border border-palace-border bg-palace-bg/50 px-2.5 py-1.5 text-xs text-palace-text placeholder:text-palace-muted/60 focus:border-palace-gold/50 focus:outline-none"
+                    />
+                  </div>
                   <div className="max-h-[320px] overflow-y-auto p-1.5 [scrollbar-width:thin] [scrollbar-color:#2a3550_transparent]">
                     <button
                       type="button"
-                      onClick={() => { setTag('all'); setOpen(false) }}
+                      onClick={() => selectTag('all')}
                       className={`w-full rounded px-3 py-2 text-left text-xs transition-colors duration-150 ${
                         tag === 'all' ? 'bg-palace-gold/10 text-palace-gold' : 'text-palace-muted hover:bg-palace-border/30 hover:text-palace-text'
                       }`}
                     >
                       All <span className="ml-1 text-palace-muted/60">{notes.length}</span>
                     </button>
-                    {tags.map((item) => (
-                      <button
-                        type="button"
-                        key={item}
-                        onClick={() => { setTag(item); setOpen(false) }}
-                        className={`w-full rounded px-3 py-2 text-left text-xs transition-colors duration-150 ${
-                          tag === item ? 'bg-palace-gold/10 text-palace-gold' : 'text-palace-muted hover:bg-palace-border/30 hover:text-palace-text'
-                        }`}
-                      >
-                        {item}
-                      </button>
-                    ))}
+                    {filteredTags.length === 0 ? (
+                      <p className="px-3 py-2 text-xs text-palace-muted">No tags match</p>
+                    ) : (
+                      filteredTags.map((item) => (
+                        <button
+                          type="button"
+                          key={item}
+                          onClick={() => selectTag(item)}
+                          className={`w-full rounded px-3 py-2 text-left text-xs transition-colors duration-150 ${
+                            tag === item ? 'bg-palace-gold/10 text-palace-gold' : 'text-palace-muted hover:bg-palace-border/30 hover:text-palace-text'
+                          }`}
+                        >
+                          <span className="break-all">{item}</span>
+                          <span className="ml-1 text-palace-muted/60">{tagCounts.get(item)}</span>
+                        </button>
+                      ))
+                    )}
                   </div>
                 </motion.div>
               )}
