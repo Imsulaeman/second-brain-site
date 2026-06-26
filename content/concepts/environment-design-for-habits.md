@@ -3,8 +3,8 @@ title: "Environment Design for Habits"
 type: concept
 tags: [habits, environment, cues, behavior-change, architecture]
 created: 2026-05-19
-updated: 2026-06-13
-sources: 1
+updated: 2026-06-26
+sources: 2
 ---
 
 # Environment Design for Habits
@@ -83,7 +83,9 @@ Self-control is a short-term strategy. Environment design is the long-term one. 
 - **[[concepts/decisive-moments]]** — environment design pre-shapes which path is easier at every fork; it makes the productive option the default
 - **[[concepts/focused-vs-diffuse-thinking]]** — the context/space you design determines which cognitive mode you default to when you sit down
 - **[[concepts/four-laws-of-behavior-change]]** — this is the 1st Law ("make it obvious") applied architecturally and the inversion ("make it invisible") for breaking bad habits
+- **[[concepts/designated-place-system]]** — fixed locations for essentials; hippocampus-friendly object retrieval under stress
 
 ## Sources
 
 - [[sources/atomic-habits]]
+- [[sources/how-to-stay-calm-under-stress-daniel-levitin]]

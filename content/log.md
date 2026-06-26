@@ -1,3 +1,9 @@
+## [2026-06-26] ingest | How to Stay Calm Under Stress — Daniel Levitin
+- Teachable units: cortisol/cloudy thinking, stress impairs judgment (meta-problem), premortem/prospective hindsight, designated place system, hippocampus spatial memory, NNT, informed consent, quality-of-life pre-decisions, travel backups
+- Pages created: sources/how-to-stay-calm-under-stress-daniel-levitin, entities/Daniel-Levitin, entities/Gary-Klein, concepts/stress-impairs-judgment, concepts/designated-place-system, concepts/hippocampus, concepts/number-needed-to-treat
+- Pages updated: concepts/premortem, concepts/decision-quality-vs-outcome, concepts/environment-design-for-habits, index, log, ingest-audit
+- Status: full
+
 ## [2026-06-26] ingest | How to Introduce Yourself — Rebecca Okamoto
 - Teachable units: about-you vs about-me introduction, 20-word sound bite, five formulas (benefit/breakthrough/passion/strength/mission), first impressions, imposter reframe, "Tell me more" trigger
 - Pages created: sources/how-to-introduce-yourself-rebecca-okamoto, entities/Rebecca-Okamoto, concepts/about-you-introduction, concepts/twenty-word-introduction, concepts/first-impressions

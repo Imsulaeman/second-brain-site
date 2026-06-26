@@ -3,8 +3,8 @@ title: "Decision Quality vs Outcome"
 type: concept
 tags: [decision-making, probability, investing, uncertainty, howard-marks]
 created: 2026-05-10
-updated: 2026-06-18
-sources: 5
+updated: 2026-06-26
+sources: 6
 ---
 
 # Decision Quality vs Outcome
@@ -77,10 +77,15 @@ Without it, you cannot do leak-finding: identifying which parts of your process 
 
 [[sources/trading-in-the-zone]] pushes the same separation into high-frequency execution: the typical trader judges the **last trade**; the consistent trader judges a **sample of 20+ edges**. Right/wrong on one ticket loses significance once you believe in [[concepts/probabilistic-trading-mindset|random distribution between wins and losses]] for a fixed edge — same logic as alternative histories, applied before the session ends.
 
+## Pre-Mortem as Process Quality
+
+[[entities/Daniel-Levitin|Daniel Levitin]] extends premortem thinking to personal decisions: ask for [[concepts/number-needed-to-treat|NNT]] and side-effect rates while calm, not in the doctor's office under [[concepts/stress-impairs-judgment|cortisol]]. Sound process means preparing the reasoning chain before the outcome-relevant moment.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]] — Primary source for alternative histories and luck disguised as skill.
 - [[sources/thinking-fast-and-slow]] — outcome bias, hindsight contamination, halo + outcome in success studies, premortem as fix.
+- [[sources/how-to-stay-calm-under-stress-daniel-levitin]] — personal premortem; NNT as calm-process example
 - [[sources/the-complete-collection-howard-marks]] — "Pigweed" (2006), "It's Not Easy" (2015), "You Bet!" (2020), "Nobody Knows II" (2020), and recurring use of Taleb's alternative histories.
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]] — Timeframe conflation, nullification approach, and trade journal as the feedback mechanism.
 - [[sources/trading-in-the-zone]] — 20-trade sample vs last-trade verdict; probabilistic process review
