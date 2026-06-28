@@ -81,6 +81,14 @@ Without it, you cannot do leak-finding: identifying which parts of your process 
 
 [[entities/Daniel-Levitin|Daniel Levitin]] extends premortem thinking to personal decisions: ask for [[concepts/number-needed-to-treat|NNT]] and side-effect rates while calm, not in the doctor's office under [[concepts/stress-impairs-judgment|cortisol]]. Sound process means preparing the reasoning chain before the outcome-relevant moment.
 
+## Regret as Process (Stevenson)
+
+[[entities/Howard-Stevenson]] extends this logic from investing into life decisions. His rule: **"Don't cheat at solitaire."** Regrets come from kidding yourself — not from bad outcomes. If you acted honestly on the best available information, things going wrong gives you nothing to regret, because the process was sound.
+
+The failure mode he identifies: people confuse bad outcomes with bad decisions, and confuse the *price of a path* with the *wrongness of a choice*. He left Baupost Group; the person who replaced him ended up on the Forbes list. He winces (see [[concepts/wince-factor]]). He does not regret — because the decision was honest and the trade-off was conscious.
+
+He also makes the forward-looking version explicit: life decisions are bets. Three states of nature: you won, you lost, or you still don't know. Many people who have clearly lost refuse to admit it — they keep reframing ("the world is changing, I'll make it up next time"). Being explicit about which state you're in is the precondition for learning from the outcome and redirecting.
+
 ## Sources
 
 - [[sources/fooled-by-randomness]] — Primary source for alternative histories and luck disguised as skill.

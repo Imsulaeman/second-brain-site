@@ -96,6 +96,8 @@ The prescription: think in probabilities not outcomes, judge edge over large sam
 - [[concepts/expectancy]] — dedicated concept page
 - [[concepts/risk-of-ruin]] — dedicated concept page
 - [[concepts/gamblers-fallacy]] — dedicated concept page
+- [[concepts/loss-asymmetry]] — why large losses are arithmetically harder to recover than they appear
+- [[concepts/variance-in-trading]] — why short-term results don't validate or invalidate a system
 - [[concepts/position-sizing]] — the lever that controls risk of ruin
 - [[concepts/probabilistic-trading-mindset]] — Douglas's parallel teaching from a belief/psychology angle
 - [[concepts/trading-edge]] — edge is the precondition; expectancy is how you measure it
@@ -104,4 +106,4 @@ The prescription: think in probabilities not outcomes, judge edge over large sam
 
 ## Sources
 
-- [[sources/the-math-of-winning-in-trading]] (this page)
+- Raw: Mulham Trading YouTube video (~14 min)

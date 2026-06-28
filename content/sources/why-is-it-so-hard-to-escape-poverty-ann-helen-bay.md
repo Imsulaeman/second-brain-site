@@ -31,5 +31,6 @@ This is not a failure of willpower or character. It is an incentive structure th
 ## Connections
 
 - [[concepts/welfare-trap]] — the central mechanism examined
+- [[concepts/poverty-trap]] — the broader structural condition of which the welfare trap is one variant
 - [[concepts/incentive-superpower]] — welfare trap is a perverse incentive; the same logic that explains how incentives shape behaviour explains why the cliff creates a trap
 - [[concepts/rational-actor]] — the standard economic assumption that underlies why the trap works

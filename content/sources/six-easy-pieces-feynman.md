@@ -33,6 +33,27 @@ Feynman is allergic to false clarity. He does not simplify by removing the hard 
 
 The book is also structured around deep mystery, not mastery. Every chapter ends with something we do not know: we don't know what energy is, we don't know why gravity has no mechanism, we don't know why quantum behavior works the way it does. The message is not that physics is incomplete but that its power comes from being honest about the boundary.
 
+## Connections
+
+- [[entities/Richard-Feynman]] — author; Caltech professor, Nobel laureate
+- [[concepts/atomic-hypothesis]] — the single most information-dense sentence in science; opening chapter
+- [[concepts/experiment-as-sole-judge]] — Feynman's core methodological commitment
+- [[concepts/four-fundamental-forces]] — strong, EM, weak, gravity; magnitudes and relationships
+- [[concepts/uncertainty-principle]] — Δx · Δp ≥ ℏ/2; fundamental limit on simultaneous measurement
+- [[concepts/enzyme-catalysis]] — biology is applied chemistry: enzymes lower activation energy
+- [[concepts/dna-double-helix]] — base-pair complementarity; reproduction by strand separation
+- [[concepts/stellar-nucleosynthesis]] — how elements heavier than hydrogen form in stars
+- [[concepts/conservation-of-energy]] — the number that never changes; six paired laws and Noether's theorem
+- [[concepts/e-equals-mc-squared]] — energy-mass equivalence; derived from symmetry
+- [[concepts/keplers-laws]] — empirical planetary motion; the data Newton synthesized
+- [[concepts/galilean-inertia]] — objects continue in motion without force; foundation of Newtonian mechanics
+- [[concepts/equivalence-principle]] — gravitational and inertial mass are identical to 1 part in 10⁹
+- [[concepts/general-relativity-gravity]] — gravity bends light because energy has mass; cannot propagate faster than light
+- [[concepts/wave-particle-duality]] — electrons arrive in lumps but distribute like waves
+- [[concepts/double-slit-experiment]] — the only mystery at the heart of quantum mechanics
+- [[concepts/observation-destroys-interference]] — watching which slit collapses the wave pattern
+- [[concepts/probability-amplitudes]] — complex numbers whose squared modulus gives probability
+
 ## Sources
 
 - Raw: `Six Easy Pieces_ Essentials of Physics Explained by Its Most Brilliant Teacher (2011, Basic Books)`

@@ -39,6 +39,9 @@ The structural insight of the talk is behavioral: Kaye made a specific, calendar
 
 The pandemic version — dressing up at home even during lockdown — extended the practice into self-care: clothes we wear affect mood and productivity even without an audience.
 
-## Sources
+## Connections
 
-- [[sources/is-the-cure-for-loneliness-hiding-in-your-closet]]  ← this page
+- [[concepts/loneliness]] — the epidemic this talk addresses
+- [[concepts/visibility-paradox]] — the core tension: terrified to be noticed, dying to be seen
+- [[concepts/hello-zone]] — the practical tool Kaye introduces
+- [[concepts/weak-ties]] — the sociological research base for why stranger interactions matter

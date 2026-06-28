@@ -29,8 +29,17 @@ Van Gogh, Gauguin, and Frances Hesselbein are extreme cases of match-quality opt
 
 [[entities/Ashley-Rizzotto|Ashley Rizzotto]]'s [[concepts/alignment-through-research|alignment through research]] is match quality applied at interview time: compare non-negotiables and strengths against the posting, advocate or walk away. Her ten-month burnout after a "perfect" interview is what bad match quality looks like when you tell employers what they want to hear.
 
+## Culture as Load-Bearing Environment
+
+[[entities/Howard-Stevenson]] adds a dimension that Malamud's economic framing underweights: some places are not just a bad fit — they are actively toxic, making even good performance impossible. He spent 43 years at HBS because it gave him "freedom to do what I wanted to do, insight and access." His explicit counterfactual: "There are a lot of places that I think I would have failed."
+
+The culture question he asks: *Am I in the right place?* Not just whether the work fits your abilities and interests, but whether the environment enables or suppresses the person you're trying to be across all four dimensions of success (see [[concepts/four-dimensions-of-success]]). Wrong culture can suppress significance and happiness even when achievement metrics are fine.
+
+He also names the **intergenerational match problem** — "rice paddies to rice paddies, clogs to clogs, bogs to bogs." Successful parents often exhibit "fire the bullet, draw the circle" thinking: define success by what you did, expect your children to replicate the path. The problem: the context that made your path work doesn't replicate. The hedge fund world you entered in 1975 had 200 funds; now there are 2,600 starting and 2,500 closing each year. Replication of path is not replication of outcome.
+
 ## Sources
 
 - [[sources/range-why-generalists-triumph]]
 - [[sources/mastering-the-art-of-the-interview-ashley-rizzotto]]
 - [[sources/who-are-you-really-brian-little]]
+- [[sources/building-a-life-howard-stevenson]]

@@ -48,6 +48,8 @@ The most useful reframe in the talk. Recovery isn't passive ("time heals") but a
 
 Heartbreak measurably lowers performance on complex tasks involving logic and reasoning — a temporary but real IQ hit. This explains why heartbroken people often can't do their jobs properly, and why they shouldn't trust the mind's conclusions during that period.
 
-## Sources
+## Connections
 
-- [[sources/how-to-fix-a-broken-heart-guy-winch]] ← this page
+- [[concepts/heartbreak]] — the central phenomenon, framed as addiction
+- [[concepts/void-inventory]] — the structural approach to identifying all losses, not just the romantic one
+- [[entities/Guy-Winch]] — author and psychologist

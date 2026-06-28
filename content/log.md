@@ -1,3 +1,17 @@
+## [2026-06-28] ingest | Building a Life — Howard H. Stevenson
+- Teachable units: four dimensions of success (Achievement/Significance/Happiness/Legacy), success as juggling (rubber vs glass balls, falling ball), sense of enough (dimensionality + time frame), spiral of life, wince factor (vs regret), personal board of directors, inflection points as gifts, live life forward, sequential success fallacy, three great fears, positive vs negative drivers, happiness = me/now vs legacy = others/future, regret as process (don't cheat at solitaire), explicit about the bets, social comparison trap in achievement, follow your passion critique, start at the end (obituary test), juice worth the squeeze, ripple not splash
+- Pages created: sources/building-a-life-howard-stevenson, entities/Howard-Stevenson, concepts/four-dimensions-of-success, concepts/success-as-juggling, concepts/sense-of-enough, concepts/spiral-of-life, concepts/wince-factor, concepts/personal-board-of-directors, concepts/inflection-points, concepts/live-life-forward
+- Pages updated: concepts/happiness-as-skill, concepts/match-quality, concepts/decision-quality-vs-outcome, wiki/index.md
+- Status: full
+
+## [2026-06-28] audit | Pass 1 + Pass 2 — 667 pages
+- 2 broken links fixed (activation-energy, rational-actor pages created)
+- 5 orphan pages resolved via backlinks
+- 1 source island fixed (six-easy-pieces-feynman: 18 concept links added)
+- 2 self-referencing Sources sections fixed
+- lint-wiki.js weak-tag false-positive fixed (weak-ties substring match)
+- Pages created: 2, pages updated: 7
+
 ## [2026-06-26T19:38:12+07:00] gate | Game Theory 1: The Dating Game — re-verification
 - Mechanical gate: gates/game-theory.txt PASS (563 raw MATCH b3683db tree; raw immutability confirmed)
 - MCP gate: gates/game-theory-mcp.txt (game-theory cluster confirmed)
