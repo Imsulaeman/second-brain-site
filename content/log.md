@@ -1,3 +1,11 @@
+## [2026-06-29] reingest | Reading list cluster — genuine concept extraction pass
+- Identified that original Pass 1 ingest produced rewrites/reorganizations, not genuine atomic concepts; Elephant in the Brain was the exception
+- Created: making-success-inevitable, directly-responsible-individual, direction-over-magnitude, taste-as-predictive-models, moat-of-low-status
+- Rewrote: impact-agency-and-taste (was 11-line stub), do-things-that-dont-scale (missing Fragile/Fire/Vector/Information sections), keep-your-identity-small (missing mechanism + participants-not-topic insight)
+- Updated: relentlessly-resourceful (added running back metaphor — core mechanism was missing)
+- Verified as already good: be-impatient, humans-are-not-automatically-strategic, learning-by-writing, categories-of-technical-leadership, bottom-up-research, accountability-sinks, disagreement-hierarchy, tips-for-empirical-alignment-research, shut-up-and-do-the-impossible, forward-chaining-vs-backchaining, energy-management, role-discovery
+- Updated wiki/index.md with all 17 missing concept entries from reading list cluster
+
 ## [2026-06-29] audit | Pass 1 + Pass 2 — reading list cluster + Elephant in the Brain
 - Pass 1 (lint): 18 pages missing `## Sources` heading (all from this session); 1 page with injected boilerplate (delta-vs-level)
 - Fixed all 18 via batch script; removed boilerplate from delta-vs-level and cleared weak tag

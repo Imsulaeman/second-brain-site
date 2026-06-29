@@ -11,7 +11,7 @@ sources: 2
 
 The distilled quality of a good startup founder: not merely relentless, but resourceful in the face of novel obstacles.
 
-In interesting domains you don’t know whether the next obstacle is foam or granite. Pure determination fails; you must keep trying new things.
+The best analogy is a running back: not merely determined, but flexible — they want to get downfield, but they adapt their plans on the fly. Pure relentlessness fails because in interesting domains you don’t know whether the next obstacle is foam or granite. You can’t simply plow through; you have to keep trying new things.
 
 ## Key Distinctions
 
