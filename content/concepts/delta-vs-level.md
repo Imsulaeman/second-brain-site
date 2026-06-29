@@ -1,7 +1,7 @@
 ---
 title: "Delta vs. Level"
 type: concept
-tags: [career, ambition, inequality, compounding, weak]
+tags: [career, ambition, inequality, compounding]
 created: 2026-06-01
 updated: 2026-06-01
 sources: 1
@@ -45,5 +45,3 @@ That tension often produces either resentment or collapse. The concept offers a 
 ## Sources
 
 - [[sources/proxima-centauri]]
-
-Delta vs level thinking in markets requires both inductive pattern recognition and deductive application of risk frameworks.

@@ -24,6 +24,8 @@ When judging a decision, ask:
 5. Was the process sound even if the result was bad?
 6. Was the result lucky even if the process was weak?
 
+Sound process also includes the concrete behaviors that humans do not apply automatically (see [[concepts/humans-are-not-automatically-strategic]]): stating the goal explicitly, defining what observable success looks like, gathering comparative information from others and from one's own history, systematically testing alternatives (including non-habitual ones), focusing energy on what works, validating that the goal is truly desired, and deliberately engineering environmental and social supports against frustration. The same spirit appears in writing-centered investigation loops that force premature hypotheses, weakness-listing, and focused revision (see [[concepts/learning-by-writing]]).
+
 ## Why It Matters
 
 Outcome bias makes people over-credit winners and over-blame losers. In investing, this can cause managers to abandon good processes after temporary losses, imitate lucky winners, or mistake a single success for skill.

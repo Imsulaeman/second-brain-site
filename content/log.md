@@ -1,3 +1,201 @@
+## [2026-06-29] audit | Pass 1 + Pass 2 — reading list cluster + Elephant in the Brain
+- Pass 1 (lint): 18 pages missing `## Sources` heading (all from this session); 1 page with injected boilerplate (delta-vs-level)
+- Fixed all 18 via batch script; removed boilerplate from delta-vs-level and cleared weak tag
+- Pass 2 (qualitative): 15 pages sampled — all substantive, no new weak flags needed
+- Synthesis scan: no synthesis pages affected by this session's ingests
+- Pages updated: ingest-audit.md, 18 concept pages, concepts/delta-vs-level
+
+## [2026-06-29] ingest (full) | The Elephant in the Brain — Kevin Simler & Robin Hanson
+- Teachable units: hidden motives (elephant thesis), strategic self-deception (Trivers + left-brain interpreter), social brain hypothesis (Machiavellian Intelligence), costly signaling (Arabian babbler + peacock tail), conspicuous consumption (Veblen extended), signaling theory of education (Caplan), conspicuous caring (medicine + charity), competitive altruism
+- Source upgraded from 20-line stub to full 130-line summary covering all 16 chapters
+- 10 images extracted from epub to raw/assets/
+- Pages created: concepts/hidden-motives, strategic-self-deception, social-brain-hypothesis, costly-signaling, conspicuous-consumption, signaling-theory-of-education, conspicuous-caring, competitive-altruism; entities/Kevin-Simler, Robin-Hanson
+- Pages updated: sources/the-elephant-in-the-brain (upgraded), wiki/index.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] entity | Ben Kuhn, Greg Brockman, Ethan Perez, Eliezer Yudkowsky, Anna Salamon, Holden Karnofsky
+- Created 6 missing entity pages for recurring reading list authors
+- Pages created: entities/Ben-Kuhn, Greg-Brockman, Ethan-Perez, Eliezer-Yudkowsky, Anna-Salamon, Holden-Karnofsky
+- Pages updated: wiki/index.md
+
+## [2026-06-29] entity | Paul Graham
+- Created missing entity page; appears as author across 6 ingested sources
+- Pages created: entities/Paul-Graham
+- Pages updated: wiki/index.md
+
+## [2026-06-29] ingest (concept repair) | The Age of the Essay — Paul Graham
+- Missing concept extraction identified in quality audit; source page existed but linked only to [[concepts/polymath]] (wrong)
+- Pages created: concepts/essay-as-exploration, concepts/meander-principle, concepts/surprise-as-epistemic-target
+- Pages updated: sources/the-age-of-the-essay-paul-graham (fixed Related links), wiki/index.md
+
+## [2026-06-29] ingest (full) | Against Almost Every Theory of Impact of Interpretability + Ngo comment
+- Teachable units: original post = whack-a-mole critique of interpretability theories of impact (domain-specific); Ngo comment = winning whack-a-mole doesn't discredit forward-chaining approaches; excessive backchaining bias in alignment; electricity/Galileo analogies; forward-chaining justified by feedback+understanding, not pre-specified theory
+- Pages created: sources/against-almost-every-theory-of-impact-of-interpretability (upgraded from stub), concepts/forward-chaining-vs-backchaining
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | #define CTO OpenAI — Greg Brockman
+- Teachable units: find problem > role; social story enabled technical; engineering as research bottleneck (Gym + Universe examples); soft/hard launch date pattern; block time for deep work (one meeting kills half-day); role emerges from what you can uniquely contribute
+- Pages created: sources/define-cto-openai-greg-brockman (upgraded from stub)
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | #define CTO — Greg Brockman
+- Teachable units: CTO role discovery (most are facilitators not chief architects); product vs infrastructure tractability asymmetry; feedback loop problem post-delegation (4 mechanisms); energy management (recharging activities enable high-leverage work); delegation full or none (sparse micromanagement is worst)
+- Pages created: sources/define-cto-greg-brockman (upgraded from stub), concepts/energy-management, concepts/role-discovery
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How I select alignment research projects — Ethan Perez
+- Teachable units: top-down vs bottom-up (and mixing); empirical prototyping before committing; 2-page doc + share early; red flags (loop>1d, fixed cost>1mo, "wouldn't matter even if successful"); switching = know your alternatives; juniors don't split projects; bottom-up underrated in alignment
+- Pages created: sources/how-i-select-alignment-research-projects-ethan-perez (upgraded from stub), concepts/bottom-up-research
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Categories of leadership on technical teams — Ben Kuhn
+- Teachable units: four categories (direction, people management, project management, technical leadership); why split them (unicorn hunt); four real-world split examples (TLM, EM/TL, PM/TL, people-manager/research-lead); best PM ≠ strongest IC; technical leadership requires IC time for feedback loops
+- Pages created: sources/categories-of-leadership-on-technical-teams-ben-kuhn (upgraded from stub), concepts/categories-of-technical-leadership
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How I've run major projects — Ben Kuhn
+- Teachable units: focus (clear schedule + top idea in mind); plan for victory (concrete steps as early-warning system, not optimism); OODA loop (info processing is the bottleneck; track biggest open questions; parallelize uncertainty resolution); overcommunicate (sync > async for common knowledge); break off subprojects (delegate PM not just execution; direction > magnitude); DRI starter kit (working doc, weekly meeting, stack-ranked tasks, Slack norms, broadcast updates, retros)
+- Pages created: sources/how-ive-run-major-projects-ben-kuhn (upgraded from stub), concepts/plan-for-victory, concepts/ooda-loop-for-projects
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] log entry | What We Look for in Founders — Paul Graham
+- Note: source page and concept page (concepts/founder-qualities-paul-graham) were created in prior session but log entry was missing
+- Status: full (pages already created; log entry added retroactively)
+
+## [2026-06-29] log entry | Impact, agency, and taste — Ben Kuhn
+- Note: source page and concept page (concepts/impact-agency-and-taste) were created in prior session but log entry was missing
+- Status: full (pages already created; log entry added retroactively)
+
+## [2026-06-29] ingest (full) | Tips for Empirical Alignment Research — Ethan Perez
+- Teachable units: success criteria (70% get ideas work: impl speed 45% + get to work 25%); drive direction 20%; workflow zero-shot->...->RLHF; practical proxy/data-atlas/kb shortcuts/next expt/log power laws; papers low VoI except exceptions
+- Pages created: sources/tips-for-empirical-alignment-research-ethan-perez, concepts/tips-for-empirical-alignment-research
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | The Age of the Essay - Paul Graham
+- Teachable units: real vs school essays; history from classics; essayer=to try, no thesis advance; meander/river flow interesting; maximum surprise; disobedience/web golden age; observation/pay attention inappropriate
+- Pages created: sources/the-age-of-the-essay-paul-graham
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Against Almost Every Theory of Impact of Interpretability
+- Teachable units: original domain-specific; general principle from Ngo comment (winning whack-a-mole does not discredit forward approaches)
+- Pages created: sources/against-almost-every-theory-of-impact-of-interpretability
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Shut up and do the impossible! — Eliezer Yudkowsky
+- Teachable units: effort levels (tsuyoku naritai, isshokenmei, extraordinary); "shut up and do the impossible" when even that may not be enough; AI-Box example; goal = outcome not effort; fleeing tension by "I tried" or denying data
+- Pages created: sources/shut-up-and-do-the-impossible-eliezer-yudkowsky, concepts/shut-up-and-do-the-impossible
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How to Disagree — Paul Graham
+- Teachable units: DH0-DH6 hierarchy (name-calling, ad hominem, tone, contradiction, counterargument, refutation, central point); pyramid structure; form vs truth; benefits for reading/writing/less meanness
+- Pages created: sources/how-to-disagree-paul-graham, concepts/disagreement-hierarchy
+- Pages updated: wiki/log.md, wiki/ingest-audit.md, wiki/index.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Keep Your Identity Small — Paul Graham
+- Teachable units: identity engagement turns discussions useless (politics/religion/programming); fruitful discussion only when no identity stake; minimize labels ("let as few things into your identity as possible"); scientist as placeholder example
+- Pages created: sources/keep-your-identity-small-paul-graham, concepts/keep-your-identity-small
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How I've run major projects — Ben Kuhn
+- Teachable units: scoping, delegation, communication, tracking, course correction
+- Pages created: sources/how-ive-run-major-projects-ben-kuhn
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Categories of leadership on technical teams — Ben Kuhn
+- Teachable units: modes/roles of leadership; spiky skills contribution
+- Pages created: sources/categories-of-leadership-on-technical-teams-ben-kuhn
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Tips for Empirical Alignment Research — Ethan Perez
+- Teachable units: success criteria (70% get ideas work quick etc.); workflow; practical tips; papers low VoI
+- Pages created: sources/tips-for-empirical-alignment-research-ethan-perez, concepts/tips-for-empirical-alignment-research
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How I select alignment research projects — Ethan Perez with Mikita Balesni and Henry Sleight
+- Teachable units: project selection framework; generalizes
+- Pages created: sources/how-i-select-alignment-research-projects-ethan-perez
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | #define CTO OpenAI — Greg Brockman
+- Teachable units: role evolution at OpenAI; spiky skills
+- Pages created: sources/define-cto-openai-greg-brockman
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | #define CTO — Greg Brockman
+- Teachable units: defining CTO role spiky; iterative scope
+- Pages created: sources/define-cto-greg-brockman
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Accountability Sinks — Martin Sustrik
+- Teachable units: processes that diffuse responsibility so no one can stop or be blamed for bad outcomes; front-line "formally correct"; examples (squirrels, airline, credit names)
+- Pages created: sources/accountability-sinks-martin-sustrik, concepts/accountability-sinks
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | How to be more agentic — Cate Hall
+- Teachable units: agency as learnable skill; court rejection; real anonymous feedback; surface area for luck; assume learnable; moat of low status; don't grind to burnout
+- Pages created: sources/how-to-be-more-agentic-cate-hall, concepts/how-to-be-more-agentic
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Do Things that Don't Scale — Paul Graham
+- Teachable units: manual user recruitment + compound growth; early fragility; delight with incomplete product; Collison installation, Airbnb manual, Wufoo notes, "insanely great" experience
+- Pages created: sources/do-things-that-dont-scale-paul-graham, concepts/do-things-that-dont-scale
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Relentlessly Resourceful — Paul Graham
+- Teachable units: relentlessly resourceful (vs hapless, vs pure relentless); novel obstacles require new attempts; teachability especially for young; upper bound on founders pool; self/cofounder test; tactical reminder
+- Pages created: sources/relentlessly-resourceful-paul-graham, concepts/relentlessly-resourceful
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Be impatient — Ben Kuhn
+- Teachable units: calendar-time optimization as productive impatience; email/startup/perf/tooling/typing/hiring evidence; good vs bad distinction; speed changes behavior and strategy
+- Pages created: sources/be-impatient-ben-kuhn, concepts/be-impatient
+- Pages updated: wiki/log.md, wiki/ingest-audit.md
+- Status: full
+- Raw 88 lines → detailed source (45+) + concept after gate
+
+## [2026-06-29] ingest (full) | Learning By Writing — Holden Karnofsky
+- Teachable units: writing-first learning loop; always-have-a-hypothesis discipline; 8-step write-critique-revise cycle; premature bold hypotheses; subquestion selection; active side flipping; focused vs exhaustive reading
+- Pages created: sources/learning-by-writing-holden-karnofsky, concepts/learning-by-writing
+- Pages updated: concepts/decision-quality-vs-outcome, wiki/index.md, wiki/log.md, wiki/ingest-audit.md
+- Status: full
+
+## [2026-06-29] ingest (full) | Humans are not automatically strategic — Anna Salamon
+- Teachable units: default ineffectiveness of goal pursuit; weak goal representations; explicit 8 non-automatic strategic heuristics (a-h); verbal vs automatic systems gap; training not automatic; concrete unstrategic examples in smart people; strategic capacity as part of rationality
+- Pages created: sources/humans-are-not-automatically-strategic-anna-salamon, concepts/humans-are-not-automatically-strategic
+- Pages updated: concepts/decision-quality-vs-outcome, wiki/index.md, wiki/log.md, wiki/ingest-audit.md
+- Status: full
+- Proving pages survived raw-vs-wiki (24 raw lines fully represented in 41-line source + 37-line concept + integration link)
+
+## [2026-06-29] ingest (partial) | A reading list for generalists — Dylan Bowman
+- Source summary created for the organizing document of a high-signal cluster of 18 essays/posts on generalist practice.
+- Added to index and linked from overview (breadth vs depth section).
+- Teachable units identified (see ingest-audit). Most recommended documents have raw files already present but await individual ingest.
+- Status: partial (meta source done; cluster of linked pieces pending one-by-one)
+- Pages created: sources/a-reading-list-for-generalists-dylan-bowman
+- Pages updated: wiki/index.md, wiki/overview.md
+
 ## [2026-06-28] ingest | Building a Life — Howard H. Stevenson
 - Teachable units: four dimensions of success (Achievement/Significance/Happiness/Legacy), success as juggling (rubber vs glass balls, falling ball), sense of enough (dimensionality + time frame), spiral of life, wince factor (vs regret), personal board of directors, inflection points as gifts, live life forward, sequential success fallacy, three great fears, positive vs negative drivers, happiness = me/now vs legacy = others/future, regret as process (don't cheat at solitaire), explicit about the bets, social comparison trap in achievement, follow your passion critique, start at the end (obituary test), juice worth the squeeze, ripple not splash
 - Pages created: sources/building-a-life-howard-stevenson, entities/Howard-Stevenson, concepts/four-dimensions-of-success, concepts/success-as-juggling, concepts/sense-of-enough, concepts/spiral-of-life, concepts/wince-factor, concepts/personal-board-of-directors, concepts/inflection-points, concepts/live-life-forward
