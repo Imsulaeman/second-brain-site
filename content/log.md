@@ -1,3 +1,15 @@
+## [2026-06-29] synthesis | Agency Gap
+- Thesis: among capable people, the primary differentiator is the decision to act without being told — not ability
+- Three mechanisms identified and linked: non-strategic defaults, moat of low status, permission-waiting
+- Key insight: the three mechanisms reinforce each other into a stable equilibrium
+- Pages created: synthesis/agency-gap
+- Pages updated: wiki/index.md
+
+## [2026-06-29] audit | Building a Life — Howard Stevenson — independence check
+- All 8 concept pages verified against independence test: four-dimensions-of-success, success-as-juggling, sense-of-enough, spiral-of-life, wince-factor, personal-board-of-directors, inflection-points, live-life-forward
+- All pass: genuine named concepts, mechanisms, examples, cross-links; linkable from unrelated contexts without source knowledge
+- No repairs needed; no weak flags added
+
 ## [2026-06-29] reingest | Reading list cluster — genuine concept extraction pass
 - Identified that original Pass 1 ingest produced rewrites/reorganizations, not genuine atomic concepts; Elephant in the Brain was the exception
 - Created: making-success-inevitable, directly-responsible-individual, direction-over-magnitude, taste-as-predictive-models, moat-of-low-status
