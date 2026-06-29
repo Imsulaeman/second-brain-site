@@ -79,7 +79,7 @@ Example structure:
 
 "The author's main point seems to be x. As he says:
 
-> <quotation>
+> [quotation]
 
 But this is wrong for the following reasons..."
 
