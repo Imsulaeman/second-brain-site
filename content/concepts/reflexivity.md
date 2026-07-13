@@ -3,8 +3,8 @@ title: "Reflexivity"
 type: concept
 tags: [markets, feedback-loops, narratives, crypto, psychology, soros]
 created: 2026-06-10
-updated: 2026-06-10
-sources: 3
+updated: 2026-07-14
+sources: 4
 ---
 
 # Reflexivity
@@ -50,8 +50,11 @@ In reflexive markets, price leads value rather than tracking it. A trader who ig
 
 The synthesis: in reflexive markets, narrative clarity and price trend are real information about coordination, not noise. But they are information about what participants collectively believe, not about intrinsic value. When a narrative becomes too complex or fragmented to sustain broad belief, the reflexive mechanism can reverse sharply and with little warning.
 
+A compressed, smaller-scale version of the same loop plays out inside bear markets too: see [[concepts/echo-bubble|echo bubble]], GCR's term for a narrative-driven rally that echoes bull-market psychology without the underlying capital inflow of a genuine new cycle.
+
 ## Sources
 
 - [[sources/art-of-trading-with-light-su-zhu-and-hasu]]
 - [[sources/gcr-trade-review]]
 - [[sources/gigantic-rebirth-top-crypto-traders]]
+- [[sources/gcr-tweets-2021-2025]]

@@ -3,8 +3,8 @@ title: "GCR"
 type: entity
 tags: [trading, crypto, contrarianism, ftx, reflexivity, prediction-markets, entity]
 created: 2026-06-11
-updated: 2026-06-11
-sources: 2
+updated: 2026-07-14
+sources: 3
 ---
 
 # GCR
@@ -14,6 +14,8 @@ GCR (pseudonym @GiganticRebirth, personal account @GCRClassic as "GCR, Ezekiel X
 His origin story, revealed in a Jan 2022 disclosure: "My entire net worth was traded up from $1000 [half decade ago]. All through trading, nothing else... came from nothing." He described trading as "the only possible option." Estimates put peak net worth between $400M and $1B.
 
 Before crypto, he exercised predictive skills through political forecasting, sports betting, and research into life extension. These habits transferred directly: he applied the same adversarial probability thinking to crypto prediction markets, geopolitical bets, and trade structuring.
+
+His public voice runs on a set of running bits more than a fixed persona — "goblintown"/"the shadowlands" as his own recurring idiom for capitulation phases and crash bottoms (which he says he coined in a private group chat and later watched go viral independent of him), self-deprecating flexing of PNL screenshots, and a habit of deliberately switching how seriously he trades between market regimes: a heavy hedger through the 2018–2020 bear market via FTX index products, he says he consciously dropped most hedging discipline to "go full Gigantopithecus" during the 2021 bull, then resumed hedging once conditions turned.
 
 ## The Tree of Life: Contrarianism as Method
 
@@ -63,13 +65,16 @@ GCR formed [[entities/RebirthDAO]] in late 2021 as a "decentralized hedge fund" 
 
 ## Political Prediction Markets
 
-GCR's second domain of documented edge. He applied adversarial probability thinking to political outcomes, consistently using prediction market prices rather than media sentiment.
+GCR's second domain of documented edge. He applied adversarial probability thinking to political outcomes, consistently using prediction market prices rather than media sentiment. Origin: "Traded political prediction markets as a full time job for years before getting into crypto" — including building Poisson regression models to predict, on an hourly basis, exactly when and what Donald Trump would tweet, for real money. He has called this his biggest early-career mistake: "Would be a multibillionaire if I hadn't gotten into crypto so late [2018]."
 
 - **Ketanji Brown Jackson (Jan 14, 2022):** Predicted her nomination before announcement via prediction market signal.
 - **Russia/Ukraine (Feb 2022):** Called further encroachment six days before the Feb 24 invasion. Nuanced thesis: Putin's goal was "Belarus South" — install a friendly regime, not permanently occupy Kyiv. "My money is on No." Proved correct when Russia pivoted to Donbas objectives by March. Also noted the irony of prediction market reflexivity: Metaculus odds for "Kyiv falls" went from 70–80% at the height of the offensive to 10% afterward — market belief in the prediction was partly self-fulfilling.
 - **Trading geopolitics:** "Keep a close eye on the movements within these prediction markets, rather than trying to interpret [often misleading] Walter Bloomberg tweets or other clickbait."
-- **Trump 2024:** Acquired TRUMPLOSE tokens OTC, treating Trump as an overwhelming favorite. This position was on FTX at collapse.
+- **Trump 2024 (2021–2024):** "One of my highest conviction trades" — built via large Alameda OTC deals in early-to-mid 2021, priced around 10–12c, with [[entities/Caroline-Ellison|Caroline Ellison]] (not Sam Bankman-Fried) as his direct counterparty. He tracked the position through the entire 2024 Republican primary: called DeSantis's collapse in January 2023 ("Dumbest and smartest people know Trump is going to streamroll RD... Republicans never internalized that DJT lost the 2020 election, for all intents and purposes, he remains the incumbent"), and argued after Trump's 2023 arrest that martyrdom made victory *more* likely, not less ("Maintain > 90% odds he is the Republican nominee"). Trump won the nomination and the 2024 election.
+- **Israeli politics (Nov 2022):** Forecast that Netanyahu would engineer a coalition fracture to distance himself from Itamar Ben-Gvir once politically safe, framed with the same adversarial-incentive logic as his crypto and US-political calls.
 - **French election:** Bet against Le Pen polls-implied outcome; Macron won.
+
+> ⚠️ Correction: this page previously described the Trump 2024 position as "TRUMPLOSE tokens" acquired OTC. GCR's own tweets from the position's construction (2021) and from the week Alameda's balance sheet leaked (Nov 2022) describe it as a bet *for* Trump 2024, not against — corrected above. See [[sources/gcr-tweets-2021-2025]] for the primary-source tweets.
 
 ## Philosophy Distilled
 
@@ -102,13 +107,48 @@ GCR's second domain of documented edge. He applied adversarial probability think
 
 **75% of profits from spot, not perps.** Reflected in the Big Short methodology — heavy spot positioning, perps used primarily for short thesis expression.
 
-## After FTX
+**Winners and losers, not up and down.** "Try to think of your ponzis like prizefighters rather than coins; winners win and losers lose. Men will literally cut their winners and add to their losers rather than go to therapy" — a reframing of loss aversion: the instinct to average down on losers and take profit early on winners is backwards if a token's relative strength is itself informative about its future strength.
 
-FTX's November 2022 collapse cost GCR significantly — Alameda's leaked balance sheet included $7.3M in TRUMPLOSE tokens from the OTC prediction market bet. He stopped posting on @GiganticRebirth, continued sporadically on @GCRClassic.
+**Work hardest when conditions are easiest.** "Take vacations and rejuvenate when the tide comes in; very few animals have unlimited bandwidth, so allocate it wisely. Probably my biggest lesson" — treats attention and effort as a scarce resource to be deployed counter-cyclically to opportunity, not to workload.
 
-He returned in April 2024 to post encouragement during a major sell-off, restating the liquidation-as-wealth-transfer framework. In January 2025, ezekielx.eth claimed a $1.13M CULT airdrop and sold it six weeks later for $647k. On-chain analysts identified two previously unlinked wallets used to trade memecoins anonymously throughout 2023–2024 (RLB, SPX6900, LMEOW) for $1.2M+ — the same retail-catalyst plays he had theorized publicly, executed quietly. LMEOW was seeded by one of his own tweets.
+**A recurring, unprompted philanthropy pattern.** Independent of any single trade, GCR has repeatedly run giveaway threads — $10,000–20,000 at a time — targeted specifically at traders who lost money to exchange exit scams and rug pulls, explicitly distinguishing this from his broader wealth ("excess wealth is about the most unfulfilling thing you could ever obtain in this world, and you should focus on your health and relationships"). He has also publicly confronted paid-signal-group sellers over predatory economics, at one point offering $500,000 to the FTX Foundation if two prominent accounts made their paid content free.
+
+## The FTX Collapse, Week by Week
+
+GCR had been publicly distancing himself from FTX before the collapse: "Never shilled FTX, never had a referral link, called out their predatory tokenomics, rejected all venture, angel deals, and sponsorships from FTX/Alameda." He also says he told followers to pull funds off FTX roughly a week before withdrawals were halted (Nov 4, 2022).
+
+That didn't fully protect him. On Nov 9, 2022, days into the freeze: "I took a nice haircut from money I wasn't able to withdraw; was able to make some of it back longing SOL on ftx and shorting SOL on binance" — using the price dislocation between the frozen exchange and a live one as a hedge, rather than simply absorbing the loss. He explicitly declined to complain publicly given how many others on his timeline "were completely wiped."
+
+Through the collapse week he kept publishing risk-management advice in real time: repeating self-custody warnings, cautioning against shorting "obvious scams that have to go to 0" ("CEL and LUNA liquidated shorters after bankruptcy"), and — when Alameda's leaked balance sheet surfaced his Trump 2024 OTC deal — confirming publicly that Caroline Ellison, not Sam Bankman-Fried, was his actual counterparty on it.
+
+He stopped posting on @GiganticRebirth after the collapse and continued, sporadically, on @GCRClassic.
+
+## Calling the November 2022 Bottom
+
+While the wider market treated November 2022 as the depth of catastrophe, GCR was pivoting bullish. He later dated the call precisely: "the bottom of the last cycle was marked by forced selling from hedge funds" (Mar 2023), and referenced it repeatedly through 2023–2025 as the anchor for a set of long-dated positions:
+
+- **BTC and ETH spot**, accumulated with BTC near $15,700–16,000 and ETH near $1,050. His stated target: "eye on 10k ETH by 2030" — a distinction he was explicit about when people mistook it for a near-term target: "I was very clear my target for 2030, otherwise I wouldn't have tweeted, 'by 2030.'"
+- **Solana at $10.** Confirmed retrospectively in a January 2025 tweet: "it's been 750 days since I tweeted to long Solana at $10 and that BTC had bottomed at 16k; that was the time to full port and take max risk." Solana traded roughly 20–25x higher within two years.
+- A framing distinction he repeated often through early 2023 to stop people from collapsing his timeframes into one binary read: "I continue to hold large positions in spot btc + eth, as I believe we bottomed in November... 90% would be better off as holders. This advice only relevant to degen traders" — long-term conviction and short-term trading were separate questions, not the same bet.
+
+## Echo Bubble (Jan–Mar 2023)
+
+Through Q1 2023, GCR used a specific framework — see [[concepts/echo-bubble|echo bubble]] — to explain the sharp post-bottom rally without abandoning either his multi-year bullishness or his refusal to call new all-time highs: "no chance of new all time highs in 2023, none... remain bullish on the future." He traded the rally actively (rotating through Asia-linked narratives, meme tokens, and airdrop farms) while treating it as structurally distinct from a genuine new bull cycle, drawing the comparison to the 2019 post-2018-bottom rally that preceded [[concepts/reflexivity|DeFi summer]] rather than being it.
+
+One notable real-time call inside this window: during the March 2023 Silicon Valley Bank crisis, when USDC briefly depegged, he told followers to take profit on any USDC bought during the crash at 97 cents rather than hold for a full re-peg: "no point being greedy for another 3%... you're better safe" — and to route any stablecoin holdings toward banks "too big to fail" rather than trust any stablecoin issuer, including USDT.
+
+He also floated a thesis about the next cycle's forced-selling mechanism, generalizing from the 2022 hedge-fund liquidation cascade: "Bottom of next cycle could be marked by capitulation from developing nations" that had taken on BTC exposure at the sovereign level, citing El Salvador as the test case.
+
+## Return in 2024–2025
+
+GCR went largely silent after Q1 2023. He returned in April 2024, during a sell-off, with his most-engaged tweet in the corpus (57,595 likes): restating the liquidation-as-forced-wealth-transfer framework and telling sidelined traders it was a good time to scale into high-conviction positions. He tied that call together with the November 2022 bottom call in a January 2025 retrospective: "it's been 750 days since I tweeted to long Solana at $10 and that BTC had bottomed at 16k... and it's been 250 days since I advocated to scale into high conviction tokens" — both, in his account, correct entry points.
+
+Scattered 2024–2025 activity: a June 2024 exchange with @Tree_of_Alpha comparing the market structure to "late summer 2020 after defi summer imploded... or even shades of summer 2021" while cautioning against over-fitting fractals; a June 2024 reply to Martin Shkreli offering to bet "100 million... if you don't have 100 million, as much as you're willing to bet" (context of the specific wager not fully recoverable from the corpus); and a January 2025 note pushing back on the persistent mythology around his account — fabricated "leaked" Discord/Telegram screenshots and on-chain "leaks," which he says are routinely used by others to pump or dump against his name.
+
+Separately, on-chain analysis (outside GCR's own tweets) ties ezekielx.eth to a $1.13M CULT airdrop claimed and sold six weeks later for $647k in January 2025, and to two previously unlinked wallets that traded memecoins (RLB, SPX6900, LMEOW) for $1.2M+ throughout 2023–2024 — the same retail-catalyst plays he theorized publicly, executed quietly. LMEOW was seeded by one of his own tweets.
 
 ## Sources
 
 - [[sources/gcr-trade-review]]
 - [[sources/gigantic-rebirth-top-crypto-traders]]
+- [[sources/gcr-tweets-2021-2025]]

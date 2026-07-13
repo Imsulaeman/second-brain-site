@@ -1,3 +1,12 @@
+## [2026-07-14] ingest (partial) | GCR Tweet Corpus (2021-2025)
+- Consolidated 4 scattered raw Twitter exports (14.6MB) into raw/GCR-tweets-consolidated.csv (1,965 tweets, 0.64MB), deduped and stripped of a redundant metadata column
+- Read the corpus chronologically; found 2021-2022 mostly redundant with the already-ingested trade-review source, concentrated new depth on the thin 2023-2025 period per user direction and advisor sanity-check on scope
+- Corrected a factual error: GCR's Trump 2024 position was a bet *for* Trump via Alameda OTC (counterparty Caroline Ellison), not "TRUMPLOSE" tokens
+- Major new material: the November 2022 bottom call, the echo bubble framework, FTX collapse week in real time, 2024-2025 return activity
+- Pages created: sources/gcr-tweets-2021-2025, concepts/echo-bubble, entities/Caroline-Ellison
+- Pages updated: entities/GCR (major expansion), concepts/reflexivity, concepts/trading-edge, wiki/index.md
+- Pages created: 3, pages updated: 4
+
 ## [2026-07-14] ingest (full) | Art of Conversation — Vinh Giang
 - Teachable units: PARA framework, 3-2-1 framework, Mastery Cycle, Dunning-Kruger learning curve applied to communication skill, cycle of doom, workplace visibility, communication as learned behavior not fixed identity
 - Skipped the source's sales-pitch back half (Stage Academy pricing/testimonials) as non-teachable

@@ -3,8 +3,8 @@ title: "Trading Edge"
 type: concept
 tags: [trading, investing, edge, markets, risk-premia, supply-demand]
 created: 2026-05-10
-updated: 2026-06-18
-sources: 13
+updated: 2026-07-14
+sources: 14
 ---
 
 # Trading Edge
@@ -74,6 +74,8 @@ The practical implication is that finding edge and maintaining edge are differen
 
 **The operationalize-one-edge principle.** GCR's meta-stance on edge itself: "Advice: find one edge. Just one. Put serious resources into it. Operationalize it. And just hammer it. I've been hammering an edge for 4 years now." This is a resource-allocation claim: shallow coverage of many edges produces less than deep mastery of one. Most traders diversify edges before they have mastered any single one. GCR estimated 30,000 hours of work on his primary edge before others began copying it.
 
+**Reading news-absorption capacity, not the news itself.** GCR's post-2022 edge signal for gauging how much room a rally has left: "how alts react to news, announcements, listings, shills. When a szn is about to rug, traders still long news, but instantly get dumped on." A bullish catalyst that fails to hold gains is information about exhausted demand — see [[concepts/echo-bubble]] for the fuller framework this sits inside.
+
 ## Edge Needs Survival
 
 Even a real edge fails if it is sized badly. A good setup with reckless size, hidden correlation, leverage, or poor liquidity discipline can still end in ruin. That is why trading edge belongs tightly with [[concepts/position-sizing]], [[concepts/liquidity-risk]], and [[concepts/skewness-and-asymmetry]].
@@ -110,3 +112,4 @@ Even a real edge fails if it is sized badly. A good setup with reckless size, hi
 - [[sources/reminiscences-of-a-stock-operator]]
 - [[sources/the-complete-guide-to-trading]] — random walk fork, specialization, retail TA vocabulary
 - [[sources/trading-in-the-zone]] — edge as probability skew; take every signal; casino sample-size logic
+- [[sources/gcr-tweets-2021-2025]] — news-absorption capacity as a rally-exhaustion signal
