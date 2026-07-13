@@ -3,8 +3,8 @@ title: "Reflection and Review"
 type: concept
 tags: [habits, mastery, systems, identity, performance]
 created: 2026-06-13
-updated: 2026-06-13
-sources: 1
+updated: 2026-07-14
+sources: 2
 ---
 
 # Reflection and Review
@@ -73,7 +73,9 @@ Paul Graham: *"Keep your identity small."* The more you let a single belief defi
 - **[[concepts/deliberate-practice]]** — deliberate practice requires feedback; reflection and review is the feedback mechanism for habits operating below the deliberate-practice threshold
 - **[[concepts/identity-based-habits]]** — integrity reports reconnect daily habits to identity; reflection is how identity stays flexible rather than rigid
 - **[[concepts/habit-tracking]]** — tracking provides the data; reflection and review is what you do with it
+- **[[concepts/mastery-cycle]]** — Vinh Giang's "reflect and review" stage names the identical move as its middle step, sandwiched between applying and re-planning; his version is one cycle applied deliberately after every single attempt, closer in cadence to deliberate practice's rep-by-rep feedback than to the annual/biannual review Riley and Clear describe here
 
 ## Sources
 
 - [[sources/atomic-habits]]
+- [[sources/art-of-conversation]] — the Mastery Cycle's "reflect and review" stage, run at per-attempt cadence rather than annual/biannual

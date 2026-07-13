@@ -3,8 +3,8 @@ title: "Identity-Based Habits"
 type: concept
 tags: [habits, identity, behavior-change, self-image]
 created: 2026-05-19
-updated: 2026-06-13
-sources: 1
+updated: 2026-07-14
+sources: 2
 ---
 
 # Identity-Based Habits
@@ -43,14 +43,19 @@ The danger: identity can also lock in bad habits. "I'm bad at math" or "I'm not 
 
 ---
 
+## Unconscious Origins: How the Votes Get Cast Before You're Choosing
+
+[[entities/Vinh-Giang|Vinh Giang]] adds a mechanism this page didn't previously have: identity-based behavior can form *without* a deliberate voting process at all. He argues communication style — voice, accent, pacing — starts as a child's conscious imitation of an admired role model (a parent, a teacher), then repeats for years until it moves from the conscious mind into the subconscious, at which point it stops feeling like a choice and starts feeling like "who I am." The votes were cast the same way Clear describes — repeated small actions accumulating into self-evidence — but the voter wasn't choosing an identity on purpose; they were copying someone they looked up to. Giang's point in [[sources/art-of-conversation|Art of Conversation]] is that this doesn't make the resulting identity any less changeable: because it's a learned pattern of behavior rather than an innate trait, it can be re-voted the same way any habit can, and he demonstrates this by having students shift vocal patterns — rate of speech, volume, warmth — within a single coaching session.
+
 ## Connections
 
 - **[[concepts/specific-knowledge]]** — Naval says to build on what feels like play to you. Identity-based habits operationalize this: if your identity naturally pulls toward a domain, habits in that domain compound faster.
 - **[[concepts/deliberate-practice]]** — identity provides the motivational foundation; deliberate practice provides the method for growth at the edge.
 - **[[concepts/illusions-of-competence]]** — identity can create its own illusion: "I study hard" ≠ effective learning. The votes must be real.
 - **[[concepts/give-fine-reputation]]** — Carnegie's Principle 7 in Part 4 is identity-based behavior change applied externally: assign a person a fine reputation to live up to, and they vote for that identity through their actions. The mechanism is the same voting loop — the difference is who names the identity first.
+- **[[concepts/mastery-cycle]]** — Giang's communication-specific application of applying, reviewing, and re-voting toward a new identity as a communicator.
 
 ## Sources
 
 - [[sources/atomic-habits]]
-Identity-based habits require both inductive recognition of self-image patterns and deductive application of behavior design principles.
+- [[sources/art-of-conversation]] — unconscious imitation as an identity-formation pathway; communication style as a re-votable habit

@@ -33,6 +33,7 @@ Some people combine Situation and Task into **Context**, then Action and Results
 - [[concepts/interview-storytelling]] — STAR is the structural tool inside storytelling
 - [[concepts/present-past-future-introduction]] — different structure for the opening question
 - [[concepts/career-strengths-identification]] — stories should draw from identified strengths and proud accomplishments
+- [[concepts/para-framework]] — a sibling acronym-structure for spoken contributions, close in shape to STAR/CAR (Point/Action/Result mirrors Task or Context/Action/Results) but built for volunteering into a live conversation rather than answering a rehearsed interview prompt
 
 ## Sources
 

@@ -43,6 +43,7 @@ Storytelling works across:
 - [[concepts/present-past-future-introduction]] — story-shaped answer to "tell me about yourself"
 - [[concepts/career-strengths-identification]] — self-research feeds story selection
 - [[concepts/dramatize-your-ideas]] — Carnegie's parallel: make ideas vivid through narrative
+- [[sources/art-of-conversation]] — Vinh Giang makes the mechanism explicit: specific, concrete details (a product, a dollar figure, a container) are what make a story retrievable from memory later, which is why stories create more felt connection than adjectives ever could
 
 ## Sources
 

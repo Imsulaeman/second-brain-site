@@ -3,8 +3,8 @@ title: "Deliberate Practice"
 type: concept
 tags: [learning, skill-development, training, expertise]
 created: 2026-05-02
-updated: 2026-06-18
-sources: 6
+updated: 2026-07-14
+sources: 7
 ---
 
 # Deliberate Practice
@@ -43,6 +43,10 @@ Deliberate practice handles *acquisition* of new skills; [[concepts/spaced-repet
 
 In schooling, students are grouped by age and paced to the group median. In talent development, each student works at their individual frontier with mastery requirements before advancing. Deliberate practice is native to talent development — it requires individualized calibration, which schooling rarely provides.
 
+## A Named Version for Communication
+
+[[entities/Vinh-Giang|Vinh Giang]]'s [[concepts/mastery-cycle|Mastery Cycle]] (try and apply → reflect and review → plan and improve) is the same attempt-feedback-adjustment loop, packaged as three memorable stages and pointed specifically at spoken communication. His framing adds one piece of motivational scaffolding this page doesn't otherwise emphasize: the loop is explicitly sold as the exit from a bad state (the [[concepts/dunning-kruger-learning-curve|Valley of Despair]]) rather than just as the mechanism of improvement — useful for a learner who needs a reason to start the loop, not just a description of how it works once started.
+
 ## Sources
 
 - [[sources/advice-on-upskilling]] — Ch 4 (The Grind), Ch 9 (Learning), Ch 10 (Expertise); extensively throughout
@@ -52,3 +56,4 @@ In schooling, students are grouped by age and paced to the group median. In tale
 - [[sources/poor-charlies-almanack]] — Munger frames continuous learning as a moral duty and notes Buffett spends half his waking hours reading. His [[concepts/mental-models-latticework]] requires practicing all useful skills continuously, not just domain-specific ones. His Use-It-or-Lose-It tendency (#19) warns that all skills atrophy with disuse — the antidote is the "aircraft simulator" equivalent: routine practice of rarely-used skills.
 - [[sources/range-why-generalists-triumph]] — deliberate practice is necessary but domain-bound; sampling periods precede elite performance; [[concepts/desirable-difficulties]] often beat comfortable repetition for transfer
 - [[sources/thinking-fast-and-slow]] — when expert intuition is valid vs overconfident; algorithms in low-validity domains
+- [[sources/art-of-conversation]] — the Mastery Cycle, a three-stage relabeling of the same feedback loop aimed at spoken communication

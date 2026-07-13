@@ -1,3 +1,10 @@
+## [2026-07-14] ingest (full) | Art of Conversation — Vinh Giang
+- Teachable units: PARA framework, 3-2-1 framework, Mastery Cycle, Dunning-Kruger learning curve applied to communication skill, cycle of doom, workplace visibility, communication as learned behavior not fixed identity
+- Skipped the source's sales-pitch back half (Stage Academy pricing/testimonials) as non-teachable
+- Pages created: sources/art-of-conversation, entities/Vinh-Giang, concepts/para-framework, concepts/three-two-one-framework, concepts/mastery-cycle, concepts/dunning-kruger-learning-curve, concepts/cycle-of-doom, concepts/workplace-visibility
+- Pages updated: concepts/identity-based-habits, concepts/deliberate-practice, concepts/reflection-and-review, concepts/plateau-of-latent-potential, concepts/illusions-of-competence, concepts/visibility-paradox, concepts/star-method, concepts/hail-framework, concepts/interview-storytelling, wiki/index.md
+- Pages created: 8, pages updated: 10
+
 ## [2026-06-29] synthesis | Agency Gap
 - Thesis: among capable people, the primary differentiator is the decision to act without being told — not ability
 - Three mechanisms identified and linked: non-strategic defaults, moat of low status, permission-waiting

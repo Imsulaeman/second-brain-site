@@ -3,8 +3,8 @@ title: "Plateau of Latent Potential"
 type: concept
 tags: [habits, compounding, patience, perseverance, james-clear]
 created: 2026-05-19
-updated: 2026-06-04
-sources: 1
+updated: 2026-07-14
+sources: 2
 ---
 
 # Plateau of Latent Potential
@@ -21,6 +21,9 @@ The plateau is not a guarantee that every method eventually works. A bad system 
 
 This also connects to [[concepts/growth-mindset|growth mindset]]. The practical question is whether you interpret "not visible yet" as proof of incapacity or as part of the normal lag between process and result.
 
+Worth distinguishing from [[concepts/dunning-kruger-learning-curve|the Dunning-Kruger learning curve]]'s Valley of Despair, a different-looking dip that gets confused with this one. Clear's plateau is about *compounding delay* — a sound method quietly working before its results become visible, with the danger being that you quit a method that would have worked. The Dunning-Kruger valley is about *miscalibrated confidence* — a growing skill gap between knowledge and self-assessed competence, with the danger being that you mistake a normal confidence crash for proof the method has failed. Both look like "nothing is working" from the inside; the fix differs.
+
 ## Sources
 
 - [[sources/atomic-habits]]
+- [[sources/art-of-conversation]] — contrast case for the Dunning-Kruger Valley of Despair, a related but distinct dip

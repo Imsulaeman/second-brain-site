@@ -26,6 +26,7 @@ The inversion: fitting out (being distinctively yourself) carries the risk of no
 - [[concepts/loneliness]] — the visibility paradox explains why attempts to manage loneliness by hiding make it worse
 - [[concepts/hello-zone]] — the practical response to the paradox: a small, specific act of visibility that invites connection without requiring full exposure
 - [[concepts/weak-ties]] — genuine visibility is what makes [[concepts/weak-ties]] possible; invisible people don't get comments on their hat
+- [[concepts/workplace-visibility]] — a different concept that shares the word: this page is about being seen as yourself in relationships; workplace visibility is about being credited for contributions at work
 
 ## Sources
 

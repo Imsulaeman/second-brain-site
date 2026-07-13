@@ -32,6 +32,7 @@ The love pillar overlaps with [[concepts/empathy|empathy]]'s orientation — fee
 - [[concepts/seven-deadly-sins-of-speaking]] — HAIL is the positive frame Treasure offers against the seven sins
 - [[concepts/empathy]] — love-as-wishing-well parallels empathy's anti-judgment stance
 - [[concepts/genuine-interest-in-others]] — authenticity and love both require orienting toward the other person, not just the performance
+- [[concepts/three-two-one-framework]] and [[concepts/para-framework]] — a different kind of acronym-framework for speech: HAIL is a stance to hold before speaking; PARA and 3-2-1 are structures for what to say once you've started
 
 ## Sources
 
