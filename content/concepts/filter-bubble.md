@@ -3,7 +3,7 @@ title: "Filter Bubble"
 type: concept
 tags: [web, media-literacy, algorithms, democracy, information]
 created: 2026-06-08
-updated: 2026-06-09
+updated: 2026-07-14
 sources: 2
 ---
 
@@ -22,6 +22,8 @@ This is why the concept sits naturally beside [[concepts/search-engine|search en
 The filter bubble is not mainly a complaint about comfort. It is a complaint about hidden exclusion. A person may think they are seeing "the internet" when they are actually seeing one highly individualized slice of it. That makes disagreement harder to understand, weakens shared public reality, and can make [[concepts/critical-thinking|critical thinking]] harder because the raw material available for judgment has already been pre-sorted.
 
 It also connects to [[concepts/epistemic-commons]]. If each person receives a different informational world, the commons starts to fragment. Public reasoning becomes more difficult when there is less common ground about what facts, arguments, and events are even visible. In Pariser's framing, this is how the web risks becoming a "web of one" rather than a shared route into the world.
+
+The same narrowing shows up in self-directed learning, not just news consumption: [[concepts/cycle-of-doom|the cycle of doom]] is the same engagement-optimized curation applied to someone trying to learn a skill from social media — algorithmic randomness serves the next clickable fragment rather than the next thing that would actually build on what came before.
 
 ## Good Personalization vs Bad Personalization
 

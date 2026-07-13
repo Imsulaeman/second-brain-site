@@ -17,7 +17,7 @@ Something triggers the desire to learn (a job interview, a wedding speech, a bad
 
 Two structural features keep the loop closed:
 
-- **Algorithmic randomness.** Social media platforms optimize for engagement, not for a coherent learning sequence, so each session serves unrelated fragments rather than building on the last one. A random learning journey arrives at a random destination.
+- **Algorithmic randomness.** Social media platforms optimize for engagement, not for a coherent learning sequence, so each session serves unrelated fragments rather than building on the last one. A random learning journey arrives at a random destination — the same [[concepts/filter-bubble|algorithmic curation]] that narrows a person's information diet toward what's agreeable also narrows their learning diet toward what's engaging, at the expense of what's sequential or foundational.
 - **Consumption without application.** Watching a video about dollar-cost averaging and thinking "I'll apply that" while saving it "for later" produces the dopamine hit of having learned something, without the second step — actually doing it — ever happening. Repeated across many topics, this produces what Giang, borrowing the clinical term, calls learned hopelessness: a felt sense of "I've tried for years and it doesn't work," when what actually happened is that nothing was ever structured or applied.
 
 ## The Way Out
@@ -29,6 +29,7 @@ The loop breaks only at the application step — Giang's [[concepts/mastery-cycl
 - [[concepts/dunning-kruger-learning-curve]] — the cycle of doom is Giang's mechanism for why people stay stuck in the Valley of Despair rather than climbing out
 - [[concepts/mastery-cycle]] — the antidote: applying immediately instead of continuing to consume
 - [[concepts/illusions-of-competence]] — a related but distinct trap: illusions of competence is about mistaking *familiarity* for *knowing*, where the cycle of doom is about mistaking *consumption* for *doing*. Both describe a gap between feeling productive and actually building skill, at different stages of the learning process.
+- [[concepts/filter-bubble]] — the same algorithmic-curation mechanism, applied to learning rather than news and opinion; both describe a system optimized for engagement quietly substituting for one optimized for the user's actual goal
 
 ## Sources
 

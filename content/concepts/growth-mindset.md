@@ -3,7 +3,7 @@ title: "Growth Mindset"
 type: concept
 tags: [learning, education, mindset, resilience, improvement]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-07-14
 sources: 6
 ---
 
@@ -30,6 +30,8 @@ The praise studies add a second example. Children praised for being smart became
 ## Why It Matters
 
 Growth mindset is not the same as empty encouragement. Its force comes from changing the meaning of effort and difficulty. That is why it belongs close to [[concepts/deliberate-practice|deliberate practice]], where learning happens at the edge of ability, and to [[concepts/plateau-of-latent-potential|plateau of latent potential]], where effort often arrives before visible payoff. It also overlaps with [[concepts/kaizen|kaizen]] because both reject the idea that improvement is a one-time event or a gift some people simply possess.
+
+[[concepts/identity-based-habits|Identity-based habits]] adds a mechanism for why a trait can feel especially fixed: if it was absorbed unconsciously (a communication style copied from an admired role model as a child, for instance) rather than deliberately chosen, it never registered as a decision in the first place — making it feel less like a belief to revise and more like a fact about the self. The growth-mindset move is the same either way: notice that "this is fixed" is itself a story, not a discovery.
 
 Briceno broadens the point beyond school. The same belief structure affects work, negotiation, relationships, and other performance domains because it changes whether feedback feels useful or threatening. In that sense, growth mindset acts less like a study trick and more like a general orientation toward self-development. [[entities/angela-duckworth|Angela Duckworth]] adds that this same orientation may be one of the strongest candidates for building [[concepts/grit|grit]], because people persevere longer when they do not treat failure as permanent.
 

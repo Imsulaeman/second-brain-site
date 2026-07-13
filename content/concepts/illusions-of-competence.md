@@ -49,6 +49,10 @@ The fix is cheap and simple: **close the book, try to recall, check yourself.** 
 
 [[entities/charles-munger|Munger]] extends illusions of competence beyond students to experts and professionals with his [[concepts/planck-vs-chauffeur-knowledge]] distinction. Chauffeur knowledge — the ability to prattle convincingly without real understanding — is the expert-level illusion of competence. Munger says this describes "practically every politician." His [[concepts/psychology-of-human-misjudgment|25 tendencies]] identify the psychological mechanisms: Excessive Self-Regard (Tendency #12) overvalues your own conclusions, and Overoptimism (Tendency #13) makes you believe you know more than you do. The antidote is the same at every level: test yourself honestly ([[concepts/iron-prescription]]).
 
+## Where This Sits on the Learning Curve
+
+[[concepts/dunning-kruger-learning-curve|Dunning-Kruger's learning curve]] names where illusions of competence are most dangerous: the Peak of Mount Stupid, early in a learning journey, when the little knowledge gained so far is enough to produce unearned confidence but not enough to reveal how much is still unknown. The illusion doesn't stay constant — it inflates fastest exactly when actual competence is lowest, which is why the crash into the Valley of Despair that follows can feel so sudden even though the underlying knowledge gap had been there all along.
+
 ## A Related Trap One Stage Later: Consumption Without Application
 
 The [[concepts/cycle-of-doom|cycle of doom]] names an adjacent but distinct gap. Illusions of competence is about mistaking *familiarity* for *knowing* — you reread something and feel you've learned it. The cycle of doom, from [[entities/Vinh-Giang|Vinh Giang]]'s framing, is about mistaking *consumption* for *doing* — you correctly know something and even remember it, but never act on it, so the knowledge stays inert. Both produce the same downstream symptom (confident-feeling learning that doesn't translate into capability), but the fix differs: retrieval practice fixes the first, applying the knowledge fixes the second.

@@ -3,7 +3,7 @@ title: "Kaizen"
 type: concept
 tags: [continuous-improvement, lean-manufacturing, problem-solving, toyota, habits]
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-07-14
 sources: 1
 ---
 
@@ -68,6 +68,7 @@ The shared insight: **improvement is a system, not an event**.
 - [[concepts/plateau-of-latent-potential]] — the compounding curve kaizen relies on
 - [[concepts/inversion]] — kaizen tends to ask "how do we do this better?"; inversion asks "how would we make this worse?" Both surface improvement targets.
 - [[concepts/iterative-development]] — iterative development applies the same continuous-improvement logic to product design that kaizen applies to manufacturing processes; both treat improvement as a system, not an event
+- [[concepts/mastery-cycle]] — [[entities/Vinh-Giang|Vinh Giang]]'s try-and-apply / reflect-and-review / plan-and-improve loop for spoken communication is PDCA under a different name, aimed at an individual skill rather than a manufacturing process
 
 ## When to Reach for Kaizen
 

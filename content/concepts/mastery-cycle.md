@@ -34,6 +34,8 @@ Each pass fixes exactly one specific, named flaw from the previous pass rather t
 
 The Mastery Cycle is a domain-specific instance of a pattern the wiki already tracks under two other names. [[concepts/deliberate-practice|Deliberate practice]] names the same attempt → feedback → adjustment loop as the general engine of skill acquisition, with an emphasis on working just beyond current ability. [[concepts/reflection-and-review|Reflection and review]] names the periodic-check mechanism that keeps a habit or skill from ossifying once it becomes automatic. Giang's contribution isn't a new mechanism — it's a memorable, three-word-per-stage packaging of the same loop, aimed specifically at spoken communication, and explicitly framed as the antidote to a failure mode (learning without applying) that the other two pages don't name as directly.
 
+A third, non-learning-specific relative: [[concepts/kaizen|kaizen]]'s Plan-Do-Check-Act cycle is the identical shape applied to manufacturing and process improvement rather than personal skill. Try-and-apply maps to Do, reflect-and-review maps to Check, plan-and-improve maps to Act and the next Plan. The convergent structure across trading floors (deliberate practice), personal habits (reflection and review), factories (kaizen), and now spoken communication suggests attempt → feedback → adjustment is closer to a general-purpose learning primitive than a domain-specific technique.
+
 ## Sources
 
 - [[sources/art-of-conversation]]

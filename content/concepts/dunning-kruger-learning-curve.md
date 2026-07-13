@@ -24,6 +24,10 @@ Giang's specific addition to the standard curve is a mechanism for why people do
 
 The way out, in his framing, is the [[concepts/mastery-cycle|Mastery Cycle]] — the discipline of applying what's learned immediately rather than continuing to stockpile more input.
 
+## Relation to Illusions of Competence
+
+[[concepts/illusions-of-competence|Illusions of competence]] names the general gap between feeling like you know something and actually knowing it. This curve places that gap on a timeline: the illusion is worst at the Peak of Mount Stupid, where minimal real knowledge is enough to feel like expertise but not enough to reveal its own limits, and it corrects itself — often painfully — as the Valley of Despair sets in.
+
 ## Distinguishing From the Plateau of Latent Potential
 
 This curve is easy to conflate with James Clear's [[concepts/plateau-of-latent-potential|Plateau of Latent Potential]] ("Valley of Disappointment"), but the two describe different axes of the same general problem — effort not immediately paying off. Clear's plateau is about *compounding delay*: a sound method that is quietly working, with results simply not visible yet, like an ice cube not melting until the temperature crosses a threshold. The risk there is quitting a method that would have worked. Dunning-Kruger's valley is about *miscalibrated confidence*: knowledge and self-assessment moving in opposite directions as competence genuinely grows. The risk there is not quitting too early on a good method — it's mistaking a normal, temporary confidence crash for evidence that you're failing, when it's actually evidence that your self-assessment is finally becoming more accurate.
