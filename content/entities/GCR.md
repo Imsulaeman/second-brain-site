@@ -107,7 +107,7 @@ GCR's second domain of documented edge. He applied adversarial probability think
 
 **75% of profits from spot, not perps.** Reflected in the Big Short methodology — heavy spot positioning, perps used primarily for short thesis expression.
 
-**Winners and losers, not up and down.** "Try to think of your ponzis like prizefighters rather than coins; winners win and losers lose. Men will literally cut their winners and add to their losers rather than go to therapy" — a reframing of loss aversion: the instinct to average down on losers and take profit early on winners is backwards if a token's relative strength is itself informative about its future strength.
+**Winners and losers, not up and down.** "Try to think of your ponzis like prizefighters rather than coins; winners win and losers lose. Men will literally cut their winners and add to their losers rather than go to therapy" — a trading-floor version of the [[concepts/loss-aversion|disposition effect]]: the instinct to average down on losers and take profit early on winners is backwards if a token's relative strength is itself informative about its future strength.
 
 **Work hardest when conditions are easiest.** "Take vacations and rejuvenate when the tide comes in; very few animals have unlimited bandwidth, so allocate it wisely. Probably my biggest lesson" — treats attention and effort as a scarce resource to be deployed counter-cyclically to opportunity, not to workload.
 

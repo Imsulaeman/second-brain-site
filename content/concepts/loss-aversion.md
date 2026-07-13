@@ -3,8 +3,8 @@ title: "Loss Aversion"
 type: concept
 tags: [decision-making, behavioral-economics, psychology, kahneman, trading]
 created: 2026-06-18
-updated: 2026-06-18
-sources: 1
+updated: 2026-07-14
+sources: 2
 ---
 
 Loss aversion: losses hurt more than equivalent gains please. Kahneman and Tversky built it into [[concepts/prospect-theory|prospect theory]] as the steepest part of the value function at the reference point — the asymmetry that makes the S-curve bend more sharply below zero than above.
@@ -22,7 +22,7 @@ Evolutionary logic: organisms that treat threats as more urgent than opportuniti
 - **Risk aversion for gains:** take $900 sure over 90% chance of $1000.
 - **Risk seeking for losses:** gamble to avoid a sure loss rather than accept it.
 - **Endowment effect:** owners demand more to sell than buyers offer to buy — giving up what you have registers as loss.
-- **Disposition effect:** sell winners, hold losers — closing a gain feels good; realizing a loss hurts ([[concepts/mental-accounting]]).
+- **Disposition effect:** sell winners, hold losers — closing a gain feels good; realizing a loss hurts ([[concepts/mental-accounting]]). [[entities/GCR|GCR]] names the same failure from the trading-floor side: "Try to think of your ponzis like prizefighters rather than coins; winners win and losers lose. Men will literally cut their winners and add to their losers rather than go to therapy" — cutting a winner locks in the good feeling early; adding to a loser avoids admitting the loss.
 - **Negotiation friction:** concessions hurt; labor talks anchor on the existing contract.
 - **Sunk costs:** money already spent lives in a closed account; walking away feels like loss even when future-only logic says quit.
 
@@ -46,3 +46,4 @@ Munger's Deprival-Superreaction tendency is loss aversion amplified by social an
 - [[sources/thinking-fast-and-slow]] — prospect theory value function, loss aversion ratio, status quo bias, endowment effect, disposition effect, Rabin proof
 - [[concepts/prospect-theory]] — parent model: reference dependence, diminishing sensitivity, probability weighting
 - [[sources/poor-charlies-almanack]] — Deprival-Superreaction as amplified loss aversion
+- [[sources/gcr-tweets-2021-2025]] — "prizefighters not coins": the disposition effect as a live trading-floor failure mode
