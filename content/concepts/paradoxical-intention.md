@@ -3,7 +3,7 @@ title: "Paradoxical Intention"
 type: concept
 tags: [psychology, psychotherapy, logotherapy, frankl, anxiety, technique, OCD]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-14
 sources: 1
 ---
 
@@ -53,6 +53,7 @@ Paradoxical intention predates modern cognitive-behavioral therapy but overlaps 
 
 - [[concepts/logotherapy]] — the framework within which this technique operates
 - [[concepts/existential-vacuum]] — hyper-intention and hyper-reflection often arise in the context of vacuum; the patient is filling the space with self-monitoring
+- [[synthesis/fgd-prep-for-quiet-speakers]] — applies the technique to public-speaking freeze-up specifically: deliberately intending the awkwardness breaks the anticipation-tension-freeze loop before a high-stakes group discussion
 
 ## Sources
 

@@ -1,3 +1,11 @@
+## [2026-07-14] manual | FGD Prep for Quiet Speakers (personal synthesis)
+- User asked for practical FGD prep help: no speaking practice, rarely speaks Indonesian/English aloud, freezes up (gugup) in practice sessions
+- Diagnosed as two separate problems (no shape for contributions vs. anticipatory-anxiety loop) rather than one "practice more" problem
+- Drew together PARA/3-2-1 (Art of Conversation), paradoxical intention (Man's Search for Meaning), and the FGD scoring criteria (existing ADA prep synthesis) into one practice roadmap
+- Pages created: synthesis/fgd-prep-for-quiet-speakers
+- Pages updated: synthesis/apple-developer-academy-prep-design-and-creativity, concepts/paradoxical-intention, wiki/index.md
+- Pages created: 1, pages updated: 3
+
 ## [2026-07-14] ingest (partial) | GCR Tweet Corpus (2021-2025)
 - Consolidated 4 scattered raw Twitter exports (14.6MB) into raw/GCR-tweets-consolidated.csv (1,965 tweets, 0.64MB), deduped and stripped of a redundant metadata column
 - Read the corpus chronologically; found 2021-2022 mostly redundant with the already-ingested trade-review source, concentrated new depth on the thin 2023-2025 period per user direction and advisor sanity-check on scope

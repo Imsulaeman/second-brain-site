@@ -3,7 +3,7 @@ title: "Apple Developer Academy Prep: Design and Creativity"
 type: synthesis
 tags: [design, creativity, empathy, iteration, apple-developer-academy, ux-design, creative-confidence]
 created: 2026-06-11
-updated: 2026-06-15
+updated: 2026-07-14
 sources: 11
 ---
 
@@ -151,6 +151,7 @@ What the FGD makes clear is that the Academy is not only selecting for people wh
 
 ## Connections
 
+- [[synthesis/fgd-prep-for-quiet-speakers]] — a narrower, practice-oriented companion for candidates whose specific blocker is speaking anxiety and lack of spoken-practice reps rather than the conceptual content of this page
 - [[synthesis/apple-developer-academy-prep-learning-and-thinking]] — the learning and thinking substrate that underlies this section; creative confidence and growth mindset are the same discipline applied to different material
 - [[synthesis/apple-developer-academy-prep-computational-thinking]] — CT is the analytical problem-solving layer; design thinking is the human-centered diagnosis layer; both are needed
 - [[synthesis/diagnosis-before-solution]] — the empathize → define sequence is diagnosis applied to human experience
